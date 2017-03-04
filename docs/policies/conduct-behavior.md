@@ -1,7 +1,7 @@
 
 # Conduct and Behavior
 
-## <a name="toc"></a>Table of Contents 
+## <a name="toc"></a>Table of Contents
 
 * [General Guidelines](#general-guideline) *
 * [Confidentiality](#confident) *
@@ -23,7 +23,7 @@ This paragraph is simply intended to alert employees to the need for discretion 
 [Return to Table of Contents](#toc)
 
 ## <a name="outside-activity"></a>Outside Activities
-You may engage in outside employment or personal educational activities during non-working hours, provided that such activities do not interfere with your full-time employment or constitute a conflict of interest. 
+You may engage in outside employment or personal educational activities during non-working hours, provided that such activities do not interfere with your full-time employment or constitute a conflict of interest.
 
 
 [Return to Table of Contents](#toc)
@@ -38,13 +38,16 @@ CivicActions is dedicated to providing a harassment-free experience for everyone
 Be mindful. Having a diverse team means that we will have different opinions, viewpoints and experiences. This also means that we may not agree on what is humorous, insulting or rude. We all stand to learn from each other and that includes gaining awareness to how others perceive certain communications. We each need to take personal responsibility for the way our communications lands on each other. Participants asked to stop any harassing behavior are expected to comply immediately.
 
 
+We each need to take personal responsibility for the way our communications lands on each other. Participants asked to stop any harassing behavior are expected to comply immediately.
+
+
 We follow the platinum rule at CivicActions. The golden rule is to do to others as you would have them do to you. The platinum rule is to do to others as they would like to have done to them. This requires mindful attention of each person and respect for their culture, background, and vulnerabilities.
 
 
 Be friendly and welcoming. As our team grows, we are more likely to have peers that we don’t directly work with. We all have an opportunity to be friendly in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
 
 
-Be considerate and respectful. We all have a voice and some of us happen to be louder than others. 
+Be considerate and respectful. We all have a voice and some of us happen to be louder than others.
 When in a discussion or sharing a thought, think before you speak, and give others a chance to be heard. When disagreeing about something, focus on resolving issues constructively and ask for help when needed.
 
 
