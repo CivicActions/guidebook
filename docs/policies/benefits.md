@@ -45,7 +45,6 @@ Employees of CivicActions, including part-time employees, who have worked for at
 
 Welcoming a new baby is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption) and acclimate to the new life ahead. Our policy is that expectant mothers can take twelve weeks of maternity leave fully paid after 9 months of employment and expectant fathers can take four weeks of paternity leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant mother or father needs additional leave, we will review requests on a case-by-case basis.
 
-[Return to Table of Contents](#toc)
 
 ## <a name="medical"></a>Medical Insurance
 
