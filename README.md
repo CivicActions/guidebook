@@ -62,13 +62,12 @@ That being said, there are topics in this document that are required by law or a
 * [Trello](docs/how-we-work/tools/trello.md)
 * [Jira](docs/how-we-work/tools/jira.md)
 * [Github](docs/how-we-work/tools/github.md)
-* [Text Editors](docs/how-we-work/tools/text-editors.md)
 * [Resource Guru](docs/how-we-work/tools/resource-guru.md)
 
 #### Engineering
 
 * [Accessibility](docs/engineering/accessibility.md)
-* [Back End Development](docs/engineering/back-end-development.md)
+* [Code Development/Text Editors](docs/engineering/code-development.md)
 * [Development and Hosting Environments](docs/engineering/dev-environments.md)
 * [Drupal Site Building](docs/engineering/drupal-site-building.md)
 * [Engineering Roles](docs/engineering/engineering-roles.md)
