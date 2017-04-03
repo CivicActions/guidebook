@@ -23,6 +23,8 @@ That being said, there are topics in this document that are required by law or a
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
+#### [Welcome to CivicActions](docs/welcome-to-civicactions)
+
 #### About Us
 
 * [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
@@ -48,6 +50,7 @@ That being said, there are topics in this document that are required by law or a
 
 #### How We Work
 
+* [Agile Baseline](docs/how-we-work/agile-baseline)
 * [Bookmarks](docs/how-we-work/bookmarks.md)
 * [Virtual Workplace Basics](docs/how-we-work/virtual-workplace-basics.md)
 * [Common Vocabulary](docs/how-we-work/common-vocab.md)
@@ -55,7 +58,7 @@ That being said, there are topics in this document that are required by law or a
 * [Training Resources](docs/how-we-work/training-resources.md)
 * [Equipment](docs/how-we-work/equipment.md)
 
-##### Tools
+#### Tools
 
 * [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
 * [Harvest](docs/how-we-work/tools/harvest.md)
