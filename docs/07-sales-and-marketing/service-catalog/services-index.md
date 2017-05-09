@@ -8,7 +8,7 @@
 ## Application Migrations
 * Drupal Application Migration
 
-## Design
+## [Design](design-services.md)
 * User Research
 * Content Strategy
 * Information Architecture
@@ -27,8 +27,7 @@
 * Environment Provisioning Systems
 * System Auditing
 
-## Discovery
-* Story Mapping
+## [Discovery](discovery-services.md)
 * Onsite Discovery Workshop
 
 ## Help Desk (Technical Assistance)
