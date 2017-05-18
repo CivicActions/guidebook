@@ -109,4 +109,3 @@ the following opportunities could be considered:
 1. [Kubernetes SIGs](https://github.com/kubernetes/community/blob/master/sig-list.md)
 1. [Kubernetes SIG Governance](https://github.com/kubernetes/community/blob/master/sig-governance.md)
 1. [Kubernetes SIG Creation](https://github.com/kubernetes/community/blob/master/sig-governance.md#sig-creation-procedure)
-
