@@ -26,12 +26,12 @@ offers a logical way to define this information.
 
 Both organizational and project-specific roles are organized by their respective group. 
 
-1. [Sales roles](https://github.com/CivicActions/handbook/blob/master/docs/07-sales-and-marketing/sales-guild.md#roles-and-accountabilities)
-1. [Engineering roles]()
-1. [Delivery roles]()
-1. [Marketing roles]()
-1. [Administrative roles]()
-1. [Management roles]()
+1. [Sales roles](../07-sales-and-marketing/roles-and-accountabilities.md)
+1. [Engineering roles](../05-engineering/roles-and-accountabilities.md)
+1. [Delivery roles](../06-project-management/roles-and-accountabilities.md)
+1. [Marketing roles](../10-marketing/roles-and-accountabilities.md)
+1. [Administrative roles](../08-hr-admin/roles-and-accountabilities.md)
+1. Management roles
 
 ## Tensions
 The concept of a tension initially sounds like conflict, but this is Holacracy terminology that most directly 
@@ -60,12 +60,12 @@ At CivicActions, each group would have their own respective guild (or similar co
 specific guild operations. This affords opportunities to have specific best practices on a group-by-group basis, but
  also the opportunity to allow team members to only join the guild meetings aligned with their interests.
  
-1. [Sales Guild](/docs/07-sales-and-marketing/sales-guild.md) - #sales - Monthly Sales Retrospective - Members: Bill, Adam, Steve, Susie, Gerardo
-1. [Marketing Guild]() - #marketing - Daily Marketing Scrum - Members: Aaron, Luke
-1. [Engineering Guild]() - #engineering - Bi-weekly Engineering Meeting - Members: Owen, Dave, Adam
-1. [Delivery Guild]() - #pm - Weekly PM Meeting - Members: Elizabeth, Alaine
-1. [Administrative Guild]() - #general - As needed - Members: Henry, Judy
-1. [Management Guild]() - private slack channel - Weekly Ops call - Members: Henry, Aaron, Elizabeth, Owen, Bill
+1. [Sales Guild](../07-sales-and-marketing/guild.md) - #sales - Monthly Sales Retrospective - Members: Bill, Adam, Steve, Susie, Gerardo
+1. [Marketing Guild](../10-marketing/guild.md) - #marketing - Daily Marketing Scrum - Members: Aaron, Luke
+1. [Engineering Guild](../05-engineering/guild.md) - #engineering - Bi-weekly Engineering Meeting - Members: Owen, Dave, Adam
+1. [Delivery Guild](../06-project-management/guild.md) - #pm - Weekly PM Meeting - Members: Elizabeth, Alaine
+1. [Administrative Guild](../08-hr-admin/guild.md) - #general - As needed - Members: Henry, Judy
+1. Management Guild - private slack channel - Weekly Ops call - Members: Henry, Aaron, Elizabeth, Owen, Bill
 
 Please note that both meetings and information may be deemed private if sensitive information is raised. This will be 
 managed by the respective guild on a case-by-case basis.

@@ -19,40 +19,36 @@ page.
 ## Organizational Learning
 
 As we work, retrospectives may identify considerations or improvements outside of projects that generally affect how 
-we work. Commonly, this applies to a department, like Delivery, Marketing, Sales, Administrative, or Engineering. 
+we work. Team members may organically come up with ideas that they want to share with CivicActions. We aim to provide 
+a framework for harnessing and discussing their ideas within the organization.
 
-Each group has their own process for reviewing feedback. 
+We have split feedback into groups to afford more focused discussions. Some groups are leveraging Holacracy and Agile 
+Guild concepts as a framework for organizational learning. This is akin to providing an interface for our team members 
+to share thoughts with the broader organization. More details can be found on the 
+[Holacracy](/docs/04-how-we-work/holacracy.md) page. 
 
-Some groups are leveraging Holacracy and Agile Guild concepts as a framework for organizational learning. This is akin 
-to providing an interface for our team members to share thoughts with the broader organization. More details can be 
-found on the [Holacracy](/docs/04-how-we-work/holacracy.md) page.
-
-## Providing Feedback
-
-Each group maintains their own process for soliciting feedback, which is detailed below. Considerations to form a group 
+Each group maintains their own process for soliciting feedback, which is described below. Considerations to form a group 
 can be found [here](/docs/04-how-we-work/holacracy.md).
 
-### Sales
+### Departments
 
-Sales is leveraging [holacracy concepts](/docs/07-sales-and-marketing/sales-guild.md) with a monthly Guild meeting (governance meeting) and a Trello board that serves 
-as a rolling agenda. Any member of the team can join the monthly meeting found on the Sales calendar and populate items 
-within the Trello board.
+All continuous learning practices are maintained department-by-department. Many of the departments are leveraging 
+Holacracy and Guild concepts to collect tensions, review during a governance meeting, and define outcomes.
 
-### Marketing
+More information can be found on each department from the [department listing](../02-about-us/departments.md).
 
-TO DO
+### Services
 
-### Delivery
+Each of our [services](../02-about-us/services) could be candidates for their own guilds. But, as a small team 
+with limited resources, we may not have the broad participation desired for guilds. 
 
-Delivery has a weekly PM meeting and also maintains a "PM Snuggle Struggles" Trello board.
- 
-### Engineering
+As an alternative, services could be affiliated with departmental governance meetings. Tensions can be raised that 
+may relate to a specific services. Collaboration can happen during the meeting and outcomes determined, which may include 
+follow up actions or further discussion pertinent to the service.
 
-Engineering holds a bi-weekly Festivus-style meeting. One part of the meeting is the "airing of grievances" which can 
-serve as a means of discussing potential feedback. Engineering maintains a GitHub repository that stores all agendas for
- these bi-weekly meetings.
- 
-### Management
+### Working Groups
 
-Management holds a weekly ops call for those on the management team. To provide feedback, please use Slack to 
-communicate directly with Elizabeth, Owen, Bill, Aaron, or Henry accordingly.
+CivicActions can create [working groups](../02-about-us/working-groups) that pertain to initiatives or efforts as the 
+need arises. For example, the Documentation Working Group has formed as an effort to capture CivicActions knowledge. 
+Each working group maintains it's own learning process, but often resembles Guilds in that there are periodic meetings 
+and often a Trello board to track and maintain efforts. 

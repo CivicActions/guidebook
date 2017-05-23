@@ -1,21 +1,31 @@
-# The Project Manager Role
+# Delivery Roles and Accountabilities
 
-## <a name="pm-scrummaster"></a>The difference between PM and ScrumMaster roles
+## Organizational Roles
+
+### Director of Professional Services
+
+TODO
+
+
+## Project Roles
+### Project Manager
+
+#### <a name="pm-scrummaster"></a>The difference between PM and ScrumMaster roles
 
 At CivicActions the PM and the ScrumMaster are the same (although it is conceivable that we would ask a non-PM to be a ScrumMaster).
 
 There are aspects of the ScrumMaster role that relieve some traditional PM responsibilities. For example, on a scrum team, the team should be self-managing. Less impetus is put on the PM to manage team members, however we still ask the PM to recognize risk, velocity, and big picture management. The PM also manages budgets, plans for resourcing, and handles top level communications. The PM however is not a gatekeeper and the scrum team has access to all client communications, documents and a direct relationship with the PO.
 
-## <a name="pm-role-scrum"></a>PM role in scrum calls
+#### <a name="pm-role-scrum"></a>PM role in scrum calls
 
-### Primary Responsibilities
+##### Primary Responsibilities
 
 * Scrum notes (taking & sending)
 * Timebox monitoring (15 minute call)
 * Sticking to the scrum process (avoid discussions mid-checkin)
 * Keeping the team on task
 
-### Other tasks
+##### Other tasks
 
 * Getting everyone on the call, pinging them and making sure people are prompt
 * For team members that are consistently late or disruptive - The PM should remind them privately of the processes and expectations
@@ -25,9 +35,9 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Then at the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
 * PM sends out the scrum notes to the client mailing list (using the [scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit).)
 
-## <a name="pm-role-demos"></a>PM role in sprint demos
+#### <a name="pm-role-demos"></a>PM role in sprint demos
 
-### What is a sprint demo?
+##### What is a sprint demo?
 
 * The sprint review & demo will provide an informal once-per-sprint time slot for the team (UX, Design, Dev) to show their work as it stands at the end of sprint.
 * Some of the work demo'd may not be completed, but we will show what we have so far. This is a live demonstration of work (yes, still in progress). It is not a report.
@@ -36,7 +46,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 * * *
 
-### Responsibilities
+##### Responsibilities
 
 * During a sprint demo, the PM's major role is as facilitator.
 * Always give your team preparation time for the demo - they need to remember the tickets they worked on and refresh themselves on what to present.
@@ -49,7 +59,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * The PM should keep track of the timeboxes.
 * The PM should close the demo/review meeting by letting the team know where they can find the notes for their tasks demo'd and what the next steps are for the team and in the sprint.
 
-### Processes suggestions
+##### Processes suggestions
 
 * Timebox the demo to 1.5-2 hours, and divide that time by the number of team members. This is generally the amount of time each person can take to present their work. Remember to leave time for Q&A and the PM intro.
 * The PM should state to the team how much time they each have to present (this can be stated the day before as well as at the beginning of the demo).
@@ -58,9 +68,9 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Questions should be asked after each person demos their work so topics are fresh.
 * Consider recording the meeting/demo.
 
-## <a name="pm-role-retros"></a>PM role in retrospectives
+#### <a name="pm-role-retros"></a>PM role in retrospectives
 
-### Primary Responsibilities
+##### Primary Responsibilities
 
 * Scheduling the retrospective
 * Facilitating the retrospective
@@ -69,7 +79,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Documenting the outcomes and adding the outcomes of the retrospective to the #retrospecting Slack channel
 * Helping the team keep & meet their commitments
 
-### Overview
+##### Overview
 
 * The retrospective meeting happens at the end of every sprint. We will discuss what went well, what could be improved, what we learned, what perplexed us, acknowledge who we're appreciative for, etc.
 * How we structure the retrospectives may vary from sprint to sprint.
@@ -77,22 +87,22 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * The PO may or may not be included in the retrospective, but some of our major take-aways should be shared with them if they do not attend.
 * When a project launches/closes, holding a final overall retrospective should be considered.
 
-### Best Practices
+##### Best Practices
 
 * Have a retrospective EVERY sprint. Even if you keep it short, have the call.
 * Keep track of what the team wants to do differently next time and with the help of the team implement these changes.
 
-### Resources
+##### Resources
 
 * Join the [#retrospecting](https://civicactions.slack.com/messages/retrospecting/) Slack channel:
 * Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
 * Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
-## <a name="pm-role-backlog"></a>PM role in backlog grooming
+#### <a name="pm-role-backlog"></a>PM role in backlog grooming
 
 This meeting helps the team prepare tasks for the next Sprint Planning Meeting. Ideally the whole team partakes, but the Technical Lead, Product Owner, and Project Manager must attend for the meeting to be well balanced and effective.
 
-### Primary Responsibilities
+##### Primary Responsibilities
 
 * Collaborate with the PO prior to the meeting and establish what the meeting should accomplish
 * At the beginning of the meeting, state the goal and timebox (1-2 hours)
@@ -109,7 +119,7 @@ This meeting helps the team prepare tasks for the next Sprint Planning Meeting. 
 
 Here is a helpful video example: <https://youtu.be/b_WeHcZcx1w>
 
-## <a name="pm-role-meetings"></a>PM role in any process or planning meeting
+#### <a name="pm-role-meetings"></a>PM role in any process or planning meeting
 
 Occasionally the development team needs to meet to plan or process things together. Some examples of these types of meetings may be:
 
@@ -135,7 +145,7 @@ During these types of meetings the PM should do the following:
 * Create any tickets or documents necessary (even if it is just a stub ticket or document template)
 * Follow up on the action items the team agreed to & help them stay accountable to their commitments
 
-## <a name="pm-responsibilities"></a>Summary of PM responsibilities
+#### <a name="pm-responsibilities"></a>Summary of PM responsibilities
 
 * Note taking for every meeting
 * Sending notes and deliverables to PO

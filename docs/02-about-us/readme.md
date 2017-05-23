@@ -1,4 +1,6 @@
-# Background / History
+# About CivicActions
+
+## Background / History
 
 CivicActions, Inc. is a professional services firm delivering agile system development lifecycle services with a focus on free & open source software (FOSS). One of the things that makes us unique is our radical openness. Our largest federal clients in 2016 were the Defense Security Cooperation Agency, Department of Education, Federal Communications Commission, and through our partner Acquia, Department of Justice and Department of Treasury. Our largest Non-Profit client was Cal Poly where we re-built the Digital Democracy Platform and their DevOps pipeline.
 
@@ -9,3 +11,11 @@ From the first year of operations, CivicActions was committed to openness - not 
 In 2014, we saw a need to create a central, proactive movement to support public service and industry professionals championing and implementing Agile within the public sector. With leaders in federal, state and local governments, we founded AGL (Agile Government Leadership) and published the Agile Government Handbook. All of the work of AGL is published under public license, where it can be used by government workers, as well as other agile software vendors. This commitment to sharing increased our competencies and our reputation as leaders in agile government delivery.
 
 In early 2016, CivicActions co-founder Aaron Pava was recruited to join the prestigious United States Digital Service team in Washington DC to assist the federal government in transforming procurement practices to enable federal agencies to more easily procure services from small businesses like CivicActions. He returned home (to CivicActions) in November 2016. In late 2016, CivicActions was one of a few vendors pre-qualified to bid on numerous upcoming agile/FOSS procurements for the states of California and Mississippi.
+
+## Contents
+
+* [Mission, Values, and Operating Principles](mission-values-operating-principles.md)
+* [Departments](departments.md)
+* [Organizational Chart](org-chart.md)
+* [Contact Information and Listservs](general-contacts-and-listservs.md)
+* [Elevator Pitch](elevator-pitch.md)
