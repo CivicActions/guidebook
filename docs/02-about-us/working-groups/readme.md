@@ -3,7 +3,5 @@
 CivicActions maintains [a set of working groups](working-groups) that nurture specific 
 initiatives within the organization.
 
-# Group Listing
-
-* [Documentation](documentation.md)
+* [Documentation](../../readme.md)
 * [Labs](labs.md)

@@ -13,7 +13,7 @@ activities.
 Our Scrum teams hold retrospectives to make continuous improvements based on what is learned during projects.
 Projects can iteratively make changes that improve efficiency, operations, and much more. This approach encourages 
 team members to learn, grow, and experiment in ways to more effectively serve our customers without fear of 
-failure. More information is provided on the [retrospectives](https://github.com/CivicActions/handbook/blob/master/docs/04-how-we-work/agile-baseline/02-process/practices/sprint-retrospectives.md) 
+failure. More information is provided on the [retrospectives](agile-baseline/02-process/practices/sprint-retrospectives.md) 
 page. 
 
 ## Organizational Learning

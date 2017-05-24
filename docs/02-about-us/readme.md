@@ -12,10 +12,3 @@ In 2014, we saw a need to create a central, proactive movement to support public
 
 In early 2016, CivicActions co-founder Aaron Pava was recruited to join the prestigious United States Digital Service team in Washington DC to assist the federal government in transforming procurement practices to enable federal agencies to more easily procure services from small businesses like CivicActions. He returned home (to CivicActions) in November 2016. In late 2016, CivicActions was one of a few vendors pre-qualified to bid on numerous upcoming agile/FOSS procurements for the states of California and Mississippi.
 
-## Contents
-
-* [Mission, Values, and Operating Principles](mission-values-operating-principles.md)
-* [Departments](departments.md)
-* [Organizational Chart](org-chart.md)
-* [Contact Information and Listservs](general-contacts-and-listservs.md)
-* [Elevator Pitch](elevator-pitch.md)

@@ -6,24 +6,17 @@ documentation and cross-organization knowledge-sharing efforts.
 
 ## [Engineering](../05-engineering)
 
-Purpose, summary
 
 ## [Delivery](../06-project-management)
 
-Purpose, summary
 
 ## [Sales](../07-sales)
 
-Purpose, summary
 
 ## [Marketing](../10-marketing)
 
-Purpose, summary
 
 ## Management
 
-Purpose, summary
 
 ##[HR/Administrative](../08-hr-admin)
-
-Purpose, summary
