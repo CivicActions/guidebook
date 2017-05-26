@@ -33,19 +33,19 @@ Both organizational and project-specific roles are organized by their respective
 1. [Administrative roles](../08-hr-admin/roles-and-accountabilities.md)
 1. Management roles
 
-## Tensions
-The concept of a tension initially sounds like conflict, but this is Holacracy terminology that most directly 
-relates to ideas or feedback that come from retrospectives. Tensions represent opportunities that stem from the work 
-we do to facilitate discussion on continuous improvement or organizational clarity.
+## Improvements
+Improvements represent opportunities that stem from the work we do to facilitate discussion and next steps toward 
+organizational clarity. In our Agile process, improvements most directly relates to ideas or feedback that come from 
+retrospectives. Holacracy uses the term "tensions" for this concept. We have chosen "improvements".
 
 ## Governance Meetings and Agile Guilds
-Tensions require both a well-defined interface to collect and organize tensions and a forum for discussing next steps. 
+Improvements require both a well-defined interface to collect and organize improvements and a forum for discussing next steps. 
 Holacracy offers the concept of a Governance Meeting to achieve these goals. Since CivicActions is not 
 leveraging the full breadth of Holacracy, we require something that is closer aligned with our current practices.
 
 The concept of an Agile Guild offers similar motivations to that of a Governance Meeting, but offers concepts that 
 more closely align with our Agile teams and feedback that arises from retrospectives. Agile teams (projects, proposals, 
-labs, prodev, etc) generate tensions through actual work. Agile Guilds are orthogonal to this work, as the 
+labs, prodev, etc) generate improvements through actual work. Agile Guilds are orthogonal to this work, as the 
 motivation of a guild is to harness organizational feedback from all of the Agile teams. This concept is represented 
 by the following visual:
 
