@@ -1,22 +1,12 @@
 # Departments
 
-CivicActions has the following departments in our organization. Not all of these areas currently have associated 
-working groups or folders within the handbook, though creating such groups and folders would probably be beneficial for 
-documentation and cross-organization knowledge-sharing efforts.
+Departments help define specific focus areas at CivicActions. Each department maintains their own 
+roles and accountabilities, guilds, and periodic meetings. Some departments sponsor services, which allows for 
+a service to leverage a departmental guild to raise improvements.
 
-## [Engineering](../05-engineering)
-
-
-## [Delivery](../06-project-management)
-
-
-## [Sales](../07-sales)
-
-
-## [Marketing](../10-marketing)
-
-
-## Management
-
-
-##[HR/Administrative](../08-hr-admin)
+1. [Engineering](../05-engineering)
+1. [Delivery](../06-project-management)
+1. [Sales](../07-sales)
+1. [Marketing](../10-marketing)
+1. Management
+1. [HR/Administrative](../08-hr-admin)
