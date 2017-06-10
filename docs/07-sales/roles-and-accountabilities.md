@@ -1,8 +1,21 @@
-# The Sales Proposal Process
+# Sales Roles and Accountabilities
 
-![Sales Proposal Process](/images/Sales_Process__3_22_17___Lucidchart.jpg)
+## Organizational Roles
 
-*[edit / update this file on LucidChart](https://www.lucidchart.com/documents/edit/06f806cb-a2ab-4c24-a85d-4d7b95777dfa#)*
+### VP of Sales
+
+* Reviews prospects
+* Business strategy for business opportunities
+* Reviews GovTribe
+* Attends industry days
+* Meets with prospective clients
+
+### Sales Project Manager
+
+* Organizes standing sales meetings
+* Reviews feedback for sales processes
+* Organizes and maintains outcomes from sales discussions
+
 
 ## Proposal Roles
 

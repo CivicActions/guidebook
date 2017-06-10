@@ -1,4 +1,4 @@
-# Documentation Governance
+# CivicActions Handbook 
 
 The Documentation Working Group expects changes and additions to this handbook to come out of solutions to “struggles” or “tensions” discussed within practice area working groups (such as the PM Group, the Sales Guild, etc).
 
@@ -9,30 +9,34 @@ The Documentation Working Group expects changes and additions to this handbook t
 * Each practice area is encouraged to organize their folder in the handbook according to their needs and priorities.
 * Current documentation reps are asked to attend a brief weekly docs scrum call, currently scheduled for Thursdays at 12:30pm Pacific time.
 
-## Practice Areas
 
-We have identified the following practice areas. Not all of these areas currently have associated working groups or folders within the handbook, though creating such groups and folders would probably be beneficial for documentation and cross-organization knowledge-sharing efforts.
+## About Our Handbook
 
-* Engineering
-  * Front end
-  * DevOps
-  * Backend
-  * Security
-* UX/Design
-* Project Management/Agile
-* Sales/Marketing (could be split into two areas)
-* HR/Admin
+### Our Identity
 
-## Handbook Structure
+Our handbook presents an opportunity to share who we are.  
 
-The handbook currently includes folders for the following areas, which correlate with some of the practice areas listed above (this structure can and probably should be expanded to be inclusive of all practice areas):
+* [About CivicActions](/02-about-us)
+* [Employee Orientation](/01-welcome-to-civicactions)
+* [Policies](/03-policies)
+* [How We Work](/04-how-we-work)
+
+### Departments
+
+We maintain [a list of all departments](/02-about-us/departments.md), each maintains their own directory to help organize and maintain documentation.
 
 * [Engineering](/05-engineering)
-* [Project Management](/06-project-management)
-* [Agile Baseline](/04-how-we-work/agile-baseline)
-* [Sales and Marketing](/07-sales-and-marketing)
+* [Delivery](/06-project-management)
+* [Sales](/07-sales)
+* [Marketing](/10-marketing)
 * [HR/Admin](/08-hr-admin)
-* [Security](09-security)
+
+### Services
+
+We maintain [a list of all services](/02-about-us/service-catalog/readme.md) CivicActions offers. Some services maintain their own set of best practices.
+
+* [Agile Baseline](/04-how-we-work/agile-baseline)
+* [Security](/09-security)
 
 ## Documentation Rep Responsibilities
 
