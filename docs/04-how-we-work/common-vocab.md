@@ -1,6 +1,7 @@
 # CivicActions' Common Vocabulary
 
 ## Definitions
+
 * **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
 * **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
 * **[Agile Manifesto](http://agilemanifesto.org/)**
@@ -25,6 +26,7 @@
 * **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.
 * **Deliverable** - a tangible output, document or piece of work.
 * **DevOps** -
+
   > @todo [Add this content](https://trello.com/c/GSXkqSih)
 
 * **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board). After gathering all items, each group member has a certain number of votes that they can cast. Items are prioritized according to the number of votes.
@@ -42,9 +44,9 @@
 * **Product Backlog** - The known list of the user stories, outcomes, requirements, tasks, bug fixes that remains to be complete for the project. The Product Owner prioritizes the backlog so that the team always works on the most valuable features first. It is ever-changing and growing as business needs change and as new technology becomes available.
 * **Product Owner (PO)** - The Product Owner represents the voice of the stakeholder and holds the vision of the outcomes on their behalf. This person ensures that the Scrum Team works on the features and functions that bring the most value to the organization. The Product Owner owns the Product Backlog and is the subject-matter expert, with comprehensive knowledge about the business value that each part of the product will create for the organization.
 * **Prototype** - A model for the testing of a concept and clarification of objectives, released for review early in the development process. There are several variants of prototyping, which are not necessarily mutually exclusive with most Drupal projects, as some components could be featurized and re-used (evolutionary) and others might be throwaway.
-* Rapid/Throwaway Prototype: creating a working model of various parts of the system at a very early stage, after a relatively short investigation. The method used in building it is usually quite informal, the most important factor being the speed with which the model is provided. The model then becomes the starting point from which users can re-examine their expectations and clarify their requirements. When this has been achieved, the prototype model is 'thrown away', and the system is formally developed based on the identified requirements.
-* Evolutionary Prototype: The main goal when building an Evolutionary Prototype is to build a very robust prototype in a structured manner and constantly refine it. The reason for this is that the Evolutionary prototype, when built, forms the heart of the new system, and the improvements and further requirements will be built.
-* Parallel Prototyping: A product is built as separate prototypes. At the end the separate prototypes are merged in an overall design.
+* **Rapid/Throwaway Prototype**: creating a working model of various parts of the system at a very early stage, after a relatively short investigation. The method used in building it is usually quite informal, the most important factor being the speed with which the model is provided. The model then becomes the starting point from which users can re-examine their expectations and clarify their requirements. When this has been achieved, the prototype model is 'thrown away', and the system is formally developed based on the identified requirements.
+* **Evolutionary Prototype**: The main goal when building an Evolutionary Prototype is to build a very robust prototype in a structured manner and constantly refine it. The reason for this is that the Evolutionary prototype, when built, forms the heart of the new system, and the improvements and further requirements will be built.
+* **Parallel Prototyping**: A product is built as separate prototypes. At the end the separate prototypes are merged in an overall design.
 * **Quality** - Uber-term to describe our commitment to quality in all aspects of our work, from the high standard of the services we provide, the code we write, and the Quality Assurance process, through the communications we have with each other as a team, our interactions with clients and outside vendors and the depth of the relationships we build.
 * **Quality Assurance** - The testing of the work completed against the task requirements to ensure that the goals and expectations of the work delivered meets what was agreed upon, and also to ensure that the system as a whole continues to be working as expected. Testing could include manual and automated testing, utilizing QA engineers, QA software tools and end users.
 * **Red, Blue, Black** - Colors that represent functional areas of the business. Red means administrative. Black means strategic. Blue means revenues (sales, marketing & delivery).
