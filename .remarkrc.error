@@ -29,6 +29,7 @@
       "remark-lint-no-heading-content-indent",
       "remark-lint-no-inline-padding",
       "remark-lint-no-literal-urls",
+      "remark-lint-no-missing-blank-lines",
       "remark-lint-no-multiple-toplevel-headings",
       "remark-lint-no-shortcut-reference-image",
       "remark-lint-no-shortcut-reference-link",
