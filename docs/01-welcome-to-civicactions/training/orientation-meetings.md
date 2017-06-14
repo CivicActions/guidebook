@@ -36,12 +36,12 @@
     * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
-* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#update) on logging time (30 minutes)
-* Review account in [harvest](../../04-how-we-work/tools/harvest.md#update) (15 minutes)
-* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses) (15 minutes)
-* How to log [onboarding time](../../04-how-we-work/tools/harvest.md#time)
-* Logging Meetings as an [Engineer](../../04-how-we-work/tools/harvest.md#time) / [PM](../../04-how-we-work/tools/harvest.md#time)
-* Explanation submission of [hours worked](../../04-how-we-work/tools/harvest.md#timesheet)
+* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md) on logging time (30 minutes)
+* Review account in [harvest](../../04-how-we-work/tools/harvest.md) (15 minutes)
+* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md) (15 minutes)
+* How to log [onboarding time](../../04-how-we-work/tools/harvest.md)
+* Logging Meetings as an [Engineer](../../04-how-we-work/tools/harvest.md) / [PM](../../04-how-we-work/tools/harvest.md#time)
+* Explanation submission of [hours worked](../../04-how-we-work/tools/harvest.md)
 
 ### Communication tools
 * Slack
