@@ -12,13 +12,13 @@ We only recommend this approach for those who are not already familiar with the 
 
 You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)).
 
-Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
+Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
-When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
+When you save it ("make a commit"), fill out three fields. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
 
-* **The commit title**: By default it is something like "Update \[filename\]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
+* **The commit title**: By default commit title something like "Update \[filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
 * **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
-* **The branch name:** By default this will be a new branch, with a name like \[username\]-patch-1.  If you want to change it to something more semantic (eg \[username\]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
+* **The branch name:** By default this will be a new branch, with a name like \[username]-patch-1.  If you want to change it to something more semantic (eg \[username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
 
 After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with a few fields, which you can generally leave as is.
 
@@ -32,15 +32,16 @@ Or, if you want to make other changes on the same branch and have it reviewed at
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
-## The recommended, but more advanced way: fork the handbook
+## The more advanced way: fork the handbook
 
-If you're familiar with the git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
+If you're familiar with the git fork and pull request (PR) workflow, you can fork this repo and make pull requests from your fork. This is a great way to contribute.
 
 The easiest way to get started, if you're not familiar with the command line or an existing git repo management tool, is by installing [Github Desktop](https://desktop.github.com/), and then learning how to keep your fork up to date with the latest, create commits, and submit PRs.
 
 You can use any other number of tools, including text editors (such as [Atom](https://atom.io/)) and the command line, or other GUI tools.
 
 Resources:
+
 * [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 * [Working with Forks](https://help.github.com/articles/working-with-forks/)
 * [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
@@ -69,6 +70,8 @@ Markdown formatting should be compliant with [markdownlint rules](https://github
 We are also using [retext](https://github.com/wooorm/retext/), which will give warnings (but not fail the build) for language that looks possibly incorrect, overly complex or insensitive.
 
 You can see some example output (for our master branch) at <https://travis-ci.org/CivicActions/handbook> - this is where errors will show up if the build for your pull request fails. The left hand column shows the line and the position in that line where the error/warning occurs.
+
+When possible, check your changes in the ReadTheDocs version (http://civicactions-handbook.readthedocs.io/en/latest/) to make sure that formatting works as intended; things like indented lists sometimes don't behave well in that context.
 
 ## Public domain
 
