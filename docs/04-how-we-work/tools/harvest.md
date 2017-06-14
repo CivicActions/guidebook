@@ -4,7 +4,7 @@
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
 
-## Update Your Profile
+## <a name="update">Update Your Profile</a>
 
 Your Harvest login will be your email address: <mailto:first.last@civicactions.com>. Check your email for an invitation!
 Then:
@@ -14,7 +14,7 @@ Then:
 * check to make sure that your time zone is correct
 * if you know which project(s) you'll be working on, make sure that they're correct
 
-## Logging Time
+## <a name="time">Logging Time</a>
 
 * If you're an engineer: CA > Delivery > Engineering
   * Types of meetings: All hands call, Bi-Weekly Engineering Meeting, Pod Calls, Monthly All Hands Call
@@ -30,7 +30,7 @@ Enter a description like the below examples in the task description that include
 * Onboarding watching scrum videos
 * Onboarding resume and bio work
 
-## Submitting Your Timesheet
+## <a name=timesheet">Submitting Your Timesheet</a>
 
 * Go to <https://civicactions.harvestapp.com/time>
 * Submit your timesheet at the end of day on Monday
@@ -81,7 +81,7 @@ The Trello integration will require that you install the Chrome extension found 
 
 * Harvest has some other plugins & add-ons found here: <https://www.getharvest.com/add-ons>
 
-## Tracking Expenses
+## <a name="expenses">Tracking Expenses</a>
 
 Track expenses in the Harvest Expense tracking section.
 
