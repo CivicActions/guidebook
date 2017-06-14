@@ -43,9 +43,7 @@
 
 ### <a name="gmail"></a>Email
 
-#### Lists
-
-##### Internal
+##### Internal Lists
 
 * We use <mailto:ca-team@lists.civicactions.net> for all team wide communication, and important announcements (slack #announcements used often too)
 * We us <mailto:ca-employees@lists.civicactions.net> for HR notices, etc. (it is generally low traffic)
