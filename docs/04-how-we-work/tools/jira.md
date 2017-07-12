@@ -2,7 +2,7 @@
 
 ## About Jira
 
-CivicActions uses [Jira](https://www.atlassian.com/software/jira) for many project management, work tracking and ticketing purposes, especially for larger projects. Jira has enormous potential for integration with other tools, and works well with scrum, kanban and other agile methodologies. Compared to Trello, Jira is a more full-featured and complex way of tracking work.
+Civic Actions uses [Jira](https://www.atlassian.com/software/jira) for many project management, work tracking and ticketing purposes, especially for larger projects. Jira has enormous potential for integration with other tools, and works well with scrum, kanban and other agile methodologies. Compared to Trello, Jira is a more full-featured and complex way of tracking work.
 
 An overview originally created for GlobalNET may be helpful: <https://docs.google.com/a/civicactions.com/document/d/1euq7kh4M6J9-orOvOV2Aip_4IpfK35tGZvEfg1pvJrU/edit#heading=h.uaxvznm9nabz>
 
@@ -20,7 +20,7 @@ Jira has Plan, Work and Report modes, which do more or less what they sound like
 
 Project Managers start and end sprints, help keep track of overall workloads and ticket priorities, and usually keep close track of which tickets are blocked or unattended.
 
-Project managers at CivicActions typically become very proficient in Jira.
+Project managers at Civic Actions typically become very proficient in Jira.
 
 ## The engineer's role in Jira
 

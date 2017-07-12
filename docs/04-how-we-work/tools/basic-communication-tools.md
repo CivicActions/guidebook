@@ -52,7 +52,7 @@
 #### Client and staff lists
 
 * projectname@lists.civicactions.net (includes clients)
-* projectname-int@lists.civicactions.net (just for CivicActions staff)
+* projectname-int@lists.civicactions.net (just for Civic Actions staff)
 
 #### Protocol
 
@@ -70,7 +70,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 #### Overview
 
-**CivicActions uses shared calendars** in [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
+**Civic Actions uses shared calendars** in [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar) for Civic Actions standing meetings, birthdays, and "out of office" time.
 
 **You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
 
@@ -80,17 +80,17 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 #### Best Practices
 
-* Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../images/CivicActions_Calendar_Settings.png "Calendar settings")
+* Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../images/Civic Actions_Calendar_Settings.png "Calendar settings")
 * Always send invitations to <mailto:first.last@civicactions.com>
-* Make sure your main <mailto:first.last@civicactions.com> calendar is at sharing at least free/busy with everyone in CivicActions
+* Make sure your main <mailto:first.last@civicactions.com> calendar is at sharing at least free/busy with everyone in Civic Actions
 * Consider enabling "speedy meetings" (in Settings)
 * Reply to meeting invitations (yes, no, maybe)
 * Use the "optional" feature for attendees who are not required to attend
-* Use the Find a Time feature: !["Find a Time"](../../images/CivicActions_Calendar_FindTime.png "Find a time") feature to identify a meeting time where all required participants are free.
+* Use the Find a Time feature: !["Find a Time"](../../images/Civic Actions_Calendar_FindTime.png "Find a time") feature to identify a meeting time where all required participants are free.
 * Complete the Event Details section when creating an event
 * If your event is related to a ticket, then include the ticket reference in the event title (i.e. a Jira RD-19 ticket event could be "Prototype Meeting RD-19")
 * You can create a Hangout link from the event (actually, Hangout links, aka "video calls" are automatically generated when you create a new event)
-* Add the Out of Office Calendar !["CivicActions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar") calendar
+* Add the Out of Office Calendar !["Civic Actions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar") calendar
 
 ### <a name="hangouts"></a>Google Hangouts
 
@@ -111,7 +111,7 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 * Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
 * Use proper etiquette for Hangout professionalism (consider the appropriateness of background visuals/noise, attire/dress, use of effects, eating, muting, etc.)
 * It's okay to mute other each other
-* We can invite people outside of CivicActions, too
+* We can invite people outside of Civic Actions, too
 * You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
 * If you want to focus on just one participant (or their screen, if they're screensharing), you can stop the screen from switching by clicking on their picture/screenshare. To go back to automated switching, just click it again. ![stop screen switching](../../images/stop_screen_switching_in_hangouts.png "Stop screen switching in hangouts")
 
@@ -132,10 +132,10 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 ### <a name="google-docs"></a>Google Docs
 
 * Google Docs allows you to create and share a variety of documents such as text documents, spreadsheets, presentations, and forms.
-* Google Docs should be shared with your CivicActions email account
+* Google Docs should be shared with your Civic Actions email account
 * If a link is shared with you, you can add yourself to the share list so you can reference it later on
 * If you are using a template, always make a COPY
-* Update default paragraph styles to match CivicActions standard styles when creating new docs to use/share
+* Update default paragraph styles to match Civic Actions standard styles when creating new docs to use/share
 * If you create a document, make sure the whole team can find it and has access to it so you don't need to grant individual permissions
 
 ![Open settings](../../images/sharing1.png "Open settings")

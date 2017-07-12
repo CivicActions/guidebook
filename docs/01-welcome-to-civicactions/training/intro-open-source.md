@@ -4,9 +4,9 @@
 
 ## What is free and open source software?
 
-Broadly speaking, free / open source software is software whose inner workings are made fully public and distributed freely to the community. As a FOSS team, the software CivicActions writes is made is generally meant to be public (mostly at <https://github.com/civicactions>), and we welcome anyone to use that software, copy it, and change it.
+Broadly speaking, free / open source software is software whose inner workings are made fully public and distributed freely to the community. As a FOSS team, the software Civic Actions writes is made is generally meant to be public (mostly at <https://github.com/civicactions>), and we welcome anyone to use that software, copy it, and change it.
 
-Generally (and at CivicActions), people publishing FOSS tend to be open to receiving public contributions. So, members of the public may copy our software, modify it, and then submit their modifications back to us for potential inclusion in the original.
+Generally (and at Civic Actions), people publishing FOSS tend to be open to receiving public contributions. So, members of the public may copy our software, modify it, and then submit their modifications back to us for potential inclusion in the original.
 
 ## What does it mean in our work?
 

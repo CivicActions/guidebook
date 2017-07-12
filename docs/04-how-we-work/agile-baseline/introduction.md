@@ -1,6 +1,6 @@
 # Introduction to the Agile Baseline
 
-The Agile Baseline documents the principles, processes, methods, and roles that underpin the way we do our work. This is a living document and is updated regularly by the CivicActions [#agile](https://civicactions.slack.com/messages/C02BGNDA4/) group.
+The Agile Baseline documents the principles, processes, methods, and roles that underpin the way we do our work. This is a living document and is updated regularly by the Civic Actions [#agile](https://civicactions.slack.com/messages/C02BGNDA4/) group.
 
 ## How to Use the Baseline
 

@@ -1,8 +1,8 @@
 # EMPLOYEE HANDBOOK
 
-[![Build Status](https://travis-ci.org/CivicActions/handbook.svg?branch=master)](https://travis-ci.org/CivicActions/handbook)
+[![Build Status](https://travis-ci.org/Civic Actions/handbook.svg?branch=master)](https://travis-ci.org/Civic Actions/handbook)
 
-## CivicActions, Inc.
+## Civic Actions, Inc.
 
 2625 Alcatraz Avenue, Suite 320
 Berkeley, CA 94705
@@ -15,11 +15,11 @@ Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 
-This Handbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Handbook has been prepared to describe Civic Actions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
 ## License
 
-Copyright 2017 CivicActions.
+Copyright 2017 Civic Actions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 

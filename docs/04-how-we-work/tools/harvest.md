@@ -46,7 +46,7 @@ Enter a description like the below examples in the task description that include
 
 * Go to <https://civicactions.harvestapp.com/time>
 * Put description of work in each entry and ensure that you've selected correct project and role
-* Track your time in increments of 15 minutes, rounded up per CivicActions protocol
+* Track your time in increments of 15 minutes, rounded up per Civic Actions protocol
     * If you use a time tracker, you do not need to round your hours up to 15 min intervals bc the report that gets run rounds it up for you. Although no harm if you do it manually still.
     * Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
     * Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
@@ -128,7 +128,7 @@ We track vacation, leave and sick time and leave for employees in Harvest. There
 
 You do NOT need to log entries when the office is closed for Holiday
 
-**Project:** CivicActions: PTO
+**Project:** Civic Actions: PTO
 
 **Task:**
 

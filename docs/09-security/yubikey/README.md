@@ -98,7 +98,7 @@ This requires a Yubikey token (cover the button for approximately one second) on
         * Press the Update button
         * Enter your LastPass master password and press Confirm.
         * YubiKey is now enabled for your LastPass account.
-* If you have a *YubiKey Neo* (CivicActions uses the *YubiKey 4* model) and your phone supports NFC, you can touch the Neo against your phone to unlock on mobile.
+* If you have a *YubiKey Neo* (Civic Actions uses the *YubiKey 4* model) and your phone supports NFC, you can touch the Neo against your phone to unlock on mobile.
 
 ### Google
 

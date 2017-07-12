@@ -1,6 +1,6 @@
 # Security Awareness and Tools
 
-This is an appendix to the [CivicActions Security Policy](../03-policies/security.md) containing details that can and should be updated regularly as new technologies or patterns of use develop, with a goal of providing team members the best tools with which to maintain the security of company confidential and personal information.
+This is an appendix to the [Civic Actions Security Policy](../03-policies/security.md) containing details that can and should be updated regularly as new technologies or patterns of use develop, with a goal of providing team members the best tools with which to maintain the security of company confidential and personal information.
 
 *This is currently - and probably always will be - a work in progress. Pull Requests welcome.*
 
@@ -15,14 +15,14 @@ Additionally, your laptop should lock (require a password to resume) on screen c
 
 ## Password Management Tools
 
-A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At CivicActions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
+A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At Civic Actions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
 
 ### <a name="lastpass"></a>LastPass
 
 * The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
     * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
     * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
-* LastPass is required for members of the CivicActions System Admins and Infrastructure Support Team.
+* LastPass is required for members of the Civic Actions System Admins and Infrastructure Support Team.
 * We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](./yubikey/README.md) token).
 * Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
 * It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
@@ -37,11 +37,11 @@ LastPass provides secure password management especially when unlocked via Two Fa
 
 ## <a name="tfa"></a> Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
 
-Two factor authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. CivicActions recommends you use Two Factor Authentication for services that support it.
+Two factor authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. Civic Actions recommends you use Two Factor Authentication for services that support it.
 
-For example, as your password manager grows to have more passwords in it - not only CivicActions' systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
+For example, as your password manager grows to have more passwords in it - not only Civic Actions' systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
 
-CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include GMail, Hangouts and Google Docs access - use Two Factor Authentication on their CivicActions Google Account.
+Civic Actions requires that its employees and contractors that are given access to the Civic Actions Google Apps - that include GMail, Hangouts and Google Docs access - use Two Factor Authentication on their Civic Actions Google Account.
 
 ### Two-Factor Authenticators
 
@@ -54,14 +54,14 @@ There are many hardware and software tools for creating secure "one time passwor
 
 #### YubiKey
 
-* See CivicActions' [YubiKey page](./yubikey/README.md)
+* See Civic Actions' [YubiKey page](./yubikey/README.md)
 * See YubiKey documentation on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals/), [LastPass](https://www.yubico.com/why-yubico/for-individuals/password-managers/lastpass/), and [GitHub](https://www.yubico.com/why-yubico/for-individuals/github/)
 
 ### Partial List of TFA Services
 
 * LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
 * Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
-* GitHub (especially for your [CivicAction account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
+* GitHub (especially for your [CivicAction account](https://github.com/Civic Actions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
 * GitLab: See [your profile](https://git.civicactions.net/profile/account)
 * iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
 * Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)
@@ -70,9 +70,9 @@ There are many hardware and software tools for creating secure "one time passwor
 
 As a final step when setting up Two Factor Authentication with most services (Google, LastPass, GitHub, etc.) you will be offered a chance to download and/or print a set of backup codes. These are worth downloading and printing (yes - on paper) and storing in a safe place, because if you lose your phone or YubiKey it can be difficult to regain access to your account unless you have these codes available. There are sometimes other options available, too, like SMS text message, but these other methods can be less secure. *Hint: you can store backup codes in LastPass.*
 
-### Connecting to you CivicActions' Google Account from Sevices/Apps after TFA has been Enabled
+### Connecting to you Civic Actions' Google Account from Sevices/Apps after TFA has been Enabled
 
-Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass TFA.
+Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your Civic Actions' account it will bypass TFA.
 
 There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords.
 
@@ -113,7 +113,7 @@ One of the best ways to protect yourself from being hacked (other than via a soc
 
 ## Disk Encryption and Storage Management
 
-Most modern disks (and SSDs) have self-encrypting drive (SED) technology built in. CivicActions highly recommends SSDs for their increased speed and the hardware-based encryption (self-encrypting drive or "SED" technology) that will protect the drive when the machine is off. This is particularly important for laptops that can be easily stolen. When you buy a new disk or configure a new laptop, turn on the disk encryption. Some of CivicActions' clients will demand it. (Contact your product manager to see if you are eligble for a hard disk rebate.)
+Most modern disks (and SSDs) have self-encrypting drive (SED) technology built in. Civic Actions highly recommends SSDs for their increased speed and the hardware-based encryption (self-encrypting drive or "SED" technology) that will protect the drive when the machine is off. This is particularly important for laptops that can be easily stolen. When you buy a new disk or configure a new laptop, turn on the disk encryption. Some of Civic Actions' clients will demand it. (Contact your product manager to see if you are eligble for a hard disk rebate.)
 
 ### Software Disk Encryption
 
@@ -123,7 +123,7 @@ If you haven't set up your hard drive with hardware encryption, there are softwa
 
 Open System Preferences, click on the Security & Privacy icon, and switch to the FileVault tab. If you see a button that says "Turn Off FileVault..." then congratulations, your disk is already encrypted. Otherwise, click the lock icon in the bottom left so you can make changes, and click "Turn On FileVault...". Google "Filevault" for more information.
 
-Much more technical detail on securing your Mac: [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md). *This is useful but well beyond what is required by CivicActions.*
+Much more technical detail on securing your Mac: [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md). *This is useful but well beyond what is required by Civic Actions.*
 
 #### Windows: BitLocker or DiskCryptor
 
@@ -169,13 +169,13 @@ Erasing an entire disk:
 
 ## Drupal Best Practices and Writing Secure Code
 
-CivicActions Drupal Developers are expected to know, understand and integrate into their work:
+Civic Actions Drupal Developers are expected to know, understand and integrate into their work:
 
 * [Drupal coding standards and best practices](https://www.drupal.org/developing/best-practices)
 * [How to write secure code in Drupal](https://www.drupal.org/writing-secure-code)
 
 ## Protecting Your Privacy
 
-CivicActions believes that your privacy is a right, and that private communications can be beneficial to business. Here's some tips on how FOSS can help:
+Civic Actions believes that your privacy is a right, and that private communications can be beneficial to business. Here's some tips on how FOSS can help:
 
 * [Protecting Your Privacy with Encryption](./encryption.md)

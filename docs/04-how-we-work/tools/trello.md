@@ -8,7 +8,7 @@ If you like to live on the edge, skip this reading, but promise to come back in 
 
 ## About Trello
 
-Trello is a collaborative task and project management tool that we use extensively at CivicActions. CivicActions has a free [team Trello account](https://trello.com/civicactions) that we utilize for both internal and client projects.
+Trello is a collaborative task and project management tool that we use extensively at Civic Actions. Civic Actions has a free [team Trello account](https://trello.com/civicactions) that we utilize for both internal and client projects.
 
 Trello is very easy to use, and a robust featureset whose intuitve UI means the features don't get in the way of getting work done. It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation.
 
@@ -23,7 +23,7 @@ Trello is very easy to use, and a robust featureset whose intuitve UI means the 
 
 Trello has "boards" where work is tracked, using the metaphor of a whiteboard with columns taped with masking tape, and index card or sticky notes.
 
-Work can be done by any member of the board, who need to be added by admins. Sometimes it's easier to have multiple admins from the CivicActions team.
+Work can be done by any member of the board, who need to be added by admins. Sometimes it's easier to have multiple admins from the Civic Actions team.
 
 On each board there are "lists" which contain "cards". The only requirement for a card is a title, which is often written as a user story, or bug report, or other actionable task. This title shows up on the "front" of the card. When you click on the card it shows the "back" of the card (the metaphor is an index card on a whiteboard). The back of the card contain subtasks (often organized on checklist items), attachments, due dates, coloured labels (categories), and comments (conversation in which you can @mention other members of the board). Cards can also contain references to github pull requests, images (which can appear on the "front" of the card), and can be assigned to one or more people (either directly from the card, or by dragging and dropping their face from the right sidebar). All this data is summed up with icons on the front of the card.
 

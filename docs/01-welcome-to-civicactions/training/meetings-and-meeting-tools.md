@@ -1,6 +1,6 @@
 # Meetings and Meeting Tools
 
-Here, you'll find a list of tools folks at CivicActions use to schedule meetings, along with information about some specific meetings at CivicActions.
+Here, you'll find a list of tools folks at Civic Actions use to schedule meetings, along with information about some specific meetings at Civic Actions.
 
 ## General meetings
 
@@ -12,7 +12,7 @@ Also, if you're planning a meeting, be sure to state your goal – what the meet
 
 ### <a name="ahc"></a>All Hands Calls
 
-Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+Our weekly all hands call includes everyone across Civic Actions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
 We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
 
 #### All Hands Calls Overview
@@ -66,13 +66,13 @@ Another project-specific meeting is the retrospective (called a retro, for short
 
 The idea behind the retro is pretty simple: This meeting provide an opportunity for the team to reflect on how it's working. Like standups, retros are another project-governance meeting.
 
-For more specific information on Retrospectives, see [Sprint Retrospectives](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-retrospectives.md).
+For more specific information on Retrospectives, see [Sprint Retrospectives](https://github.com/Civic Actions/agile-baseline/blob/master/03-process/practices/sprint-retrospectives.md).
 
 ### Sprint planning
 
-The last project-specific meeting is sprint planning. Sprint planning takes many forms at CivicActions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
+The last project-specific meeting is sprint planning. Sprint planning takes many forms at Civic Actions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
 
-For more specific information, see [Sprint Planning Meetings](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
+For more specific information, see [Sprint Planning Meetings](https://github.com/Civic Actions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
 
 ### Backlog grooming
 
@@ -82,7 +82,7 @@ For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-baselin
 
 ## Tools
 
-Here are links to more information about how CivicActions uses specific tools to facilitate meetings.
+Here are links to more information about how Civic Actions uses specific tools to facilitate meetings.
 
 * [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
 * [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)

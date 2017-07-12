@@ -51,7 +51,7 @@ For a team member whose time is split between projects, RG helps plan how much t
 * Only require the necessary people, make other invitees optional.
 * Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
-<img src="../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
+<img src="../images/Civic Actions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
 
 ## <a name="timeboxing"></a>Timeboxing
 

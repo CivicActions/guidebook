@@ -1,6 +1,6 @@
 # Text editors
 
-## Popular Editors at CivicActions
+## Popular Editors at Civic Actions
 
 We use text editors to write documentation in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and to develop code.
 

@@ -10,7 +10,7 @@ In this project, The "master" branch is the active branch, with the latest, appr
 
 We recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
-You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](../04-how-we-work/tools/github.md)).
+You'll need a Github account, and to be added to the Civic Actions Team ([instructions are here](../04-how-we-work/tools/github.md)).
 
 Go to a page, click edit, and make your changes, using [markdown](markdown.md).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
@@ -28,7 +28,7 @@ After you commit, you will be asked if you want to create a new pull request wit
 
 Most of the time you don't need to fill anything out, just click "Create pull request".  
 
-Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/handbook/tree/[your-branch-name]>.  You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches).   Then, edit another file (or the same file you just edited) and commit it.  This time, Github will know that you want to commit to the same branch as you created during your first commit.  
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/Civic Actions/handbook/tree/[your-branch-name]>.  You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/Civic Actions/handbook/branches).   Then, edit another file (or the same file you just edited) and commit it.  This time, Github will know that you want to commit to the same branch as you created during your first commit.  
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
@@ -53,9 +53,9 @@ If you make a pull request related to a subject that is the responsibility of a 
 
 ## <a name="PR-workflow"></a>How to review and merge pull requests
 
-Each pull request must be reviewed by at least one other CivicActions employee before it can be merged.
+Each pull request must be reviewed by at least one other Civic Actions employee before it can be merged.
 
-Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](../04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any Civic Actions employee with Github account, who has been added to the Civic Actions Team ([instructions are here](../04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at Civic Actions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 

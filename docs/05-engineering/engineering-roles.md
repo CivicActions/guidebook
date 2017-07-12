@@ -10,7 +10,7 @@ Very important note: these are roles, not individuals. This means that:
 
 ## <a name="tech-lead"></a>Tech Lead
 
-CivicActions technical team leaders are known as "Tech Leads". The Tech Lead is responsible for the ultimate technical success of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals, architecting solutions based on the Drupal framework and then leading development teams to ensure successful project completion. Our Tech Leads work in tandem with a Project Manager, who manages the project's overall progress and budget.
+Civic Actions technical team leaders are known as "Tech Leads". The Tech Lead is responsible for the ultimate technical success of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals, architecting solutions based on the Drupal framework and then leading development teams to ensure successful project completion. Our Tech Leads work in tandem with a Project Manager, who manages the project's overall progress and budget.
 
 Project responsibilities through the project process:
 

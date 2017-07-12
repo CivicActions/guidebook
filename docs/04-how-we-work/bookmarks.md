@@ -2,16 +2,16 @@
 
 Links to websites we use regularly.
 
-## CivicActions
+## Civic Actions
 
-* [Handbook](https://github.com/CivicActions/handbook)
+* [Handbook](https://github.com/Civic Actions/handbook)
 * [Website](https://civicactions.com/)
 * [Team Roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit)
 
 ## Social Media
 
-* [Twitter](https://twitter.com/CivicActions)
-* [Facebook](https://www.facebook.com/CivicActions/)
+* [Twitter](https://twitter.com/Civic Actions)
+* [Facebook](https://www.facebook.com/Civic Actions/)
 * [LinkedIn](https://www.linkedin.com/company-beta/54684/)
 
 ## Tools

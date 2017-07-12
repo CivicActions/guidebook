@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CivicActions employees live all over the US and beyond. We work out of home offices in Oakland, New York and Toledo, Spain – with clients from around the globe.
+Civic Actions employees live all over the US and beyond. We work out of home offices in Oakland, New York and Toledo, Spain – with clients from around the globe.
 
 This means our project teams are made up entirely of distributed employees. Below are some tips and strategies we've developed to stay connected and productive when working remotely.
 
@@ -13,7 +13,7 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 **When beginning your work day:**
 
 * Open Slack so your teammates can see that you are online and available. If you'd like, say good morning or "hello" in the [#general](https://civicactions.slack.com/messages/general/) channel when you log in.
-* Check your CivicActions email and calendar for updates.
+* Check your Civic Actions email and calendar for updates.
 * Open Harvest so you remember to log your hours.
 
 **When ending your work day:**

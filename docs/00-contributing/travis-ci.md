@@ -10,4 +10,4 @@ Each time a commit or PR is made to the master repo, the tests will run, and a r
 
 The left hand column shows the line and the position in that line where the error/warning occurs, and explains which test failed, which should provide you with enough information about how to address it.  
 
-You can see some example output (for our master branch) at <https://travis-ci.org/CivicActions/handbook>.
+You can see some example output (for our master branch) at <https://travis-ci.org/Civic Actions/handbook>.

@@ -82,7 +82,7 @@
 * Review vacation time / requests [policies](../../03-policies/benefits.md#pto) (1 hour)
 * Do you have any pre-approved time off requests? (15 minutes)
     * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
-* Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
+* Review [Civic Actions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
 * Review & update [Resource Guru profile](../../04-how-we-work/tools/resource-guru.md#updatingprofile) (30 minutes)
 * Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
 
@@ -108,17 +108,17 @@
     * Talking Timezones
     * Communication Best Practices
 
-### Aligning Yourself with CivicActions
+### Aligning Yourself with Civic Actions
 
 * Create email signature (15 minutes)
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
-* Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
+* Update LinkedIn & social media accounts with Civic Actions as company (30 minutes)
     * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
     * Update your skills on LinkedIn
 * Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account (30 minutes)
 * Introduction to copywriter / editor
-* [Update resume into CivicActions template](../team-resume-instructions.md) (2 hours)
-* [Write your CivicActions bio w photo](../civicactions-bio-instructions.md) (4 hours)
+* [Update resume into Civic Actions template](../team-resume-instructions.md) (2 hours)
+* [Write your Civic Actions bio w photo](../civicactions-bio-instructions.md) (4 hours)
 
 ### Afternoon check-in with your onboarding manager
 
@@ -129,7 +129,7 @@
 * [How to create a ticket or card](../../04-how-we-work/tools/tickets-cards.md)
 * [Story point estimating](../../04-how-we-work/tools/storypoints.md)
 * [Install Chrome browser extensions (30 minutes)](../../04-how-we-work/tools/browserextensions.md)
-* [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) (1 hour)
+* [Civic Actions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) (1 hour)
 
 ### Versioning Systems and Development Process
 
@@ -161,7 +161,7 @@
 * [Skillset Survey](../skillset-survey.md) (1 hour)
 * Read about [Markdown](../../04-how-we-work/tools/markdown.md) (30 minutes)
 * Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md) (15 minutes)
-* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md) (30 minutes)
+* Review Civic Actions [Elevator Pitch](../../02-about-us/elevator-pitch.md) (30 minutes)
 
 ### Role-based training/orientation
 
@@ -190,6 +190,6 @@
 * Any additional tasks from above days that have not yet been completed
 * [Skillset Survey](../skillset-survey.md)
 * Begin to Learn [Markdown](../../04-how-we-work/tools/markdown.md)
-* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
+* Review Civic Actions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
 
 ### Afternoon check-in with your onboarding manager
