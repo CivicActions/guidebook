@@ -4,7 +4,7 @@
 
 The purpose of a mentor is to provide a friendly, peer-based connection between a new hire and an experienced CivicActioner. The idea is to have someone in the new hire's field to ask questions, learn of historical processes, learn how to escalate issues, and ensure the new hire's questions are answered (even things like writing subject lines for emails). Within a new hire's onboarding board many of these topics are addressed, but it's inevitable that additional questions will bubble up that a mentor is best suited to answer.
 
-A mentor typically has been with CivicActions for at least six months to one year and is in a role similar to that of the new hire (developer with developer, PM with PM, etc). It is the responsibility of the mentor to initiate conversations on a regular basis with the assigned new hire and to nurture a positive professional relationship that encourages questions and learning.
+A mentor typically has been with Civic Actions for at least six months to one year and is in a role similar to that of the new hire (developer with developer, PM with PM, etc). It is the responsibility of the mentor to initiate conversations on a regular basis with the assigned new hire and to nurture a positive professional relationship that encourages questions and learning.
 
 ## <a name="responsibilities"></a>A Mentor's Responsibilities
 
@@ -33,7 +33,7 @@ A mentor typically has been with CivicActions for at least six months to one yea
 
 (For reference only. Onboarding manager will send this.)
 
-\[Mentor], I thought you would be a good mentor to team up with \[new hire] as s/he's still getting his feet wet with CivicActions. \[new hire] is a \[role] working on the \[project]. S/He started on \[date] with us.
+\[Mentor], I thought you would be a good mentor to team up with \[new hire] as s/he's still getting his feet wet with Civic Actions. \[new hire] is a \[role] working on the \[project]. S/He started on \[date] with us.
 \[New hire] has made great progress with settling into her/his project & role here, but there are inevitably still questions, best practices, workflows, etc that you two can work through.
 \[New hire] feel free to reach out to \[mentor] with any \[role] related questions. I am still always available for a touch point as well!
 

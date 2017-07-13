@@ -1,6 +1,6 @@
 # Design Services
 
-One of the foundational principles of our Agile practice is user-centered design (UCD). Our design team provides services aimed at optimizing digital products around what users actually want or need rather than expecting them to change their behavior to accommodate a product. Design activities at CivicActions unfold iteratively through the project lifecycle, encompassing research, content strategy, information architecture, interaction design, front end development, and visual design. The design guidelines we follow build on specific plays in the U.S. Digital Services Playbook.
+One of the foundational principles of our Agile practice is user-centered design (UCD). Our design team provides services aimed at optimizing digital products around what users actually want or need rather than expecting them to change their behavior to accommodate a product. Design activities at Civic Actions unfold iteratively through the project lifecycle, encompassing research, content strategy, information architecture, interaction design, front end development, and visual design. The design guidelines we follow build on specific plays in the U.S. Digital Services Playbook.
 
 * We focus on understanding the problem(s) first.
 * We follow user\*centered research and design methods.

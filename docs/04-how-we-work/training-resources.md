@@ -1,6 +1,6 @@
 # Training Resources
 
-As an CivicActions team member, you have access to these online training resources.
+As an Civic Actions team member, you have access to these online training resources.
 
 ## BuildAModule
 

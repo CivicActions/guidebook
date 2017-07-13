@@ -6,7 +6,7 @@ This will be fleshed out in future iterations. For now, keep in mind that conten
 
 ## Retext
 
-In the past, we used [retext](https://github.com/wooorm/retext/), which gave warnings (but did not fail Travis CI builds) for language that looks possibly incorrect, overly complex or insensitive. The warnings were too numerous to be useful, but we may want to reenable retext in the gulp file, after tweaking the settings at [.retext.js](https://github.com/CivicActions/handbook/blob/master/.retext.js)
+In the past, we used [retext](https://github.com/wooorm/retext/), which gave warnings (but did not fail Travis CI builds) for language that looks possibly incorrect, overly complex or insensitive. The warnings were too numerous to be useful, but we may want to reenable retext in the gulp file, after tweaking the settings at [.retext.js](https://github.com/Civic Actions/handbook/blob/master/.retext.js)
 
 ## Specific terms
 

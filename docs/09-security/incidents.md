@@ -4,9 +4,9 @@ Something went "bump" in the night (or the day)? This document explains what to 
 
 ## Reporting phishing emails
 
-If you receive a phishing email, follow these steps to report to CivicActions IT:
+If you receive a phishing email, follow these steps to report to Civic Actions IT:
 
-*Note: the menus and links described below refer to the standard GMail interface which is the most commonly used at CivicActions. Please "translate" these to your mail reader UI if using another system, or ask for help on [slack](https://civicactions.slack.com/messages/general/) or via [email](mailto:security@civicactions.com).*
+*Note: the menus and links described below refer to the standard GMail interface which is the most commonly used at Civic Actions. Please "translate" these to your mail reader UI if using another system, or ask for help on [slack](https://civicactions.slack.com/messages/general/) or via [email](mailto:security@civicactions.com).*
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
 2. If you can, click the `Show Original` option in the "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
@@ -17,7 +17,7 @@ If you receive a phishing email, follow these steps to report to CivicActions IT
 6. Report the phishing email in the [#general](https://civicactions.slack.com/messages/general/) (attention: `@security`) Slack channel. (The `general` channel is used as everyone has access to it.)
 7. After receiving your notification to security, IT may create a ticket and contact you for more information.
 
-You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps above. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps CivicActions IT to prepare against similar phishing attacks that might be sent to other team members.
+You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps above. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps Civic Actions IT to prepare against similar phishing attacks that might be sent to other team members.
 
 ## Reporting other incidents
 
@@ -39,11 +39,11 @@ Please note that incidents need to be reported *within one hour* of being identi
 
 ## What is an incident?
 
-First, it's important to note: it's always OK to err on the side of reporting! The CivicActions Security and Incident Response Teams good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging Security at all*. The most effective security "early warning system" is attentive staff, so "report early, report often"!
+First, it's important to note: it's always OK to err on the side of reporting! The Civic Actions Security and Incident Response Teams good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging Security at all*. The most effective security "early warning system" is attentive staff, so "report early, report often"!
 
 On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our or our client's "CIA": **Confidentiality, Integrity, or Availability.**
 
-* **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside of CivicActions or a specific client who has rightful access to the information, you should open an incident. Note that this includes unknown users with elevated permissions on a site and access lists on Google docs.
+* **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside of Civic Actions or a specific client who has rightful access to the information, you should open an incident. Note that this includes unknown users with elevated permissions on a site and access lists on Google docs.
 
 * **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or a web page was altered, or if an app stopped logging for a while, or if some documents got deleted — those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these, as well.
 

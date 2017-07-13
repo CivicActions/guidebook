@@ -2,7 +2,7 @@
 
 ## Security Policy
 
-We understand and abide by the [CivicActions Employee/Contractor Security Policy](../03-policies/security.md). In particular:
+We understand and abide by the [Civic Actions Employee/Contractor Security Policy](../03-policies/security.md). In particular:
 
 * We practice [Server & Site Security](../03-policies/security.md#server--site-security)
 * using only sanitized databases
@@ -22,7 +22,7 @@ We enhance our [Security Awareness with Tools](../09-security/awareness.md) by:
 
 ## Training
 
-* We perform a yearly review of the [CivicActions Employee/Contractor SecurityPolicy](../03-policies/security.md)
+* We perform a yearly review of the [Civic Actions Employee/Contractor SecurityPolicy](../03-policies/security.md)
 * We train all our employees and contractors in PII Awareness
 
 ## As Developers
@@ -49,7 +49,7 @@ We enhance our [Security Awareness with Tools](../09-security/awareness.md) by:
 * This includes our Google Docs!
 * We ensure that users with enhanced privileges (to sites and/or servers)
 * must use TFA for authentication/authorization
-* are appropriately adjusted upon separation from CivicActions.
+* are appropriately adjusted upon separation from Civic Actions.
 
 ## Continuous Monitoring
 
@@ -63,7 +63,7 @@ We enhance our [Security Awareness with Tools](../09-security/awareness.md) by:
 
 ## Incident Response
 
-* We have a default CivicActions Incident Response Plan:
+* We have a default Civic Actions Incident Response Plan:
 * We ensure that at least one member of the Infrastructure Support Team (currently Owen, Fen, David, Josh, Karen and Marc) has access to the Internet at all times.
 * We train new employees and perform yearly quizzes of exiting employees on the IRP procedures.
 

@@ -18,7 +18,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 
 ## Team Contact Information
 
-* [CivicActions team roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit#gid=0)
+* [Civic Actions team roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit#gid=0)
 
 ### Listservs
 
@@ -31,4 +31,4 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Marketing: ca-marketing@lists.civicactions.net
 * Every project has its own listserv, for example:
     * projectname@lists.civicactions.net (includes clients)
-    * projectname-int@lists.civicactions.net (includes only CivicActions staff)
+    * projectname-int@lists.civicactions.net (includes only Civic Actions staff)

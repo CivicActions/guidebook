@@ -6,11 +6,11 @@ The Daily Scrum Meeting is a short meeting designed to synchronize the project t
 
 ## Who should participate:
 
-The meeting participants should be any members of the project team committed to delivering work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at CivicActions).  Others may attend to observe but should not participate.
+The meeting participants should be any members of the project team committed to delivering work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at Civic Actions).  Others may attend to observe but should not participate.
 
 ## How to do it:
 
-The daily scrum meeting should be scheduled for the same time each day whenever possible. The Scrum Master should facilitate the meeting, and the total meeting time should be limited to 15 minutes. Since the CivicActions workforce is fully distributed, best practice is to have each person enable his/her camera for the entire meeting and to have microphone muted when not speaking. One person “checks in” by answering the following talking points:
+The daily scrum meeting should be scheduled for the same time each day whenever possible. The Scrum Master should facilitate the meeting, and the total meeting time should be limited to 15 minutes. Since the Civic Actions workforce is fully distributed, best practice is to have each person enable his/her camera for the entire meeting and to have microphone muted when not speaking. One person “checks in” by answering the following talking points:
 
 * Give your Balance Score
 * What you worked on yesterday

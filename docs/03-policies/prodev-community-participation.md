@@ -7,11 +7,11 @@ updated: May 9, 2017
 
 ## <a name="background-why"></a>Background - the Why
 
-CivicActions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
+Civic Actions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
 
 We value Professional Development and Community Participation for a number of reasons:
 
-* **Professional Development increases your skills which can result in increased revenue opportunities for CivicActions and higher salary for you**
+* **Professional Development increases your skills which can result in increased revenue opportunities for Civic Actions and higher salary for you**
 
 * **Professional Development provides career mobility for each person - increasing our feeling of safety, which leads to:**
     * Having the courage to fail - which leads to experimentation, innovation, and learning
@@ -24,7 +24,7 @@ We value Professional Development and Community Participation for a number of re
     * Strengthened relationships with experts that can help when we are stuck
     * Career advancement opportunities (potential new employment offers) for each of us, which increases our feeling of safety
     * Opportunities to increase the impact of the work being done by our entire industry - which helps with our mission to transform the way professional services are delivered in government
-    * Opportunities for CivicActions to popularize the idea of radical openness, which strengthens our brand
+    * Opportunities for Civic Actions to popularize the idea of radical openness, which strengthens our brand
 
 ## <a name="logistics-policy"></a>Logistics and Policy Information
 

@@ -1,4 +1,4 @@
-# CivicActions Website
+# Civic Actions Website
 
 > @todo [NEEDS CONTENT](https://trello.com/c/TlpYpzcg)
 
@@ -10,7 +10,7 @@
 
 // NEEDS CONTENT
 
-## CivicActions site
+## Civic Actions site
 
 // NEEDS CONTENT
 
@@ -20,7 +20,7 @@
 
 // NEEDS UPDATING
 
-Everyone at CivicActions should submit a photo that we'll use whenever we represent you on the website. This isn't mandatory, of course, but we'd really like it if everyone had a photo. (We use the CivicActions logo in place of a photo if you don't have one.)
+Everyone at Civic Actions should submit a photo that we'll use whenever we represent you on the website. This isn't mandatory, of course, but we'd really like it if everyone had a photo. (We use the Civic Actions logo in place of a photo if you don't have one.)
 
 Photos should follow these three guidelines. You should submit a photo:
 

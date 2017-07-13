@@ -14,7 +14,7 @@ Insight into how your teammates are feeling. Uncovers opportunities to share res
 
 ## Philosophy
 
-CivicActions strongly supports a sustainable life/work balance. Each employee has their own way to define it, and the company is strongest when its people feel balanced, and hold themselves accountable to their own balance, not overcommitting, etc. It may seem a bit vague, but it generally works well. Balance scores can help vocalize and track that within our teams, and projects.
+Civic Actions strongly supports a sustainable life/work balance. Each employee has their own way to define it, and the company is strongest when its people feel balanced, and hold themselves accountable to their own balance, not overcommitting, etc. It may seem a bit vague, but it generally works well. Balance scores can help vocalize and track that within our teams, and projects.
 
 Sprint planning should prevent any work week from becoming too huge. But even with the best planning we can occasionally have to deal with spikes and cruxes, and you may feel that working less post-spike is a great way to feel more balanced, and catch up on stuff in the non-work life that may have suffered during the spike.
 

@@ -14,8 +14,8 @@
 | SA-10   | Developer Configuration Management    | Code Reviews Automated Testing                                                           | Team structure, DevOps      |
 | SA-15   | Development Process                   | E.g. GitFlow                                                                             | Jenkins, DevOps...          |
 | CM-3    | Configuration Change Control          | Drupal 7 Features, Drupal 8 CMI                                                          | contrib, core               |
-| PS-1    | Personnel Security Policy             | CivicActions/security-policy                                                             | Write one!                  |
-| RA-5    | Vulnerability Scanning                | Security Review, Paranoia, [OpenSCAP/GovReady](https://galaxy.ansible.com/CivicActions/) | contrib, contrib, GitHub    |
+| PS-1    | Personnel Security Policy             | Civic Actions/security-policy                                                             | Write one!                  |
+| RA-5    | Vulnerability Scanning                | Security Review, Paranoia, [OpenSCAP/GovReady](https://galaxy.ansible.com/Civic Actions/) | contrib, contrib, GitHub    |
 | SC-7    | Deny by Default / Allow by Exception  | CDN, VPC, iptables, Bastion SSH                                                          | Sysadmin                    |
 | SC-13   | Cryptographic Protection              | Encrypt, Field Encrypt, File Encrypt                                                     | contrib                     |
 | SC-18   | Prevent Downloading Execution         | SecKit Private file system                                                               | contrib, core               |

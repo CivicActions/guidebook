@@ -1,6 +1,6 @@
 # Wireframing Guide
 
-CivicActions often uses mybalsamiq for collaborating on wireframes: <http://civicactions.mybalsamiq.com>
+Civic Actions often uses mybalsamiq for collaborating on wireframes: <http://civicactions.mybalsamiq.com>
 
 ## What it is:
 

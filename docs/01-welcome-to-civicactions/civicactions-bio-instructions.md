@@ -1,4 +1,4 @@
-# CivicActions Bio Instructions
+# Civic Actions Bio Instructions
 
 Now that you're part of the team, we want to add your photo and bio to our team page!
 

@@ -18,7 +18,7 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## Markdown linter
 
-We are using <http://remark.js.org/> for linting/checking our markdown syntax.  The [.remarkrc.error file](https://github.com/CivicActions/handbook/blob/master/.remarkrc.error) shows a list of all the rules being enforced.
+We are using <http://remark.js.org/> for linting/checking our markdown syntax.  The [.remarkrc.error file](https://github.com/Civic Actions/handbook/blob/master/.remarkrc.error) shows a list of all the rules being enforced.
 
 This linter is run by [Travis CI](travis-ci.md) with each pull request and code merge, and will fail if it finds errors.
 

@@ -11,7 +11,7 @@ The normal workweek for a full-time employee is forty (40) hours. With some empl
 
 ## <a name="attendance"></a>Attendance / Tardiness
 
-CivicActions trusts its employees. If an employee is unable to work for any reason, we just ask that you make a good faith effort to timely notify CivicActions of an absence or period of unavailability.
+Civic Actions trusts its employees. If an employee is unable to work for any reason, we just ask that you make a good faith effort to timely notify Civic Actions of an absence or period of unavailability.
 
 ## <a name="personal-appearance"></a>Personal Appearance
 
@@ -19,4 +19,4 @@ Be appropriate for the client you are meeting either face-to-face or via video c
 
 ## <a name="access-account"></a>Access to Business-Related Online Accounts
 
-Please tell the admin group about any online accounts you open for the benefit of CivicActions or a CivicActions client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.
+Please tell the admin group about any online accounts you open for the benefit of Civic Actions or a Civic Actions client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.

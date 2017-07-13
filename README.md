@@ -1,12 +1,12 @@
 # EMPLOYEE HANDBOOK
 
-This Handbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Handbook has been prepared to describe Civic Actions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
 ## This is not really the README you are looking for.
 
 The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <http://civicactions-handbook.readthedocs.io/en/latest/README/>
 
-## CivicActions, Inc.
+## Civic Actions, Inc.
 
 2625 Alcatraz Avenue, Suite 320
 Berkeley, CA 94705
@@ -17,7 +17,7 @@ civicactions.com
 
 ## License
 
-Copyright 2017 CivicActions.
+Copyright 2017 Civic Actions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](docs/LICENSE.md).
 

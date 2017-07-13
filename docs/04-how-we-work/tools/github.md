@@ -2,19 +2,19 @@
 
 ## About GitHub
 
-GitHub is a publicly available, free service which hosts the source code for tens of thousands of open source projects. CivicActions uses GitHub for all open source projects (except those which are better hosted on an open source community infrastructure), as well as internal, client or pro-bono projects that should be developed in public. Client projects that are not developed in public do not use GitHub, but usually use GitLab: <https://git.civicactions.net>.
+GitHub is a publicly available, free service which hosts the source code for tens of thousands of open source projects. Civic Actions uses GitHub for all open source projects (except those which are better hosted on an open source community infrastructure), as well as internal, client or pro-bono projects that should be developed in public. Client projects that are not developed in public do not use GitHub, but usually use GitLab: <https://git.civicactions.net>.
 
 ## Setting Up Your Account
 
-Many CivicActions employees will already have a GitHub account. If you don't have one yet, now's a great time to create one! Follow these steps:
+Many Civic Actions employees will already have a GitHub account. If you don't have one yet, now's a great time to create one! Follow these steps:
 
 1. Sign up with a free profile on <https://github.com/join>.
 
 a. As always, please use a unique, secure password.
 
-b. Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
+b. Use a personal email account, not your Civic Actions one, so that your GitHub account will be portable.
 
-1. Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team).
+1. Ask a coworker to add you to the [Civic Actions team](https://github.com/orgs/Civic Actions/teams/civicactions-team).
 2. Find out the details of the repositories you'll be working with.
 3. Good work! Now set up two-factor authentication: <https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/>
 

@@ -4,7 +4,7 @@
 
 ## <a id="leadership">Leadership</a>
 
-The Marketing team maintains CivicActions's Twitter page and presence on social media.
+The Marketing team maintains Civic Actions's Twitter page and presence on social media.
 
 ## <a id="communication">Communication</a>
 
@@ -15,4 +15,4 @@ Find us in Slack:
 
 ## <a id="twitter">Twitter</a>
 
-CivicActions has a [Twitter account](https://www.twitter.com/CivicActions).
+Civic Actions has a [Twitter account](https://www.twitter.com/Civic Actions).
