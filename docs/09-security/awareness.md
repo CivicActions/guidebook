@@ -174,3 +174,7 @@ Erasing an entire disk:
 CivicActions believes that your privacy is a right, and that private communications can be beneficial to business. Here's some tips on how FOSS can help:
 
 * [Protecting Your Privacy with Encryption](./encryption.md)
+
+## Don't merge this
+
+Just testing a PR slack bot. 
