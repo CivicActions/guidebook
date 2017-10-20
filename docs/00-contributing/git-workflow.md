@@ -49,7 +49,7 @@ Resources:
 
 ## Assigning pull requests
 
-If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).  See also [docs-governance.md](docs-governance.md).
+If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider assigning it to that team or person (or pinging them in Slack to ask them to review it). Review teams can be specified in the "Reviewers" section of the right hand sidebar, and pull requests can be assigned in the "Assignees" section. See also [docs-governance.md](docs-governance.md).
 
 ## How to review and merge pull requests
 
