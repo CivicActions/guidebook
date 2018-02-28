@@ -1,28 +1,14 @@
-# YubiKey Support for Mac OS X
+# YubiKey Support for macOS
 
-This is the Mac OS X specific documentation for [YubiKey](README.md).
+This is the macOS specific documentation for [YubiKey](README.md).
 
-*Please help make this page more useful by adding links you found useful (describe exactly how they are useful) and specific steps you used to install, configure, and test your YubiKey.*
+## Setup
 
-## Install apps
+The following link describes setting up your Yubikey on macOS, as well as a second factor for machine login and creating a GPG key (for encrypting files or signing things like GitHub commits). 
 
-See:
+[https://github.com/jeffmaher/yubikey-macos-setup/blob/master/README.md](https://github.com/jeffmaher/yubikey-macos-setup/blob/master/README.md)
 
-* <https://www.yubico.com/start/mac-os/>
-* <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
-* <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
-
-*tbd...*
-
-## Set up PAM TFA
-
-*tbd...*
-
-## Screen lock on lid close or idle
-
-*tbd...*
-
-### Away detection ideas
+## Away detection ideas
 
 Exceptions to the "idle timeout lock" can be made if you are on your home network and feel that it is secure. Adapt the below script if you only want to lock your screen when you are away from home.
 
