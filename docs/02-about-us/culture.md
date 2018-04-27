@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this playbook.
+CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members.
 
 The CivicActions culture is one of openness and authenticity. We are radically transparent in our communications and intentions. We strive to create an environment where people are comfortable to show emotion and be our true selves. We are people first, who want to work in an environment that strives to make the world better but who also want to care for ourselves and each other. We are balanced by knowing and honoring the priorities in our lives -- at work, at home, and in our mental and spiritual well-being. As a mostly remote firm, with a few onsite teams, we value promoting and fostering this culture so that it is cohesive and that each team member feels included.
 
@@ -31,6 +31,23 @@ We invest extra effort into our communication strategies because we are a mostly
 * **Retrospectives** - These occur at the end of each sprint on a project level, or at other milestones for any department or activity at CivicActions. It’s a forum to talk about what is working, what isn’t, and what we can improve. It’s a safe space to discuss failure *without blame* and to reflect on successes and celebrate team members too.
 * **Balance Scores** - At every meeting, we each report our “balance score” -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for “work-life balance”, and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn’t necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others.
 * **Culture Videos** - Captured at the 2016 retreat, we have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It’s an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
+
+##Transparency
+
+**What is Radical Transparency?**
+
+We talk a lot about radical transparency here at CivicActions, but what is it?  There are many different, often conflicting definitions for transparency in business.  Here are some, from the book Accountability and Transparency for Peaceful Development by Kelly Ngyah.  You can read the relevant sections for free here. 
+
+*“[T]ransparency means operating in such a way that others can actually see how, what and why actions are carried out.”  As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical.” 
+ “Radical Corporate Transparency...is a philosophical concept regarded as the ‘removing of all barriers to free and easy public access to corporate, political, and personal...information, and the development of laws, rules, social connivance and processes that facilitate and protect such an outcome.”* 
+ 
+**How does Radical Transparency Work at CivicActions?** 
+
+Here’s a real life example:  In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved (slides [here](https://docs.google.com/presentation/d/1swxbFAieY2p39mjR5ou5WW9SNPQkDisTttyXTsYLdgo/edit#slide=id.gb3711abec_1_2_)).  In this example, the company’s management team felt a responsibility to be transparent about the health of the company to everyone working at the company.
+
+**How does Radical Transparency NOT Work at CivicActions?**
+
+Radical transparency can sound pretty uncomfortable. Some companies take it to mean sharing of salaries, personal reviews, etc. to increase competitiveness. This is absolutely NOT CivicActions’ definition of radical transparency.  We believe radical transparency is the company, board, and management team’s responsibility to be open and transparent with employees, clients, and one another. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly.  This does not mean that you cannot ever speak privately to other people. This does not mean we are sharing passwords publicly or that your review data is available for your coworkers to see. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
 
 ## Common Questions
 
