@@ -1,0 +1,13 @@
+- Neurological reward for giving in to distraction. If you fight it, you win.
+- Don't indulge in distractions. Set a time to indulge.
+- Carve out time for particular tasks/projects. 
+- Map/List of the things that you MUST do today (prioritized to-do list)
+- Spend time at beginning of day to outline what you need to do
+- paper checklist (bc trello board gets ignored) so satisfying to check off and it's always in front of you
+- tasks list in google - it's always open in gmail
+- slack can create trello cards (/trello add)
+- Use Speed Dial 2 browser plugin to have urls saved per project
+- DND on slack
+- Sometimes working late/early when it's quiet you can just get a ton done
+- compartmentalize your day - only focus on something in a certain time.
+- Slack: use unread list. use alt click to mark as unread. use slack status
