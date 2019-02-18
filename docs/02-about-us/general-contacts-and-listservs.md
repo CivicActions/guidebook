@@ -20,13 +20,13 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 
 ## Main Listservs
 
-*   Team-wide communication: ca-team@civicactions.net
-*   Request Timeoff: ca-timeoff@civicactions.net
-*   HR Notices: ca-employees@civicactions.net
-*   Engineering: ca-dev@civicactions.net
-*   Project Management: ca-pm@civicactions.net
-*   Sales: ca-sales@civicactions.net
-*   Marketing: ca-marketing@civicactions.net
+*   Team-wide communication: ca-team (at) civicactions.net
+*   Request Timeoff: ca-timeoff (at) civicactions.net
+*   HR Notices: ca-employees (at) civicactions.net
+*   Engineering: ca-dev (at) civicactions.net
+*   Project Management: ca-pm (at) civicactions.net
+*   Sales: ca-sales (at) civicactions.net
+*   Marketing: ca-marketing (at) civicactions.net
 *   Every project has its own listserv, for example:
-    *   projectname@civicactions.net (includes clients)
-    *   projectname-int@civicactions.net (includes only CivicActions staff)
+    *   projectname (at) civicactions.net (includes clients)
+    *   projectname-int (at) civicactions.net (includes only CivicActions staff)
