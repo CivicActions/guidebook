@@ -38,7 +38,7 @@ Time off will be recorded simply to easily see any patterns that might otherwise
 
 ## Personal Leave of Absence
 
-Employees of CivicActions, including part-time employees, who have worked for at least one (1) year may request a personal leave of absence. A leave of absence is for extended periods, typically 4 weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
+Employees of CivicActions, including part-time employees, who have worked for at least one (1) year may request a personal leave of absence. A leave of absence is for extended periods, typically 3 weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
 
 ## Maternity and Paternity Leave
 
