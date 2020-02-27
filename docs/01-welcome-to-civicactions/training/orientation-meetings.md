@@ -14,7 +14,7 @@
     *   Benefits selection
     *   Anti-Harassment Training (visit "My Company", then select "Training")
 
-*   Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
+*   Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from DocuSign that asks you to acknowledge it later this week.
 
 *   Review the following CivicActions' policies on your own:
     *   [Annual Review Process](../../03-policies/annual-review-process.md)
