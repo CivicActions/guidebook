@@ -1,5 +1,7 @@
 # EMPLOYEE HANDBOOK
 
+[![Pipeline status](https://gitlab.com/civicactions/handbook/badges/master/pipeline.svg)](https://gitlab.com/civicactions/handbook/-/commits/master) [![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
+
 ## CivicActions, Inc.
 
 3527 Mount Diablo Blvd., Unit 269
