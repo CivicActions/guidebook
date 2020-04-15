@@ -23,6 +23,7 @@
 - To alert only those in a channel/group who are online, write **@here**.
 
 ## IT Support / Halp
+
 - Halp is a Slack bot that we use to submit requests to our internal support team, responsible for supporting:
   - Internal systems and services (Slack, Zoom, Google Groups, GitLab, CI server, etc.)
   - Project sandbox / CI escalations
