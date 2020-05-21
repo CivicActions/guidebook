@@ -1,8 +1,8 @@
-# Offboarding A Team Member from a Project 
+# Offboarding A Team Member from a Project
 
-- The project team is responsible for doing project specific offboarding. However, there is a company offboarding process where non-project specific offboarding is already tracked. 
+- The project team is responsible for doing project specific offboarding. However, there is a company offboarding process where non-project specific offboarding is already tracked.
 - The Project Manager should use a Trello card or Jira ticket (depending on the tool the project uses) to track offboarding tasks after the contractor's work is completed to ensure the contractor is properly removed from CivicActions tools, files, and the project. Consider preparing this ticket at the time of contractor onboarding so you have a place you can track all tools to which they are added over time.
-- The Project Manager should also coordinate offboarding tasks with appropriate team members (UX, TL, etc) to ensure that the remainder of the tasks are completed. 
+- The Project Manager should also coordinate offboarding tasks with appropriate team members (UX, TL, etc) to ensure that the remainder of the tasks are completed.
 
 ## Offboarding team members with legacy information who may return to consult
 
@@ -64,7 +64,6 @@ SCENARIO: When this team member leaves the company they should be fully offboard
 - Project specific CPM access - remove
 - Basic Auth login - change
 - Request all project data be remove from personal computer
-
 
 ## Offboarding a contractor from a project
 
