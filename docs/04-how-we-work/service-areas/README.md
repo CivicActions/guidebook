@@ -10,14 +10,14 @@ Each service area is identified by a unique 2 character code - this is used to i
 
 ## Directory
 
-| Name                    | Code | Leads                           | Responsibilities                                                                     | Slack               | Meetings                                      |
-| ----------------------- | ---- | ------------------------------- | ------------------------------------------------------------------------------------ | ------------------- | --------------------------------------------- |
-| DevOps                  | DV   | Owen Barton                     | Board link                                                                           | #devops             | Biweekly on Thursday 1-2pm PT |
-| Drupal                  | DR   | Bob Schmitt                     | [Board link](https://trello.com/b/UTvr4D0W/drupal-cms-service-area-responsibilities) | #engineering-drupal | Biweekly on Wednesday 10-11am PT                                               |
-| Free Software Open Data | OD   | Kim Davidson                    | Board link                                                                           | #opendata           |           |
-| Innovation Lab          | IL   | TBD                             | Board link                                                                           | #                   |                                               |
-| Security & Compliance   | SC   | Fen Labalme                     | [Board link](https://trello.com/b/jOs5rFzJ/security-responsibilities)                | #loving-security    |                                               |
-| Support & Helpdesk      | SP   | Ero Gray                        | Board link                                                                           | #helpdesk           |                                               |
-| Education Services      | ES   | Chianti Lomax                   | [Board link](https://trello.com/b/ylwtFY0M/education-services-responsibilities)      | #eduservices        |                                               |
-| User Experience         | UX   | Shira Kates                     | Board link                                                                           | #ux             | Weekly on Monday 12-12:30pm PT         |
-| Product Managemenr      | PM   |  TBD                            | Board link                                                                           | #productmanagement             | Weekly on Monday 12-12:30pm PT         |
+| Name                    | Code | Leads         | Responsibilities                                                                     | Slack               | Meetings                         |
+| ----------------------- | ---- | ------------- | ------------------------------------------------------------------------------------ | ------------------- | -------------------------------- |
+| DevOps                  | DV   | Owen Barton   | Board link                                                                           | #devops             | Biweekly on Thursday 1-2pm PT    |
+| Drupal                  | DR   | Bob Schmitt   | [Board link](https://trello.com/b/UTvr4D0W/drupal-cms-service-area-responsibilities) | #engineering-drupal | Biweekly on Wednesday 10-11am PT |
+| Free Software Open Data | OD   | Kim Davidson  | Board link                                                                           | #opendata           |                                  |
+| Innovation Lab          | IL   | TBD           | Board link                                                                           | #                   |                                  |
+| Security & Compliance   | SC   | Fen Labalme   | [Board link](https://trello.com/b/jOs5rFzJ/security-responsibilities)                | #loving-security    |                                  |
+| Support & Helpdesk      | SP   | Ero Gray      | Board link                                                                           | #helpdesk           |                                  |
+| Education Services      | ES   | Chianti Lomax | [Board link](https://trello.com/b/ylwtFY0M/education-services-responsibilities)      | #eduservices        |                                  |
+| User Experience         | UX   | Shira Kates   | Board link                                                                           | #ux                 | Weekly on Monday 12-12:30pm PT   |
+| Product Managemenr      | PM   | TBD           | Board link                                                                           | #productmanagement  | Weekly on Monday 12-12:30pm PT   |
