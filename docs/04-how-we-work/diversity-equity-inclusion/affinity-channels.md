@@ -29,22 +29,21 @@ Regional Groups:
 
 Please honor the intentions of the affinity channels by only joining affinity groups you identify with, unless the channel topic explicitly welcomes allies. For open channels, be aware that conversations are public and can be viewed by anyone at CivicActions, regardless of whether or not they are in the channel.
 
-Anyone can join an affinity channel as long as they identify with the group, including members of the management team. Management members who aren’t part of the affinity group will not be in affinity channels, and cannot view content in channels that are private.
+Anyone can join an affinity channel as long as they identify with the group, including members of the management team. Management members who are not part of the affinity group will not be in affinity channels, and cannot view content in channels that are private.
 
 ## Joining a private affinity channel
 
-If you’d like to be added to a private affinity channel, reach out to the point of contact or moderator listed in the affinity channels directory.
+If you would like to be added to a private affinity channel, reach out to the point of contact or moderator listed in the affinity channels directory.
 
 # Affinity channel moderator role
 
-Affinity channel moderators serve as the main point of contact for team members outside of private channels. Moderators are responsible for adding new team members to the channel on request. Each private affinity channel must have at least one designated moderator, but they don’t have to be the person who created the channel.
+Affinity channel moderators serve as the main point of contact for team members outside of private channels. Moderators are responsible for adding new team members to the channel on request. Each private affinity channel must have at least one designated moderator, but they do not have to be the person who created the channel.
 
 # How to create a new affinity channel
 
 - Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group doesn’t already exist.
-  Getting started:
 - Add a new channel by clicking the + next to the Slack channels list.
-- Be sure to give your channel a description, and add a channel topic so people understand who it’s for.
+- Be sure to give your channel a description, and add a channel topic so people understand who it is for.
 - Decide whether to make your channel private, and whether allies are welcome.
 - Designate a point person moderator for your channel and add them to the channel topic.
 - Do a GitHub pull request to get your channel listed on the affinity channel handbook directory page; or if preferred, ask Alaine to add your new channel to the handbook page.
