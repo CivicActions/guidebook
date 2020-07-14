@@ -35,11 +35,11 @@ Anyone can join an affinity channel as long as they identify with the group, inc
 
 If you would like to be added to a private affinity channel, reach out to the point of contact or moderator listed in the affinity channels directory.
 
-# Affinity channel moderator role
+## Affinity channel moderator role
 
 Affinity channel moderators serve as the main point of contact for team members outside of private channels. Moderators are responsible for adding new team members to the channel on request. Each private affinity channel must have at least one designated moderator, but they do not have to be the person who created the channel.
 
-# How to create a new affinity channel
+## How to create a new affinity channel
 
 - Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group does not already exist.
 - Add a new channel by clicking the + next to the Slack channels list.
