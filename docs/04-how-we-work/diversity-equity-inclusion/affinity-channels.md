@@ -41,7 +41,7 @@ Affinity channel moderators serve as the main point of contact for team members 
 
 # How to create a new affinity channel
 
-- Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group doesn’t already exist.
+- Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group does not already exist.
 - Add a new channel by clicking the + next to the Slack channels list.
 - Be sure to give your channel a description, and add a channel topic so people understand who it is for.
 - Decide whether to make your channel private, and whether allies are welcome.
