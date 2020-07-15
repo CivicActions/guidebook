@@ -17,7 +17,7 @@ The following holidays are observed by CivicActions and the office is considered
 
 \*Typically for holidays that fall on Saturday, the office is closed the preceeding Friday. For holidays that fall on Sunday, the office is closed the following Monday.
 
-Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. Typically, if a holiday falls on a Saturday, the office is closed the observing Friday and if it falls on a Sunday the office is closed the observing Monday. You do NOT need to log entries when the office is closed for a Holiday.
+Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. You do NOT need to Harvest time log entries when the office is closed for a Holiday.
 
 ## Time Off
 
@@ -56,7 +56,7 @@ Welcoming a new child is an amazing time for a family and we want to support emp
 
 ## Medical Insurance
 
-All full-time regular employees and part-time hourly employees who work at least 30 hours a week are entitled to benefits under CivicActions' medical, dental, vision! life insurance plans. CivicActions pays 100% of the premiums, unless you opt for benefit that is more expensive than the company-covered plans. Then you pay the difference. See your TriNet PassPort account for managing these benefits.
+All full-time regular employees and part-time hourly employees who work at least 30 hours a week are entitled to benefits under CivicActions' medical, dental, vision & life insurance plans. CivicActions pays 100% of the premiums, unless you opt for benefit that is more expensive than the company-covered plans. Then you pay the difference. See your TriNet PassPort account for managing these benefits.
 
 New full-time employees joining CivicActions will be eligible for coverage on the first of the month following thirty (30) days from the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers or the ACA.
 
