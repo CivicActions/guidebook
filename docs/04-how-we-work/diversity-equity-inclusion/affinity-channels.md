@@ -22,7 +22,7 @@ Regional Groups:
 - #ca-florida (open): For team members located in Florida
 - #ca-new-england (open): For team members located in the New England area
 - #ca-or (open): For team members located in Oregon
-- #canada (private) - Kev: For employees located in Canada; mostly operational, PEO Canada
+- #canada (private, Kev): For employees located in Canada; mostly operational, PEO Canada
 - #sacramento-things (open): For team members located in the Sacramento area or traveling to Sacramento for work
 
 ## Who can join an affinity channel
