@@ -5,6 +5,7 @@ cache:
 lint:
   image: node:13
   script:
+    - echo $CI_COMMIT_BEFORE_SHA
     - yarn install --frozen-lockfile
     # We fetch the branches, since suggestions are limited to files changed relative to the master branch.
     - git fetch origin master
