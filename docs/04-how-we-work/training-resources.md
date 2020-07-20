@@ -15,7 +15,7 @@ As an CivicActions team member, you have access to these online training resourc
 
   > @todo [Add link to credentials](https://trello.com/c/dxKtjdYD/111-add-link-to-doc-with-drupalizeme-and-buildamodule-credentials) -- but do not include credentials here
 
-## Drupalize.me
+#### Drupalize.me
 
 - Go to the [Drupalize.me Google Calendar](https://calendar.google.com/calendar/b/1/embed?src=civicactions.net_cebuchs4bgsjue2jbsv46hfeek@group.calendar.google.com&ctz=America/Los_Angeles).
 - Click the "+" button on the bottom right of this page, and add this calendar to your own civicactions.com Google Calendars.

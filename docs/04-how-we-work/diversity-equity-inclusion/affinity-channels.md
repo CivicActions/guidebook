@@ -2,7 +2,7 @@
 
 ## What is an affinity channel?
 
-Affinity channels are intentional spaces for people who share a common identity or affinity to build community and have conversations that are harder to protect in a general space. For example, the #ca-womxn affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming.
+Affinity channels are intentional spaces for people who share a common identity or affinity to build community and have conversations that are harder to protect in a general space For example, the #ca-womxn affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming.
 
 ## Affinity channels directory
 
@@ -25,9 +25,9 @@ Regional Groups:
 - #canada (private) - Kev: For employees located in Canada; mostly operational, PEO Canada
 - #sacramento-things (open): For team members located in the Sacramento area or traveling to Sacramento for work
 
-## Who can join an affinity channel
+#### Who can join an affinity channel
 
-Please honor the intentions of the affinity channels by only joining affinity groups you identify with, unless the channel topic explicitly welcomes allies. For open channels, be aware that conversations are public and can be viewed by anyone at CivicActions, regardless of whether or not they are in the channel.
+Please honor the intentions of the affinity channels by only joining affinity groups you identify with, unless the channel topic explicitly welcomes allies For open channels, be aware that conversations are public and can be viewed by anyone at CivicActions, regardless of whether or not they are in the channel.
 
 Anyone can join an affinity channel as long as they identify with the group, including members of the management team. Management members who are not part of the affinity group will not be in affinity channels, and cannot view content in channels that are private.
 
@@ -39,7 +39,7 @@ If you would like to be added to a private affinity channel, reach out to the po
 
 Affinity channel moderators serve as the main point of contact for team members outside of private channels. Moderators are responsible for adding new team members to the channel on request. Each private affinity channel must have at least one designated moderator, but they do not have to be the person who created the channel.
 
-## How to create a new affinity channel
+##### How to create a new affinity channel
 
 - Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group does not already exist.
 - Add a new channel by clicking the + next to the Slack channels list.
