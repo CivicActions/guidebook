@@ -44,7 +44,8 @@ var codeReview = function (files, severity) {
       } else {
         url = remarkBase + rule[0];
       }
-      var issue = "- [" + message.message + "](" + url + ")\n";
+      var issue =
+        "- [" + message.message + "](" + url + ") (" + severity + ")\n";
       codeReviewResults[severity][file.filePath][message.line] += issue;
     });
   });
