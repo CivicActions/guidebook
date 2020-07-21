@@ -8,7 +8,7 @@ lint:
     # We fetch the master branche, since suggestions are limited to files changed relative to the master branch.
     - git fetch origin master
     # Set up variable for commit range for unified-diff support (faking Travis CI variable).
-    - export TRAVIS_COMMIT_RANGE="$(git merge-base HEAD master)...$(git rev-parse HEAD)"
+    - export TRAVIS_COMMIT_RANGE="$(git merge-base HEAD origin/master)...$(git rev-parse HEAD)"
     # Install packages.
     - yarn install --frozen-lockfile
     # Lint the gulpfile with eslint.
