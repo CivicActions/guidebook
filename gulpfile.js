@@ -13,6 +13,7 @@ const branch = branchName();
 
 const remarkBase = "https://github.com/remarkjs/";
 const remarkLint = "remark-lint/tree/main/packages/remark-lint-";
+const retextBase = "https://github.com/retextjs/";
 
 const githubKey = process.env.GITHUB_APP_PRIVATE_KEY;
 const githubPR = process.env.CI_EXTERNAL_PULL_REQUEST_IID;
@@ -38,6 +39,8 @@ var codeReview = function (files, severity) {
       var rule = message.ruleId.split(":");
       if (rule[0] == "remark-lint") {
         var url = remarkBase + remarkLint + rule[1] + "#example";
+      } else if (rule[0].slice(0, 6) == "retext") {
+        url = retextBase + rule[0];
       } else {
         url = remarkBase + rule[0];
       }
