@@ -20,7 +20,7 @@ const githubPR = process.env.CI_EXTERNAL_PULL_REQUEST_IID;
 const doCodeReview = branch && githubKey && githubPR;
 var codeReviewResults = {};
 
-var codeReview = function (files, severity) {
+var codeReview = function(files, severity) {
   if (!doCodeReview) {
     // Only post a code review if it looks like we have the right information available.
     return;
@@ -28,8 +28,8 @@ var codeReview = function (files, severity) {
   if (!(severity in codeReviewResults)) {
     codeReviewResults[severity] = {};
   }
-  vfileToEslint(files).forEach((file) => {
-    file.messages.forEach((message) => {
+  vfileToEslint(files).forEach(file => {
+    file.messages.forEach(message => {
       if (!(file.filePath in codeReviewResults[severity])) {
         codeReviewResults[severity][file.filePath] = {};
       }
@@ -51,23 +51,23 @@ var codeReview = function (files, severity) {
   });
 };
 
-var report = function (files, severity) {
+var report = function(files, severity) {
   codeReview(files, severity);
   return vfileReporter(files, { quiet: true });
 };
 
-var reportProblems = function (files) {
+var reportProblems = function(files) {
   return report(files, "problem")
     .replace(/warnings/g, "problems")
     .replace(/warning/g, "problem");
 };
-var reportSuggestions = function (files) {
+var reportSuggestions = function(files) {
   return report(files, "suggestion")
     .replace(/warnings/g, "suggestions")
     .replace(/warning/g, "suggestion");
 };
 
-gulp.task("problems", function () {
+gulp.task("problems", function() {
   // Default to all md files in root and in docs directory.
   var path = ["**/*.md", "!node_modules/**"];
   // Support an optional --path argument.
@@ -77,12 +77,12 @@ gulp.task("problems", function () {
   return gulp.src(path).pipe(
     remark({
       rcPath: ".remarkrc.problem",
-      reporter: reportProblems,
+      reporter: reportProblems
     })
   );
 });
 
-gulp.task("suggestions", function () {
+gulp.task("suggestions", function() {
   // Default to all md files in root and in docs directory.
   var path = ["**/*.md", "!node_modules/**"];
   // Support an optional --path argument.
@@ -93,13 +93,13 @@ gulp.task("suggestions", function () {
     remark({
       quiet: true,
       rcPath: ".remarkrc.suggestion",
-      reporter: reportSuggestions,
+      reporter: reportSuggestions
     })
   );
 });
 
 /* This posts a review to the Github PR with any problems or suggestions */
-gulp.task("postReview", async function () {
+gulp.task("postReview", async function() {
   if (!doCodeReview) {
     // Only post a code review if it looks like we have the right information available.
     return Promise.resolve("complete");
@@ -114,16 +114,16 @@ gulp.task("postReview", async function () {
     authStrategy: createAppAuth,
     auth: {
       id: githubAppId,
-      privateKey: githubKey,
-    },
+      privateKey: githubKey
+    }
   });
   const { token } = await appOctokit.auth({
     type: "installation",
-    installationId: githubAppInstallationId,
+    installationId: githubAppInstallationId
   });
   // Create a client using the token we retrieved.
   const octokit = new Octokit({
-    auth: token,
+    auth: token
   });
   // Fetch the PR diff - this is used to calcuate diff-wise line numbers.
   const { data: diff } = await octokit.pulls.get({
@@ -131,20 +131,20 @@ gulp.task("postReview", async function () {
     repo: githubRepo,
     pull_number: githubPR,
     mediaType: {
-      format: "diff",
-    },
+      format: "diff"
+    }
   });
 
   var severities = [];
   // For problems, we request changes - for suggestions we just comment.
   severities.push({ level: "problem", event: "REQUEST_CHANGES" });
   severities.push({ level: "suggestion", event: "COMMENT" });
-  severities.forEach(async function (severity) {
+  severities.forEach(async function(severity) {
     var results = codeReviewResults[severity.level];
     var body = "";
     var comments = [];
     var files = parse(diff);
-    files.forEach(function (file) {
+    files.forEach(function(file) {
       /* The position value equals the number of lines down from the first "@@" hunk
          header in the file you want to add a comment. The line just below the "@@"
          line is position 1, the next line is position 2, and so on. The position in
@@ -152,16 +152,16 @@ gulp.task("postReview", async function () {
          hunks until the beginning of a new file. */
       var diffLine = 0;
       if (file.to in results) {
-        file.chunks.forEach(function (chunk) {
+        file.chunks.forEach(function(chunk) {
           diffLine++; // Move down a line for each @@ chunk marker.
-          chunk.changes.forEach(function (change) {
+          chunk.changes.forEach(function(change) {
             if (change.type == "add") {
               if (change.ln in results[file.to]) {
                 // Generate our comment.
                 var comment = {
                   path: file.to,
                   position: diffLine,
-                  body: results[file.to][change.ln],
+                  body: results[file.to][change.ln]
                 };
                 comments.push(comment);
                 // Remove the item, so we don't include it in any leftovers.
@@ -194,7 +194,7 @@ gulp.task("postReview", async function () {
         pull_number: githubPR,
         body: body,
         event: severity.event,
-        comments: comments,
+        comments: comments
       });
     }
   });

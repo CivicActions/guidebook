@@ -196,3 +196,5 @@ restylers:
   - prettier:
       include:
         - "**/*.md"
+        - "*.js"
+        - "*.yml"
