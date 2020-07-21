@@ -24,7 +24,7 @@ function attacher() {
       .use(readability, {
         age: 18,
         minWords: 7,
-        severity: "fatal"
+        severity: "fatal",
       })
       .use(equality, { ignore: ignoreWords || [] })
       .use(diff)
