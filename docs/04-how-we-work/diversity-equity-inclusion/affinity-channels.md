@@ -2,7 +2,7 @@
 
 ## What is an affinity channel?
 
-Affinity channels are intentional spaces for people who share a common identity or affinity (and thier allies) to build community and have conversations that are harder to protect in a general space. For example, the `#ca-womxn` affinity channel is a space for CivicActioners who identify as female, trans, gender non-conforming, and allies. 
+Affinity channels are intentional spaces for people who share a common identity or affinity (and thier allies) to build community and have conversations that are harder to protect in a general space. For example, the `#ca-womxn` affinity channel is a space for CivicActioners who identify as female, trans, gender non-conforming, and allies.
 
 ## Affinity channels directory
 
@@ -31,7 +31,7 @@ Please honor the intentions of the affinity channels by only joining affinity gr
 
 Anyone can join an affinity channel, including members of the management team. Management members who are not in the affinity channels do not monitor private channels but reserves the right to view content in channels that are private.
 
-All affinity channels, private and public, are open to allies of the affinity group. Allies are individuals who do not necessarily share the characteristics of members of the affinity group but share the goals of that affinity channel. 
+All affinity channels, private and public, are open to allies of the affinity group. Allies are individuals who do not necessarily share the characteristics of members of the affinity group but share the goals of that affinity channel.
 
 ## Joining a private affinity channel
 
