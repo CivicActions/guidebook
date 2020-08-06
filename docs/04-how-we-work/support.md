@@ -4,7 +4,7 @@ Note: this is the process for requesting internal support. We also have a [help 
 
 ## To request support
 
-- Identify the appropriate channel (department, project, practice area etc) for your support request.
+- Identify the appropriate channel for your support request. This is often a practice area, department or project channel.
   - Using the right channel is helpful for visibility as well as to enable other people to follow or participate.
 - Invite the "Halp" bot user to this channel (`/invite @Halp`) if they are not already a member (this user is already on most channels, this step is rarely needed).
 - Write your request - it's helpful to include context as well as make your outcome/goal clear.
