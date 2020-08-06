@@ -1,10 +1,11 @@
 # Internal support
 
-Note: this is the process for requesting internal support. We also have a [help desk practice area](../11-help-desk/helpdesk.md) that comprised of teams providing helpdesk support services, primarily on client projects.
+Note: this is the process for requesting internal support. We also have a [help desk practice area](../11-help-desk/helpdesk.md) comprised of teams providing helpdesk support services on client projects.
 
 ## To request support
 
-- Identify the appropriate channel (department, project, practice area etc) for visibility if other people may want to follow or participate in the support request.
+- Identify the appropriate channel (department, project, practice area etc) for your support request.
+  - Using the right channel is helpful for visibility as well as to enable other people to follow or participate.
 - Invite the "Halp" bot user to this channel (`/invite @Halp`) if they are not already a member (this user is already on most channels, this step is rarely needed).
 - Write your request - it's helpful to include context as well as make your outcome/goal clear.
 - Emoji react with `:ticket:` to your message.
