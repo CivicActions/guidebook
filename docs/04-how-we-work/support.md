@@ -9,12 +9,12 @@ Note: this is the process for requesting internal support. We also have a [help 
 - Write your request - it's helpful to include context as well as make your outcome/goal clear.
 - Emoji react with `:ticket:` to your message.
   - If there is prior discussion that includes helpful context you can include those in your request by emoji reacting with `:pushpin:` to each message before creating the ticket.
-  - Alternatively you can click “...” ("More actions") on the message and select "Create Halp Ticket".
+  - Alternatively you can click "..." ("More actions") on the message and select "Create Halp Ticket".
   - If you are having trouble creating a ticket ping the internal support team directly using the @it-help handle on any public channel.
 
 The support tool we use (called Halp) will notice this and create a thread/ticket to track the request.
 
-Once the request is complete please close the ticket using the button in the thread then respond to the “How would you rate your support experience?” question with the thumbs up/down buttons.
+Once the request is complete please close the ticket using the button in the thread then respond to the "How would you rate your support experience?" question with the thumbs up/down buttons.
 
 ## Internal support scope
 
