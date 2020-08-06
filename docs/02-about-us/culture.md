@@ -158,8 +158,7 @@ If you would like to speak to consuler confidentially, TriNet provides CivicActi
 
 We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion. You are or know of someone who is subject to behavior in violation of our [Policy Against Proscribed Harassment and Discrimination](https://handbook.civicactions.com/en/latest/03-policies/anti-harassment-policies/) you can follow the [reporting procedures](https://handbook.civicactions.com/en/latest/03-policies/anti-harassment-policies/#reporting-and-investigating-proscribed-harassment) in that policy.
 
-You can also reach out to a [Diversity, Equity, and Inclusion (DEI) point person](https://trello.com/c/5XyeNrfZ/109-dei-point-people). 
-
+You can also reach out to a [Diversity, Equity, and Inclusion (DEI) point person](https://trello.com/c/5XyeNrfZ/109-dei-point-people).
 
 ### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn't welcome here.
 
