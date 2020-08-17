@@ -169,7 +169,7 @@ Web administrator account holders (Drupal, CiviCRM or other) must also:
 - Be familiar with how to maintain configuration security as described in Drupal's [securing your site](http://drupal.org/security/secure-configuration) page.
 - Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
 - Test the site to ensure settings are correct after changing settings affecting content/data access control.
-- Avoid the use use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
+- Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
 - Respect the privacy of site users, avoiding accessing personal data such as private messages.
 
 Developers and themers working on the site codebase (and committing code to Git) must also:
