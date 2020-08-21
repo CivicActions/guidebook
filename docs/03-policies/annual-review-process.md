@@ -21,4 +21,4 @@ If a team member is feeling uncomfortable about this process we encourage them (
 
 # When it happens
 
-The annual retrospective is conductedly annually near the team member's initial start date. 
+The annual retrospective is conductedly annually near the team member's initial start date.
