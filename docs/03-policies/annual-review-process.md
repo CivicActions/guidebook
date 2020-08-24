@@ -19,6 +19,6 @@ If a team member is feeling uncomfortable about this process we encourage them (
 
 [> Annual Retrospective Template](https://trello.com/b/Lpz7sc8d/template-name-annual-retrospective)
 
-# When it happens
+## When it happens
 
-The annual retrospective is conductedly annually near the team member's initial start date.
+This retrospective is conducted once per year near the team member's initial start date.
