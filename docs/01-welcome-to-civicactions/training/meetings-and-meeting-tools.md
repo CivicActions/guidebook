@@ -51,7 +51,8 @@ These meetings happen at regular interval and you will be invited to attend the 
 
 - Engineering
 - Project Management
-- DevOps
+- DevSecOps
 - User Experience
 - Diversity, Equity, and Inclusion
 - Hiring
+- [practice area page](../../04-how-we-work/practice-areas/README.md)
