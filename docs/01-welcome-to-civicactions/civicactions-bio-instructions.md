@@ -11,4 +11,4 @@ Now that you're part of the team, we want to add you to our team page!
 5.  Fill out the template as much as you can (as a rough draft)
 6.  Send a high-quality [headshot photo](https://docs.google.com/document/d/1i1YILM5ncb376vUnVjWI_nICd1NKJM1r3ETYPreXAb8/edit) to the content writer in Slack.
 7.  You will get an invitation for a 30-minute interview in which the content writer will work with you to finish up your profile and add it to the website
-8.  When you’ve completed all this, let your onboarding manager know
+8.  When you've completed all this, let your onboarding manager know
