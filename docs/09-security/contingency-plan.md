@@ -104,7 +104,7 @@ disruption would only impact the team's ability to update code on the instances.
 - **Service:** <https://git.civicactions.net/>
 - **Status:** <https://app.statuscake.com/AllStatus.php?tid=1702974>
 
-If GitLab becomes unavailable, systems will continue to operate in its current state. The disruption would only impact the team's ability to update code on the instances.
+If GitLab becomes unavailable, systems will continue to operate in their current state. The disruption would impact the team's ability to update code on the instances, which could have significant impact.
 
 #### StatusCake
 
