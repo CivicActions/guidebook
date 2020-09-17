@@ -18,7 +18,6 @@
   - [OpsGenie](#opsgenie)
   - [JIRA](#jira)
   - [Slack](#slack)
-  - [CPM](#cpm)
   - [AWS](#aws)
   - [Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)](#acquia-cloud-enterprise-ace-platform-as-a-service-paas)
 - [How this document works](#how-this-document-works)
