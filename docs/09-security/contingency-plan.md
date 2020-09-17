@@ -141,12 +141,6 @@ Primary incident communications will move to one of:
 - Google Meet: <https://meet.google.com/>
 - Google Chat: <https://chat.google.com/>
 
-#### CPM
-
-- **Service:** <https://cpm.civicactions.net/>
-
-The Cloud Protection Manager (CPM) provides backup and restore services. There is no direct impact to the platform if a disruption occurs.
-
 #### AWS
 
 - **Service:** <https://signin.aws.amazon.com/console>
