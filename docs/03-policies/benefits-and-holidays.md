@@ -40,7 +40,7 @@ Time off will be recorded simply to easily see any patterns that might otherwise
 
 ## Personal Tech Issues
 
-At CivicActions, we understand that tech support problems are a normal part of working from home. 
+At CivicActions, we understand that tech support problems are a normal part of working from home.
 
 ### Communication
 
