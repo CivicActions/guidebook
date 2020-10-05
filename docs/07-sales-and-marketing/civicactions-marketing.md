@@ -10,26 +10,26 @@ The marketing team uses a community-driven approach to strategically attract the
 - Social media such as [Twitter](https://twitter.com/civicactions), [Facebook](https://www.facebook.com/CivicActions/), and [LinkedIn](https://www.linkedin.com/company/civicactions/)
 - Cultivating opportunities to appear in [press and news](https://civicactions.com/press)
 
-**Strategy and OKRs**
+**Strategy and OKRs**  
 Marketing is using [Objectives and Key Results (OKRs)](https://www.whatmatters.com/faqs/do-i-need-okrs-goals/) to set and track measurable goals. View [Marketing OKRs here](https://drive.google.com/drive/folders/1bd0_pxo2fBOEOQpj1UU8cXPdLul5o_3-).
 
-**Marketing-related Slack channels**
-We welcome everyone at CivicActions to be part of the conversation about how to best reach our audiences with valuable content and ideas. Here are some Slack channels you can drop into for marketing related discussions.
+**Marketing-related Slack channels**  
+We welcome everyone at CivicActions to be part of the conversation about how to best reach our audiences with valuable content and ideas. Here are some Slack channels you can drop into for marketing related discussions:
 
-#marketing
+marketing
 _Discussion on marketing strategy, OKRs, initiatives, press, and general marketing inquirires or ideas_
 
-#brand
+brand
 _Brand-related assets, projects, resources, questions (logos, colors, styles, templates, letterhead...)_
 
-#content
-\*Discuss and collaborate on any content-related initiatives like blog posts, articles, collateral, etc.
+content
+_Discuss and collaborate on any content-related initiatives like blog posts, articles, collateral, etc._
 
-#events
-\*General discussion, planning, and questions about events we may attend or sponsor. There are also channels specific to core events like #event-drupal-govcon, #event-cfa-summit, etc.
+events
+_General discussion, planning, and questions about events we may attend or sponsor. There are also channels specific to core events like #event-drupal-govcon, #event-cfa-summit, etc._
 
-#marketing-homesite
-\*Discussion, feedback, ideas, and project management for civicactions.com. You can also use this channel to request an update to any homesite content, such as your staff profile.
+civicactions-homesite
+_Discussion, feedback, ideas, and project management for civicactions.com. You can also use this channel to request an update to any homesite content, such as your staff profile._
 
 ## Templates, logo, and branded collateral
 
