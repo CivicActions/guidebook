@@ -2,8 +2,6 @@
 
 CivicActions tracks and reports on company Key Performance Indicators (KPIs) monthly. These KPIs are presented to the whole company at the monthly All Hands Calls (AHC).
 
-Figure 1: Example KPI chart with example dummy data
-
 ## How to read this chart
 
 - The first column is the KPI and the second column is the target
@@ -19,7 +17,7 @@ Figure 1: Example KPI chart with example dummy data
 - **Profitability Percent:** The percentage is determined by taking all expenses into account, where the expenses are subtracted from all revenues earned during a period. This number is calculated on an accrual basis, where the money calculated is based only on the money earned and expensed each month, and does not factor previous or future revenues or expenses. The healthy profitability target for professional services industries is typically 20%, but can be adjusted lower if there’s a decision to increase investment elsewhere in the company (eg deciding to hire before we land work, or other investments that may not generate immediate revenues).
 - **Net Labor Multiplier (NLM):** The NLM is factored by comparing the base salaries of our delivery team members to how much revenue their work is generating for the company. The total company NLM is calculated by taking the monthly payroll base (US, Canada, Contractors) divided by the monthly revenue for those team members work. Insurance, benefits, taxes, etc. are not factored into the payroll base. Industry standard NLM is 3.0. It is affected by utilization percent and base salaries for delivery team and billing rates.
 - **Utilization Percent (Delivery):** The target percentage of the delivery team’s average billable time is 80% utilization (this is also an industry standard). The data for this KPI is collected from Harvest, but is filtered by only the delivery team members. The delivery team members utilization is averaged to compare to the 80% target. It is expected that some delivery team groups will be higher and some will be lower, with the anticipated goal that it evens out to the target. Also, certain individuals in the delivery team may have higher and lower targets due to other objectives they may have, or other roles they play in the company.
-- **Utilization Percent (Firmwide):** The target percentage of the whole company’s time that should be billable is 60% utilization. This is also an industry standard number. The data for this KPI is collected from Harvest, and includes all team members (billable and non-billable). The delivery team and non-billable team members utilization is averaged to compare to the 60% target. The target is industry standard.
+- **Utilization Percent (Company-wide):** The target percentage of the whole company’s time that should be billable is 60% utilization. This is also an industry standard number. The data for this KPI is collected from Harvest, and includes all team members (billable and non-billable). The delivery team and non-billable team members utilization is averaged to compare to the 60% target. The target is industry standard.
 - **Overall Health Score:** Each month after the six KPIs are calculated, the CEO indicates an overall health score of red, yellow, green for the month.
 - **Profit and Loss (P&L):** A financial statement that summarizes the revenues, costs, and expenses incurred during a specified period
 
