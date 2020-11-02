@@ -25,7 +25,7 @@ We follow the platinum rule at CivicActions. While the golden rule is to do to o
 
 If you receive feedback that something you said or shared is not respectful of another person, you are expected to consider how to respond or if any actions on your part are required to maintain a respectful relationship. This can be challenging and in some cases you may need to reach out to others to ask for feedback or guidance on how to behave in a respectful manner.
 
-Be open to building relationships across the team. As our team grows, we are more likely to have peers that we don't directly work with. CivicActions creates opportunities to be connect in other arenas for team members to get to know each other, including summits, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
+Be open to building relationships across the team. As our team grows, we are more likely to have peers that we don't directly work with. CivicActions creates opportunities to be connected in other arenas for team members to get to know each other, including summits, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
 
 Be considerate and respectful. We all have a voice and some of us happen to be louder than others. When in a discussion or sharing a thought, think before you speak, and give others a chance to be heard. When disagreeing about something, focus on resolving issues constructively and ask for help when needed. When meeting in person, be mindful of other people's boundaries and feel free to express your own physical boundaries - for example declining a hug.
 
