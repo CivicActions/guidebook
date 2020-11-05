@@ -53,7 +53,7 @@
 - Read the [expense policy](../../03-policies/expenses.md)
 
 - How to log onboarding time:
-  - Log your time in the CivicActions Harvest project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description
+  - Log your time in the CivicActions Harvest project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description
   - Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
 
 ### Communication Tools
@@ -81,9 +81,9 @@
 
 ### Time Off and Scheduling
 
-- Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md#time-off)
+- Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md)
 - Do you have any pre-approved time off requests?
-- The [formal request off procedure](../../03-policies/benefits-and-holidays.md#time-off)
+- The [formal request off procedure](../../03-policies/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
 - We use [Harvest Forecast](../../04-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
 - Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
 - Review [professional development](../../03-policies/prodev.md) & [community participation](../../03-policies/community-participation.md)
@@ -92,7 +92,7 @@
 
 - [CivicActions Agile](../../04-how-we-work/agile-overview.md)
 - Introduction to the [Daily Standup call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
-- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
+- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog refinement](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
 - Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 - Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 

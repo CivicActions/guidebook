@@ -1,6 +1,6 @@
 # Your own
 
-Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
+Remember that you can book time on your own calendar. We recommend blocking off your own "heads down" time in two-to-four hour chunks to complete tasks. You should also block off times where you don't want to get booked for meetings (eg a doctor's appt or long lunch with a friend).
 
 Also, if you're planning a meeting, be sure to state your goal (what the meeting is and what it isn't) in an agenda and invite description.
 
@@ -41,17 +41,10 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 
 - [Daily Scrum Call](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 - [Sprint Planning Meeting](../../04-how-we-work/agile-practices/sprint-planning-meetings.md)
-- [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-grooming.md)
+- [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-refinement.md)
 - [Sprint Demo](../../04-how-we-work/agile-practices/sprint-demo.md)
 - [Sprint Retrospective](../../04-how-we-work/agile-practices/sprint-retrospectives.md)
 
 ## Practice Area Meetings
 
-These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area.
-
-- Engineering
-- Project Management
-- DevOps
-- User Experience
-- Diversity, Equity, and Inclusion
-- Hiring
+These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../04-how-we-work/practice-areas/README.md).

@@ -11,21 +11,20 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 - Company Goals: Aaron Pava, Henry Poole
 - Sales related questions or ideas: Bill Ogilvie, Di Hussey
 - Marketing related questions or ideas: Aaron Pava
-- Professional development and pro dev stipend: Elizabeth Raley
-- Time-off, vacation, leave of absence: Your PM first, Elizabeth Raley
+- Professional development and pro dev stipend: Your check-in person
+- Time-off, vacation, leave of absence: Your project manager first, then project team
 - Personal, company or client security/compliance questions: Fen Labalme
-- Pod Leads: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa), John O'Duinn (Aries)
 
 ## Main Listservs
 
-- Team-wide communication: ca-team@civicactions.net
-- Request time off: ca-schedule@civicactions.net
-- HR Notices: ca-employees@civicactions.net
-- Engineering: ca-dev@civicactions.net
-- Project Management: ca-pm@civicactions.net
-- Sales: ca-bizdev@civicactions.net
-- Marketing: ca-marketing@civicactions.net
-- Events: ca-events@civicactions.net
+- Team-wide communication: <mailto:ca-team@civicactions.com>
+- Request time off: <mailto:ca-schedule@civicactions.com>
+- HR Notices: <mailto:ca-employees@civicactions.com>
+- Engineering: <mailto:ca-dev@civicactions.com>
+- Project Management: <mailto:ca-pm@civicactions.com>
+- Sales: <mailto:ca-bizdev@civicactions.com>
+- Marketing: <mailto:ca-marketing@civicactions.com>
+- Events: <mailto:ca-events@civicactions.com>
 - Every project has its own listserv, for example:
-  - projectname@civicactions.net (includes clients)
-  - projectname-int@civicactions.net (includes only CivicActions staff)
+  - <mailto:projectname@civicactions.com> (includes clients)
+  - <mailto:projectname-int@civicactions.com> (includes only CivicActions staff)
