@@ -7,7 +7,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 - We use base themes which implement ADA and WCAG guidelines.
 - We implement good SEO structures (which mimic good ADA structures).
 - We implement responsive design strategies that that can present complex data in hierarchical structures, capable of being navigated by audio cues.
-- We implement modules which enable readers to change color schemes and text size displays to accommodate their visual impairments.
+- We believe that users should be able to personalize how content is presented. We enable users to change color schemes and text size displays allow them to have a better user experience.
 - We test sites using visual screen readers and accessibility testing tools.
 - We use good practices in using semantic markup in page templates and report design to define content hierarchy (e.g. primary head is h1, secondary head is h2, etc.).
 
@@ -20,8 +20,8 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 ## General Accessibility Guidelines
 
 - Form elements should have labels.
-- Images should have alt text.
-- Decorative images or images with no content use should either have a null alt tag (alt = "") or rendered as background images.
+- Images should have meaningful alternative text (alt tag) by default. We recommend making alt tags manditory for content editors.
+- Decorative images or images with no content use should either have a null alt tag (alt="") or rendered as CSS background images.
 - Form buttons should have descriptive values.
 - Color should not be used as the sole method of conveying content or distinguishing visual elements.
 - Color alone is not used to distinguish links from surrounding text unless the luminance contrast between the link and the surrounding text is at least 3:1 and an additional differentiation (e.g., it becomes underlined) is provided when the link is hovered over or receives focus.
