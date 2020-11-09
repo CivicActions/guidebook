@@ -4,7 +4,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 
 ## How we do this
 
-- We use base themes which stive to meet the W3C's WCAG 2.0 or above. This will help satisfy the requirements of the ADA.
+- We use base themes which strive to meet the W3C's WCAG 2.0 or above. This will help satisfy the requirements of the ADA.
 - We implement good SEO structures (which mimic good ADA structures).
 - We implement responsive design strategies that that can present complex data in hierarchical structures, capable of being navigated by audio cues.
 - We implement modules which enable readers to change color schemes and text size displays to accommodate their visual impairments.
