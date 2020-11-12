@@ -22,5 +22,5 @@ The monthly KPIs provide high level health indicators. They could raise a red fl
 
 - All KPIs have a target value. This value can change from month-to-month, but typically stays consistent throughout the year.
 - A data point above the target line indicates that the KPI is aligned with or above the target. This is the highest level of KPI health.
-- A data point below the target indicates that the KPI is trending towards or away from the healthiest level. 
+- A data point below the target indicates that the KPI is trending towards or away from the healthiest level.
 - The charts also often display the previous year's data as a comparison for historical reference.
