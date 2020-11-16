@@ -22,6 +22,8 @@ Equal employment opportunity includes, but is not limited to, employment, traini
 
 ## Reasonable Accommodations
 
+People often have permenant or temporary disabilities which can make it more difficult to contriute to the team. CivicActions is working to eliminate barriers in the tools we use. People with disabilities are a valuable asset to the team as they can provide the critical expertise of living with a disability.
+
 It is the policy of CivicActions to comply with all the relevant and applicable provisions of the federal Americans with Disabilities Act (ADA), as well as state and local laws concerning the employment of persons with disabilities. CivicActions will not discriminate against any qualified employee or job applicant because of a person's physical or mental disability with respect to any terms, privileges, or conditions of employment, including but not limited to hiring, advancement, discharge, compensation, and training.
 
 Employees who become disabled should notify administration if the conditions of the disability impair their ability to perform the essential functions of their position. Where necessary and feasible, reasonable accommodations will be made for qualified disabled employees to perform the essential functions of the job in question, as long as the accommodation does not cause CivicActions undue hardship.
