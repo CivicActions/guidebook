@@ -10,18 +10,19 @@ We encourage each team at CivicActions (aka Working Group, Practice Area, Guild,
 
 These teams are listed on GitHub as [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) of the main [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team). If you want to join one of those teams, you can go to the team page and "Request to join". A maintainer of that team will receive a notification and can approve you. You can see the maintainers from the team page, feel free to bug them for an approval.
 
-| **Directory in `docs/`**                                       | **Subteam (Working group / Practice Area)**                                    |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [`00-contributing`](../00-contributing/)                       | [Docs](https://github.com/orgs/CivicActions/teams/docs/members)                |
-| [`01-welcome-to-civicactions`](../01-welcome-to-civicactions) | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
-| [`02-about-us`](../02-about-us)                               | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
-| [`03-policies`](../03-policies)                               | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
-| [`04-how-we-work`](../04-how-we-work)                         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
-| [`05-engineering`](../05-engineering)                         | [Engineering](https://github.com/orgs/CivicActions/teams/engineering/members)  |
-| [`06-project-management`](../06-project-management)           | [Project Managers](https://github.com/orgs/CivicActions/teams/pm/members)      |
-| [`07-sales-and-marketing`](../07-sales-and-marketing)         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
-| [`08-hr-admin`](../08-hr-admin)                               | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
-| [`09-security`](../09-security)                               | [Security](https://github.com/orgs/CivicActions/teams/security/members)        |
+| **Directory in `docs/`**                                        | **Subteam (Working group / Practice Area)**                                    |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [`000-contributing`](../000-contributing/)                      | [Docs](https://github.com/orgs/CivicActions/teams/docs/members)                |
+| [`010-welcome-to-civicactions`](../010-welcome-to-civicactions) | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
+| [`020-about-us`](../020-about-us)                               | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
+| [`030-policies`](../030-policies)                               | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
+| [`040-employee-handbook-us`](../040-employee-handbook-us)       | [Legal](https://github.com/orgs/CivicActions/teams/legal/members)              |
+| [`050-how-we-work`](../050-how-we-work)                         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
+| [`060-engineering`](../060-engineering)                         | [Engineering](https://github.com/orgs/CivicActions/teams/engineering/members)  |
+| [`070-project-management`](../070-project-management)           | [Project Managers](https://github.com/orgs/CivicActions/teams/pm/members)      |
+| [`080-sales-and-marketing`](../080-sales-and-marketing)         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
+| [`090-hr-admin`](../090-hr-admin)                               | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
+| [`100-security`](../100-security)                               | [Security](https://github.com/orgs/CivicActions/teams/security/members)        |
 
 Ideally, each of the above working groups have their own backlog of documentation tasks, and make documentation a regular part of their workflow.
 
