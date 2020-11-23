@@ -48,7 +48,7 @@ It may be helpful to copy these lists into a card/checklist on your project Trel
 - Overall Project plan
 - Communication / Escalation plan - internal and external facing
 - Schedule Status Meetings with client
-- Schedule [scrum calls](../060-how-we-work/agile-practices/daily-scrum-calls.md)
+- Schedule [scrum calls](../050-how-we-work/agile-practices/daily-scrum-calls.md)
 - Risk tracking / mitigation plan
 - Identify key stakeholders
 - Set up first Status Report

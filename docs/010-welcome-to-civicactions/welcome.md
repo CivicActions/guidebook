@@ -22,7 +22,7 @@ Welcome aboard! As part of the new employee onboarding process, we created a thr
 ### General
 
 - [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
-- [Bookmarks](../060-how-we-work/bookmarks.md) (websites and tools we use regularly)
+- [Bookmarks](../050-how-we-work/bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources
 

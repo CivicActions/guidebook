@@ -10,7 +10,7 @@ Our weekly all hands call includes everyone across CivicActions, and it's how th
 
 ### All Hands Calls Overview
 
-- We use Zoom for this - see [more about Zoom](../../060-how-we-work/tools/zoom.md)
+- We use Zoom for this - see [more about Zoom](../../050-how-we-work/tools/zoom.md)
 - Everyone on team is encouraged to join
 - Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 - Meetings occur frequently as listed below
@@ -39,12 +39,12 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 
 ## Project Specific Meetings
 
-- [Daily Scrum Call](../../060-how-we-work/agile-practices/daily-scrum-calls.md)
-- [Sprint Planning Meeting](../../060-how-we-work/agile-practices/sprint-planning-meetings.md)
-- [Backlog Refinement](../../060-how-we-work/agile-practices/backlog-refinement.md)
-- [Sprint Demo](../../060-how-we-work/agile-practices/sprint-demo.md)
-- [Sprint Retrospective](../../060-how-we-work/agile-practices/sprint-retrospectives.md)
+- [Daily Scrum Call](../../050-how-we-work/agile-practices/daily-scrum-calls.md)
+- [Sprint Planning Meeting](../../050-how-we-work/agile-practices/sprint-planning-meetings.md)
+- [Backlog Refinement](../../050-how-we-work/agile-practices/backlog-refinement.md)
+- [Sprint Demo](../../050-how-we-work/agile-practices/sprint-demo.md)
+- [Sprint Retrospective](../../050-how-we-work/agile-practices/sprint-retrospectives.md)
 
 ## Practice Area Meetings
 
-These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../060-how-we-work/practice-areas/README.md).
+These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../050-how-we-work/practice-areas/README.md).

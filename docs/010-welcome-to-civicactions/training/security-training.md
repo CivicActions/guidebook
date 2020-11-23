@@ -13,7 +13,7 @@ As a requirement for employment, every employee must review and acknowledge the 
 
 ## Security Awareness
 
-Every employee and contractor at CivicActions practices safe and secure computing in the course of their work. We enhance our [Security Awareness with Tools](../../100-security-practices/awareness.md) by:
+Every employee and contractor at CivicActions practices safe and secure computing in the course of their work. We enhance our [Security Awareness with Tools](../../100-security/awareness.md) by:
 
 - [Securing our Laptops](../../09-security/awareness.md#securing-your-laptop)
 - [Using Password Management Tools](../../09-security/awareness.md#password-management-tools)
@@ -28,7 +28,7 @@ When moving through these steps, please update your entries in the [Security Che
 
 ### Security and Compliance
 
-Engineers and Project Managers and anyone directly involved in client site operations and management must additionally understand and abide by CivicActions standard [Security and Compliance](../../050-engineering/security-compliance.md) procedures.
+Engineers and Project Managers and anyone directly involved in client site operations and management must additionally understand and abide by CivicActions standard [Security and Compliance](../../060-engineering/security-compliance.md) procedures.
 
 ## Privacy and Security Trainings
 
@@ -40,6 +40,6 @@ CivicActions Employees and Contractors regularly refresh their understanding of 
 
 ## Incident Response
 
-All employees and contractors have reviewed the [CivicActions Incident Response](../../100-security-practices/incident-response-plan.md) procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../100-security-practices/incidents.md) for additional help.
+All employees and contractors have reviewed the [CivicActions Incident Response](../../100-security/incident-response-plan.md) procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../100-security/incidents.md) for additional help.
 
 _(The project specific Incident Response Teams require additional trainings not covered here.)_

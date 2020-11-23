@@ -1,6 +1,6 @@
 # CivicActions Help Desk Support
 
-Note: this is the help desk practice area. We have separate documentation that describes [how to request internal support](../060-how-we-work/support.md).
+Note: this is the help desk practice area. We have separate documentation that describes [how to request internal support](../050-how-we-work/support.md).
 
 ## Mission
 

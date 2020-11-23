@@ -96,11 +96,11 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ## PM Tools
 
-- [Harvest Forecast](../060-how-we-work/tools/harvest-forecast.md)
-- [Harvest](../060-how-we-work/tools/harvest.md)
-- [Jira](../060-how-we-work/tools/jira.md)
-- [Trello](../060-how-we-work/tools/trello.md)
-- [GitHub](../060-how-we-work/tools/github.md)/Waffle
+- [Harvest Forecast](../050-how-we-work/tools/harvest-forecast.md)
+- [Harvest](../050-how-we-work/tools/harvest.md)
+- [Jira](../050-how-we-work/tools/jira.md)
+- [Trello](../050-how-we-work/tools/trello.md)
+- [GitHub](../050-how-we-work/tools/github.md)/Waffle
 - Burndown charts
-- [Google Docs/Folders](../060-how-we-work/tools/google-docs.md)
-- [Slack](../060-how-we-work/tools/slack.md) (client-facing and internal channels)
+- [Google Docs/Folders](../050-how-we-work/tools/google-docs.md)
+- [Slack](../050-how-we-work/tools/slack.md) (client-facing and internal channels)

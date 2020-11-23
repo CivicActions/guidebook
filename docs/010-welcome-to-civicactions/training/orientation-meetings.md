@@ -44,7 +44,7 @@
 
 ### Time Tracking
 
-- Review account in [Harvest](../../060-how-we-work/tools/harvest.md) and start logging your time daily
+- Review account in [Harvest](../../050-how-we-work/tools/harvest.md) and start logging your time daily
 
 - Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#logging-time) on logging time
 
@@ -61,18 +61,18 @@
 - Learn about some of the different [meetings at CivicActions](meetings-and-meeting-tools.md)
 - Download, setup, and review the following basic communication tools:
 
-  - [Slack](../../060-how-we-work/tools/slack.md)
+  - [Slack](../../050-how-we-work/tools/slack.md)
   - Google apps
-    - [Email](../../060-how-we-work/tools/email.md)
-    - [Calendar](../../060-how-we-work/tools/google-calendar.md)
-    - [Hangouts](../../060-how-we-work/tools/google-hangouts.md)
-    - [Drive and Docs](../../060-how-we-work/tools/google-docs.md)
-  - [Zoom](../../060-how-we-work/tools/zoom.md)
-  - [Telephone use](../../060-how-we-work/tools/telephone.md)
+    - [Email](../../050-how-we-work/tools/email.md)
+    - [Calendar](../../050-how-we-work/tools/google-calendar.md)
+    - [Hangouts](../../050-how-we-work/tools/google-hangouts.md)
+    - [Drive and Docs](../../050-how-we-work/tools/google-docs.md)
+  - [Zoom](../../050-how-we-work/tools/zoom.md)
+  - [Telephone use](../../050-how-we-work/tools/telephone.md)
 
 ### Get to Know Your Colleagues
 
-- Read about [balance scores](../../060-how-we-work/balance-scores.md)
+- Read about [balance scores](../../050-how-we-work/balance-scores.md)
 - Read about [all hands calls](meetings-and-meeting-tools.md#all-hands-calls)
 - Review [team bios](https://civicactions.com/team/)
 - Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
@@ -84,21 +84,21 @@
 - Review vacation time / requests [policies](../../040-employee-handbook-us/benefits-and-holidays.md)
 - Do you have any pre-approved time off requests?
 - The [formal request off procedure](../../03-policies/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
-- We use [Harvest Forecast](../../060-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
+- We use [Harvest Forecast](../../050-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
 - Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
 - Review [professional development](../../030-policies/prodev.md) & [community participation](../../030-policies/community-participation.md)
 
 ### Project Overview Info & Some How We Work Info
 
-- [CivicActions Agile](../../060-how-we-work/agile-overview.md)
-- Introduction to the [Daily Standup call structure](../../060-how-we-work/agile-practices/daily-scrum-calls.md)
+- [CivicActions Agile](../../050-how-we-work/agile-overview.md)
+- Introduction to the [Daily Standup call structure](../../050-how-we-work/agile-practices/daily-scrum-calls.md)
 - Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog refinement](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
 - Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
-- Introduction to [Jira](../../060-how-we-work/tools/jira.md) and [Trello](../../060-how-we-work/tools/trello.md)
+- Introduction to [Jira](../../050-how-we-work/tools/jira.md) and [Trello](../../050-how-we-work/tools/trello.md)
 
 ### Virtual Workplace Basics
 
-- Review [virtual workplace basics](../../060-how-we-work/virtual-workplace-basics.md):
+- Review [virtual workplace basics](../../050-how-we-work/virtual-workplace-basics.md):
   - Starting and ending a day with a remote team
   - Heading offline for short periods of time
   - [Communication best practices](../../04-how-we-work/virtual-workplace-basics.md#communication-best-practices) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
@@ -122,23 +122,23 @@
 
 ### Some How We Work & Skills Info
 
-- [How to create a ticket or card](../../060-how-we-work/tools/tickets-cards.md)
-- [Story point estimating](../../060-how-we-work/tools/storypoints.md)
-- [Install Chrome browser extensions](../../060-how-we-work/tools/browserextensions.md)
-- Read about & learn [markdown](../../060-how-we-work/tools/markdown.md)
+- [How to create a ticket or card](../../050-how-we-work/tools/tickets-cards.md)
+- [Story point estimating](../../050-how-we-work/tools/storypoints.md)
+- [Install Chrome browser extensions](../../050-how-we-work/tools/browserextensions.md)
+- Read about & learn [markdown](../../050-how-we-work/tools/markdown.md)
 - [Free and Open Source Software (FOSS)](intro-open-source.md)
 
 ### Versioning Systems and Development Process
 
 - Get set up for [Git and SSH](git-ssh.md)
-- Read about the our [Git best practices and workflows](../../050-engineering/git.md)
-- Read about [dev workflows](../../050-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview
+- Read about the our [Git best practices and workflows](../../060-engineering/git.md)
+- Read about [dev workflows](../../060-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview
 
 ### Security for Everyone
 
 - Begin your [CivicActions Security training process](./security-training.md)
   - Read the [CivicActions Security Policy](../../030-policies/security.md)
-  - Increase your [security awareness with tools](../../100-security-practices/awareness.md)
+  - Increase your [security awareness with tools](../../100-security/awareness.md)
     - [Secure your laptop](../../09-security/awareness.md#securing-your-laptop)
     - Set up [LastPass](../../09-security/awareness.md#lastpass)
     - Set up [Two Factor Authentication (TFA)](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
@@ -152,11 +152,11 @@
 - PM track
   - Review [Project Management Training](../../070-project-management/pm-training.md).
 - Engineering track
-  - [Engineering Roles and Agile](../../050-engineering/engineering-roles.md)
+  - [Engineering Roles and Agile](../../060-engineering/engineering-roles.md)
   - Engineering Practices
   - Git Overview
   - Drupal Overview
-  - [Security and Compliance](../../050-engineering/security-compliance.md)
+  - [Security and Compliance](../../060-engineering/security-compliance.md)
 - UX/Content Strategy/Design track
   - [Story mapping/Stories On Board](../../110-ux/services/research/story-mapping-guide.md)
   - [Wireframing and MyBalsamiq](../../110-ux/services/design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))

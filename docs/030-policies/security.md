@@ -131,7 +131,7 @@ Use both a unique, strong password (or multi-word passphrase) _and_ two-factor a
 
 CivicActions supplies all employees with a YubiKey for two-factor authentication, and we require two-factor authentication for access to your password manager, the CivicActions GSuite of applications, and OAuth-authenticated apps such as GitHub and GitLab. You can also use second factor authentication apps such as Authy and Duo, and in fact, for backup reasons we suggest using more than one second factor.
 
-Please see the [Security Awareness and Tools](../100-security-practices/awareness.md) document for details on these subjects and more.
+Please see the [Security Awareness and Tools](../100-security/awareness.md) document for details on these subjects and more.
 
 ### Some Password Exceptions
 
@@ -174,7 +174,7 @@ Web administrator account holders (Drupal, CiviCRM or other) must also:
 
 Developers and themers working on the site codebase (and committing code to Git) must also:
 
-- Ensure their own code and development practices follow accepted secure coding standards as described in the Handbook under [Engineering > Security and Compliance](../050-engineering/security-compliance.md).
+- Ensure their own code and development practices follow accepted secure coding standards as described in the Handbook under [Engineering > Security and Compliance](../060-engineering/security-compliance.md).
 - Ensure the standard dev-qa-live process is always followed, such that all changes that may affect site security can be thoroughly tested before being made live.
 - Ensure that external developers (client or 3rd party) working on the site codebase are either:
   - A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.
@@ -222,7 +222,7 @@ IT team system administrators working on CivicActions servers must also:
 
 ## Security Awareness and Tools
 
-We maintain a [Security Awareness and Tools](../100-security-practices/awareness.md) document that dives deeper into some additional topics, including:
+We maintain a [Security Awareness and Tools](../100-security/awareness.md) document that dives deeper into some additional topics, including:
 
 - Password Management Tools
 - Two Factor Authentication
