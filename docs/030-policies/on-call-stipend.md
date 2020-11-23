@@ -22,7 +22,7 @@ CivicActions recognizes that being on-call outside of normal business hours take
 
 ## Responsibilities
 
-- _Response Procedures_. Team members participating in on-call are expected to follow the project incident response plan (IRP), or [CivicActions IRP](https://handbook.civicactions.com/en/latest/09-security/incident-response-plan/) if the project does not yet have one.
+- _Response Procedures_. Team members participating in on-call are expected to follow the project incident response plan (IRP), or [CivicActions IRP](https://handbook.civicactions.com/en/latest/100-security/incident-response-plan/) if the project does not yet have one.
 - _Receiving Alerts._ Team members are responsible for configuring and testing their phone to ensure they receive and notice alerts when they are on-call in accordance with the applicable IRP. You should check with your PM and on-call team documentation to determine the specific mobile app and configuration required to receive alerts and bypass quiet or do-not-disturb mode.
 - _Support Coverage._ Team members are responsible for being aware of when they are on-call and proactively finding support coverage in advance for any periods where they will be unable to respond to an alert, as well as helping cover other team members when they are able.
 - _Response time._ The IRP or Service Level Agreement/Objective for each project shall dictate the required response time. If the IRP plan does not specific the required response period employees are expected to be available to respond within 2 hours.

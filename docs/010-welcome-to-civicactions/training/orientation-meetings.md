@@ -46,9 +46,9 @@
 
 - Review account in [Harvest](../../050-how-we-work/tools/harvest.md) and start logging your time daily
 
-- Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#logging-time) on logging time
+- Read the [Harvest documentation](../../050-how-we-work/tools/harvest.md#logging-time) on logging time
 
-- Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#tracking-expenses)
+- Read the submitting [expenses process](../../050-how-we-work/tools/harvest.md#tracking-expenses)
 
 - Read the [expense policy](../../030-policies/expenses.md)
 
@@ -83,16 +83,16 @@
 
 - Review vacation time / requests [policies](../../040-employee-handbook-us/benefits-and-holidays.md)
 - Do you have any pre-approved time off requests?
-- The [formal request off procedure](../../03-policies/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
+- The [formal request off procedure](../../040-employee-handbook-us/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
 - We use [Harvest Forecast](../../050-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
-- Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
+- Review [CivicActions holiday schedule](../../040-employee-handbook-us/benefits-and-holidays.md#holidays)
 - Review [professional development](../../030-policies/prodev.md) & [community participation](../../030-policies/community-participation.md)
 
 ### Project Overview Info & Some How We Work Info
 
 - [CivicActions Agile](../../050-how-we-work/agile-overview.md)
 - Introduction to the [Daily Standup call structure](../../050-how-we-work/agile-practices/daily-scrum-calls.md)
-- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog refinement](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
+- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog refinement](../../010-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
 - Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 - Introduction to [Jira](../../050-how-we-work/tools/jira.md) and [Trello](../../050-how-we-work/tools/trello.md)
 
@@ -101,8 +101,8 @@
 - Review [virtual workplace basics](../../050-how-we-work/virtual-workplace-basics.md):
   - Starting and ending a day with a remote team
   - Heading offline for short periods of time
-  - [Communication best practices](../../04-how-we-work/virtual-workplace-basics.md#communication-best-practices) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
-  - Talking in [timezones](../../04-how-we-work/virtual-workplace-basics.md#talking-time-zones)
+  - [Communication best practices](../../050-how-we-work/virtual-workplace-basics.md#communication-best-practices) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
+  - Talking in [timezones](../../050-how-we-work/virtual-workplace-basics.md#talking-time-zones)
   - Tour our [virtual workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
 ### Aligning Yourself with CivicActions
@@ -139,9 +139,9 @@
 - Begin your [CivicActions Security training process](./security-training.md)
   - Read the [CivicActions Security Policy](../../030-policies/security.md)
   - Increase your [security awareness with tools](../../100-security/awareness.md)
-    - [Secure your laptop](../../09-security/awareness.md#securing-your-laptop)
-    - Set up [LastPass](../../09-security/awareness.md#lastpass)
-    - Set up [Two Factor Authentication (TFA)](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
+    - [Secure your laptop](../../100-security/awareness.md#securing-your-laptop)
+    - Set up [LastPass](../../100-security/awareness.md#lastpass)
+    - Set up [Two Factor Authentication (TFA)](../../100-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
   - Complete your [security checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
   - Look for an email from Admin/DocuSign that asks you to acknowledge your _security awareness_ later this week.
 

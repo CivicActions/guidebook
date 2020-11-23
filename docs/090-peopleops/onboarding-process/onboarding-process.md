@@ -4,7 +4,7 @@ There are generally three people involved in the process of onboarding a new emp
 
 ## Schedule
 
-One of the first tasks assigned to new employees is to review the [Onboarding Schedule](../../01-welcome-to-civicactions/welcome.md#onboarding-process) for their first week, which typically includes several training sessions, a daily Orientation Meeting with the Onboarding Manager and a daily check-in call with the Onboarding Buddy.
+One of the first tasks assigned to new employees is to review the [Onboarding Schedule](../../010-welcome-to-civicactions/welcome.md#onboarding-process) for their first week, which typically includes several training sessions, a daily Orientation Meeting with the Onboarding Manager and a daily check-in call with the Onboarding Buddy.
 
 ## Tasks
 

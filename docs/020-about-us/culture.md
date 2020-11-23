@@ -94,7 +94,7 @@ Some practical tips for making inclusive spaces on your team:
 
 We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn't just a core part of our culture, it's also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
 
-[Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/diversity-equity-inclusion/ops/)
+[Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/050-how-we-work/diversity-equity-inclusion/ops/)
 
 ## Common Questions
 
@@ -156,7 +156,7 @@ A: If you're comfortable communicating directly with the person who offended you
 
 If you would like to speak to a counselor confidentially, TriNet provides CivicActions employees with access to an Employee Assistance Program.
 
-We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion. You are or know of someone who is subject to behavior in violation of our [Policy Against Proscribed Harassment and Discrimination](https://handbook.civicactions.com/en/latest/03-policies/anti-harassment-policies/) you can follow the [reporting procedures](https://handbook.civicactions.com/en/latest/03-policies/anti-harassment-policies/#reporting-and-investigating-proscribed-harassment) in that policy.
+We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion. You are or know of someone who is subject to behavior in violation of our [Policy Against Proscribed Harassment and Discrimination](https://handbook.civicactions.com/en/latest/030-policies/anti-harassment-policies/) you can follow the [reporting procedures](https://handbook.civicactions.com/en/latest/030-policies/anti-harassment-policies/#reporting-and-investigating-proscribed-harassment) in that policy.
 
 ### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn't welcome here.
 

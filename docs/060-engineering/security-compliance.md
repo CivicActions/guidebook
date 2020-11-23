@@ -6,7 +6,7 @@ All engineers understand and abide by the [CivicActions Employee/Contractor Secu
 
 In particular:
 
-- We practice [Server & Site Security](../03-policies/security.md#server--site-security)
+- We practice [Server & Site Security](../030-policies/security.md#server--site-security)
   - using only sanitized databases
   - taking care to not install restricted access files on development or personal instances outside the project defined security accreditation boundary
   - and scrubbing unneeded data from our development systems

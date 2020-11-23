@@ -20,8 +20,8 @@ Instead, equity addresses the past or present conditions that may continue to ho
 ### What we're doing to support equity
 
 - Creating professional development opportunities and support for team members who have had less access to opportunities in the past
-- Facilitating a culture of mentorship by [encouraging peer support](http://handbook.civicactions.com/en/latest/03-policies/prodev/#asking-a-mentor-coach-or-peer-to-help) through coworking or one-on-one check-ins
-- Investing in our team's [professional development](http://handbook.civicactions.com/en/latest/03-policies/prodev/#prodev-faqs) while giving individuals the agency to choose what they'd like to learn
+- Facilitating a culture of mentorship by [encouraging peer support](http://handbook.civicactions.com/en/latest/030-policies/prodev/#asking-a-mentor-coach-or-peer-to-help) through coworking or one-on-one check-ins
+- Investing in our team's [professional development](http://handbook.civicactions.com/en/latest/030-policies/prodev/#prodev-faqs) while giving individuals the agency to choose what they'd like to learn
 - Sharing knowledge within practice areas through regular skill shares and collaboration
 - [Supporting distributed teams](https://medium.com/civicactions/an-open-dialogue-on-work-and-life-in-a-distributed-team-796ef88813cd) who work remotely, which allows our team members to work in locations and environments best suited to their needs and abilities
 

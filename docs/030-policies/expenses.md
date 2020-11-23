@@ -37,7 +37,7 @@ To approve your request, the budget owner will move it into the "Approved" colum
 
 _Once you have incurred your expense_, here is how to get reimbursed:
 
-1.  [Log your receipts to Harvest](../04-how-we-work/tools/harvest.md#tracking-expenses)
+1.  [Log your receipts to Harvest](../050-how-we-work/tools/harvest.md#tracking-expenses)
 2.  Once all receipts are logged, add a comment to the Trello card indicating the total amount of expenses incurred.
 3.  Move your card from the "Approved" column to the "Submitted" column. (Note that the Approver listed above needs to be the one to move your card from "Submitted" to "Approved" first.)
 4.  Admin will reimburse the expense amount and move the card to the "Reimbursed" column.

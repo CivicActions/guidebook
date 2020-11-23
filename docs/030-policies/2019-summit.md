@@ -135,12 +135,12 @@ Please do your part to help CivicActions reduce our expenses and carbon footprin
 
 - Find out when others are [arriving and departing](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=390062791) the airport
 - Coordinate rides in [#event-summit-2019](https://app.slack.com/client/T0297RSQF/CFMGVS2SD)
-- More on [travel policies](https://civicactions-handbook.readthedocs.io/en/latest/03-policies/annual-retreat/) for the Summit
+- More on [travel policies](https://civicactions-handbook.readthedocs.io/en/latest/030-policies/annual-retreat/) for the Summit
 
 ### Lodging
 
 - Find your [room assignment/ roommate](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=1111267401)
-- More on [lodging policies for the Summit](https://civicactions-handbook.readthedocs.io/en/latest/03-policies/annual-retreat/)
+- More on [lodging policies for the Summit](https://civicactions-handbook.readthedocs.io/en/latest/030-policies/annual-retreat/)
 
 ### Food
 
@@ -192,17 +192,17 @@ Follow the standard process for tracking expenses for travel, food, and other ap
 - Food on days that CivicActions has already covered meal expenses (see above)
 - Bar tabs beyond what is already covered during team dinners
 
-[More information on our expenses policy](https://civicactions-handbook.readthedocs.io/en/latest/03-policies/expenses/)
+[More information on our expenses policy](https://civicactions-handbook.readthedocs.io/en/latest/030-policies/expenses/)
 
 ## Policies
 
 ### Follow the code of conduct
 
-Everyone who attends the Summit is expected to [read and follow our Code of Conduct](https://civicactions-handbook.readthedocs.io/en/latest/03-policies/code-of-conduct/).
+Everyone who attends the Summit is expected to [read and follow our Code of Conduct](https://civicactions-handbook.readthedocs.io/en/latest/030-policies/code-of-conduct/).
 
 ### Keep the Summit a safe place for everyone
 
-The Summit is a harassment-free event. More on the [Policy Against Proscribed Harassment and Discrimination](https://civicactions-handbook.readthedocs.io/en/latest/03-policies/anti-harassment-policies/).
+The Summit is a harassment-free event. More on the [Policy Against Proscribed Harassment and Discrimination](https://civicactions-handbook.readthedocs.io/en/latest/030-policies/anti-harassment-policies/).
 
 ### Don't do drugs at the Summit
 

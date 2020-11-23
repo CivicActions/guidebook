@@ -35,7 +35,7 @@ Employees should follow the following procedure for providing notice of, schedul
 1. Email <mailto:ca-schedule@civicactions.com> to request the time. Make sure to explain your plan for coverage as discussed with your PM & team. If you are providing notice where the need is related to sick time and is **unforeseeable**, there's no need to explain further.
 1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved.
 1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes.
-1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/04-how-we-work/tools/harvest.md) for logging time off.
+1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/050-how-we-work/tools/harvest.md) for logging time off.
 
 ## Exempt Employees -- Time Off
 
