@@ -6,7 +6,7 @@ Ideally, pull requests should be assigned to team members who are subject matter
 
 ## Governance driven by practice area and working groups.
 
-We encourage each team at CivicActions (aka Working Group, Practice Area, Guild, etc.) to take ownership over their respective documentation. To that end, changes to files in certain directories require at least one review and approval from a member of the respective team, and members of those teams will be notified of that PR. For example, changes to the [05-engineering](../05-engineering) directory requires at least one review and approval from a member of the [Engineering Team](https://github.com/orgs/CivicActions/teams/engineering/members).
+We encourage each team at CivicActions (aka Working Group, Practice Area, Guild, etc.) to take ownership over their respective documentation. To that end, changes to files in certain directories require at least one review and approval from a member of the respective team, and members of those teams will be notified of that PR. For example, changes to the [060-engineering](../060-engineering) directory requires at least one review and approval from a member of the [Engineering Team](https://github.com/orgs/CivicActions/teams/engineering/members).
 
 These teams are listed on GitHub as [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) of the main [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team). If you want to join one of those teams, you can go to the team page and "Request to join". A maintainer of that team will receive a notification and can approve you. You can see the maintainers from the team page, feel free to bug them for an approval.
 
@@ -21,7 +21,7 @@ These teams are listed on GitHub as [subteams](https://github.com/orgs/CivicActi
 | [`060-engineering`](../060-engineering)                         | [Engineering](https://github.com/orgs/CivicActions/teams/engineering/members)  |
 | [`070-project-management`](../070-project-management)           | [Project Managers](https://github.com/orgs/CivicActions/teams/pm/members)      |
 | [`080-sales-and-marketing`](../080-sales-and-marketing)         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
-| [`090-hr-admin`](../090-hr-admin)                               | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
+| [`090-peopleops`](../090-peopleops)                             | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
 | [`100-security`](../100-security)                               | [Security](https://github.com/orgs/CivicActions/teams/security/members)        |
 
 Ideally, each of the above working groups have their own backlog of documentation tasks, and make documentation a regular part of their workflow.
