@@ -2,18 +2,18 @@
 
 ## What is an affinity channel?
 
-Affinity channels are intentional spaces for people who share a common identity or affinity (and their allies) to build community and have conversations that are harder to protect in a general space. For example, the `#ca-womxn` affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming, and thier allies.
+Affinity channels are intentional spaces for people who share a common identity or affinity (and their allies) to build community and have conversations that are harder to protect in a general space. For example, the `#ca-womxn` affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming, and their allies.
 
 ### Unofficial Affinity Channels
 
-Team Members who are interested may form additional unofficial private or public affinity slack channels other than the ones listed on this page. CivicActions recognizes team members' interest in forming private conversations around a variety of topics to discuss with fellow team members in addition to their assigned work. Team members are encouraged to speak with their fellow team members to build spaces for building relationships with other team members with common interests. If you do not see an affinity channel, several team-member-organized affinity channels already exist. Many of them are private slack channels and access is controlled by the employees in the channel. You can find them by asking your team members about them. If it doesn’t exist, asking other team members is a good way to start a conversation about forming one.
+Team Members who are interested may form additional unofficial private or public affinity slack channels other than the ones listed on this page. CivicActions recognizes team members' interest in forming private conversations around a variety of topics to discuss with fellow team members in addition to their assigned work. Team members are encouraged to speak with their fellow team members to build spaces for building relationships with other team members with common interests. If you do not see an affinity channel, several team-member-organized affinity channels already exist. Many of them are private slack channels and access is controlled by the employees in the channel. You can find them by asking your team members about them. If it doesn't exist, asking other team members is a good way to start a conversation about forming one.
 
 ## Affinity channels directory
 
 List of all affinity channels and who the moderator is for each channel are below.
 
 - `#parenting` (open): Parents and caregivers of children share joy and resources. Parents and their allies are welcome.
-- `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and thier allies are welcome.
+- `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and their allies are welcome.
 - `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Members of the community including allies are welcome!
 
 Regional Groups:
@@ -52,4 +52,4 @@ Affinity channel moderators serve as the main point of contact for team members 
 - Designate a point person moderator for your channel and add them to the channel topic. Be sure that moderator's understand their obligations as a channel moderator. If a person is not comfortable fulfilling all of the responsibilities of a moderator they should not take on that role.
 - Do a GitHub pull request to get your channel listed on the affinity channel handbook directory page; or if preferred, ask Alaine to add your new channel to the handbook page.
 - Announce your new channel in #general so others can join.
-- If you decide that the group you want to create is not going to be open to allies, then it’s not an official company affinity group and won’t be included in the directory.
+- If you decide that the group you want to create is not going to be open to allies, then it's not an official company affinity group and won't be included in the directory.
