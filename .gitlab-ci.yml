@@ -11,11 +11,6 @@ lint:
     - export TRAVIS_COMMIT_RANGE="$(git merge-base HEAD origin/master)...$(git rev-parse HEAD)"
     # Install packages.
     - yarn install --frozen-lockfile
-    # Check prettier
-    # Restyled will fix this also, but it creates PR noise if we review both the commit pre-fixes.
-    - ./node_modules/.bin/prettier -c '**/*.md'
-    # Lint the gulpfile with eslint.
-    - ./node_modules/.bin/eslint gulpfile.js
     # This runs a gulp job which runs remark lint checks, both suggestions and errors.
     - ./node_modules/.bin/gulp ci 2>&1 | tee output.log
     - bash -c '! egrep -q "(problem\W)" output.log'
@@ -26,8 +21,6 @@ lint-master:
   image: node:13
   script:
     - yarn install --frozen-lockfile
-    # Check prettier
-    - ./node_modules/.bin/prettier -c '**/*.md'
     # This runs a gulp job which runs remark lint checks, only errors.
     - ./node_modules/.bin/gulp problems 2>&1 | tee output.log
     - bash -c '! egrep -q "(problem\W)" output.log'
@@ -40,6 +33,16 @@ test-build:
   script:
     - pip install -r requirements.txt mkdocs
     - mkdocs build --strict
+  only:
+    - external_pull_requests
+    - master
+
+# This runs pre-commit hooks, which validate a number of lint issues.
+pre-commit:
+  image: python:3
+  script:
+    - pip install pre-commit
+    - pre-commit run -a
   only:
     - external_pull_requests
     - master
