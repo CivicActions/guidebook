@@ -41,6 +41,7 @@ test-build:
 pre-commit:
   image: python:3
   script:
+    - apt-get update && apt-get install -y ruby # Needed for search-and-replace pre-commit hook
     - pip install pre-commit
     - pre-commit run -a
   only:
