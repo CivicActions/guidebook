@@ -22,7 +22,7 @@ To request approval:
     - Card title: Your name and the purpose of the expense
     - The estimated amount(s) of the expense
     - Any key dates relating to the expense
-    
+
 5.  Assign the card to the budget owner who will become your "Approver":
 
     - Pro Dev: Elizabeth Raley
@@ -32,25 +32,25 @@ To request approval:
     - UX: Shira Kates
     - IT/IS: Owen Barton
     - Other: Elizabeth Raley
-    
+
 6.  Click on Watch under Actions so you will be notified when the card is moved to the "Approved" column (you will not move the card to "Approved").
 
 ## Step 2: Expense approval
 
-1.  To approve your request, the budget owner will move it into the "Approved" column. 
+1.  To approve your request, the budget owner will move it into the "Approved" column.
 2.  If they have questions, they will ask you in the card comments.
 
 ## Step 3: Submitting expenses for reimbursement
 
 _The steps below assume you already created a card in "Requests" and your Approver moved it to "Approved" (see above). Once you have incurred your expense, here is how to get reimbursed:_
 
-1.  [Log your receipts to Harvest](../050-how-we-work/tools/harvest.md#tracking-expenses). 
+1.  [Log your receipts to Harvest](../050-how-we-work/tools/harvest.md#tracking-expenses).
 2.  Once all receipts are logged, add a comment to the Trello card indicating the total amount of expenses incurred.
 3.  Move your card from the "Approved" column to the "Submitted" column. (Remember that the Approver needs to be the one to move your card from "Requests" to "Approved" first.)
 
 ## Step 4: Receiving reimbursement
 
-1.  The Admin reviews cards in the "Submitted" column and moves them to "Retrieved" in preparation for reimbursement.  
+1.  The Admin reviews cards in the "Submitted" column and moves them to "Retrieved" in preparation for reimbursement.
 2.  Then the Admin will reimburse the expense amount and move the card to the "Reimbursed" column.
 
 ## Expense guidelines
@@ -60,7 +60,7 @@ _The steps below assume you already created a card in "Requests" and your Approv
 - Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
 - Your Project Manager and the Officer Manager will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
 - Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides.
-- If you are purchasing multiple "under $50" items in a short timespan, please consider that a single purchase and request approval first. 
+- If you are purchasing multiple "under $50" items in a short timespan, please consider that a single purchase and request approval first.
 
 ### Travel expenses
 
