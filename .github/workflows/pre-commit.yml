@@ -4,20 +4,8 @@ on:
   pull_request:
 
 jobs:
-  pre-commit:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-          persist-credentials: false
-      - uses: actions/setup-python@v2
-      - uses: pre-commit/action@v2.0.0
-        with:
-          token: ${{ secrets.PRE_COMMIT_TOKEN }}
   codespell:
     runs-on: ubuntu-latest
-    needs: pre-commit
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -29,3 +17,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           path: output/codespell.txt
+  pre-commit:
+    runs-on: ubuntu-latest
+    needs: codespell
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v2
+      - uses: pre-commit/action@v2.0.0
+        with:
+          token: ${{ secrets.PRE_COMMIT_TOKEN }}
