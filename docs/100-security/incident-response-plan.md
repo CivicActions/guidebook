@@ -13,9 +13,9 @@
     - [Comms at the Remediate phase](#comms-at-the-remediate-phase)
   - [Retrospective](#retrospective)
 - [Incident Severities](#incident-severities)
-  - [1 - High Severity](#1---high-severity)
-  - [2 - Medium Severity](#2---medium-severity)
-  - [3 - Low Severity](#3---low-severity)
+  - [1 - High Severity](#1-high-severity)
+  - [2 - Medium Severity](#2-medium-severity)
+  - [3 - Low Severity](#3-low-severity)
 - [How this document works](#how-this-document-works)
 
 ---
@@ -211,7 +211,7 @@ This report should be posted as a final comment on the issue, emailed which can 
 
 ### Incident Severities
 
-_Note that most CivicActions' systems no High Value Assets (HVAs) or Sensitive Personally Identifiable Information (SPII). As such, system incidents are generally expected to fall into the_ **Low Severity** _bucket._
+_Note that most CivicActions' systems contain no High Value Assets (HVAs) or Sensitive Personally Identifiable Information (SPII). As such, system incidents are generally expected to fall into the_ **Low Severity** _bucket._
 
 Severity ratings drive the actions of the response team. Below are the severities ratings we use, some examples of incidents that might fall into that bucket, and some guidelines for ICs and response teams about how to treat each class of incident.
 
