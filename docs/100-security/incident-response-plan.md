@@ -13,9 +13,9 @@
     - [Comms at the Remediate phase](#comms-at-the-remediate-phase)
   - [Retrospective](#retrospective)
 - [Incident Severities](#incident-severities)
-  - [1 - High Severity](#1-high-severity)
-  - [2 - Medium Severity](#2-medium-severity)
-  - [3 - Low Severity](#3-low-severity)
+  - [1 - High Severity](#1---high-severity)
+  - [2 - Medium Severity](#2---medium-severity)
+  - [3 - Low Severity](#3---low-severity)
 - [How this document works](#how-this-document-works)
 
 ---
