@@ -4,18 +4,15 @@ Something went "bump" in the night (or the day)? This document explains what to 
 
 ## Reporting phishing emails
 
-If you receive a phishing email, follow these steps to report to CivicActions IT:
+A successful phishing attack is a security incident, and you must report it immediately. Your report will help the Security team respond to the attack, which might include other CivicActions team members.
 
-_Note: the menus and links described below refer to the standard GMail interface which is the most commonly used at CivicActions. Please "translate" these to your mail reader UI if using another system, or ask for help on [slack](https://civicactions.slack.com/messages/general/) or via [email](mailto:security@civicactions.com)._
+**If you got phished:** _You are not in trouble._ If you received a suspicious email and clicked a link or entered information into a form, you must report it as a security incident:
+1. Forward the email to [security@civicactions.com](mailto:security@civicactions.com). Describe in detail everything that you did and observed. 
+2. Alert your CivicActions team members about the suspicious email using the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/).
 
-1. If you clicked a link in a suspected phishing email or entered information in a suspect form, this becomes an incident.
-   - To support CivicActions IT in incident management, please immediately forward the suspected phishing email to [security@civicactions.com](mailto:security@civicactions.com).
-   - Include a description of exactly what steps you took (clicking links, filling in forms, etc.) when forwarding the email. _You are not in trouble. Rather, you are helping the team with your diligence._
-2. With any phishing email, alert others by reporting it in slack to [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/)
-3. Use the `Report phishing` option in the "three dots" menu associated with the email to dispose of it.
-   - If that is not available in your interface, use the `Report spam` option or simply delete the email.
+**If you receive a suspicious email:** Use the `Report phishing` or `Report spam` option in your email application, or delete the email. (In Gmail, `Report phishing` is located in the options menu for the message. To access the menu, click the button with three dots. If you need help finding these options, ask for help using the Slack channel [#general](https://civicactions.slack.com/messages/general/) or [email](mailto:security@civicactions.com).)
 
-Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps CivicActions IT to prepare against similar phishing attacks that might be sent to other team members.
+**If you find a suspicious email in your spam folder:** You do not need to report it.
 
 ## Reporting other incidents
 
