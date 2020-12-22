@@ -2,38 +2,42 @@
 
 Something went "bump" in the night (or the day)? This document explains what to do when you notice and wish to report what you believe may be a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
-## Reporting phishing emails
+## Handling phishing emails
 
-If you receive a phishing email, follow these steps to report to CivicActions IT:
+A phishing email is a suspicious email that asks you to click a link, open an attachment, or enter data into a form -- all actions that create opportunities for hackers.
 
-_Note: the menus and links described below refer to the standard GMail interface which is the most commonly used at CivicActions. Please "translate" these to your mail reader UI if using another system, or ask for help on [slack](https://civicactions.slack.com/messages/general/) or via [email](mailto:security@civicactions.com)._
+**If you got phished:** If you received a suspicious email and did any of the following, you must report it immediately as a security incident:
 
-1. If you clicked a link in a suspected phishing email or entered information in a suspect form, this becomes an incident.
-   - To support CivicActions IT in incident management, please immediately forward the suspected phishing email to [security@civicactions.com](mailto:security@civicactions.com).
-   - Include a description of exactly what steps you took (clicking links, filling in forms, etc.) when forwarding the email. _You are not in trouble. Rather, you are helping the team with your diligence._
-2. With any phishing email, alert others by reporting it in slack to [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/)
-3. Use the `Report phishing` option in the "three dots" menu associated with the email to dispose of it.
-   - If that is not available in your interface, use the `Report spam` option or simply delete the email.
+- Clicked a link
+- Opened an attachment
+- Entered information into a form
+  See [Reporting an incident](#reporting-an-incident).
 
-Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps CivicActions IT to prepare against similar phishing attacks that might be sent to other team members.
+**If you receive a suspicious email:**
 
-## Reporting other incidents
+1. Alert your CivicActions team members about the suspicious email using the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/).
+2. Use the `Report phishing` or `Report spam` option in your email application, or delete the email. (In Gmail, `Report phishing` is located in the options menu for the message. To access the menu, click the button with three dots. If you need help finding these options, ask for help using the Slack channel [#general](https://civicactions.slack.com/messages/general/) or [email](mailto:security@civicactions.com).)
 
-To report a security incident, follow _all_ of the steps below:
+**If you find a suspicious email in your spam folder:** Ignore it. If it went to your Spam folder automatically, the CivicActions mail server has already flagged it as spam.
 
-1.  Send an email to <mailto:security@civicactions.com> within 1 hour of identifying an incident. Please include _Security Incident_ in the subject line, along with a brief description of the incident (Ex. "password committed to GitLabrepo"). Don't worry if you don't have all of the details gathered when you email CivicAction Security (AKA "Incident Response") team. The critical piece here is notification within one hour.
+## Reporting an incident
 
-2.  If the incident is project specific:
+Report any potential incident as soon as possible. Time is critical so that the Security team can begin our Incident Response. _You are not in trouble._ 
 
-    - If there is a project specific tech email address, you can email the information to that instead. If unsure, email <mailto:security@civicactions.com>.
-    - Report the incident in the project Slack channel (attention: `@security`). This will alert the project's Incident Response Team as well as the Project Manager (PM).
+**To report a security incident:**
 
-3.  Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected GitLab incident, do no delete files or modify the access permissions on the GitLab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
+- Send an email to [security@civicactions.com](mailto:security@civicactions.com) as soon as possible. If the incident is related to a phishing email, forward the email.
+- Include _Security Incident_ in the subject line.
+- Describe briefly what happened. 
+- Indicate the best way for someone to contact you, including a telephone number as an alternate method if possible.
 
-4.  Following notification to _security_, the Incident Response team may contact you requesting more information.
-    - The _Incident Coordinator_ will create a JIRA ticket (or Trello card) labeled "Incident" with as much detail as possible.
+**For a project-specific incident:**
 
-Please note that incidents need to be reported _within one hour_ of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
+- Report the incident in the project Slack channel (attention: `@security`). This alerts your project's Incident Response Team and the Project Manager (PM).
+- Send an email to [security@civicactions.com](mailto:security@civicactions.com). This alerts the Security team so that we can be aware of this issue and any potential impact to CivicActions.
+
+**Honor the "do not delete" rule**
+Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected GitLab incident, do no delete files or modify the access permissions on the GitLab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
 ## What is an incident?
 
