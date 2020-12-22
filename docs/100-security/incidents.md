@@ -1,8 +1,9 @@
 # Security Incidents
 
-Something went "bump" in the night (or the day)? This document explains what to do when you need to report a potential security incident. 
+Something went "bump" in the night (or the day)? This document explains what to do when you need to report a potential security incident.
 
 Please remember:
+
 - You are not in trouble when you report a security incident.
 - When in doubt, report it. The security team decides if it's an actual incident. (For more information, see [What is an incident?](#what-is-an-incident))
 - We are all part of the Security team at CivicActions.
