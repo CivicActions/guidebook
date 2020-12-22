@@ -22,13 +22,13 @@ A phishing email is a suspicious email that asks you to click a link, open an at
 
 ## Reporting an incident
 
-Report any potential incident as soon as possible. Time is critical so that the Security team can begin our Incident Response. _You are not in trouble._ 
+Report any potential incident as soon as possible. Time is critical so that the Security team can begin our Incident Response. _You are not in trouble._
 
 **To report a security incident:**
 
 - Send an email to [security@civicactions.com](mailto:security@civicactions.com) as soon as possible. If the incident is related to a phishing email, forward the email.
 - Include _Security Incident_ in the subject line.
-- Describe briefly what happened. 
+- Describe briefly what happened.
 - Indicate the best way for someone to contact you, including a telephone number as an alternate method if possible.
 
 **For a project-specific incident:**
