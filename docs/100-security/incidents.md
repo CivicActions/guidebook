@@ -22,28 +22,22 @@ A phishing email is a suspicious email that asks you to click a link, open an at
 
 ## Reporting an incident
 
-_You are not in trouble._
+Report any potential incident as soon as possible. Time is critical so that the Security team can begin our Incident Response. _You are not in trouble._ 
 
-1. Forward the email to [security@civicactions.com](mailto:security@civicactions.com). Describe in detail everything that you did and observed.
-2. Alert your CivicActions team members about the suspicious email using the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/).
+**To report a security incident:**
 
-A successful phishing attack is a security incident, and you must report it immediately. Your report will help the Security team respond to the attack, which might include other CivicActions team members.
+- Send an email to [security@civicactions.com](mailto:security@civicactions.com) as soon as possible. If the incident is related to a phishing email, forward the email.
+- Include _Security Incident_ in the subject line.
+- Describe briefly what happened. 
+- Indicate the best way for someone to contact you, including a telephone number as an alternate method if possible.
 
-To report a security incident, follow _all_ of the steps below:
+**For a project-specific incident:**
 
-1.  Send an email to <mailto:security@civicactions.com> within 1 hour of identifying an incident. Please include _Security Incident_ in the subject line, along with a brief description of the incident (Ex. "password committed to GitLabrepo"). Don't worry if you don't have all of the details gathered when you email CivicAction Security (AKA "Incident Response") team. The critical piece here is notification within one hour.
+- Report the incident in the project Slack channel (attention: `@security`). This alerts your project's Incident Response Team and the Project Manager (PM).
+- Send an email to [security@civicactions.com](mailto:security@civicactions.com). This alerts the Security team so that we can be aware of this issue and any potential impact to CivicActions.
 
-2.  If the incident is project specific:
-
-    - If there is a project specific tech email address, you can email the information to that instead. If unsure, email <mailto:security@civicactions.com>.
-    - Report the incident in the project Slack channel (attention: `@security`). This will alert the project's Incident Response Team as well as the Project Manager (PM).
-
-3.  Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected GitLab incident, do no delete files or modify the access permissions on the GitLab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
-
-4.  Following notification to _security_, the Incident Response team may contact you requesting more information.
-    - The _Incident Coordinator_ will create a JIRA ticket (or Trello card) labeled "Incident" with as much detail as possible.
-
-Please note that incidents need to be reported _within one hour_ of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
+**Honor the "do not delete" rule**
+Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected GitLab incident, do no delete files or modify the access permissions on the GitLab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
 ## What is an incident?
 
