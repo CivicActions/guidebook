@@ -7,12 +7,14 @@ Something went "bump" in the night (or the day)? This document explains what to 
 A phishing email is a suspicious email that asks you to click a link, open an attachment, or enter data into a form -- all actions that create opportunities for hackers.
 
 **If you got phished:** If you received a suspicious email and did any of the following, you must report it immediately as a security incident:
+
 - Clicked a link
 - Opened an attachment
 - Entered information into a form
-See [Reporting an incident](#reporting-an-incident).
+  See [Reporting an incident](#reporting-an-incident).
 
 **If you receive a suspicious email:**
+
 1. Alert your CivicActions team members about the suspicious email using the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/).
 2. Use the `Report phishing` or `Report spam` option in your email application, or delete the email. (In Gmail, `Report phishing` is located in the options menu for the message. To access the menu, click the button with three dots. If you need help finding these options, ask for help using the Slack channel [#general](https://civicactions.slack.com/messages/general/) or [email](mailto:security@civicactions.com).)
 
@@ -20,14 +22,12 @@ See [Reporting an incident](#reporting-an-incident).
 
 ## Reporting an incident
 
-_You are not in trouble._ 
+_You are not in trouble._
 
 1. Forward the email to [security@civicactions.com](mailto:security@civicactions.com). Describe in detail everything that you did and observed.
 2. Alert your CivicActions team members about the suspicious email using the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/).
 
 A successful phishing attack is a security incident, and you must report it immediately. Your report will help the Security team respond to the attack, which might include other CivicActions team members.
-
-
 
 To report a security incident, follow _all_ of the steps below:
 
