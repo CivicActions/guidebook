@@ -18,7 +18,7 @@ A phishing email is a suspicious email that asks you to click a link, open an at
 - Opened an attachment
 - Entered information into a form
 
-See [Reporting an incident](#reporting-an-incident). Even if you don't think something bad happened, you must report it. Many incidents happen silently so you won't notice until the damage has been done. The security team can help you verify that you system is secure.
+See [Reporting an incident](#reporting-an-incident). Even if you don't think something bad happened, you must report it. Many incidents happen silently so you won't notice until the damage has been done. The security team can help you verify that your system is secure.
 
 **If you receive a suspicious email:**
 
@@ -31,19 +31,19 @@ See [Reporting an incident](#reporting-an-incident). Even if you don't think som
 
 Report any potential incident as soon as possible. Time is critical so that the Security team can initiate our Incident Response.
 
-**To report a security incident:**
+### To report a security incident
 
 - Send an email to [security@civicactions.com](mailto:security@civicactions.com) as soon as possible. If the incident is related to a phishing email, forward the email.
 - Include _Security Incident_ in the subject line.
 - Describe briefly what happened.
 - Indicate the best way for the Security team to contact you, and include a telephone number as an alternate method if possible.
 
-**For a project-specific incident:**
+### For a project-specific incident
 
 - Report the incident in your project Slack channel, and mention `@security`. This alerts your project's Incident Response Team and the Project Manager (PM).
 - Send an email to [security@civicactions.com](mailto:security@civicactions.com). This alerts the Security team so that we can be aware of this issue and any potential impact to CivicActions.
 
-**Honor the "do not delete" rule**
+### Honor the "do not delete" rule
 
 Do not delete or modify any potential evidence without instruction from the Incident Response team. For example, in the event of a suspected GitLab incident, do no delete files or modify the access permissions on the GitLab repository. For a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
@@ -53,7 +53,7 @@ First, it's important to note: it's always OK to err on the side of reporting! T
 
 On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our or our client's "CIA": **Confidentiality, Integrity, or Availability.**
 
-- **Confidentiality** means: "secrets". So personally identifiable information (PII) — names, addresses, phone numbers, social security numbers, etc. — is one very important class of secrets, but so are your passwords, service credentials, internal non-public documents, and any copyrighted documents. Any time you suspect that any confidential information may have been leaked outside of CivicActions or a specific client who has rightful access to the information, you should open an incident. Note that this includes unknown users with elevated permissions on a site and access lists on Google docs.
+- **Confidentiality** means: "secrets". Personally identifiable information (PII) — names, addresses, phone numbers, social security numbers, etc. — is one very important class of secrets. So are your passwords, service credentials, internal non-public documents, many contractual and any copyrighted documents. Any time you suspect that any confidential information may have been leaked outside of CivicActions or a specific client who has rightful access to the information, you should open an incident. Note that this includes unknown users with elevated permissions on a site and access lists on Google docs.
 
 - **Integrity** means the soundness/fitness of purpose of our systems or information. So if a backup was lost, or a web page was altered, or if an app stopped logging for a while, or if some documents got deleted — those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these, as well.
 
