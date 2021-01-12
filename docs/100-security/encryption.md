@@ -168,7 +168,7 @@ We recommend using both of these browser add-ons.
 - [Privacy Badger](https://www.eff.org/privacybadger) blocks most ads and cookie collectors. Open source and free.
 - [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
 
-For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) or [Ecosia](https://www.ecosia.org/) as they protects privacy and avoids the filter bubble. 
+For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) or [Ecosia](https://www.ecosia.org/) as they protects privacy and avoids the filter bubble.
 
 ## Private Messaging and Calling
 
