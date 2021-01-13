@@ -65,6 +65,10 @@ For some internal projects, we don't care about tracking our time by practice ar
 - CA > Management
 - CA > Time off
 
+### Jogging Your Memory
+
+Many staff at CivicActions are disciplined in keeping track of their hours or are able to work in structured blocks that allow for this to be easily record their time end of each day. Harvest has a nice timer which can be incorporated into it which allows for real-time tracking. If you are unsure you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://mail.google.com/mail/u/0/#sent), [check Zoom meetings](https://zoom.us/meeting#/previous), examine Slack messages ```on:Monday from:me``` or look at the GitHub overview when you login.
+
 ## Harvest Timer Options
 
 - Mac: <https://www.getharvest.com/mac>
