@@ -1,6 +1,7 @@
 # CivicActions Security Incident Response Procedures
 
 ## Contents
+
 <!--TOC-->
 
 - [Introduction](#introduction)
@@ -23,7 +24,7 @@
 
 <!--TOC-->
 
-----
+---
 
 ## Introduction
 
@@ -32,7 +33,7 @@ This document describes the process that the CivicActions Incident Response Team
 - roles and responsibilities during and after incidents
 - overview of the steps to follow for resolution
 
-*During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow.*
+_During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow._
 
 ## Roles and Responsibilities
 
@@ -64,15 +65,15 @@ The _Incident Commander_ (IC) remains uninvolved in remediation efforts, and per
 
 1. IR Team creation and management, ensuring that the IR Team:
 
-      - Includes team members who are capable of containing, investigating, and remediating the incident.
-      - Remains focused on resolving the incident.
-      - Uses the most appropriate media/communication channels for recording actions. During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, #fire-team) for IR Team communications.
-      - Utilizes work shifts if the incident lasts longer than 3 hours.
+   - Includes team members who are capable of containing, investigating, and remediating the incident.
+   - Remains focused on resolving the incident.
+   - Uses the most appropriate media/communication channels for recording actions. During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, #fire-team) for IR Team communications.
+   - Utilizes work shifts if the incident lasts longer than 3 hours.
 
 2. Documentation, including all actions taken during investigation and remediation, using the following methods:
 
-      - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team.)
-      - Project JIRA ticket (if applicable)
+   - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team.)
+   - Project JIRA ticket (if applicable)
 
 3. Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony).
 
@@ -111,7 +112,7 @@ There are six major processes of incident response, detailed below:
 - [5. Remediate](#5.-Remediate)
 - [6. Conclude the incident](#6.-Conclude-the-incident)
 
-*During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow.*
+_During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow._
 
 ### 1. _Breathe_
 
@@ -127,63 +128,63 @@ At this stage, the _First Responder_ is usually working alone, and is also the _
 
 A. Allocate 5 minutes and determine whether this event is a potential incident or false alarm. Consider any potential Project impact.
 
-   An incident begins when someone becomes aware of a disruption in expected normal system operations. An incident is defined broadly, following [_NIST SP 800-61: Computer Security Incident Handling Guide_](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final), as "a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices". This definition encompasses any scenario that might threaten the security of system resources and data. For more information, see the CivicActions handbook: [What is an incident?](http://civicactions-handbook.readthedocs.io/en/latest/09-security/incidents/#what-is-an-incident)
+An incident begins when someone becomes aware of a disruption in expected normal system operations. An incident is defined broadly, following [_NIST SP 800-61: Computer Security Incident Handling Guide_](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final), as "a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices". This definition encompasses any scenario that might threaten the security of system resources and data. For more information, see the CivicActions handbook: [What is an incident?](http://civicactions-handbook.readthedocs.io/en/latest/09-security/incidents/#what-is-an-incident)
 
-   If the event appears to be Project-related, the Project team member should check normal communication channels, such as Project Slack channels and ([#general](https://civicactions.slack.com/messages/general/)), to determine whether this could be expected behavior (for example, system downtime during a maintenance window). If it appears to be a valid incident, the Project team member becomes the _Incident Reporter_ and should alert Project team members using the following methods:
+If the event appears to be Project-related, the Project team member should check normal communication channels, such as Project Slack channels and ([#general](https://civicactions.slack.com/messages/general/)), to determine whether this could be expected behavior (for example, system downtime during a maintenance window). If it appears to be a valid incident, the Project team member becomes the _Incident Reporter_ and should alert Project team members using the following methods:
 
-   - Slack channel #[Project-name]-client. Use `@channel` to trigger a Slack notification for everyone in the channel.
-   - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+- Slack channel #[Project-name]-client. Use `@channel` to trigger a Slack notification for everyone in the channel.
+- Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-   If no one from the Project IR Team acknowledges the message within 10 minutes, the _Reporter_ should escalate the issue by contacting Project team members directly until someone acknowledges the report.
+If no one from the Project IR Team acknowledges the message within 10 minutes, the _Reporter_ should escalate the issue by contacting Project team members directly until someone acknowledges the report.
 
 B. Respond accordingly:
 
-  - **Potential incident**
+- **Potential incident**
 
-    1. Issue a broadcast notification via one or more of the following:
+  1.  Issue a broadcast notification via one or more of the following:
 
-          - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-          - Slack channel #[Projectname]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
-          - Email to [it@civicactions.com](mailto:it@civicactions.com).
-          - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+      - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+      - Slack channel #[Projectname]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
+      - Email to [it@civicactions.com](mailto:it@civicactions.com).
+      - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-         An example message follows. The format is not important, but the information fields are useful.
+      An example message follows. The format is not important, but the information fields are useful.
 
-            **Description**: [Short description of the event and its impact]
-            **Status**: investigating
-            **Severity**: unknown
-            **Incident Reporter**: [name of the person who reported the issue]
-            **Incident Commander**: [your name]
-            **Responders**: [names of other _Responders_]
-            **Details**: [Extra details about the event]
+          **Description**: [Short description of the event and its impact]
+          **Status**: investigating
+          **Severity**: unknown
+          **Incident Reporter**: [name of the person who reported the issue]
+          **Incident Commander**: [your name]
+          **Responders**: [names of other _Responders_]
+          **Details**: [Extra details about the event]
 
-         Observe the following guidelines for communications:
+      Observe the following guidelines for communications:
 
-            - During this stage of incident response, the event status is "investigating".
-            - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
+          - During this stage of incident response, the event status is "investigating".
+          - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
 
-    2. For an incident requiring more than 30 minutes to resolve:
+  2.  For an incident requiring more than 30 minutes to resolve:
 
-         - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-         - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
+      - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+      - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
 
-           More information on [incident response roles and responsibilities](#roles-and-responsibilities):
+        More information on [incident response roles and responsibilities](#roles-and-responsibilities):
 
-             - [Responder](#responder)
-             - [Incident Commander (IC)](#incident-commander)
-             - [Communications Officer (CO)](#communications-officer)
+        - [Responder](#responder)
+        - [Incident Commander (IC)](#incident-commander)
+        - [Communications Officer (CO)](#communications-officer)
 
-            Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
+        Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
 
-  - **False alarm**
+- **False alarm**
 
-    Conclude the incident. Proceed to [_6. Conclude the incident_](#6.-conclude-the-incident).
+  Conclude the incident. Proceed to [_6. Conclude the incident_](#6.-conclude-the-incident).
 
 ### 4. Assess the incident
 
 #### IR Team responsibilities during assessment
 
-   A. Confirm the incident.
+A. Confirm the incident.
 
       1. Gather information, and document your findings.
 
@@ -192,35 +193,35 @@ B. Respond accordingly:
 
       2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6.-conclude-the-incident).)
 
-   B. Assess the severity.
+B. Assess the severity.
 
       - Use the [rubric for determining severity](#incident-severities). Project incidents are generally "Low severity".
       - Does it affect system or data Confidentiality, Integrity, Availability and/or Privacy?
       - Note that severity can change over the lifespan of an incident, and it is acceptable for the IR Team to assess the initial severity quickly.
 
-   C. Determine whether the IR Team needs to activate the [Contingency Plan](contingency-plan.md). Consider whether Disaster Recovery is required.
+C. Determine whether the IR Team needs to activate the [Contingency Plan](contingency-plan.md). Consider whether Disaster Recovery is required.
 
-   The IR Team should record all actions and observations in an appropriate [communication channel](#communication-channels).
+The IR Team should record all actions and observations in an appropriate [communication channel](#communication-channels).
 
-   _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles._
+_Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles._
 
 #### Incident Commander responsibilities during assessment
 
-   - Post an initial situation report (_sitrep_), in the following locations:
+- Post an initial situation report (_sitrep_), in the following locations:
 
-      - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the JIRA ticket if applicable.)
-      - JIRA ticket (if applicable)
-      - Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
+  - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the JIRA ticket if applicable.)
+  - JIRA ticket (if applicable)
+  - Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
 
-      Here is an example _sitrep_:
+  Here is an example _sitrep_:
 
-         **Subject**: [sitrep] Chickens are escaping
-         **Severity**: low
-         **Incident Commander**: Farmer Jane
-         **Responders**: Spot the Dog, Farmer Dave
-         **Description**: We've confirmed reports of escaped chickens. Looks like a fox may have tunneled into the run. Dave is working to fix the fence. Spot is tracking the fox.
+      **Subject**: [sitrep] Chickens are escaping
+      **Severity**: low
+      **Incident Commander**: Farmer Jane
+      **Responders**: Spot the Dog, Farmer Dave
+      **Description**: We've confirmed reports of escaped chickens. Looks like a fox may have tunneled into the run. Dave is working to fix the fence. Spot is tracking the fox.
 
-   - For an issue with potential Project impact, ensure that a JIRA ticket has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
+- For an issue with potential Project impact, ensure that a JIRA ticket has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ### 5. Remediate
 
@@ -249,10 +250,10 @@ Remediation takes time. If the issue progresses for more than 3 hours without be
 
 If suspicious activity is suspected or other unanswered questions exist, do the following before making any changes:
 
-  - Make [CPM snapshots](https://cpm.project.com/) of relevant volumes and data.
-  - Preserve logs.
-  - Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
-  - Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like your own, until forensics can be performed.
+- Make [CPM snapshots](https://cpm.project.com/) of relevant volumes and data.
+- Preserve logs.
+- Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
+- Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like your own, until forensics can be performed.
 
 #### Incident Commander responsibilities during remediation
 
@@ -264,16 +265,16 @@ The _Incident Commander_ (IC) does do the following:
 
 - Maintains current information in Slack, shared Google Docs files, a JIRA ticket, or another [communication channel](#communication-channels). Be sure to include:
 
-   - IR Team members and their roles, and/or Project team leads and members (if applicable)
-   - Remediation items and their assignees
+  - IR Team members and their roles, and/or Project team leads and members (if applicable)
+  - Remediation items and their assignees
 
 - Establishes and documents work shifts for an incident longer than 3 hours.
 - Maintains communications with stakeholders, or designates a _Communications Officer_ (CO) via [explicit handoff](#explicit-handoff-ceremony).
 - Shares _sitreps_ on a regular basis:
 
-    - High severity: hourly
-    - Medium severity: 2x daily
-    - Low severity: 1x daily
+  - High severity: hourly
+  - Medium severity: 2x daily
+  - Low severity: 1x daily
 
 - Focuses on coordination, communication, and information collection -- not remediation.
 

@@ -3,6 +3,7 @@
 For more details on any part of the checklist, see the [Security Incident Response Plan](incident-response-plan.md).
 
 ## Contents
+
 <!--TOC-->
 
 - [1. _Breathe_](#1-_breathe_)
@@ -14,7 +15,7 @@ For more details on any part of the checklist, see the [Security Incident Respon
 
 <!--TOC-->
 
-----
+---
 
 ## 1. _Breathe_
 
@@ -32,31 +33,31 @@ A. Allocate 5 minutes and determine whether this event is a potential incident o
 
 B. Respond accordingly:
 
-  - **Potential incident**
+- **Potential incident**
 
-    1. Issue a [broadcast notification](incident-response-plan.md#communications-during-the-initiate-phase) via one or more of the following:
+  1. Issue a [broadcast notification](incident-response-plan.md#communications-during-the-initiate-phase) via one or more of the following:
 
-         - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-         - Slack channel #[Project-name]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
-         - Email to [it@civicactions.com](mailto:it@civicactions.com).
-         - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+     - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+     - Slack channel #[Project-name]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
+     - Email to [it@civicactions.com](mailto:it@civicactions.com).
+     - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-    2. For an incident requiring more than 30 minutes to resolve:
+  2. For an incident requiring more than 30 minutes to resolve:
 
-         - Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
-         - Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
+     - Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
+     - Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
 
-           More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
+       More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
 
-             - [Responder](incident-response-plan.md#responder)
-             - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
-             - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
+       - [Responder](incident-response-plan.md#responder)
+       - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
+       - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
 
-             Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
+       Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
-  - **False alarm**
+- **False alarm**
 
-    Conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).
+  Conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).
 
 ## 4. Assess the incident
 
@@ -64,12 +65,12 @@ B. Respond accordingly:
 
 A. Confirm the incident.
 
-  1. Gather information, and document your findings.
+1. Gather information, and document your findings.
 
-       - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
-       - Is a system failure causing the disruption?
+   - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+   - Is a system failure causing the disruption?
 
-  2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).)
+2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).)
 
 B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.md#incident-severities). (Project incidents are generally "Low severity".)
 
@@ -103,9 +104,9 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
 - Establish and document work shifts for an incident longer than 3 hours.
 - Maintain communications with stakeholders, or designate a _Communications Officer_ via [explicit handoff](incident-response-plan.md#explicit-handoff-ceremony).
 - Share _sitreps_ on a regular basis:
-    - High severity: hourly
-    - Medium severity: 2x daily
-    - Low severity: daily
+  - High severity: hourly
+  - Medium severity: 2x daily
+  - Low severity: daily
 - Focus on coordination, not remediation.
 
 ## 6. Conclude the incident
@@ -114,8 +115,8 @@ A. Notify the Slack channel [#general](https://civicactions.slack.com/messages/g
 
 B. Update the JIRA ticket (if applicable) and set the status to one of the following:
 
-  - Confirmed incident: _Ready for QA_
-  - False alarm: _Done_
+- Confirmed incident: _Ready for QA_
+- False alarm: _Done_
 
 C. Schedule an [IR Team retrospective](incident-response-plan.md#have-a-team-retrospective). Optional for false alarms.
 
