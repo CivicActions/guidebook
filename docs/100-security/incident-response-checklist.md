@@ -1,96 +1,124 @@
-# CivicActions Incident Response Procedure Checklist
+# CivicActions Security Incident Response Procedure Checklist
 
-_This is a short, actionable checklist for the_ **Incident Commander** _(IC) and_ **Responders** _to follow during incident response. It's a companion to the [Incident Response Plan](incident-response-plan.md) where you can find the full details of each step._
+For more details on any part of the checklist, see the [Security Incident Response Plan](incident-response-plan.md).
 
-## Step 1: _Breathe_
+## Contents
+<!--TOC-->
 
-- No one's life is in danger.
-- **_Document your steps and findings!_** _(A client specific or [`#general`](https://civicactions.slack.com/messages/general/) slack channel is recommended - `#general` will be used in the rest of this document.)_ This eases communications and handoffs.
-- Consult with the _Incident Commander_ (or other team members) if you have questions.
+- [1. _Breathe_](#1-_breathe_)
+- [2. Start documenting](#2-start-documenting)
+- [3. Initiate the response](#3-initiate-the-response)
+- [4. Assess the incident](#4-assess-the-incident)
+- [5. Remediate](#5-remediate)
+- [6. Conclude the incident](#6-conclude-the-incident)
 
-## Roles
+<!--TOC-->
 
-_There is often overlap between these two roles, especially at the beginning of an incident response._
+----
 
-- **Incident Commander (IC)**
+## 1. _Breathe_
 
-  - is the first CivicActions team member to notice or respond to the incident
-  - forms the team (for the first 15-30 minutes the IC may also be the only _Responder_)
-  - escalates communication to additional team members and/or the Product Owner when needed.
-  - ensures steps are documented (usually in [`#general`](https://civicactions.slack.com/messages/general/) slack)
-  - ensures a ticket is created and a record of the Incident process is maintained
+No one's life is in danger.
 
-- **Responders**
-  - primarily responsible for the _Assess_ and _Remediate_ steps
-  - document _in real time_ measurements, theories, steps taken in [`#general`](https://civicactions.slack.com/messages/general/) slack.
-  - seek out a separate **Incident Commander** if the incident will take longer than 15-30 minutes to resolve
+## 2. Start documenting
 
-## Initiate
+Begin documenting all steps and findings. Documentation makes handoffs and responder onboarding easier. The Slack channel [#general](https://civicactions.slack.com/messages/general/), or a Project-specific Slack channel if applicable, is recommended because it is most widely accessible, but other [communication channels](incident-response-plan.md#communication-channels) may be used.
 
-At this point, the _Incident Commander_ (aka the first _Responder_) is usually working alone:
+## 3. Initiate the response
 
-- Determine if you can whether or not this may be a false alarm.
-- If you believe it may be a real incident (best to err on the side of _"it is an incident"_) and you can't resolve yourself in under 15-30 minutes, find either a _Responder_ or replacement _Incident Commander_ to help share the load:
-  - Slack: [`#general`](https://civicactions.slack.com/messages/general/) using `@channel` (notifies the team of an incident)
-  - [CivicActions Incident Response Team contact sheet](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA)
+At this stage, the _First Responder_ is usually working alone, and is also the _Incident Commander_ (IC).
 
-## Assess
+A. Allocate 5 minutes and determine whether this event is a potential incident or false alarm. Consider any potential Project impact.
 
-The _Responders_ (more than one is OK) work to:
+B. Respond accordingly:
 
-- Confirm the incident — _is it a real incident?_
-  - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
-  - If it's not a real incident, go to [False Alarm](#false-alarm).
-- Assess the severity, using [the rubric in the IR guide](incident-response-plan.md#incident-severities) _(CivicActions system incidents are generally_ **Low** _severity.)_
+  - **Potential incident**
 
-The _Incident Commander_:
+    1. Issue a [broadcast notification](incident-response-plan.md#communications-during-the-initiate-phase) via one or more of the following:
 
-- Forms a team (_responders_) to determine if the event is actually a confirmed incident, and if so [assesses the severity](incident-response-plan.md#incident-severities).
-- Determines whether to also activate the [contingency plan](contingency-plan.md) - _is a system failure causing the disruption?_
-- Posts an initial situation report ("sitrep") ([example sitrep](incident-response-plan.md#assess)) to [`#general`](https://civicactions.slack.com/messages/general/) slack including the a descriptive name, Commander and Responders
+         - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+         - Slack channel #[Project-name]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
+         - Email to [it@civicactions.com](mailto:it@civicactions.com).
+         - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-## Remediate
+    2. For an incident requiring more than 30 minutes to resolve:
 
-The _Responders_ work to determine cause, find resolution and return the system(s) to normal operations.
+         - Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
+         - Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
 
-- If **_suspicious activity_** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity **_before making changes_** such that post-remediation forensic analysis is supported.
-- Determining the cause can drive follow-up measures to prevent incident recurrence.
-  - A _containment_ strategy may be implemented by the Information Security Group for the instance to drop all ingress and egress traffic except from specific IPs (like yours) until forensics can be performed.
+           More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
 
-The _Incident Commander_ coordinates activity:
+             - [Responder](incident-response-plan.md#responder)
+             - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
+             - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
 
-- Keep the ticket/docs updated as people work, tracking:
-  - Leads, and who's following them
-  - Remediation items, and who's working on them, including customer notification (if appropriate to the situation)
-- Send out sitreps on a regular cadence (high: hourly; medium: 2x daily; low: daily).
-- Go into work shifts if the incident lasts longer then 3 hours.
-- [Hand off IC](#handing-off-ic) if the incident lasts longer than 3 hours.
+             Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
-Once the incident is resolved:
+  - **False alarm**
 
-- Update the ticket, set status → "Ready for QA".
-- Schedule a retrospective.
-- Send a final sitrep via email to stakeholders.
-- Thank everyone involved for their service!
+    Conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).
 
-## Special situations
+## 4. Assess the incident
 
-Extra checklists for special situations that don't always occur during incidents:
+**IR Team responsibilities**
 
-### False Alarm
+A. Confirm the incident.
 
-Follow this checklist if an event turns out not to be a security incident:
+  1. Gather information, and document your findings.
 
-- Notify [`#general`](https://civicactions.slack.com/messages/general/) of the false alarm.
-- Update the GitHub/GitLab/JIRA issue (if one exists) setting status to `Done`.
-- If any sitreps have been sent out, send a final sitrep to all previous recipients, noting the false alarm.
+       - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+       - Is a system failure causing the disruption?
 
-### Handing off IC
+  2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).)
 
-Follow this checklist if you need to hand over IC duties:
+B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.md#incident-severities). (Project incidents are generally "Low severity".)
 
-- Old IC: brief New IC on the situation.
-- New IC: confirm that you're taking over.
-- New IC: update the GitHub/GitLab/JIRA issue, noting that you're now the IC.
-- New IC: send out a sitrep, noting that you're taking over IC.
-- Old IC: stick around for 15-20 minutes to ensure a smooth handoff, then log off!
+C. Assess whether to activate the [contingency plan](contingency-plan.md). Consider whether Disaster Recovery is required.
+
+_Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles._
+
+**Incident Commander responsibilities**
+
+- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#assess)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
+- For an issue with potential Project impact, ensure that a JIRA ticket has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
+
+## 5. Remediate
+
+**IR Team responsibilities**
+
+- Determine the cause, implement a resolution, and return the system to normal operations. Make every attempt to identify the cause; this can prevent incident recurrence.
+
+- If suspicious activity is suspected or other unanswered questions exist, do the following before making any changes:
+
+  - Make [CPM snapshots](https://cpm.project.com/) of relevant volumes and data.
+  - Preserve logs.
+  - Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
+  - Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like yours, until forensics can be performed.
+
+**Incident Commander responsibilities**
+
+- Maintain current information in Slack, shared Google Docs files, the JIRA Incident ticket (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
+  - Project team leads and members
+  - Remediation items and their assignees
+- Establish and document work shifts for an incident longer than 3 hours.
+- Maintain communications with stakeholders, or designate a _Communications Officer_ via [explicit handoff](incident-response-plan.md#explicit-handoff-ceremony).
+- Share _sitreps_ on a regular basis:
+    - High severity: hourly
+    - Medium severity: 2x daily
+    - Low severity: daily
+- Focus on coordination, not remediation.
+
+## 6. Conclude the incident
+
+A. Notify the Slack channel [#general](https://civicactions.slack.com/messages/general/) that the incident has been resolved. Use `@security` to trigger a Slack notification for the Security team.
+
+B. Update the JIRA ticket (if applicable) and set the status to one of the following:
+
+  - Confirmed incident: _Ready for QA_
+  - False alarm: _Done_
+
+C. Schedule an [IR Team retrospective](incident-response-plan.md#have-a-team-retrospective). Optional for false alarms.
+
+D. Share the final _sitrep_ with stakeholders.
+
+E. Thank everyone for their service.
