@@ -42,7 +42,7 @@ Two-Factor Authentication (TFA) includes something you know (e.g. your memorized
 
 For example, as your password manager grows to have more passwords in it - not only CivicActions systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
 
-CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include GMail, Hangouts and Google Docs access - use Two-Factor Authentication on their CivicActions Google Account.
+CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include Gmail, Hangouts and Google Docs access - use Two-Factor Authentication on their CivicActions Google Account.
 
 ### Two-Factor Authenticators (TFA)
 
