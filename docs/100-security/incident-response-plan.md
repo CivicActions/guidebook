@@ -113,10 +113,10 @@ The _Incident Commander_ (IC) determines the most appropriate communication chan
 
 - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
 - During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, #fire-team) for IR Team communications.
-- A JIRA ticket for the Project incident (if applicable) will be the final location for all incident reporting, with links to other documents as needed.
+- A JIRA ticket or Github/Gitlab issue for the incident (if applicable) will be the final location for all incident reporting, with links to other documents as needed.
 - Video conference: Zoom, Google Meet, Microsoft Teams, Skype, etc. (Be sure to record the call for documentation purposes.)
-- Email to [it@civicactions.com](mailto:it@civicactions.com).
-- Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+- Email to [security@civicactions.com](mailto:security@civicactions.com).
+- Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
 ## Incident response process
 
@@ -147,13 +147,6 @@ A. Allocate 5 minutes and determine whether this event is a potential incident o
 
 An incident begins when someone becomes aware of a disruption in expected normal system operations. An incident is defined broadly, following [_NIST SP 800-61: Computer Security Incident Handling Guide_](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final), as "a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices". This definition encompasses any scenario that might threaten the security of system resources and data. For more information, see the CivicActions handbook: [What is an incident?](http://civicactions-handbook.readthedocs.io/en/latest/09-security/incidents/#what-is-an-incident)
 
-If the event appears to be Project-related, the Project team member should check normal communication channels, such as Project Slack channels and ([#general](https://civicactions.slack.com/messages/general/)), to determine whether this could be expected behavior (for example, system downtime during a maintenance window). If it appears to be a valid incident, the Project team member becomes the _Incident Reporter_ and should alert Project team members using the following methods:
-
-- Slack channel #[Project-name]-client. Use `@channel` to trigger a Slack notification for everyone in the channel.
-- Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
-
-If no one from the Project IR Team acknowledges the message within 10 minutes, the _Reporter_ should escalate the issue by contacting Project team members directly until someone acknowledges the report.
-
 B. Respond accordingly:
 
 - **Potential incident**
@@ -161,9 +154,8 @@ B. Respond accordingly:
   1.  Issue a broadcast notification via one or more of the following:
 
       - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-      - Slack channel #[Projectname]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
-      - Email to [it@civicactions.com](mailto:it@civicactions.com).
-      - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+      - Email to [security@civicactions.com](mailto:security@civicactions.com).
+      - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
       An example message follows. The format is not important, but the information fields are useful.
 

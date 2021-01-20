@@ -39,12 +39,11 @@ B. Respond accordingly:
 
 - **Potential incident**
 
-  1. Issue a [broadcast notification](incident-response-plan.md#communications-during-the-initiate-phase) via one or more of the following:
+  1. Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
 
      - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-     - Slack channel #[Project-name]-client for an incident that has potential Project impact. Use `@channel` to trigger a Slack notification for everyone in the channel.
-     - Email to [it@civicactions.com](mailto:it@civicactions.com).
-     - Email/telephone to the [Project IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+     - Email to [security@civicactions.com](mailto:security@civicactions.com).
+     - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
   2. For an incident requiring more than 30 minutes to resolve:
 
@@ -61,7 +60,7 @@ B. Respond accordingly:
 
 - **False alarm**
 
-  Conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).
+  Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
 ## 4. Assess the incident
 
@@ -74,7 +73,7 @@ A. Confirm the incident.
    - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
    - Is a system failure causing the disruption?
 
-2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#conclude-the-incident).)
+2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
 
 B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.md#incident-severities). (Project incidents are generally "Low severity".)
 
@@ -95,7 +94,7 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
 
 - If suspicious activity is suspected or other unanswered questions exist, do the following before making any changes:
 
-  - Make [CPM snapshots](https://cpm.project.com/) of relevant volumes and data.
+  - Make snapshots of relevant volumes and data.
   - Preserve logs.
   - Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
   - Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like yours, until forensics can be performed.
