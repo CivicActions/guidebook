@@ -40,10 +40,10 @@ Employees should follow the following procedure for providing notice of, schedul
 
 **Samples of emails to demonstrate the process to the ca-schedule list.**
 
- - *Hello, I am out sick today. I’ve let my team know via slack not to expect me today.* 
- - *Hello, I want to take Aug 1-7 off. I will coordinate coverage with my team and remind them again prior to my time off.*
- - *Hello, I am doing a prodev workshop on Feb 1. I’m cc’ing my team here to let them know I will be out that day.*
- - *Hello, I need tomorrow off for a last minute doctor appointment. I am cc’ing those that need to know on this email not to expect me tomorrow.*
+- _Hello, I am out sick today. I've let my team know via slack not to expect me today._
+- _Hello, I want to take Aug 1-7 off. I will coordinate coverage with my team and remind them again prior to my time off._
+- _Hello, I am doing a prodev workshop on Feb 1. I'm cc'ing my team here to let them know I will be out that day._
+- _Hello, I need tomorrow off for a last minute doctor appointment. I am cc'ing those that need to know on this email not to expect me tomorrow._
 
 ## Exempt Employees -- Time Off
 
