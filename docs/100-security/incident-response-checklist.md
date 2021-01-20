@@ -2,18 +2,22 @@
 
 For more details on any part of the checklist, see the [Security Incident Response Plan](incident-response-plan.md).
 
-## Contents
+## Table of Contents
 
-<!--TOC-->
+<!--ts-->
 
-- [1. _Breathe_](#1-_breathe_)
-- [2. Start documenting](#2-start-documenting)
-- [3. Initiate the response](#3-initiate-the-response)
-- [4. Assess the incident](#4-assess-the-incident)
-- [5. Remediate](#5-remediate)
-- [6. Conclude the incident](#6-conclude-the-incident)
+   * [CivicActions Security Incident Response Procedure Checklist](#civicactions-security-incident-response-procedure-checklist)
+      * [Table of Contents](#table-of-contents)
+      * [1. <em>Breathe</em>](#1-breathe)
+      * [2. Start documenting](#2-start-documenting)
+      * [3. Initiate the response](#3-initiate-the-response)
+      * [4. Assess the incident](#4-assess-the-incident)
+      * [5. Remediate](#5-remediate)
+      * [6. Conclude the incident](#6-conclude-the-incident)
 
-<!--TOC-->
+<!-- Added by: fen, at: Wed Jan 20 04:09:41 PM EST 2021 -->
+
+<!--te-->
 
 ---
 
