@@ -39,6 +39,7 @@ Employees should follow the following procedure for providing notice of, schedul
 1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/050-how-we-work/tools/harvest.md) for logging time off.
 
 **Sample emails to demonstrate how to communicate on the ca-schedule list:**
+
 - _Hello, I am out sick today. I've let my team know via slack not to expect me today._
 - _Hello, I want to take Aug 1-7 off. I will coordinate coverage with my team and remind them again prior to my time off._
 - _Hello, I am doing a prodev workshop on Feb 1. I'm cc'ing my team here to let them know I will be out that day._
