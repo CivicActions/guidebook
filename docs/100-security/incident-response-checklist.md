@@ -79,11 +79,11 @@ B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.
 
 C. Assess whether to activate the [contingency plan](contingency-plan.md). Consider whether Disaster Recovery is required.
 
-_Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md##explicit-handoff-ceremony) when transferring/changing roles._
+_Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles._
 
 **Incident Commander responsibilities**
 
-- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
+- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#4-assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
 - For an issue with potential Project impact, ensure that a JIRA ticket or Gitlab issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ## 5. Remediate
