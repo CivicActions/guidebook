@@ -37,7 +37,7 @@ A. Allocate 5 minutes and determine whether this event is a potential incident o
 
 B. Respond accordingly:
 
-- **Potential incident**
+**Potential incident**
 
   1. Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
 
@@ -58,7 +58,7 @@ B. Respond accordingly:
 
        Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
-- **False alarm**
+**False alarm**
 
   Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
@@ -79,12 +79,12 @@ B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.
 
 C. Assess whether to activate the [contingency plan](contingency-plan.md). Consider whether Disaster Recovery is required.
 
-_Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles._
+_Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md##explicit-handoff-ceremony) when transferring/changing roles._
 
 **Incident Commander responsibilities**
 
-- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#assess)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
-- For an issue with potential Project impact, ensure that a JIRA ticket has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
+- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
+- For an issue with potential Project impact, ensure that a JIRA ticket or Gitlab issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ## 5. Remediate
 
@@ -101,7 +101,7 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
 
 **Incident Commander responsibilities**
 
-- Maintain current information in Slack, shared Google Docs files, the JIRA Incident ticket (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
+- Maintain current information in Slack, shared Google Docs files, the ticket/issue (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
   - Project team leads and members
   - Remediation items and their assignees
 - Establish and document work shifts for an incident longer than 3 hours.
@@ -116,12 +116,12 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
 
 A. Notify the Slack channel [#general](https://civicactions.slack.com/messages/general/) that the incident has been resolved. Use `@security` to trigger a Slack notification for the Security team.
 
-B. Update the JIRA ticket (if applicable) and set the status to one of the following:
+B. Update the ticket/issue (if applicable) and set the status to one of the following:
 
 - Confirmed incident: _Ready for QA_
 - False alarm: _Done_
 
-C. Schedule an [IR Team retrospective](incident-response-plan.md#have-a-team-retrospective). Optional for false alarms.
+C. Schedule an [IR Team retrospective](incident-response-plan.md#conducting-a-retrospective). Optional for false alarms.
 
 D. Share the final _sitrep_ with stakeholders.
 

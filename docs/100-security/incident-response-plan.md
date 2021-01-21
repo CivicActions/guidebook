@@ -28,7 +28,7 @@
       - [Incident Commander responsibilities during remediation](#incident-commander-responsibilities-during-remediation)
       - [Communications during remediation](#communications-during-remediation)
     - [6. Conclude the incident](#6-conclude-the-incident)
-      - [Closing the JIRA ticket](#closing-the-jira-ticket)
+      - [Closing the ticket](#closing-the-ticket)
       - [Conducting a retrospective](#conducting-a-retrospective)
       - [Developing the incident report](#developing-the-incident-report)
   - [Incident severities](#incident-severities)
@@ -90,7 +90,7 @@ The _Incident Commander_ (IC) remains uninvolved in remediation efforts, and per
 2. Documentation, including all actions taken during investigation and remediation, using the following methods:
 
    - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team.)
-   - Project JIRA ticket (if applicable)
+   - Project JIRA ticket or Gitlab issue (if applicable)
 
 3. Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony).
 
@@ -122,12 +122,12 @@ The _Incident Commander_ (IC) determines the most appropriate communication chan
 
 There are six major processes of incident response, detailed below:
 
-- [1. _Breathe_](#1.-Breathe)
-- [2. Start documenting](#2.-Start-documenting)
-- [3. Initiate the response](#3.-Initiate-the-response)
-- [4. Assess the incident](#4.-Assess-the-incident)
-- [5. Remediate](#5.-Remediate)
-- [6. Conclude the incident](#6.-Conclude-the-incident)
+- [1. _Breathe_](#1-breathe)
+- [2. Start documenting](#2-start-documenting)
+- [3. Initiate the response](#3-initiate-the-response)
+- [4. Assess the incident](#4-assess-the-incident)
+- [5. Remediate](#5-remediate)
+- [6. Conclude the incident](#6-conclude-the-incident)
 
 _During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow._
 
@@ -149,7 +149,7 @@ An incident begins when someone becomes aware of a disruption in expected normal
 
 B. Respond accordingly:
 
-- **Potential incident**
+**Potential incident**
 
   1.  Issue a broadcast notification via one or more of the following:
 
@@ -185,9 +185,9 @@ B. Respond accordingly:
 
         Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
 
-- **False alarm**
+**False alarm**
 
-  Conclude the incident. Proceed to [_6. Conclude the incident_](#6.-conclude-the-incident).
+  Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
 ### 4. Assess the incident
 
@@ -195,18 +195,18 @@ B. Respond accordingly:
 
 A. Confirm the incident.
 
-      1. Gather information, and document your findings.
+   1. Gather information, and document your findings.
 
-         - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
-         - Is a system failure causing the disruption?
+      - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+      - Is a system failure causing the disruption?
 
-      2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6.-conclude-the-incident).)
+   2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
 
 B. Assess the severity.
 
-      - Use the [rubric for determining severity](#incident-severities). Project incidents are generally "Low severity".
-      - Does it affect system or data Confidentiality, Integrity, Availability and/or Privacy?
-      - Note that severity can change over the lifespan of an incident, and it is acceptable for the IR Team to assess the initial severity quickly.
+   - Use the [rubric for determining severity](#incident-severities). Project incidents are generally "Low severity".
+   - Does it affect system or data Confidentiality, Integrity, Availability and/or Privacy?
+   - Note that severity can change over the lifespan of an incident, and it is acceptable for the IR Team to assess the initial severity quickly.
 
 C. Determine whether the IR Team needs to activate the [Contingency Plan](contingency-plan.md). Consider whether Disaster Recovery is required.
 
@@ -218,19 +218,19 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
 
 - Post an initial situation report (_sitrep_), in the following locations:
 
-  - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the JIRA ticket if applicable.)
-  - JIRA ticket (if applicable)
-  - Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
+   - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the ticket/issue if applicable.)
+   - JIRA ticket or Gitlab issue (if applicable)
+   - Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
 
   Here is an example _sitrep_:
 
-      **Subject**: [sitrep] Chickens are escaping
+      **Subject**: \[sitrep\] Chickens are escaping
       **Severity**: low
       **Incident Commander**: Farmer Jane
       **Responders**: Spot the Dog, Farmer Dave
       **Description**: We've confirmed reports of escaped chickens. Looks like a fox may have tunneled into the run. Dave is working to fix the fence. Spot is tracking the fox.
 
-- For an issue with potential Project impact, ensure that a JIRA ticket has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
+- For an issue with potential Project impact, ensure that a ticket/issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ### 5. Remediate
 
@@ -255,7 +255,7 @@ Remediation takes time. If the issue progresses for more than 3 hours without be
 
 - Determine the cause, implement a resolution, and return the system to normal operations. Make every attempt to identify the cause; this can prevent incident recurrence.
 - Maintain a list of informational leads from the incident — actionable information about any security breaches, stolen data, etc.
-- Develop a list of remediation steps. These can be tracked as checklists in Slack, shared Google Docs files, a JIRA ticket, or another [communication channel](#communication-channels) as specified by the _Incident Commander_ (IC).
+- Develop a list of remediation steps. These can be tracked as checklists in Slack, shared Google Docs files, a JIRA ticket, Gitlab issue or another [communication channel](#communication-channels) as specified by the _Incident Commander_ (IC).
 
 If suspicious activity is suspected or other unanswered questions exist, do the following before making any changes:
 
@@ -294,17 +294,17 @@ The _Incident Commander_ (IC) or _Communications Officer_ (CO) does this followi
 - Coordinates with the CivicActions managers to apprise them of the situation.
 - Coordinates with the Project Product Owner (PO), if applicable, to notify affected customers.
 - Ensures that the IR Team is recording all actions in the appropriate designated [communication channels](#communication-channels).
-- Shares _sitreps_ on a regular basis in Slack, in the JIRA ticket (if applicable), and with stakeholders. See the section on [incident severities](#incident-severities) for suggested time intervals based on severity level.
+- Shares _sitreps_ on a regular basis in Slack, in the ticket/issue (if applicable), and with stakeholders. See the section on [incident severities](#incident-severities) for suggested time intervals based on severity level.
 
 ### 6. Conclude the incident
 
-#### Closing the JIRA ticket
+#### Closing the ticket
 
 When the incident is no longer active, for example, the breach has been contained, the issue has been fixed, etc., the _Incident Commander_ (IC) should conclude the incident. There might be longer term remediation required, and possibly more investigation, but when the incident is no longer active, these activities can proceed at the regular pace of business.
 
 To conclude an incident, the _Incident Commander_ (IC) should:
 
-- Set the status of the JIRA ticket to **Ready for QA**.
+- Set the status of the ticket/issue to **Ready for QA**.
 - Send a final _sitrep_ to stakeholders, including CivicActions managers and the Security team.
 - Thank everyone involved for their service.
 
@@ -327,7 +327,7 @@ Additionally, the incident report should include basic response metrics:
 - **Time to containment**: How much time passed from the time someone became aware of the incident until the incident was contained?
 - **Threat actions**: What actions were taken by the actor? For example, phishing, password attacks, etc.
 
-The incident report should be posted in Slack, or in the JIRA ticket as a final comment before the ticket is closed.
+The incident report should be posted in Slack, or in the ticket/issue as a final comment before the ticket is closed.
 
 ## Incident severities
 
@@ -387,6 +387,6 @@ To transfer _Incident Commander_ (IC), _Communications Officer_ (CO), or _Respon
 
 1. Outgoing ROLE initiates the handoff and briefs the incoming ROLE on the situation.
 2. Incoming ROLE confirms the handoff and assumes responsibility.
-3. Incoming ROLE documents the handoff in Slack or the JIRA ticket.
+3. Incoming ROLE documents the handoff in Slack or the JIRA ticket/Gitlab issue.
 4. Incoming ROLE shares a _sitrep_, which notes the handoff.
 5. Outgoing ROLE remains available for 15-20 minutes to ensure a smooth handoff and then logs off.
