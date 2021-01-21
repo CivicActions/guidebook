@@ -66,13 +66,13 @@ The _First Responder_ is the first IR Team member who becomes aware of the incid
 
 - Frequently the _First Responder_ is also the _Incident Reporter_.
 - The _First Responder_ assumes the role as the _Incident Commander_ (IC) until [handing off IC duties](#explicit-handoff-ceremony).
-- For the first 15-30 minutes, the _First Responder_ may work alone. If needed, the _First Responder_ begins forming the IR Team. See [Initiate](#3.-Initiate-the-response).
+- For the first 15-30 minutes, the _First Responder_ may work alone. If needed, the _First Responder_ begins forming the IR Team. See [Initiate](#3-initiate-the-response).
 
 #### IR Team Responders
 
 During incident response, _Responders_ do the following:
 
-- Assume primary responsibility for the [Assess](#4.-Assess-the-incident) and [Remediate](#5.-Remediate) steps.
+- Assume primary responsibility for the [Assess](#4-assess-the-incident) and [Remediate](#5-remediate) steps.
 - Document in real time the measurements, theories, and steps taken using the Slack channel [#general](https://civicactions.slack.com/messages/general/) or other channels provided by the _Incident Commander_ (IC). Use `@security` to trigger a Slack notification for the Security team.
 - Designate an _Incident Commander_ (IC), if the incident might require more than 15-30 minutes to resolve, and do an [explicit handoff](#explicit-handoff-ceremony).
 
@@ -149,15 +149,15 @@ An incident begins when someone becomes aware of a disruption in expected normal
 
 B. Respond accordingly:
 
-**Potential incident**
+- Potential incident
 
-1.  Issue a broadcast notification via one or more of the following:
+   1.  Issue a broadcast notification via one or more of the following:
 
-    - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-    - Email to [security@civicactions.com](mailto:security@civicactions.com).
-    - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+      - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+      - Email to [security@civicactions.com](mailto:security@civicactions.com).
+      - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-    An example message follows. The format is not important, but the information fields are useful.
+   An example message follows. The format is not important, but the information fields are useful.
 
         **Description**: [Short description of the event and its impact]
         **Status**: investigating
@@ -167,17 +167,17 @@ B. Respond accordingly:
         **Responders**: [names of other _Responders_]
         **Details**: [Extra details about the event]
 
-    Observe the following guidelines for communications:
+   Observe the following guidelines for communications:
 
-        - During this stage of incident response, the event status is "investigating".
-        - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
+      - During this stage of incident response, the event status is "investigating".
+      - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
 
-2.  For an incident requiring more than 30 minutes to resolve:
+   2.  For an incident requiring more than 30 minutes to resolve:
 
-    - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-    - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
+      - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+      - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
 
-      More information on [incident response roles and responsibilities](#roles-and-responsibilities):
+   More information on [incident response roles and responsibilities](#roles-and-responsibilities):
 
       - [Responder](#responder)
       - [Incident Commander (IC)](#incident-commander)
@@ -185,7 +185,7 @@ B. Respond accordingly:
 
       Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
 
-**False alarm**
+- False alarm
 
 Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
