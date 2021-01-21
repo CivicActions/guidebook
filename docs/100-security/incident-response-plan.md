@@ -151,43 +151,43 @@ B. Respond accordingly:
 
 **Potential incident**
 
-  1.  Issue a broadcast notification via one or more of the following:
+1.  Issue a broadcast notification via one or more of the following:
 
-      - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-      - Email to [security@civicactions.com](mailto:security@civicactions.com).
-      - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+    - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+    - Email to [security@civicactions.com](mailto:security@civicactions.com).
+    - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-      An example message follows. The format is not important, but the information fields are useful.
+    An example message follows. The format is not important, but the information fields are useful.
 
-          **Description**: [Short description of the event and its impact]
-          **Status**: investigating
-          **Severity**: unknown
-          **Incident Reporter**: [name of the person who reported the issue]
-          **Incident Commander**: [your name]
-          **Responders**: [names of other _Responders_]
-          **Details**: [Extra details about the event]
+        **Description**: [Short description of the event and its impact]
+        **Status**: investigating
+        **Severity**: unknown
+        **Incident Reporter**: [name of the person who reported the issue]
+        **Incident Commander**: [your name]
+        **Responders**: [names of other _Responders_]
+        **Details**: [Extra details about the event]
 
-      Observe the following guidelines for communications:
+    Observe the following guidelines for communications:
 
-          - During this stage of incident response, the event status is "investigating".
-          - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
+        - During this stage of incident response, the event status is "investigating".
+        - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
 
-  2.  For an incident requiring more than 30 minutes to resolve:
+2.  For an incident requiring more than 30 minutes to resolve:
 
-      - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-      - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
+    - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+    - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
 
-        More information on [incident response roles and responsibilities](#roles-and-responsibilities):
+      More information on [incident response roles and responsibilities](#roles-and-responsibilities):
 
-        - [Responder](#responder)
-        - [Incident Commander (IC)](#incident-commander)
-        - [Communications Officer (CO)](#communications-officer)
+      - [Responder](#responder)
+      - [Incident Commander (IC)](#incident-commander)
+      - [Communications Officer (CO)](#communications-officer)
 
-        Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
+      Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
 
 **False alarm**
 
-  Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
+Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
 ### 4. Assess the incident
 
@@ -195,18 +195,18 @@ B. Respond accordingly:
 
 A. Confirm the incident.
 
-   1. Gather information, and document your findings.
+1.  Gather information, and document your findings.
 
-      - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
-      - Is a system failure causing the disruption?
+    - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+    - Is a system failure causing the disruption?
 
-   2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
+2.  Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
 
 B. Assess the severity.
 
-   - Use the [rubric for determining severity](#incident-severities). Project incidents are generally "Low severity".
-   - Does it affect system or data Confidentiality, Integrity, Availability and/or Privacy?
-   - Note that severity can change over the lifespan of an incident, and it is acceptable for the IR Team to assess the initial severity quickly.
+- Use the [rubric for determining severity](#incident-severities). Project incidents are generally "Low severity".
+- Does it affect system or data Confidentiality, Integrity, Availability and/or Privacy?
+- Note that severity can change over the lifespan of an incident, and it is acceptable for the IR Team to assess the initial severity quickly.
 
 C. Determine whether the IR Team needs to activate the [Contingency Plan](contingency-plan.md). Consider whether Disaster Recovery is required.
 
@@ -218,9 +218,9 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
 
 - Post an initial situation report (_sitrep_), in the following locations:
 
-   - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the ticket/issue if applicable.)
-   - JIRA ticket or Gitlab issue (if applicable)
-   - Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
+  - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the ticket/issue if applicable.)
+  - JIRA ticket or Gitlab issue (if applicable)
+  - Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
 
   Here is an example _sitrep_:
 
