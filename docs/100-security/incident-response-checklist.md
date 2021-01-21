@@ -39,28 +39,28 @@ B. Respond accordingly:
 
 - Potential incident
 
-   1. Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
+  1.  Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
 
       - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
       - Email to [security@civicactions.com](mailto:security@civicactions.com).
       - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-   2. For an incident requiring more than 30 minutes to resolve:
+  2.  For an incident requiring more than 30 minutes to resolve:
 
       - Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
       - Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
 
-     More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
+  More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
 
         - [Responder](incident-response-plan.md#responder)
         - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
         - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
 
-     Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
+  Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
 - False alarm
 
-   Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
+  Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
 ## 4. Assess the incident
 
