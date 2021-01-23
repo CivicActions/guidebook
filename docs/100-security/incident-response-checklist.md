@@ -6,16 +6,18 @@ For more details on any part of the checklist, see the [Security Incident Respon
 
 <!--ts-->
 
-- [CivicActions Security Incident Response Procedure Checklist](#civicactions-security-incident-response-procedure-checklist)
-  - [Table of Contents](#table-of-contents)
-  - [1. <em>Breathe</em>](#1-breathe)
-  - [2. Start documenting](#2-start-documenting)
-  - [3. Initiate the response](#3-initiate-the-response)
-  - [4. Assess the incident](#4-assess-the-incident)
-  - [5. Remediate](#5-remediate)
-  - [6. Conclude the incident](#6-conclude-the-incident)
+* [1. <em>Breathe</em>](#1-breathe)
+* [2. Start documenting](#2-start-documenting)
+* [3. Initiate the response](#3-initiate-the-response)
+* [4. Assess the incident](#4-assess-the-incident)
+   * [IR Team responsibilities](#ir-team-responsibilities)
+   * [Incident Commander responsibilities](#incident-commander-responsibilities)
+* [5. Remediate](#5-remediate)
+   * [IR Team responsibilities](#ir-team-responsibilities-1)
+   * [Incident Commander responsibilities](#incident-commander-responsibilities-1)
+* [6. Conclude the incident](#6-conclude-the-incident)
 
-<!-- Added by: fen, at: Wed Jan 20 04:09:41 PM EST 2021 -->
+<!-- Added by: fen, at: Fri Jan 22 10:45:55 PM EST 2021 -->
 
 <!--te-->
 
@@ -64,7 +66,7 @@ B. Respond accordingly:
 
 ## 4. Assess the incident
 
-**IR Team responsibilities**
+### IR Team responsibilities
 
 A. Confirm the incident.
 
@@ -81,14 +83,14 @@ C. Assess whether to activate the [contingency plan](contingency-plan.md). Consi
 
 _Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles._
 
-**Incident Commander responsibilities**
+### Incident Commander responsibilities
 
 - Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#4-assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
 - For an issue with potential Project impact, ensure that a JIRA ticket or Gitlab issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ## 5. Remediate
 
-**IR Team responsibilities**
+### IR Team responsibilities
 
 - Determine the cause, implement a resolution, and return the system to normal operations. Make every attempt to identify the cause; this can prevent incident recurrence.
 
@@ -99,7 +101,7 @@ _Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md#explici
   - Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
   - Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like yours, until forensics can be performed.
 
-**Incident Commander responsibilities**
+### Incident Commander responsibilities
 
 - Maintain current information in Slack, shared Google Docs files, the ticket/issue (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
   - Project team leads and members
