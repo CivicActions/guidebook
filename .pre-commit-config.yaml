@@ -32,6 +32,11 @@ repos:
     hooks:
       - id: search-and-replace
         files: docs
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.0.0
+    hooks:
+      - id: codespell
+        files: docs
   - repo: https://github.com/pre-commit/mirrors-eslint
     rev: v7.14.0
     hooks:
