@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: codespell-project/actions-codespell@master
         with:
-          path: src
+          path: docs
