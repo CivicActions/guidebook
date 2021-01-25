@@ -7,6 +7,7 @@ jobs:
   codespell:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: codespell-project/actions-codespell@master
         with:
-          path: src
+          path: docs
