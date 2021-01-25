@@ -1,0 +1,12 @@
+name: pre-commit
+
+on:
+  pull_request:
+
+jobs:
+  codespell:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: codespell-project/actions-codespell@master
+        with:
+          path: src
