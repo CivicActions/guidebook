@@ -10,11 +10,11 @@ For more details on any part of the checklist, see the [Security Incident Respon
 - [2. Start documenting](#2-start-documenting)
 - [3. Initiate the response](#3-initiate-the-response)
 - [4. Assess the incident](#4-assess-the-incident)
-   - [IR Team responsibilities](#ir-team-responsibilities)
-   - [Incident Commander responsibilities](#incident-commander-responsibilities)
+  - [IR Team responsibilities](#ir-team-responsibilities)
+  - [Incident Commander responsibilities](#incident-commander-responsibilities)
 - [5. Remediate](#5-remediate)
-   - [IR Team responsibilities](#ir-team-responsibilities-1)
-   - [Incident Commander responsibilities](#incident-commander-responsibilities-1)
+  - [IR Team responsibilities](#ir-team-responsibilities-1)
+  - [Incident Commander responsibilities](#incident-commander-responsibilities-1)
 - [6. Conclude the incident](#6-conclude-the-incident)
 
 <!-- Added by: fen, at: Fri Jan 22 10:45:55 PM EST 2021 -->

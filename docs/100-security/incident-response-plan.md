@@ -6,33 +6,33 @@
 
 - [Introduction](#introduction)
 - [Roles and Responsibilities](#roles-and-responsibilities)
-   - [Responder](#responder)
-      - [First Responder](#first-responder)
-      - [IR Team Responders](#ir-team-responders)
-   - [Incident Commander](#incident-commander)
-   - [Communications Officer](#communications-officer)
-      - [Communication channels](#communication-channels)
+  - [Responder](#responder)
+    - [First Responder](#first-responder)
+    - [IR Team Responders](#ir-team-responders)
+  - [Incident Commander](#incident-commander)
+  - [Communications Officer](#communications-officer)
+    - [Communication channels](#communication-channels)
 - [Incident response process](#incident-response-process)
-   - [1. <em>Breathe</em>](#1-breathe)
-   - [2. Start documenting](#2-start-documenting)
-   - [3. Initiate the response](#3-initiate-the-response)
-   - [4. Assess the incident](#4-assess-the-incident)
-      - [IR Team responsibilities during assessment](#ir-team-responsibilities-during-assessment)
-      - [Incident Commander responsibilities during assessment](#incident-commander-responsibilities-during-assessment)
-   - [5. Remediate](#5-remediate)
-      - [Remediation and service disruption](#remediation-and-service-disruption)
-      - [Remediation requiring more than 3 hours](#remediation-requiring-more-than-3-hours)
-      - [IR Team responsibilities during remediation](#ir-team-responsibilities-during-remediation)
-      - [Incident Commander responsibilities during remediation](#incident-commander-responsibilities-during-remediation)
-      - [Communications during remediation](#communications-during-remediation)
-   - [6. Conclude the incident](#6-conclude-the-incident)
-      - [Closing the ticket](#closing-the-ticket)
-      - [Conducting a retrospective](#conducting-a-retrospective)
-      - [Developing the incident report](#developing-the-incident-report)
+  - [1. <em>Breathe</em>](#1-breathe)
+  - [2. Start documenting](#2-start-documenting)
+  - [3. Initiate the response](#3-initiate-the-response)
+  - [4. Assess the incident](#4-assess-the-incident)
+    - [IR Team responsibilities during assessment](#ir-team-responsibilities-during-assessment)
+    - [Incident Commander responsibilities during assessment](#incident-commander-responsibilities-during-assessment)
+  - [5. Remediate](#5-remediate)
+    - [Remediation and service disruption](#remediation-and-service-disruption)
+    - [Remediation requiring more than 3 hours](#remediation-requiring-more-than-3-hours)
+    - [IR Team responsibilities during remediation](#ir-team-responsibilities-during-remediation)
+    - [Incident Commander responsibilities during remediation](#incident-commander-responsibilities-during-remediation)
+    - [Communications during remediation](#communications-during-remediation)
+  - [6. Conclude the incident](#6-conclude-the-incident)
+    - [Closing the ticket](#closing-the-ticket)
+    - [Conducting a retrospective](#conducting-a-retrospective)
+    - [Developing the incident report](#developing-the-incident-report)
 - [Incident severities](#incident-severities)
-   - [High severity](#high-severity)
-   - [Medium severity](#medium-severity)
-   - [Low severity](#low-severity)
+  - [High severity](#high-severity)
+  - [Medium severity](#medium-severity)
+  - [Low severity](#low-severity)
 - [Explicit Handoff Ceremony](#explicit-handoff-ceremony)
 
 <!-- Added by: fen, at: Fri Jan 22 10:48:36 PM EST 2021 -->
@@ -149,13 +149,13 @@ B. Respond accordingly:
 
 - Potential incident
 
-   1.  Issue a broadcast notification via one or more of the following:
+  1.  Issue a broadcast notification via one or more of the following:
 
       - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
       - Email to [security@civicactions.com](mailto:security@civicactions.com).
       - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-   An example message follows. The format is not important, but the information fields are useful.
+  An example message follows. The format is not important, but the information fields are useful.
 
         **Description**: [Short description of the event and its impact]
         **Status**: investigating
@@ -165,17 +165,17 @@ B. Respond accordingly:
         **Responders**: [names of other _Responders_]
         **Details**: [Extra details about the event]
 
-   Observe the following guidelines for communications:
+  Observe the following guidelines for communications:
 
       - During this stage of incident response, the event status is "investigating".
       - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
 
-   2.  For an incident requiring more than 30 minutes to resolve:
+  2.  For an incident requiring more than 30 minutes to resolve:
 
       - Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
       - Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
 
-   More information on [incident response roles and responsibilities](#roles-and-responsibilities):
+  More information on [incident response roles and responsibilities](#roles-and-responsibilities):
 
       - [Responder](#responder)
       - [Incident Commander (IC)](#incident-commander)
