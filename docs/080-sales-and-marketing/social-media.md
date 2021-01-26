@@ -36,21 +36,31 @@ Anyone who plans to publicly promote CivicActions with content that includes ind
 
 When doing onsite visits or meeting up with clients at community events, your team may want to take photos to document their research, gather promo photos for the content team, or just celebrate meeting folks in real life. It's important to get verbal consent any time you take a photo of someone, but there are a few circumstances where you should also get written consent before taking and using photos of clients or other partners.
 
-**Uses that DON'T require written consent**
+#### Uses that DON'T require written consent
 
 - Posting photos in CivicActions Slack
 - Photos used for internal documentation purposes only
 - Group photos where a client appears, but isn't identifiable (for example, because their face isn't visible, or they are not otherwise identifiable)
 
-**Uses that require written consent**
+#### Uses that require written consent
 
 - Photos for promotional/commercial purposes, such as on our website or social media posts
 - Photos you plan to share in your individual professional portfolio
 - Images that appear in public presentations, such as conference talks
 - Images used for sales collateral or other printed promotional materials
 
-**How to get written consent**
+#### How to get written consent
 
 - Contact the client or partner in advance and ask them to fill out the [privacy waiver form](https://docs.google.com/document/d/19gWNB45730Fc0tPbAH2mT-rIdOPyabcZxsurYHh4-3U/edit).
 - Upload the completed form to [this folder](https://drive.google.com/open?id=1lYfj29gaR0rdRcR9LfA0FSIgASQe_DFF).
 - When sharing the photo with others to use at CivicActions, let them know you obtained written consent.
+
+## Accessibility in Social Media
+
+Accessibility is important to CivicActions. We work to follow the best practices in the social media platforms we use:
+- [Twitter](https://support.webservices.ufhealth.org/social/social-media-accessibility/twitter/)
+- [LinkedIn](https://support.webservices.ufhealth.org/linkedin)
+- [Facebook](https://support.webservices.ufhealth.org/facebook)
+- [Medium](https://medium.com/better-marketing/how-and-why-to-add-alt-text-to-your-medium-articles-a9168df1105)
+
+We do sometimes forget, so please reach out if we've overlooked it in a post. 
