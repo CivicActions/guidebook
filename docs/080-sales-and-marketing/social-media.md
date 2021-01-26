@@ -58,9 +58,10 @@ When doing onsite visits or meeting up with clients at community events, your te
 ## Accessibility in Social Media
 
 Accessibility is important to CivicActions. We work to follow the best practices in the social media platforms we use:
+
 - [Twitter](https://support.webservices.ufhealth.org/social/social-media-accessibility/twitter/)
 - [LinkedIn](https://support.webservices.ufhealth.org/linkedin)
 - [Facebook](https://support.webservices.ufhealth.org/facebook)
 - [Medium](https://medium.com/better-marketing/how-and-why-to-add-alt-text-to-your-medium-articles-a9168df1105)
 
-We do sometimes forget, so please reach out if we've overlooked it in a post. 
+We do sometimes forget, so please reach out if we've overlooked it in a post.
