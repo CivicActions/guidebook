@@ -70,6 +70,8 @@ Because we can generate them relatively quickly, low-fidelity wireframes allow u
 
 Once low-fidelity wireframes are discussed, revised and approved, higher fidelity activities can take place. These activities may include the production of style guides, high-fidelity prototypes, and/or functional prototypes, depending on project needs and scope.
 
+We look for accessibility implications of the wireframes that we develop. This can be an important time to think through how users will navigate the site with non-mouse driven devices like assistive technology, tablets/smart phones and Voice User Interface(VUI)'s like Google Home, Alexa and Siri. The earlier we are able to identify challenges, the sooner we are able to find a flexible solution for it. 
+
 ## Visual Design
 
 In alignment with the U.S. Digital Services Playbook, our visual designs are beautiful, simple and intuitive. During the last few years we have shifted away from the production of full-page design comps in favor of flexible, living style guides. Also known as pattern libraries, style guides are repositories of design rules, visual language components, and front-end code. Typical guides include color palettes, header styles, fonts, layouts and grids, imagery, buttons, icons, and navigation elements and patterns, providing a library of design elements that can be adapted for any device type.
