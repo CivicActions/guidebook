@@ -127,7 +127,7 @@ sudo apt-get install yubikey-neo-manager yubikey-personalization yubikey-persona
 
 Download and install the [YubiKey Personalization Tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12) from the Mac App Store at [https://itunes.apple.com/us/app/yubikey-personalization-tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12)
 
-Please Note the YubiKey Personalization Tool is only available in USA App Store. [To download the package visit] (https://www.yubico.com/products/services-software/download/yubikey-personalization-tools/)
+Please Note the YubiKey Personalization Tool is only available in USA App Store. If you are outside the US, you can download [directly from Yubico](https://www.yubico.com/products/services-software/download/yubikey-personalization-tools/).
 
 ### Personalize your YubiKey
 
