@@ -7,4 +7,4 @@ if [[ "$1" != "" ]]; then
 fi
 yarn install --frozen-lockfile &> $DEBUG
 ./node_modules/.bin/gulp ci 2>&1 | tee gulp.log &> $DEBUG
-! grep -e "problem\W" gulp.log
+! grep -e "  problem  " gulp.log
