@@ -6,19 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: remark-lint-suggestion
-        uses: reviewdog/action-remark-lint@v1
+      - name: Run remark-lint with reviewdog for documentation projects
+        uses: CivicActions/action-remark-lint-docs@v3.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-check
           workdir: docs
-          # remark_args: --rc-path=../remarkrc.suggestion
-          level: info
-      # - name: remark-lint-problem
-      #   uses: reviewdog/action-remark-lint@v1
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     reporter: github-pr-check
-      #     workdir: docs
-      #     remark_args: --rc-path=../remarkrc.problem
-      #     fail_on_error: true
