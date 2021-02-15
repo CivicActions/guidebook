@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+        with:
+          fetch-depth: 0
       - name: Run remark-lint with reviewdog for documentation projects
         uses: CivicActions/action-remark-lint-docs@v3.5.0
         with:
