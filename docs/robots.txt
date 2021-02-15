@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /
+
+Allow: /en/latest
+
+Sitemap: https://handbook.civicactions.com/sitemap.xml
