@@ -29,7 +29,7 @@ See [Reporting an incident](#reporting-an-incident). Even if you don't think som
 
 ## Reporting an incident
 
-Report any potential incident as soon as possible. Time is critical so that the Security team can initiate our Incident Response.
+Report any potential incident as soon as possible. Time is critical so that the Security team can initiate our [Incident Response Plan](https://handbook.civicactions.com/en/latest/100-security/incident-response-plan/) (if needed).
 
 ### To report a security incident
 
