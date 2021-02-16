@@ -11,7 +11,7 @@ fi
 export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" | grep '^docs')
 
 if [[ -n "${REVIEWDOG_GITHUB_API_TOKEN:-}" ]]; then
-  remark --rc-path=/usr/src/remarkrc.suggestion --no-color -o /dev/null ${REMARK_PATHS} 2>&1 |
+  remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -f=remark-lint \
       -name="remark-lint" \
       -fail-on-error="false" \
@@ -19,7 +19,7 @@ if [[ -n "${REVIEWDOG_GITHUB_API_TOKEN:-}" ]]; then
       -tee \
       ${REVIEWDOG_FLAGS}
 
-  remark --rc-path=/usr/src/remarkrc.problem --no-color -o /dev/null ${REMARK_PATHS} 2>&1 |
+  remark --rc-path=/usr/src/remarkrc.problem --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -f=remark-lint \
       -name="remark-lint" \
       -fail-on-error="true" \
@@ -27,8 +27,8 @@ if [[ -n "${REVIEWDOG_GITHUB_API_TOKEN:-}" ]]; then
       -tee \
       ${REVIEWDOG_FLAGS}
 else
-  remark --rc-path=/usr/src/remarkrc.suggestion ${REMARK_PATHS} 2>&1 |
+  remark --quiet --rc-path=/usr/src/remarkrc.suggestion ${REMARK_PATHS} 2>&1 >/dev/null |
     sed -e 's/warning/suggestion/g'
-  remark --rc-path=/usr/src/remarkrc.problem ${REMARK_PATHS} 2>&1 |
+  remark --frail --quiet --rc-path=/usr/src/remarkrc.problem ${REMARK_PATHS} 2>&1 >/dev/null |
     sed -e 's/warning/problem/g'
 fi
