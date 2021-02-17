@@ -8,7 +8,9 @@ jobs:
       - uses: actions/checkout@v1
         with:
           fetch-depth: 0
+      - name: Pull lint docker image.
+        run: docker pull civicactions/handbook-lint:latest
       - name: Build lint docker image.
-        run: docker build -t lint -f lint/Dockerfile .
+        run: docker build -t civicactions/handbook-lint:latest -f lint/Dockerfile .
       - name: Run remark-lint with reviewdog for documentation projects.
-        run: docker run -v $(pwd):/src -e REVIEWDOG_GITHUB_API_TOKEN="${{ secrets.GITHUB_TOKEN }}" -e GITHUB_REPOSITORY lint remark.sh
+        run: docker run -v $(pwd):/src -e REVIEWDOG_GITHUB_API_TOKEN="${{ secrets.GITHUB_TOKEN }}" -e GITHUB_REPOSITORY civicactions/handbook-lint:latest remark.sh
