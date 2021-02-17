@@ -24,7 +24,7 @@ function attacher() {
         age: 18,
         minWords: 15,
         severity: "fatal",
-        threshold: 5 / 7,
+        threshold: 5 / 7
       })
       .use(equality, { ignore: ignoreWords || [] })
   );
