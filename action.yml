@@ -8,6 +8,7 @@ inputs:
     default: ${{ github.token }}
 runs:
   using: "docker"
-  image: "Dockerfile"
+  # We need to keep the action at the top level so we can build the same as Docker Hub.
+  image: "lint/Dockerfile"
   args:
     - remark.sh
