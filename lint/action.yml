@@ -8,6 +8,6 @@ inputs:
     default: ${{ github.token }}
 runs:
   using: "docker"
-  image: "lint/Dockerfile"
+  image: "Dockerfile"
   args:
     - remark.sh
