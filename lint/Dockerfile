@@ -17,9 +17,9 @@ RUN \
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/nightly/master/install.sh | sh -s -- -b /usr/local/bin/ ${REVIEWDOG_VERSION}
 
-COPY lint/*.sh /usr/bin/
+COPY *.sh /usr/bin/
 
-COPY lint/config/* /usr/src/
+COPY config/* /usr/src/
 RUN yarn install --production --non-interactive --cwd /usr/src/ && \
   yarn cache clean --force --cwd /usr/src/ \
   mkdir /src
