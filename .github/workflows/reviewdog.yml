@@ -10,5 +10,5 @@ jobs:
           fetch-depth: 0
       - name: Run remark-lint with reviewdog for documentation projects
         run: |
-          docker build -t lint ./lint
+          docker build -t lint -f lint/Dockerfile .
           docker run -v $(pwd):/src -e REVIEWDOG_GITHUB_API_TOKEN="${{ secrets.GITHUB_TOKEN }}" -it lint
