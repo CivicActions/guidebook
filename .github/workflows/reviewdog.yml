@@ -11,4 +11,4 @@ jobs:
       - name: Build lint docker image.
         run: docker build -t lint -f lint/Dockerfile .
       - name: Run remark-lint with reviewdog for documentation projects.
-        run: docker run -v $(pwd):/src -e REVIEWDOG_GITHUB_API_TOKEN="${{ secrets.GITHUB_TOKEN }}" lint remark.sh
+        run: docker run -v $(pwd):/src -e REVIEWDOG_GITHUB_API_TOKEN="${{ secrets.GITHUB_TOKEN }}" -e GITHUB_REPOSITORY lint remark.sh
