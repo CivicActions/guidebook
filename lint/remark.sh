@@ -2,7 +2,7 @@
 set -euo pipefail
 
 LOCAL_MASTER=$(git branch --list master)
-# Use local master if it exists, otherwise 
+# Use local master if it exists, otherwise
 MASTER=master
 if [[ -z ${LOCAL_MASTER} ]]; then
   MASTER=origin/master
