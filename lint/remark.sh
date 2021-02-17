@@ -10,7 +10,8 @@ fi
 # Only check paths changed on branch to avoid excessive output.
 export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" | grep '^docs')
 
-if [[ -n "${REVIEWDOG_GITHUB_API_TOKEN:-}" ]]; then
+if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
+  export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
   remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -f=remark-lint \
       -name="remark-lint" \
