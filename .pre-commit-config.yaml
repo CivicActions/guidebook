@@ -20,15 +20,15 @@ repos:
         pass_filenames: false
         verbose: true
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.4.0
+    rev: v3.4.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
       - id: mixed-line-ending
+      - id: fix-byte-order-marker
       - id: check-yaml
       - id: check-json
       - id: check-added-large-files
-      - id: check-byte-order-marker
   - repo: https://github.com/mattlqx/pre-commit-search-and-replace
     rev: v1.0.4
     hooks:

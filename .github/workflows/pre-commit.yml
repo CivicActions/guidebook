@@ -6,16 +6,20 @@ on:
 jobs:
   pre-commit:
     runs-on: ubuntu-latest
-    env:
-      # We skip checks that have their own actions.
-      SKIP: remark,codespell
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
           persist-credentials: false
       - uses: actions/setup-python@v2
-      - uses: actions/setup-node@v2
+      # Skip checks that don't auto-fix issues initially.
       - uses: pre-commit/action@v2.0.0
+        env:
+          SKIP: remark,codespell,mkdocs,check-yaml,check-json,check-added-large-files
         with:
           token: ${{ secrets.PRE_COMMIT_TOKEN }}
+      # Final run without committing to ensure passes.
+      - uses: pre-commit/action@v2.0.0
+        env:
+          # We skip checks that have their own actions.
+          SKIP: remark,codespell
