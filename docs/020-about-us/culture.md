@@ -50,7 +50,7 @@ Check out the All Hands Call slide deck on personal pronouns to learn more about
 
 [AHC: Personal pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit)
 
-If you have questions, concerns, or just want to practice, you can DM a designated DEI point person listed in the #dei-practice-area channel description for support.
+If you have questions, concerns, or just want to practice, you can DM a designated DEI point person listed in the #dei-ops channel description for support.
 
 ## Transparency
 
