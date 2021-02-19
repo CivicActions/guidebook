@@ -6,10 +6,8 @@ You may also want to talk with your project team members to see what browser ext
 
 - [LastPass](https://lastpass.com/misc_download2.php)
 - [Zoom](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle)
-- [Harvest for Trello](https://www.getharvest.com/trello-time-tracking)
 - [Scrum for Trello](http://scrumfortrello.com/)
 - [Show Card Numbers for Trello](https://chrome.google.com/webstore/detail/show-card-numbers-for-tre/pjhjdehkaggmpebggjonlhleidlodepi?hl=en)
-- [Boomerang for Gmail](https://chrome.google.com/webstore/detail/boomerang-for-gmail/mdanidgdpmkimeiiojknlnekblgmpdll?hl=en)
 
 ## Firefox browser extensions
 
