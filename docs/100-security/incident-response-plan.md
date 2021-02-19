@@ -48,7 +48,7 @@ This document describes the process that the CivicActions Incident Response Team
 - roles and responsibilities during and after incidents
 - overview of the steps to follow for resolution
 
-_During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow._
+_During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow. For most non-project-related incidents, see the [Security Incidents](https://handbook.civicactions.com/en/latest/100-security/incidents/) page._
 
 ## Roles and Responsibilities
 
