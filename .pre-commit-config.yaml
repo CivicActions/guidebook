@@ -3,30 +3,32 @@
 repos:
   - repo: local
     hooks:
-      - id: gulp
-        name: gulp
-        entry: ./.pre-commit-gulp.sh
-        language: system
+      - id: remark
+        name: remark
+        language: docker_image
+        entry: civicactions/handbook-lint:latest remark.sh
         always_run: true
         pass_filenames: false
+        verbose: true
   - repo: local
     hooks:
       - id: mkdocs
         name: mkdocs
-        entry: ./.pre-commit-mkdocs.sh
-        language: system
+        language: docker_image
+        entry: civicactions/handbook-lint:latest mkdocs.sh
         always_run: true
         pass_filenames: false
+        verbose: true
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.4.0
+    rev: v3.4.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
       - id: mixed-line-ending
+      - id: fix-byte-order-marker
       - id: check-yaml
       - id: check-json
       - id: check-added-large-files
-      - id: check-byte-order-marker
   - repo: https://github.com/mattlqx/pre-commit-search-and-replace
     rev: v1.0.4
     hooks:
@@ -37,10 +39,6 @@ repos:
     hooks:
       - id: codespell
         files: docs
-  - repo: https://github.com/pre-commit/mirrors-eslint
-    rev: v7.14.0
-    hooks:
-      - id: eslint
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: v2.2.1
     hooks:
