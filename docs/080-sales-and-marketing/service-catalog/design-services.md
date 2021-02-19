@@ -70,7 +70,7 @@ Because we can generate them relatively quickly, low-fidelity wireframes allow u
 
 Once low-fidelity wireframes are discussed, revised and approved, higher fidelity activities can take place. These activities may include the production of style guides, high-fidelity prototypes, and/or functional prototypes, depending on project needs and scope.
 
-We look for accessibility implications of the wireframes that we develop. This can be an important time to think through how users will navigate the site with non-mouse driven devices like assistive technology, tablets/smart phones and Voice User Interface(VUI)'s like Google Home, Alexa and Siri. The earlier we are able to identify challenges, the sooner we are able to find a flexible solution for it.
+We look for accessibility implications of the wireframes that we develop. This can be an important time to think through how users will navigate the site with non-mouse driven devices like assistive technology, tablets/smart phones and Voice User Interface's (VUI) like Google Home, Alexa and Siri. The earlier we are able to identify challenges, the sooner we are able to find a flexible solution for it.
 
 ## Visual Design
 
