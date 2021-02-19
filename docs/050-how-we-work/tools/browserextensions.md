@@ -14,3 +14,10 @@ You may also want to talk with your project team members to see what browser ext
 - [LastPass](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
 - [Zoom](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/)
 - [Harvest](https://addons.mozilla.org/en-US/firefox/addon/harves-387449-2/)
+
+## Accessibiity Extensions
+
+- **[WAVE Toolbar](https://wave.webaim.org/)** - FF & Chrome
+- [Accessibility Insights](https://accessibilityinsights.io/) - Edge & Chrome
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Chrome
+- [Accessible Color Picker](https://chrome.google.com/webstore/detail/accessible-color-picker/bgfhbflmeekopanooidljpnmnljdihld) - Chrome
