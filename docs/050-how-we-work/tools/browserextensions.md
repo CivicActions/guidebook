@@ -1,25 +1,23 @@
 # Browser extensions
 
-## Chrome browser extensions
-
 You may also want to talk with your project team members to see what browser extensions they're using and if they are helpful to you.
 
-- [LastPass](https://lastpass.com/misc_download2.php)
-- [Zoom](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle)
-- [Harvest](https://chrome.google.com/webstore/detail/harvest-time-tracker/fbpiglieekigmkeebmeohkelfpjjlaia)
-- [Harvest for Trello](https://www.getharvest.com/trello-time-tracking)
-- [Scrum for Trello](http://scrumfortrello.com/)
-- [Show Card Numbers for Trello](https://chrome.google.com/webstore/detail/show-card-numbers-for-tre/pjhjdehkaggmpebggjonlhleidlodepi?hl=en)
+## Productivity Extensions
 
-## Firefox browser extensions
+| Application | Chrome | Firefox | Edge     | Safari |
+| -------------- | --------- | --------- | --------- | ------- |
+| [LastPass](https://lastpass.com/misc_download2.php) | [ext](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) | [addon](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/) | [addon](https://microsoftedge.microsoft.com/addons/detail/bbcinlkgjjkejfdpemiealijmmooekmp) | [ext](https://lastpass.com/safariAppExtension.php?source=download) |
+| [Zoom](https://zoomgov.com/download) | [ext](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle) | [addon](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/) |  |  |
+| [Harvest](https://www.getharvest.com/integrations) | [ext](https://chrome.google.com/webstore/detail/harvest-time-tracker/fbpiglieekigmkeebmeohkelfpjjlaia) | [addon](https://addons.mozilla.org/en-US/firefox/addon/harves-387449-2/) |  |  |
+| [Scrum for Trello](http://scrumfortrello.com/) | [ext](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje) | [addon](https://addons.mozilla.org/en-US/firefox/addon/scrum-for-trello/) |  | [ext](http://scrumfortrello.com/Scrum_for_Trello.safariextz) |
+| Show Card Numbers for Trello | [ext](https://chrome.google.com/webstore/detail/show-card-numbers-for-tre/pjhjdehkaggmpebggjonlhleidlodepi?hl=en) |  |  |  |
 
-- [LastPass](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
-- [Zoom](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/)
-- [Harvest](https://addons.mozilla.org/en-US/firefox/addon/harves-387449-2/)
 
-## Accessibiity Extensions
+## Accessibility Extensions
 
-- **[WAVE Toolbar](https://wave.webaim.org/)** - FF & Chrome
-- [Accessibility Insights](https://accessibilityinsights.io/) - Edge & Chrome
-- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Chrome
-- [Accessible Color Picker](https://chrome.google.com/webstore/detail/accessible-color-picker/bgfhbflmeekopanooidljpnmnljdihld) - Chrome
+| Application | Chrome | Firefox | Edge     | Safari |
+| -------------- | --------- | --------- | --------- | ------- |
+| [WAVE Toolbar](https://wave.webaim.org/) | [ext](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | [addon](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/) |  |  |
+| [Accessibility Insights](https://accessibilityinsights.io/) | [ext](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni) |  | [addon](https://microsoftedge.microsoft.com/addons/detail/ghbhpcookfemncgoinjblecnilppimih) |  |
+| [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) | [ext](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) |  |  |  |
+| Accessible Color Picker | [ext](https://chrome.google.com/webstore/detail/accessible-color-picker/bgfhbflmeekopanooidljpnmnljdihld) |  |  |  |
