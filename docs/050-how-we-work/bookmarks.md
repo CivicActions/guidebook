@@ -46,5 +46,5 @@ Links to websites we use regularly.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) (Qualys)
 
 ### Browser Extensions
-- [See list browser extension page](/en/latest/050-how-we-work/tools/browserextensions/)
 
+- [See list browser extension page](/en/latest/050-how-we-work/tools/browserextensions/)
