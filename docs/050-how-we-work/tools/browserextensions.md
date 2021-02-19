@@ -18,6 +18,7 @@ You may also want to talk with your project team members to see what browser ext
 - [Harvest](https://addons.mozilla.org/en-US/firefox/addon/harves-387449-2/)
 
 ## Accessibiity Extensions
+
 - **[WAVE Toolbar](https://wave.webaim.org/)** - FF & Chrome
 - [Accessibility Insights](https://accessibilityinsights.io/) - Edge & Chrome
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Chrome
