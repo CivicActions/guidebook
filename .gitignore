@@ -1,9 +1,0 @@
-.*.swp
-.DS_Store
-.bundle/
-.jekyll*
-.sass-cache/
-_site/
-node_modules
-output.log
-site
