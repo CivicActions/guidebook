@@ -3,11 +3,5 @@ repo_url: https://github.com/Bloom-Works/handbook/
 site_url: https://bloom-handbook.rtfd.io/
 theme:
   name: readthedocs
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - rust
 plugins:
   - search
-extra_css:
-  - css/extra.css
