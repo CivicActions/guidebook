@@ -30,4 +30,4 @@ We use internal and client-facing listservs for email communication. PMs are res
 - You can set a welcome message that should be sticky for future members that get added.
 - Add <mailto:elizabeth.raley@civicactions.com> and <mailto:owen.barton@civicactions.com> to every list you create.
 
-![alt text](../images/create-google-group-listserv.png "PM listserv setup")
+![alt text](../img/create-google-group-listserv.png "PM listserv setup")

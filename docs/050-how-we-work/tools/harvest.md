@@ -26,7 +26,7 @@ Then:
 - If you use a time tracker, you do not need to round your hours up to 15 min intervals bc the report that gets run rounds it up for you. Although no harm if you do it manually still.
 - You must enter your time _each day_ before you sign off for the day. Ideally time is tracked in real time, but must be entered by end of day.
 
-![Harvest screenshot 2](../../images/harvest02.png)
+![Harvest screenshot 2](../../img/harvest02.png)
 
 ### Logging Your Working Expectations
 
@@ -89,15 +89,15 @@ You must add time to BOTH Harvest plugin & update the Time Tracking section in J
 
 The Trello integration will require that you install the Chrome extension found here: <https://www.getharvest.com/trello> You can then log time directly from Chrome, as well as Trello cards. You may need to refresh or log out/into Trello to see the "Track Time" action.
 
-![Harvest screenshot 3](../../images/harvest03.png)
+![Harvest screenshot 3](../../img/harvest03.png)
 
-![Harvest screenshot 4](../../images/harvest04.png)
+![Harvest screenshot 4](../../img/harvest04.png)
 
-![Harvest screenshot 5](../../images/harvest05.png)
+![Harvest screenshot 5](../../img/harvest05.png)
 
-![Harvest screenshot 6](../../images/harvest06.png)
+![Harvest screenshot 6](../../img/harvest06.png)
 
-![Harvest screenshot 7](../../images/harvest07.png)
+![Harvest screenshot 7](../../img/harvest07.png)
 
 ## Other Add-ons
 
@@ -130,13 +130,13 @@ Directions for submitting expenses:
     2.  Add a comment indicating the total amount that needs to be reimbursed.
     3.  Move your card from the "Approved" column to the "Submitted" column. This lets the Admin know these expenses are ready for reimbursement.
 
-![Harvest screenshot 8](../../images/harvest08.png)
+![Harvest screenshot 8](../../img/harvest08.png)
 
-![Harvest screenshot 9](../../images/harvest09.png)
+![Harvest screenshot 9](../../img/harvest09.png)
 
-![Harvest screenshot 10](../../images/harvest10.png)
+![Harvest screenshot 10](../../img/harvest10.png)
 
-![Harvest screenshot 11](../../images/harvest11.png)
+![Harvest screenshot 11](../../img/harvest11.png)
 
 ## Tracking Time off
 
@@ -157,7 +157,7 @@ You do NOT need to log entries when the office is closed for a holiday.
 - 8 hours for a full day
 - 4 hours for a half day
 
-![Harvest screenshot 12](../../images/harvest12.png)
+![Harvest screenshot 12](../../img/harvest12.png)
 
 ## Harvest Phone App
 
