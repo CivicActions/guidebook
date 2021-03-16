@@ -4,7 +4,9 @@ This Handbook has been prepared to describe Bloom's philosophy, working methods 
 
 ## This is not really the README you are looking for.
 
-The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <https://bloom-handbook.readthedocs.io/>
+The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <https://bloom-handbook.readthedocs.io/>.
+
+Documentation on [`mkdocs` with readthedocs](https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html).
 
 ## License
 
