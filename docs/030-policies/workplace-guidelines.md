@@ -1,6 +1,6 @@
 ---
 status: Work in progress
-updated: May 9, 2017
+updated: March 17, 2021
 ---
 
 # Workplace Guidelines
@@ -11,7 +11,7 @@ The normal workweek for a full-time employee is forty (40) hours. With some empl
 
 ## Attendance / Tardiness
 
-CivicActions trusts its employees. If an employee is unable to work for any reason, we just ask that you make a good faith effort to timely notify CivicActions of an absence or period of unavailability.
+Bloom Works trusts its employees. If an employee is unable to work for any reason, we just ask that you make a good faith effort to timely notify Bloom Works of an absence or period of unavailability.
 
 ## Personal Appearance
 
@@ -19,4 +19,4 @@ Be appropriate for the client you are meeting either face-to-face or via video c
 
 ## Access to Business-Related Online Accounts
 
-Please tell the admin group about any online accounts you open for the benefit of CivicActions or a CivicActions client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.
+Please tell the admin group about any online accounts you open for the benefit of Bloom Works or a Bloom Works client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.
