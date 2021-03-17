@@ -5,14 +5,9 @@
 **#dei-ops**
 This Slack channel is for folks who want to share resources or start conversations about DEI topics. We also encourage everyone to introduce DEI-related conversations where they are likely to reach the widest and most relevant audience. For example, do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
 
-**Lead or attend DEI Brownbags (currently decommissioned)**
-These monthly 30-45 minute topic-oriented calls are for folks who are interested in talking about DEI issues together. Have something you'd like to talk about? Then you're the right person to lead the brownbag! Calls start with a brief introduction (or optional presentation) by the topic leader followed by open discussion.
-
-**[Brownbag planning Trello board](https://trello.com/b/DooWcXUf/dei-brownbag)**
-
 ## Contribute to a DEI initiative
 
-Anyone at CivicActions who is interested can join work on a DEI initiative. To get started, ask someone in the #dei-ops channel to add you to the monthly DEI-ops call. Someone can help you find an initiative that fits your interests and capacity.
+Anyone at Bloom Works who is interested can join work on a DEI initiative. To get started, ask someone in the #dei-ops channel to add you to the monthly DEI-ops call. Someone can help you find an initiative that fits your interests and capacity.
 **[See our current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives)**
 
 ## Get support
