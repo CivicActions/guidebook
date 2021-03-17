@@ -1,6 +1,6 @@
 # The file structure
 
-Everything within the docs/ folder--and nothing else--gets published to [Read The Docs](https://handbook.civicactions.com/en/latest/README/), where the files are searchable and get a nice browsable table of contents sidebar. The only files in the root directory of the repo (above docs/) are configuration files and the main repo README.md, which is what you find at <https://github.com/CivicActions/handbook>.
+Everything within the docs/ folder--and nothing else--gets published to [Read The Docs](https://handbook.civicactions.com/en/latest/README/), where the files are searchable and get a nice browsable table of contents sidebar. The only files in the root directory of the repo (above docs/) are configuration files and the main repo README.md, which is what you find at <https://github.com/Bloom-works/handbook>.
 
 Within the docs folder, the folder and file structure loosely maps to our practice areas and working groups.
 
