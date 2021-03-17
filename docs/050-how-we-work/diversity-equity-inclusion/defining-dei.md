@@ -2,7 +2,7 @@
 
 ## Diversity
 
-Diversity describes the range of differences within a group with regard to social identity, such as race, gender identity, age, religion, sexual orientation, class, ability, and nation of origin. Diversity isn't limited to legally protected classes: other characteristics such as personality and political affiliation also contribute to the variety of our working styles, experiences, and types of privileged status. It's important to note that diversity isn't a synonym for "otherness" (see the section on inclusion), so we only use it to describe groups of people, not individuals.
+Diversity describes the range of differences within a group with regard to social identity, such as race, gender identity, age, religion, sexual orientation, class, ability, and nation of origin. Diversity isn't limited to legally protected classes: other characteristics such as personality and political affiliation also contribute to the variety of our working styles, experiences, and types of privileged status. It's important to note that diversity isn't a synonym for "otherness," so we only use it to describe groups of people, not individuals.
 
 ### What we're doing to support diversity
 
@@ -20,10 +20,9 @@ Instead, equity addresses the past or present conditions that may continue to ho
 ### What we're doing to support equity
 
 - Creating professional development opportunities and support for team members who have had less access to opportunities in the past
-- Facilitating a culture of mentorship by [encouraging peer support](http://handbook.civicactions.com/en/latest/030-policies/prodev/#asking-a-mentor-coach-or-peer-to-help) through coworking or one-on-one check-ins
-- Investing in our team's [professional development](http://handbook.civicactions.com/en/latest/030-policies/prodev/#prodev-faqs) while giving individuals the agency to choose what they'd like to learn
+- Facilitating a culture of mentorship by [encouraging peer support](http://handbook.bloom-works.com/en/latest/030-policies/prodev/#asking-a-mentor-coach-or-peer-to-help) through coworking or one-on-one check-ins
+- Investing in our team's [professional development](http://handbook.cloom-works.com/en/latest/030-policies/prodev/#prodev-faqs) while giving individuals the agency to choose what they'd like to learn
 - Sharing knowledge within practice areas through regular skill shares and collaboration
-- [Supporting distributed teams](https://medium.com/civicactions/an-open-dialogue-on-work-and-life-in-a-distributed-team-796ef88813cd) who work remotely, which allows our team members to work in locations and environments best suited to their needs and abilities
 
 ## Inclusion
 
@@ -37,6 +36,5 @@ As a working group, we understand that creating an inclusive work culture is the
 - Helping new hires feel welcome through one-on-one onboarding, mentorship, and training focused on DEI
 - Creating open communication with job candidates who want to learn more about the company directly from the people who work here
 - Finding ways to promote a flat organizational culture
-- Creating opportunities for CivicActioners to form relationships on pod calls that aren't work-focused
 - Offering Slack channels for various affinity groups — spaces where folks can openly discuss issues and causes that are important to them
 - Encouraging team members to use 5% of their working time giving back to a community they care about
