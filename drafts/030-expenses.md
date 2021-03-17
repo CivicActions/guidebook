@@ -1,11 +1,11 @@
 ---
-status: Up-to-date
-updated: April 20, 2018
+status: draft
+updated: March, 17, 2021
 ---
 
 # Expenses
 
-CivicActions will timely reimburse approved business-related out-of-pocket expenses as long as you submit a receipt.
+Bloom Works will timely reimburse approved business-related out-of-pocket expenses as long as you submit a receipt.
 
 ## Step 1: Request approval for an expense
 
