@@ -2,11 +2,11 @@
 
 ## Who we are
 
-We are a group of CivicActioners who gather to work on creating justice in our workplace and in the world through company DEI initiatives. The Diversity, Equity, and Inclusion Practice Area started in Spring 2018, and meets monthly to organize our work.
+We are a group of Bloomers who gather to work on creating justice in our workplace and in the world through company DEI initiatives. The Diversity, Equity, and Inclusion Practice Area started in Summer 2020, and meets monthly to organize our work.
 
 ## Our purpose
 
-At Civicactions we believe that [working for the greater good](http://civicactions.com/values) requires committing to diversity, equity, and inclusion in both our team culture and our work on problems that shape civic life.
+At Bloom Works we believe that working for the greater good requires committing to diversity, equity, and inclusion in both our team culture and our work on problems that shape civic life.
 
 We recognize that we have a responsibility to address the inequality that permeates our lives as civic tech workers and individuals. As a practice area, our purpose is to find opportunities to address unjust practices and create greater inclusivity in our company, our industry, and beyond.
 
