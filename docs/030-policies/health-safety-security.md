@@ -2,21 +2,21 @@
 
 ## Workers' Compensation
 
-CivicActions provides insurance for all work-related injuries or illness. The name of CivicActions' workers' compensation insurance carrier and other pertinent information is available. The carrier governs all insurance benefits provided by CivicActions.
+Bloom Works provides insurance for all work-related injuries or illness. The name of Bloom Works' workers' compensation insurance carrier and other pertinent information is available. The carrier governs all insurance benefits provided by Bloom Works.
 
 ## Safety
 
-CivicActions wants you to be safe under all circumstances. All employees have a stake in keeping the workplace safe, pleasant, and free of hazards of any kind. We rely on you to help make the company a friendly, secure place to work. If you ever feel unsafe please talk to your manager or refer to the Reporting and Investigating Proscribed Harassment Policy in [Anti Harassment Policies](../040-employee-handbook-us/anti-harassment-policies.md).
+Bloom Works wants you to be safe under all circumstances. All employees have a stake in keeping the workplace safe, pleasant, and free of hazards of any kind. We rely on you to help make the company a friendly, secure place to work. If you ever feel unsafe please talk to your manager or refer to the Reporting and Investigating Proscribed Harassment Policy in [Anti Harassment Policies](../040-employee-handbook-us/anti-harassment-policies.md).
 
 ## Use of Private Automobile
 
-If your job requires you to operate your personal vehicle for CivicActions' business, CivicActions needs proof of a current and valid state driver's license and proof of insurance.
+If your job requires you to operate your personal vehicle for Bloom Works' business, Bloom Works needs proof of a current and valid state driver's license and proof of insurance.
 
-If you are involved in an automobile accident while on CivicActions' business, report the accident to your manager immediately. Request a police report and obtain anything available to you at the scene of the accident.
+If you are involved in an automobile accident while on Bloom Works' business, report the accident to your manager immediately. Request a police report and obtain anything available to you at the scene of the accident.
 
 ## Substance Abuse Policy
 
-CivicActions ("Company") is committed to providing a drug-free work environment. The use of drugs and abuse of alcohol not only jeopardizes the health, safety, and well-being of the individual user and coworkers, it also results in increased absenteeism and decreased productivity, higher workers' compensation costs and health/disability premiums, and endangers the safety of the general public.
+Bloom Works ("Company") is committed to providing a drug-free work environment. The use of drugs and abuse of alcohol not only jeopardizes the health, safety, and well-being of the individual user and coworkers, it also results in increased absenteeism and decreased productivity, higher workers' compensation costs and health/disability premiums, and endangers the safety of the general public.
 
 ### PURPOSE
 
