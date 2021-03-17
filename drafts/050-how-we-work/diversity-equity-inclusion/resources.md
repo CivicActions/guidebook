@@ -1,6 +1,6 @@
 # DEI Resources
 
-Find resources on various DEI topics, as well as materials developed for and by CivicActions.
+Find resources on various DEI topics.
 
 ## DEI at CivicActions
 
