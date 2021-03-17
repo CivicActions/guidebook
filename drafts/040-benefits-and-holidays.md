@@ -1,6 +1,6 @@
 # Benefits
 
-Time off under this policy is not being provided in addition to any pre-existing vacation, personal time, or sick leave policy, which are now superseded by this policy.
+Time off under this policy is not being provided in addition to any pre-existing vacation, floating holiday time, or sick leave policy, which are now superseded by this policy.
 
 ## Holidays
 
@@ -8,12 +8,7 @@ CivicActions is considered closed on the following holidays:
 
 | Holiday                       | Dates                                                |
 | ----------------------------- | ---------------------------------------------------- |
-| New Year's Day                | January 1st\*                                        |
-| Martin Luther King's Birthday | Third Monday in January                              |
-| Memorial Day                  | Last Monday in May                                   |
-| Independence Day              | July 4th\*                                           |
-| Labor Day                     | First Monday in September                            |
-| Veterans Day                  | November 11th\*                                      |
+| New Year's Day                | January 1st\*                                        |                                    |
 | Thanksgiving                  | Fourth Thursday in November and the following Friday |
 | Christmas                     | December 25th\*                                      |
 
@@ -25,17 +20,17 @@ Exempt employees who voluntarily work on holidays will not receive additional co
 
 ## Notice, Scheduling, and Approval of Time Off
 
-You do not need to justify time off for traditional vacation or personal time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies.
+You do not need to justify time off for traditional vacation or floating holiday time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies.
 
 For time off related to any sick leave that is **foreseeable**, employees should provide advance notice as soon as possible, preferably at least seven days in advance. If the need for sick leave is **unforeseeable**, employees shall provide notice as soon as practicable.
 
 Employees should follow the following procedure for providing notice of, scheduling, and obtaining approval of paid time off:
 
 1. If you are working on an active project (internal or external), discuss the impact of your absence with your project manager & team to get coverage and clarify project impact. This is especially important if there is flexibility in your dates. This is not necessary if the need is related to sick time that is **unforeseeable**.
-1. Email <mailto:ca-schedule@civicactions.com> to request the time. Make sure to explain your plan for coverage as discussed with your PM & team. If you are providing notice where the need is related to sick time and is **unforeseeable**, there's no need to explain further.
+1. Email <mailto:sofia@bloomworks.digital> to request the time. Make sure to explain your plan for coverage as discussed with your PM & team. If you are providing notice where the need is related to sick time and is **unforeseeable**, there's no need to explain further.
 1. You will want to cc team members who will be affected by your timeoff (eg your project manager or your supervisor), or you can choose to slack them separately.
 1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved.
-1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes.
+1. Then your time off will be put on Gusto.
 1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/050-how-we-work/tools/harvest.md) for logging time off.
 
 **Sample emails to demonstrate how to communicate on the ca-schedule list:**
@@ -48,7 +43,7 @@ Employees should follow the following procedure for providing notice of, schedul
 ## Exempt Employees -- Time Off
 
 The following applies to all United States-based, FLSA exempt employees.
-In recognition of the professional environment in which we work, exempt CivicActions employees do not accrue sick days, vacation days, or any other form of time off in any fixed amount. Rather, an eligible employee who is absent from work as a result of appropriately scheduled and approved vacation, personal, or sick time, including for any reason covered by applicable paid sick leave requirements, is eligible for time off with pay under this policy.
+In recognition of the professional environment in which we work, exempt Bloom Works employees do not accrue sick days, vacation days, or any other form of time off in any fixed amount. Rather, an eligible employee who is absent from work as a result of appropriately scheduled and approved vacation, personal, or sick time, including for any reason covered by applicable paid sick leave requirements, is eligible for time off with pay under this policy.
 Employees are encouraged to take a reasonable amount of time off as needed to feel balanced, productive, and healthy, subject to business needs. PTO is intended to ensure employees may take an appropriate amount of time for vacation and personal time to remain healthy and productive, in addition to necessary paid sick time, exempt employees should generally attempt to take three weeks of vacation or personal time per calendar year where consistent with their productivity requirements and business needs.
 
 Exempt employees do not accrue or carry over time off from year-to-year. Thus, time off will not be paid out upon termination.
@@ -57,7 +52,7 @@ Exempt employees do not accrue or carry over time off from year-to-year. Thus, t
 
 The following applies to all United States-based, FLSA non-exempt employees.
 
-CivicActions believes employees should have opportunities to enjoy time away from work and recognizes that employees have diverse needs for time off from work. Non-exempt employees are responsible for managing their own paid time off to allow for adequate reserves for use when needed. This policy is designed so that non-exempt employees receive PTO at an accelerated pace so that non-exempt employees can have similar flexibility to exempt employees.
+Bloom Works believes employees should have opportunities to enjoy time away from work and recognizes that employees have diverse needs for time off from work. Non-exempt employees are responsible for managing their own paid time off to allow for adequate reserves for use when needed. This policy is designed so that non-exempt employees receive PTO at an accelerated pace so that non-exempt employees can have similar flexibility to exempt employees.
 
 Non-exempt employees scheduled to work on average 30 hours or more per week will receive 40 hours of PTO per calendar month, effective the last calendar day of each month. Non-exempt employees scheduled to work on average 30 hours or more per week shall not be allocated a total amount of PTO in excess of 120 hours of PTO. Non-exempt employees scheduled to work on average 29 hours or less per week will receive 20 hours of PTO per calendar month, effective the last day of each month. Non-exempt employees scheduled to work on average 29 hours or less per week shall not be allocated a total amount of PTO in excess of 60 hours of PTO. Non-exempt employees enrolled in the CivicActions Internship Program do not receive PTO. PTO under this policy is designed to be used by a non-exempt employee who is absent from work as a result of appropriately scheduled and approved vacation, personal, or sick time, including for any reason covered by applicable state or local paid sick leave requirements.
 
