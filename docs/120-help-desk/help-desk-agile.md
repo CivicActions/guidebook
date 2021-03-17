@@ -1,6 +1,6 @@
-# CivicActions Help Desk and Agile
+# Bloom Works Help Desk and Agile
 
-CivicActions help desk practices follow Agile principles as follows:
+Bloom Works help desk practices follow Agile principles as follows:
 
 ## Individuals and interactions over processes and tools
 
