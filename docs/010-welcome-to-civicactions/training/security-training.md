@@ -1,3 +1,8 @@
+```javascript
+var s = "JavaScript syntax highlighting";
+links are broken because I moved a lot of these pages into edit folder. this needs some cleaning up but would like to do it with someone who is more versed in security(s);
+```
+
 # Security for Everyone
 
 ## Security Policy
