@@ -1,22 +1,25 @@
+```javascript
+var s = "JavaScript syntax highlighting";
+links needs to updated with bloom documents;
+```
+
 # New Hire Orientation meetings
 
 ## Day 1
 
 ### Onboarding Paperwork
 
-- Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=https%3A%2F%2Fwww.hrpassport.com%3A443%2FLink2HR.eng%3F%2FSaf%2FEntry%2FPortal.htm&RequestID=22350&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fwww.hrpassport.com%3A443%2Famagent%3FRealm%3D%2Fsw_hrp&IssueInstant=2017-06-13T15%3A05%3A16Z) tasks:
+- Overview of Gusto tasks:
 
-  - Employment Agreement
-  - Confidential Information Document
+  - Offer Letter
+  - Non Disclosure Agreement
   - I-9 - Employment Eligibility Verification
   - W-4 - Federal Income Tax Withholding
   - Direct deposit form
   - Benefits selection
   - Anti-Harassment Training
 
-- Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from DocuSign that asks you to acknowledge it later this week.
-
-- Review the following CivicActions' policies on your own:
+- Review the following Bloom Works' policies on your own:
   - [Annual Review Process](../../030-policies/annual-review-process.md)
   - [Code of Conduct](../../030-policies/code-of-conduct.md)
   - [Compensation](../../040-employee-handbook-us/compensation.md)
@@ -27,8 +30,6 @@
 ### First Orientation
 
 - Where to [direct questions](../../020-about-us/general-contacts-and-listservs.md)
-
-- Introduction to the buddy program
 
 - Working hours expectations:
   - We have schedule flexibility, but request a general set schedule / core hours
@@ -53,12 +54,12 @@
 - Read the [expense policy](../../030-policies/expenses.md)
 
 - How to log onboarding time:
-  - Log your time in the CivicActions Harvest project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description
+  - Log your time in the Bloom Works Harvest project: Bloom Works > Human Resources > Onboarding
   - Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
 
 ### Communication Tools
 
-- Learn about some of the different [meetings at CivicActions](meetings-and-meeting-tools.md)
+- Learn about some of the different [meetings at Bloom](meetings-and-meeting-tools.md)
 - Download, setup, and review the following basic communication tools:
 
   - [Slack](../../050-how-we-work/tools/slack.md)
@@ -68,14 +69,10 @@
     - [Hangouts](../../050-how-we-work/tools/google-hangouts.md)
     - [Drive and Docs](../../050-how-we-work/tools/google-docs.md)
   - [Zoom](../../050-how-we-work/tools/zoom.md)
-  - [Telephone use](../../050-how-we-work/tools/telephone.md)
 
 ### Get to Know Your Colleagues
 
-- Read about [balance scores](../../050-how-we-work/balance-scores.md)
-- Read about [all hands calls](meetings-and-meeting-tools.md#all-hands-calls)
-- Review [team bios](https://civicactions.com/team/)
-- Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
+- what do put here? 
 
 ## Day 2
 
@@ -85,16 +82,13 @@
 - Do you have any pre-approved time off requests?
 - The [formal request off procedure](../../040-employee-handbook-us/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
 - We use [Harvest Forecast](../../050-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
-- Review [CivicActions holiday schedule](../../040-employee-handbook-us/benefits-and-holidays.md#holidays)
+- Review [Bloom Works holiday schedule](../../040-employee-handbook-us/benefits-and-holidays.md#holidays)
 - Review [professional development](../../030-policies/prodev.md) & [community participation](../../030-policies/community-participation.md)
 
 ### Project Overview Info & Some How We Work Info
 
-- [CivicActions Agile](../../050-how-we-work/agile-overview.md)
-- Introduction to the [Daily Standup call structure](../../050-how-we-work/agile-practices/daily-scrum-calls.md)
-- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog refinement](../../010-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
-- Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
-- Introduction to [Jira](../../050-how-we-work/tools/jira.md) and [Trello](../../050-how-we-work/tools/trello.md)
+- [Bloom Works Agile](../../050-how-we-work/agile-overview.md)
+- ####Link to project overviews
 
 ### Virtual Workplace Basics
 
@@ -103,20 +97,17 @@
   - Heading offline for short periods of time
   - [Communication best practices](../../050-how-we-work/virtual-workplace-basics.md#communication-best-practices) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
   - Talking in [timezones](../../050-how-we-work/virtual-workplace-basics.md#talking-time-zones)
-  - Tour our [virtual workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
-### Aligning Yourself with CivicActions
+### Aligning Yourself with Bloom Works
 
 - [Read the Culture playbook](../../020-about-us/culture.md)
 - [Read the CivicActions values](https://civicactions.com/values/)
 - Create email signature
-- Update LinkedIn & social media accounts with CivicActions as company
-  - Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
-- Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
+- Update LinkedIn & social media accounts with Bloom Works as company
+  - Update LinkedIn and ####update link [connect with coworkers](https://www.linkedin.com/company/54684)
 - Add a photo avatar to your accounts (Slack, Google, Trello, Jira, etc.)
-- [Update resume into CivicActions template](../team-resume-instructions.md)
-- [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
-- Manager to provide an introduction to our copywriter / editor for support on bio & resume
+- [Update resume into Bloom Works template](../team-resume-instructions.md)
+- [Write your Bloom Works bio w photo](../civicactions-bio-instructions.md)
 
 ## Day 3
 
