@@ -16,4 +16,7 @@ This work is licensed under the terms of the [Creative Commons Attribution 4.0 I
 
 ## Acknowledgements
 
-We'd like to thank the folks at 18F and Civic Actions for [their](https://github.com/18F/handbook) [handbooks](https://github.com/CivicActions/handbook), from which this documentation was forked. We welcome you to fork our documentation, or use the 18F handbook, which is licensed as CC0.
+We'd like to thank the folks at 18F and Civic Actions for [their](https://github.com/18F/handbook) [handbooks](https://github.com/bloom-works/handbook), from which this documentation was forked. We welcome you to fork our documentation, or use the 18F handbook, which is licensed as CC0.
+
+## Temporary Notes from Sofia 03/1/2021
+Draft folder contains policy that either (1) I'm not sure to adopt, (2) are outside of my expertise, (3) need to be reviewed. Not a great process at the moment so please forgive the mess. I'm working on it! 
