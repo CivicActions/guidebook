@@ -10,7 +10,7 @@ In this project, The "master" branch is the active branch, with the latest, appr
 
 We recommend this approach for those who are not already familiar with the Git workflow, and who do not have tools for keeping their GitHub forks up to date.
 
-You'll need a GitHub account, and to be added to the CivicActions Team ([instructions are here](../050-how-we-work/tools/github.md)).
+You'll need a GitHub account, and to be added to the bloom Works Team ([instructions are here](../050-how-we-work/tools/github.md)).
 
 Go to a page, click edit, and make your changes, using [markdown](markdown.md). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
@@ -28,13 +28,13 @@ After you commit, you will be asked if you want to create a new pull request wit
 
 Most of the time you don't need to fill anything out, just click "Create pull request".
 
-Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/handbook/tree/[your-branch-name]>. You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/bloom-works/handbook/tree/[your-branch-name]>. You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.
 
 ## The more advanced way: fork the handbook
 
-**NB: Currently, pull requests submitted from forks of the handbook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the CivicActions/handbook repository and submit a PR from there.**
+**NB: Currently, pull requests submitted from forks of the handbook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the Bloom-Works/handbook repository and submit a PR from there.**
 
 If you're familiar with the Git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
@@ -57,11 +57,11 @@ Your PR will automatically be assigned to a team for a review, based on which pa
 
 Each pull request must be reviewed by at least one other CivicActions employee before it can be merged.
 
-Any CivicActions employee with GitHub account, who has been added to the CivicActions Team ([instructions are here](../050-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any Bloom Works employee with GitHub account, who has been added to the Bloom Team ([instructions are here](../050-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 
-If you're not sure if you should merge something, ask for a second opinion in [#docs](https://civicactions.slack.com/messages/docs/) first.
+If you're not sure if you should merge something, ask for a second opinion in [#docs](https://bloomworks.slack.com/messages/docs/) first.
 
 ### Step-by-step instructions for reviewing, approving, and merging PRs:
 
