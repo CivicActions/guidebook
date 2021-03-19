@@ -17,7 +17,7 @@ Bloom Works supports and encourages the Professional Development (prodev) of eac
 In addition to the annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
 <!-- prettier-ignore-end -->
 
-Historical Prodev Hours Spent:
+Historical Prodev Hours Spent [courtesy of Civic Actions]:
 
 | Year | Company-wide Prodev Hours Used | # People Billing Prodev Hours | Average Prodev Hours Used Per Person Annually |
 | ---- | ------------------------------ | ----------------------------- | --------------------------------------------- |
