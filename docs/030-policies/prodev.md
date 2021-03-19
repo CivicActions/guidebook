@@ -58,7 +58,7 @@ While this isn't a required practice, you are still encouraged to take responsib
 
 ## Asking a Mentor, Coach, or Peer to Help
 
-For some people, getting input from others is an important part of the professional development process. You are encouraged to seek out other Bloomers who you think could help you achieve your prodev goals. This may be a manager, a peer, or any person who is good at something you'd like to learn. You may even wish to seek expertise outside of CivicActions to help.
+For some people, getting input from others is an important part of the professional development process. You are encouraged to seek out other Bloomers who you think could help you achieve your prodev goals. This may be a manager, a peer, or any person who is good at something you'd like to learn. You may even wish to seek expertise outside of Bloom Works to help.
 
 If you're asked by someone else to assist with their prodev, please make time to help them out!
 
