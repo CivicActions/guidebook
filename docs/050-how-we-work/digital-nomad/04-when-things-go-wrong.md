@@ -12,7 +12,7 @@
 **Note: In almost all cases, the data on the laptop/phone is far more valuable then the actual laptop/phone.**
 
 - In case your laptop or cell phone is stolen or destroyed
-  - Use LastPass to protect all your accounts, CivicActions accounts and any client accounts! Once you discover the theft, login to LastPass and disable LastPass for that stolen device.
+  - Use an encrypted password protector to protect all your accounts, Bloom Works accounts and any client accounts! Once you discover the theft, you can login to your password service and disable access for that stolen device.
   - Make sure you have redundant two factor auth in case people try to break into your accounts before you notice the theft.
   - Make sure you regularly check code into git, and consider a remote backup if you have critical work files that are not stored in Google Drive, Dropbox or in repositories
   - Know shops where you can quickly repair/replace technology if needed
