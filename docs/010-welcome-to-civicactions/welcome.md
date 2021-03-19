@@ -12,7 +12,7 @@ There are topics in this document that require more detail on how we implement p
 
 ### General
 
-- [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
+- [Bloom Works Handbook in GitHub](https://github.com/bloom-works/handbook/blob/master/README.md)
 - [Bookmarks](../050-how-we-work/bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources
