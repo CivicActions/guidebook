@@ -6,10 +6,10 @@ Harvest is an easy-to-use web app that allows us to track and allocate time and 
 
 ## Update Your Account and Profile
 
-Your Harvest login will be your email address: `first.last@civicactions.com`. Check your email for an invitation!
+Your Harvest login will be your email address. Check your email for an invitation!
 Then:
 
-- Confirm that you can sign in to Harvest (<https://civicactions.harvestapp.com/>)
+- Confirm that you can sign in to Harvest (<https://bloomworks.harvestapp.com/>)
 - Upload a photo of yourself
 - Check to make sure that your time zone is correct
 - If you know which project(s) you'll be working on, make sure that they're correct (or request updates from your onboarding manager)
@@ -19,7 +19,7 @@ Then:
 ### How to Enter Time
 
 - You are expected to enter your times **daily** in Harvest
-- Go to <https://civicactions.harvestapp.com/time>
+- Go to <https://bloomworks.harvestapp.com/time>
 - Put description of work in each entry and ensure that you've selected correct project and role
 - Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
 - Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
@@ -35,39 +35,17 @@ Then:
 - Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
 - Time and Materials: 85-95% (34-38 hours / week)
 
-### Projects with Practice Area-Based Tasks
-
-A lot of our internal time represents an investment in a practice area, so we're going to track that time accordingly.
-
-- CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc.
-- CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
-- CA > Documentation - use this for documenting
-- CA > Professional Development
-- CA > IT/IS
-- CA > Community Participation
-- Other ad hoc projects like CA > Help Desk
-
 ### Onboarding Time Entries
 
-Log your time in the CivicActions project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word _onboarding_.
+Log your time in the Bloom Works project: Bloom > Onboarding > then enter a description like the below examples in the task description that includes the word _onboarding_.
 
 - Onboarding Meeting
 - Onboarding handbook and/or Trello board cards review
-- Onboarding watching scrum videos
 - Onboarding resume and bio work
-
-### Projects with Generic Tasks
-
-For some internal projects, we don't care about tracking our time by practice area, and you won't see practice area based tasks there.
-
-- CA > All hands calls
-- CA > Pod calls
-- CA > Management
-- CA > Time off
 
 ### Jogging Your Memory
 
-Many staff at CivicActions are disciplined in keeping track of their hours or are able to work in structured blocks that allow for this to be easily record their time end of each day. Harvest has a nice timer which can be incorporated into it which allows for real-time tracking. If you are unsure you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://drive.google.com/drive/u/0/recent), [check Zoom meetings](https://zoom.us/meeting#/previous), examine Slack messages `on:Monday from:me` or look at the GitHub overview when you login.
+Many staff at Bloom Works are disciplined in keeping track of their hours or are able to work in structured blocks that allow for this to be easily record their time end of each day. Harvest has a nice timer which can be incorporated into it which allows for real-time tracking. If you are unsure you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://drive.google.com/drive/u/0/recent), [check Zoom meetings](https://zoom.us/meeting#/previous), examine Slack messages `on:Monday from:me` or look at the GitHub overview when you login.
 
 ## Harvest Timer Options
 
@@ -76,14 +54,7 @@ Many staff at CivicActions are disciplined in keeping track of their hours or ar
 - Linux: <https://github.com/lionheart/TimeTracker-Linux>
 - Chrome: <https://chrome.google.com/webstore/detail/harvest-time-tracker/fbpiglieekigmkeebmeohkelfpjjlaia>
 - Mac: <http://punch.fousa.be/>
-- Per OWEN: wire <https://github.com/zenhob/hcl> up to your window manager, so it starts/stops timers automatically when you switch workspaces
 - There are also Harvest plugins for Jira & Trello
-
-## Jira Integration
-
-The Harvest plugin in Jira is located along the right column of a ticket. Currently it does NOT update your time in the "Jira Time Tracking" section, but only logs time in Harvest from Jira.
-
-You must add time to BOTH Harvest plugin & update the Time Tracking section in Jira.
 
 ## Trello Integration
 
@@ -125,18 +96,6 @@ Directions for submitting expenses:
 3.  Enter the amount in USD
 4.  Attach a picture of your receipt to each entry
 5.  Only mark "billable" if the expense will be invoiced back to a client
-6.  Once all receipts are logged
-    1.  Go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses) and find your expense4 request card.
-    2.  Add a comment indicating the total amount that needs to be reimbursed.
-    3.  Move your card from the "Approved" column to the "Submitted" column. This lets the Admin know these expenses are ready for reimbursement.
-
-![Harvest screenshot 8](../../img/harvest08.png)
-
-![Harvest screenshot 9](../../img/harvest09.png)
-
-![Harvest screenshot 10](../../img/harvest10.png)
-
-![Harvest screenshot 11](../../img/harvest11.png)
 
 ## Tracking Time off
 
@@ -144,7 +103,7 @@ We track vacation, leave and sick time, and leave for employees in Harvest. Ther
 
 You do NOT need to log entries when the office is closed for a holiday.
 
-**Project:** CivicActions > Time off
+**Project:** Bloom Works > Time off
 
 **Task:**
 
@@ -157,7 +116,6 @@ You do NOT need to log entries when the office is closed for a holiday.
 - 8 hours for a full day
 - 4 hours for a half day
 
-![Harvest screenshot 12](../../img/harvest12.png)
 
 ## Harvest Phone App
 
