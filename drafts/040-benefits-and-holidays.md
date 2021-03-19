@@ -8,11 +8,11 @@ CivicActions is considered closed on the following holidays:
 
 | Holiday                       | Dates                                                |
 | ----------------------------- | ---------------------------------------------------- |
-| New Year's Day                | January 1st\*                                        |                                    |
+| New Year's Day                | January 1st\*                                        |                                    
 | Thanksgiving                  | Fourth Thursday in November and the following Friday |
 | Christmas                     | December 25th\*                                      |
 
-If a holiday falls on a the weekend, the US office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
+If a holiday falls on a the weekend, the office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
 
 Employees are not encouraged to work on these holidays. If you feel it's necessary to work on a holiday, hourly, non-exempt employees will be compensated at their normal hourly rate, and will receive overtime where appropriate.
 
@@ -77,20 +77,20 @@ Eligible employees may use paid time off under this policy beginning on their 90
 
 ## Written Documentation of Time Off
 
-If an employee uses PTO for sick leave, including sick leave under applicable state or local law, for more than three consecutive scheduled work days, CivicActions may require reasonable documentation of the purpose for such leave. If the reason for time off is due to an employee's or a family member's own medical condition, verification from a health care provider is appropriate, but should not explain the nature of the condition and should not result in an unreasonable burden or expense on the employee. If the reason for time off is due to an employee's need for leave related to domestic violence, verification may include a police report, court order or other evidence from the court or a prosecuting attorney, other documentation from a victim advocate, attorney, member of the clergy, a medical or other professional, or an employee's own written statement.
+If an employee uses PTO for sick leave, including sick leave under applicable state or local law, for more than three consecutive scheduled work days, Bloom Works may require reasonable documentation of the purpose for such leave. If the reason for time off is due to an employee's or a family member's own medical condition, verification from a health care provider is appropriate, but should not explain the nature of the condition and should not result in an unreasonable burden or expense on the employee. If the reason for time off is due to an employee's need for leave related to domestic violence, verification may include a police report, court order or other evidence from the court or a prosecuting attorney, other documentation from a victim advocate, attorney, member of the clergy, a medical or other professional, or an employee's own written statement.
 
-CivicActions also reserves the right to require documentation verifying an employee's need to use time off, if there are indications of a pattern of abuse, such as repeated use of unscheduled time off on or adjacent to weekends, holidays, or pay day, regardless whether the employee has used time off for more than three consecutive days.
+Bloom Works also reserves the right to require documentation verifying an employee's need to use time off, if there are indications of a pattern of abuse, such as repeated use of unscheduled time off on or adjacent to weekends, holidays, or pay day, regardless whether the employee has used time off for more than three consecutive days.
 
 ## Time Off and Other Approved Leave
 
-Time off pursuant to this policy is not intended for long-term leave or as a long-term care solution. As such, exempt employees on leaves of absences for more than thirty days, including otherwise unpaid leaves of absences, will not be eligible for paid time off beyond the first thirty days. CivicActions will require non-exempt employees to exhaust accrued, unused PTO concurrently with extended leaves of absences, including under the Family and Medical Leave Act or comparable state laws, if applicable.
+Time off pursuant to this policy is not intended for long-term leave or as a long-term care solution. As such, exempt employees on leaves of absences for more than thirty days, including otherwise unpaid leaves of absences, will not be eligible for paid time off beyond the first thirty days. Bloom Works will require non-exempt employees to exhaust accrued, unused PTO concurrently with extended leaves of absences, including under the Family and Medical Leave Act or comparable state laws, if applicable.
 
-Employees who are eligible for any other paid leave under CivicActions policies will not receive paid time off under this policy while on such paid leave (for example, parental leave) in addition to other paid leave. Likewise, time off and any other paid leaves shall run concurrently such that the duration of any leave shall not extend beyond the longer of the available leave. For instance, an employee may be eligible for twelve weeks of paid parental leave under CivicActions' policy, but will not be eligible for additional time off after such leave.
+Employees who are eligible for any other paid leave under Bloom Works policies will not receive paid time off under this policy while on such paid leave (for example, parental leave) in addition to other paid leave. Likewise, time off and any other paid leaves shall run concurrently such that the duration of any leave shall not extend beyond the longer of the available leave. For instance, an employee may be eligible for twelve weeks of paid parental leave under CivicActions' policy, but will not be eligible for additional time off after such leave.
 
 Similarly, employees who are eligible for wage replacement benefits while on an approved leave (for example, an employee who is eligible for workers' compensation, short-term disability, or long-term disability) will not receive paid time off compensation except as provided below.
 
-If an employee remains absent for seven or more calendar days due to his or her own illness or injury, the employee must apply for short-term disability benefits through the state-provided plan or, if applicable, a company-provided plan, by contacting People Ops Team at <mailto:peopleops@civicactions.com> to initiate a disability claim. Absences covered by short-term disability, including pregnancy-related disabilities, are not eligible for paid time off under this policy. However, **CivicActions will bridge the otherwise unpaid short-term disability waiting period with paid time off.** If the company becomes aware that an absence may qualify for short-term disability benefits, management or the People Ops Team will direct the employee to contact TriNet to apply for short-term disability benefits.
-Likewise, if an employee is absent for more than three consecutive work days due to a serious health condition or any other reason covered by the federal Family and Medical Leave Act or similar state laws ("FMLA"), the employee should contact the People Ops Team at <mailto:peopleops@civicactions.com> to apply for state and/or federal family medical leave ("FMLA leave"). For exempt employees, absences covered by FMLA leave are not eligible for compensation under this policy. However, **CivicActions will bridge up to thirty days of otherwise unpaid FMLA leave with paid time off.** Otherwise, if the exempt employee is approved for FMLA leave, any future leave taken for the same FMLA-qualifying serious health condition is exempt from time off compensation. Any future leave for the same FMLA-qualifying serious health condition, whether continuous or intermittent, shall also be designated as FMLA leave and counted against the employee's FMLA allotment, not time off. If the company becomes aware that an absence may be protected under the FMLA for reasons other than the employee's own serious health condition, management or **the PeopleOps Team** will direct the employee to contact **TriNet** to apply for FMLA leave.
+If an employee remains absent for seven or more calendar days due to his or her own illness or injury, the employee must apply for short-term disability benefits through the state-provided plan or, if applicable, a company-provided plan, by contacting People Ops Team at <mailto:sofia@bloomworks.digital> to initiate a disability claim. Absences covered by short-term disability, including pregnancy-related disabilities, are not eligible for paid time off under this policy. However, **Bloom Works will bridge the otherwise unpaid short-term disability waiting period with paid time off.** If the company becomes aware that an absence may qualify for short-term disability benefits, management or the People Ops Team will direct the employee to contact Guardian to apply for short-term disability benefits.
+Likewise, if an employee is absent for more than three consecutive work days due to a serious health condition or any other reason covered by the federal Family and Medical Leave Act or similar state laws ("FMLA"), the employee should contact the People Ops Team at <mailto:sofia@bloomworks.digital> to apply for state and/or federal family medical leave ("FMLA leave"). For exempt employees, absences covered by FMLA leave are not eligible for compensation under this policy. However, **Bloom Works will bridge up to thirty days of otherwise unpaid FMLA leave with paid time off.** Otherwise, if the exempt employee is approved for FMLA leave, any future leave taken for the same FMLA-qualifying serious health condition is exempt from time off compensation. Any future leave for the same FMLA-qualifying serious health condition, whether continuous or intermittent, shall also be designated as FMLA leave and counted against the employee's FMLA allotment, not time off. If the company becomes aware that an absence may be protected under the FMLA for reasons other than the employee's own serious health condition, management or **the PeopleOps Team** will direct the employee to contact **Gusto** to apply for FMLA leave.
 
 For information or questions concerning this policy and the use of time off during otherwise unpaid leaves of absence, short-term disability, or FMLA leave, the employee should contact **the PeopleOps Team** for assistance.
 
@@ -100,7 +100,7 @@ Abuse of time off, including as legally-mandated paid sick leave, may result in 
 
 ## State and Local Paid Sick Leave Laws
 
-To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. CivicActions prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to the PeopleOps Team (<mailto:peopleops@civicactions.com>) so that the matter may be reviewed and appropriate corrective action may be taken.
+To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. Bloom Works prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to the PeopleOps Team (<mailto:sofia@bloomworks.digital>) so that the matter may be reviewed and appropriate corrective action may be taken.
 
 ## Definitions
 
@@ -116,18 +116,9 @@ For purposes of this paid time off policy, and where consistent with applicable 
 
 Eligible employees should contact the PeopleOps Team with questions concerning whether any of the above definitions apply in a particular jurisdiction.
 
-## Scheduling Shifts
-
-If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, you are attending a conference, or you need a Tuesday off but plan to make up the hours over the weekend.
-
-1. You should first make sure you understand the impact of your schedule shift to your (project) team and get coverage or move meetings as appropriate.
-1. Email the <mailto:ca-schedule@civicactions.net> list describing your schedule change and note that you've already worked out plans with your team for coverage, etc.
-1. The schedule change will be acknowledged in an email reply.
-1. The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.
-
 ## Personal Tech Issues
 
-At CivicActions, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
+At Bloom Works, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
 
 ### Communication
 
@@ -136,16 +127,12 @@ When you have a technical issue with your home network, power and personal equip
 1. Ping your team in Slack to let them know you aren't available.
 1. Set a Slack status (if you can,) so people know you aren't available.
 1. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
-1. If the problem lasts longer than 2 hours, email <mailto:ca-schedule@civicactions.net> and log it in Harvest under CA: Timeoff, using the task "Technical Issues".
+1. If the problem lasts longer than 2 hours, email <mailto:ca-sofia@bloomworks.digital> and log it in Harvest under CA: Timeoff, using the task "Technical Issues".
 1. If it's persistent, set an out of office message.
-
-### Slack Channels
-
-- You can go to the following Slack channels for support: #windows #osx #gnu-linux
 
 ## Personal Leave of Absence
 
-Employees of CivicActions, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
+Employees of Bloom Works, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
 
 ## Parental Leave
 
@@ -153,8 +140,8 @@ Welcoming a new child is an amazing time for a family and we want to support emp
 
 ## Medical Insurance
 
-All full-time regular employees and part-time hourly employees who work at least thirty hours a week are entitled to benefits under CivicActions' medical, dental, vision, life insurance plans. CivicActions pays 100% of the premiums, unless you opt for benefit that is more expensive than the company-covered plans. Then you pay the difference. See your TriNet PassPort account for managing these benefits.
-New full-time employees joining CivicActions will be eligible for coverage on the first of the month following thirty days from the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers or the ACA.
+All full-time regular employees and part-time hourly employees who work at least thirty hours a week are entitled to benefits under Bloom Works' medical, dental, vision, life insurance plans. Bloom Works pays 99% of the premiums, see your Gusto account for managing these benefits.
+New full-time employees joining Bloom Workss will be eligible for coverage on the first of the month following thirty days from the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers or the ACA.
 
 ## Professional Development Stipend
 
