@@ -2,7 +2,7 @@
 
 ## Overview
 
-**CivicActions uses shared Google calendars** for CivicActions standing meetings, birthdays, and "out of office" time.
+**Bloom Works uses shared Google calendars** for Bloom Works standing meetings, birthdays, and "out of office" time.
 
 **You can specify which hours you work.** From the guide: "About a third of the way down the "General" settings' page there's a section called "Working hours" and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times.
 
@@ -13,8 +13,7 @@
 ## Best Practices
 
 - Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../img/CivicActions_Calendar_Settings.png "Calendar settings")
-- Always send invitations to <mailto:first.last@civicactions.com>
-- Make sure your main <mailto:first.last@civicactions.com> calendar is at sharing at least free/busy with everyone in CivicActions
+- Make sure your main <mailto:first.last@civicactions.com> calendar is sharing at least free/busy with everyone in Bloom Works
 - Consider enabling "speedy meetings" in Settings to encourage meetings to wrap up early for breaks in between
 - Reply to meeting invitations (yes, no, maybe)
 - Use the "optional" feature for attendees who are not required to attend (or don't invite them at all!)
@@ -25,4 +24,4 @@
 - You can block off "heads down" time during your days for focus on your project work
 - Block of your calendar for personal events where you don't want to get booked by anyone (dr appt, long lunch, pick up the kids, etc)
 - Consider showing two timezones on your calendar view to make timezone conversions a breeze (feature in settings)
-- When you email the ca-schedule listserv, your OOO time will be added the Out of Office Calendar !["CivicActions: Out of Office"](../../img/ooo-cal1.png "Out of Office Calendar")
+
