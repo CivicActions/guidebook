@@ -2,19 +2,19 @@
 
 ## Introduction
 
-CivicActions employees live all over the US and beyond. We work out of home offices in Oakland, New York and Toledo, Spain – with clients from around the globe.
+Bloom Works employees live all over the US and beyond. We work out of home offices in Los Angeles, New York and Asheville – with clients from around the globe.
 
 This means our project teams are made up entirely of distributed employees. Below are some tips and strategies we've developed to stay connected and productive when working remotely.
 
-Check out this blog post: [How Remote Working Helps Us Live Our Dreams (And Get More Work Done)](https://medium.com/civicactions/how-remote-working-helps-us-live-our-dreams-and-get-more-work-done-1af24b27467)
+Check out this blog post from Actions: [How Remote Working Helps Us Live Our Dreams (And Get More Work Done)](https://medium.com/civicactions/how-remote-working-helps-us-live-our-dreams-and-get-more-work-done-1af24b27467)
 
 ## Starting and Ending a Day with a Remote Team
 
 **When beginning your work day:**
 
-- Check your CivicActions email and calendar for updates.
+- Check your Bloom Works email and calendar for updates.
 - Open Harvest so you remember to log your hours.
-- Open Slack so your teammates can see that you are online and available. If you'd like, say good morning or "hello" in the [#general](https://civicactions.slack.com/messages/general/) channel when you log in.
+- Open Slack so your teammates can see that you are online and available. If you'd like, say good morning or "hello" in the [#general](https://bloomworks.slack.com/messages/general/) channel when you log in.
 
 **When ending your work day:**
 
@@ -30,11 +30,11 @@ Check out this blog post: [How Remote Working Helps Us Live Our Dreams (And Get 
 
 - **Use email for more formal communication.** In some cases, email may be a more appropriate communication channel than Slack; see [Email](tools/email.md) for more information about email best practices.
 
-- **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, ping/reach out to members of your team - i.e. an engineer reaching out in [#engineering](https://civicactions.slack.com/messages/engineering/).
+- **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, ping/reach out to members of your team.
 
 ## Talking Time Zones
 
-As a company, we usually reference time using Pacific Time (or PT for short). If you're chatting with your whole team or even just a few members, it's best practice to reference time in PT.
+As a company, we usually reference time using Eastern Time (ET). If you're chatting with your whole team or even just a few members, it's best practice to reference time in ET.
 
 There are some cases in which we reference other time zones, usually because of a client's location. In these cases we may refer to meeting times in ET _and_ PT. We may say something like, "The scrum call is at 9:00PT/12:00ET."
 
@@ -44,11 +44,6 @@ When in doubt use both PT & ET and make sure you're clarifying the time zone whe
 - MT: Mountain Time
 - CT: Central Time
 - ET: Eastern Time
-
-## Virtual Workspaces
-
-Team members share images and tips about our virtual workplaces
-in [Our Workspaces](https://trello.com/b/TJsUalpG/our-workspaces). Join the board, have a look around, and consider adding your own cards and photos.
 
 ## Tips for productivity while working remote
 
