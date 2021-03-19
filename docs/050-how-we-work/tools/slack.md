@@ -11,10 +11,9 @@
 
 - Slack organizes communication into **channels**. A channel can be public, so that everyone can join, or private, so that messages are shared with only select individuals. Most project channels are private by default.
 - We default to open, so when in doubt, message the group in a public channel instead of a direct message, or one-on-one.
-- There are a wide variety of different channels you can join, from work-related to topic-related.
-- Mandatory channels include: General, Announcements, How We Work, your Pod, your project channels, your domain area channels (Engineering, UX, PM, etc).
-- Optional channels: You are welcome to poke around Slack and join any open channels that you would like to (#pets, #gardening, #parenting, #sotd, #books, etc) - go to the "Channel Browser" and look around!
+- There are a wide variety of different channels you can join, from work-related to topic-related. [Add Link]
 - The [Announcements channel](https://civicactions.slack.com/messages/announcements/details/) is for **announcements only**. All replies or conversation regarding announcements can transpire in the [General channel](https://civicactions.slack.com/messages/general/). Keeping announcements chatter to a minimum ensures that anyone who hasn't been paying attention to the General or other channels will be able to quickly locate important or not-to-be-missed information.
+-...[NOTE: do we want to adopt something like above??
 
 ## Notifications
 
@@ -24,7 +23,6 @@
 
 ## Tips
 
-- Did you know you can [request support](../support.md) using Slack?
 - Consider using the word "ping" to check on the availability of someone
 - Create a Zoom from Slack: type **/zoom** (will need to authorize)
 - Create a Google Meet from Slack: type **/hangout** (will need to authorize the slack app in Meet/Hangout too)
