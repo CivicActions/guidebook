@@ -20,7 +20,6 @@ links needs to updated with bloom documents;
   - Anti-Harassment Training
 
 - Review the following Bloom Works' policies on your own:
-  - [Annual Review Process](../../030-policies/annual-review-process.md)
   - [Code of Conduct](../../030-policies/code-of-conduct.md)
   - [Compensation](../../040-employee-handbook-us/compensation.md)
   - [Employment](../../040-employee-handbook-us/employment.md) & [At-Will Employment](../../030-policies/leaving-civicactions.md)
@@ -70,9 +69,6 @@ links needs to updated with bloom documents;
     - [Drive and Docs](../../050-how-we-work/tools/google-docs.md)
   - [Zoom](../../050-how-we-work/tools/zoom.md)
 
-### Get to Know Your Colleagues
-
-- what do put here? 
 
 ## Day 2
 
@@ -81,7 +77,6 @@ links needs to updated with bloom documents;
 - Review vacation time / requests [policies](../../040-employee-handbook-us/benefits-and-holidays.md)
 - Do you have any pre-approved time off requests?
 - The [formal request off procedure](../../040-employee-handbook-us/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
-- We use [Harvest Forecast](../../050-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
 - Review [Bloom Works holiday schedule](../../040-employee-handbook-us/benefits-and-holidays.md#holidays)
 - Review [professional development](../../030-policies/prodev.md) & [community participation](../../030-policies/community-participation.md)
 
@@ -109,22 +104,6 @@ links needs to updated with bloom documents;
 - [Update resume into Bloom Works template](../team-resume-instructions.md)
 - [Write your Bloom Works bio w photo](../civicactions-bio-instructions.md)
 
-## Day 3
-
-### Some How We Work & Skills Info
-
-- [How to create a ticket or card](../../050-how-we-work/tools/tickets-cards.md)
-- [Story point estimating](../../050-how-we-work/tools/storypoints.md)
-- [Install Chrome browser extensions](../../050-how-we-work/tools/browserextensions.md)
-- Read about & learn [markdown](../../050-how-we-work/tools/markdown.md)
-- [Free and Open Source Software (FOSS)](intro-open-source.md)
-
-### Versioning Systems and Development Process
-
-- Get set up for [Git and SSH](git-ssh.md)
-- Read about the our [Git best practices and workflows](../../060-engineering/git.md)
-- Read about [dev workflows](../../060-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview
-
 ### Security for Everyone
 
 - Begin your [CivicActions Security training process](./security-training.md)
@@ -136,20 +115,3 @@ links needs to updated with bloom documents;
   - Complete your [security checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
   - Look for an email from Admin/DocuSign that asks you to acknowledge your _security awareness_ later this week.
 
-## Day 4
-
-### Role-based training/orientation
-
-- PM track
-  - Review [Project Management Training](../../070-project-management/pm-training.md).
-- Engineering track
-  - [Engineering Roles and Agile](../../060-engineering/engineering-roles.md)
-  - Engineering Practices
-  - Git Overview
-  - Drupal Overview
-  - [Security and Compliance](../../060-engineering/security-compliance.md)
-- UX/Content Strategy/Design track
-  - [Story mapping/Stories On Board](../../110-ux/services/research/story-mapping-guide.md)
-  - [Wireframing and MyBalsamiq](../../110-ux/services/design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
-  - UX-Agile
-  - Review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products)
