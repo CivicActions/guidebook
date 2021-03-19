@@ -1,4 +1,4 @@
-# General Contacts and Listservs
+# General Contacts and Slack Channels
 
 ## General Contacts
 
