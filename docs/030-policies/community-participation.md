@@ -1,13 +1,13 @@
 ---
-status: Work in progress, copied from the combined prodev-community-participation file before it was split into two topics
-updated: May 9, 2017, copied on 11/28/17.
+status: Work in progress
+updated: March 18, 2021, copied on 11/28/17.
 ---
 
 # Professional Development and Community Participation
 
 ## Background - the Why
 
-CivicActions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
+Here at Bloom Works we believe in living our values, not just saying them. Creating the Professional Development stipend demonstrates our commitment to our staff and building equity, and opportunity, into the working experience at Bloom. 
 
 We value Professional Development and Community Participation for a number of reasons:
 
@@ -29,13 +29,13 @@ We value Professional Development and Community Participation for a number of re
 
 ## Logistics and Policy Information
 
-Each team member will meet with their manager or mentor for a Professional Development and Community Participation meeting, at least once a year.
+Each team member will meet with their manager for a Professional Development and Community Participation meeting, at least once a year.
 
-The output of the first meeting will be a Professional Development and Community Participation plan, customized to address individual needs and captured on a Trello board.
+The output of the first meeting will be a Professional Development and Community Participation plan, customized to address individual needs.
 
 <!-- prettier-ignore-start -->
 
-- Each full-time team member is eligible for a yearly stipend of $1,200.
+- Each full-time team member is eligible for a yearly stipend of $2,000.
   - The stipend will be prorated for team members contracted to work less than full-time (40 hours/week).
   - New team members will have a 3-month (90 day) wait period before becoming eligible for a professional development stipend and it will be earned throughout the first year.
   - Purchases under $50 can be made without approval, as long as they support professional development goals. Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
@@ -44,6 +44,4 @@ The output of the first meeting will be a Professional Development and Community
 
 <!-- prettier-ignore-end -->
 
-## Communication
 
-- We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channel for prodev-related communication.
