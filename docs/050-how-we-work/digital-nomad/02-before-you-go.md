@@ -12,7 +12,6 @@
 - Some coworking spaces allow membership in other locations
 - Having a backup space in case your primary workspace falls through will reduce stress!
 - If you work for a US government project:
-  - make sure you have access to the CivicActions VPN or a personal VPN. This may be required for security exams, etc.
   - Watch for rules prohibiting working "out of USA" or in certain countries. Similarly, watch for restrictions like "within this state" or "within New England region" (can sometimes be found in medical or state contracts).
   - Talk to your project manager and team. Are there tasks that will fall at an unpleasant time for you in your new time zone? Can they be handed off or can you trade tasks with another coworker?
 - Consider an international data plan or a local pay as you go sim card for your Cell Phone. Keep in mind project fi and T-Mobile automatically update for international travel.
@@ -39,6 +38,5 @@
 
 ## Miscellaneous
 
-- Pack your copy of John's book "[Distributed Teams](https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907)". Kindle copy is easier to carry (and available for free to all at CivicActions!)
 - Pack some fun stuff to help you rebalance. Some people upload copies of their favorite movies.
 - Schedule recurring zoom calls with close friends for pure-social reasons. Meet in person while you can, and debug any setup issues (helpful if some are not techies!). This will make it easy to keep in eye-to-eye social contact with friends. This helps you keep in touch with close friends. They'll also be happy to be invited into the ongoing video that is your nomadic work life!
