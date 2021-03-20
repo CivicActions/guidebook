@@ -17,4 +17,4 @@ Paychecks are direct deposited on the 25th day of the month for the first pay pe
 
 Any overtime needs to be pre-approved by a manager or member of the management team.
 
-CivicActions complies with all applicable laws regarding payment of overtime work. Overtime is based on the laws of the state in which the employee lives.
+CivicActions complies with all applicable laws regarding payment of overtime work. Overtime is based on the laws of the state or province in which the employee lives.
