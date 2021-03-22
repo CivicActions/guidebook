@@ -6,18 +6,18 @@ Time off under this policy is not being provided in addition to any pre-existing
 
 CivicActions Canada is considered closed on the following holidays:
 
-| Holiday                       | Dates                                                |
-| ----------------------------- | ---------------------------------------------------- |
-| New Year's Day                | January 1st\*                                        |
-| Family Day                    | Third Monday in February\*                           |
-| Good Friday                   | Friday before Easter\*                               |
-| Victoria Day                  | Monday before May 25th\*                             |
-| Canada Day                    | July 1st\*                                           |
-| Civic Holiday                 | 1st Monday in August\*                               |
-| Labour Day                    | 1st Monday in September                              |
-| Thanksgiving                  | 2nd Monday of October                                |
-| Christmas Day                 | December 25th\*                                      |
-| Boxing Day                    | December 26th\*                                      |
+| Holiday        | Dates                      |
+| -------------- | -------------------------- |
+| New Year's Day | January 1st\*              |
+| Family Day     | Third Monday in February\* |
+| Good Friday    | Friday before Easter\*     |
+| Victoria Day   | Monday before May 25th\*   |
+| Canada Day     | July 1st\*                 |
+| Civic Holiday  | 1st Monday in August\*     |
+| Labour Day     | 1st Monday in September    |
+| Thanksgiving   | 2nd Monday of October      |
+| Christmas Day  | December 25th\*            |
+| Boxing Day     | December 26th\*            |
 
 If a holiday falls on a the weekend, the Canada office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
 
@@ -46,9 +46,6 @@ Employees should follow the following procedure for providing notice of, schedul
 - _Hello, I want to take Aug 1-7 off. I will coordinate coverage with my team and remind them again prior to my time off._
 - _Hello, I am doing a prodev workshop on Feb 1. I'm cc'ing my team here to let them know I will be out that day._
 - _Hello, I need tomorrow off for a last minute doctor appointment. I am cc'ing those that need to know on this email not to expect me tomorrow._
-
-
-
 
 ## Scheduling Shifts
 
@@ -83,7 +80,7 @@ Employees of CivicActions, including part-time employees, who have worked for at
 
 ## Medical Insurance
 
- To be updated with information from PEO Canada
+To be updated with information from PEO Canada
 
 ## Professional Development Stipend
 
