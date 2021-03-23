@@ -1,0 +1,30 @@
+Purpose
+[Company Name]'s progressive discipline policy and procedures are designed to provide a structured corrective action process to improve and prevent a recurrence of undesirable employee behavior and performance issues.
+Outlined below are the steps of [Company Name]'s progressive discipline policy and procedures. [Company Name] reserves the right to combine or skip steps depending on the facts of each situation and the nature of the offense. Some of the factors that will be considered are whether the offense is repeated despite coaching, counseling or training; the employee's work record; and the impact the conduct and performance issues have on the organization.
+Nothing in this policy provides any contractual rights regarding employee discipline or counseling, nor should anything in this policy be read or construed as modifying or altering the employment-at-will relationship between [Company Name] and its employees.
+Procedure
+Step 1: Counseling and verbal warning
+Step 1 creates an opportunity for the immediate supervisor to bring attention to the existing performance, conduct or attendance issue. The supervisor should discuss with the employee the nature of the problem or the violation of company policies and procedures. The supervisor is expected to clearly describe expectations and steps the employee must take to improve his or her performance or resolve the problem.
+Within five business days, the supervisor will prepare written documentation of the verbal counseling. The employee will be asked to sign this document to demonstrate his or her understanding of the issues and the corrective action.
+Step 2: Written warning
+The Step 2 written warning involves more-formal documentation of the performance, conduct or attendance issues and consequences.
+During Step 2, the immediate supervisor and a division manager or director will meet with the employee to review any additional incidents or information about the performance, conduct or attendance issues as well as any prior relevant corrective action plans. Management will outline the consequences for the employee of his or her continued failure to meet performance or conduct expectations.
+A formal performance improvement plan (PIP) requiring the employee's immediate and sustained corrective action will be issued within five business days of a Step 2 meeting. The written warning may also include a statement indicating that the employee may be subject to additional discipline, up to and including termination, if immediate and sustained corrective action is not taken.
+Step 3: Suspension and final written warning
+Some performance, conduct or safety incidents are so problematic and harmful that the most effective action may be the temporary removal of the employee from the workplace. When immediate action is necessary to ensure the safety of the employee or others, the immediate supervisor may suspend the employee pending the results of an investigation.
+Suspensions that are recommended as part of the normal sequence of the progressive discipline policy and procedures are subject to approval from a next-level manager and HR.
+Depending on the seriousness of the infraction, the employee may be suspended without pay in full-day increments consistent with federal, state and local wage and hour employment laws. Nonexempt/hourly employees may not substitute or use an accrued paid vacation or sick day in lieu of the unpaid suspension. In compliance with the Fair Labor Standards Act (FLSA), unpaid suspension of salaried/exempt employees is reserved for serious workplace safety or conduct issues. HR will provide guidance to ensure that the discipline is administered without jeopardizing the FLSA exemption status.
+Pay may be restored to the employee if an investigation of the incident or infraction absolves the employee of wrongdoing.
+Step 4: Recommendation for termination of employment
+The last and most serious step in the progressive discipline process is a recommendation to terminate employment. Generally, [Company Name] will try to exercise the progressive nature of this policy by first providing warnings, issuing a final written warning or suspending the employee from the workplace before proceeding to a recommendation to terminate employment. However, [Company Name] reserves the right to combine and skip steps depending on the circumstances of each situation and the nature of the offense. Furthermore, employees may be terminated without prior notice or disciplinary action.
+Management's recommendation to terminate employment must be approved by human resources (HR) and the division director or designate. Final approval may be required from the CEO or designate.
+Appeals Process
+Employees will have the opportunity to present information to dispute information management has used to issue disciplinary action. The purpose of this process is to provide insight into extenuating circumstances that may have contributed to the employee's performance or conduct issues while allowing for an equitable solution.
+If the employee does not present this information during any of the step meetings, he or she will have five business days after each of those meetings to present such information.
+Performance and Conduct Issues Not Subject to Progressive Discipline
+Behavior that is illegal is not subject to progressive discipline and may result in immediate termination. Such behavior may be reported to local law enforcement authorities.
+Similarly, theft, substance abuse, intoxication, fighting and other acts of violence at work are also not subject to progressive discipline and may be grounds for immediate termination.
+Documentation
+The employee will be provided copies of all progressive discipline documentation, including all PIPs. The employee will be asked to sign copies of this documentation attesting to his or her receipt and understanding of the corrective action outlined in these documents.
+Copies of these documents will be placed in the employee's official personnel file.
+
