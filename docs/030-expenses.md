@@ -25,13 +25,12 @@ To request approval:
 
 5.  Assign the card to the budget owner who will become your "Approver":
 
-    - Pro Dev: Elizabeth Raley
+    - Pro Dev: Lauren Lockwood
     - Client projects: Project Manager
-    - Marketing: Aaron Pava
-    - Sales: Bill Oglive
-    - UX: Shira Kates
-    - IT/IS: Owen Barton
-    - Other: Elizabeth Raley
+    - Marketing: ?
+    - Business Development: Alex Lawrence
+    - IT/IS: Lauren Lockwood
+    - Other: Sofia Forelle
 
 6.  Click on Watch under Actions so you will be notified when the card is moved to the "Approved" column (you will not move the card to "Approved").
 
