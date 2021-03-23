@@ -3,9 +3,9 @@
 Now that you're part of the team, we want to add you to our team page!
 
 ## How to get your photo on the BloomWorks Team Page:
- • Check out [our website](https://bloomworks.digital/team) to get a general feel for what we’re serving up already
- • If you have an image that is similar in layout and vibe, either attach it to a response email or send it to me via slack
- • If you need to take a new photo, try to get in some natural light, and position the camera further than selfie range if possible
+* Check out [our website](https://bloomworks.digital/team) to get a general feel for what we’re serving up already
+* If you have an image that is similar in layout and vibe, either attach it to a response email or send it to me via slack
+* If you need to take a new photo, try to get in some natural light, and position the camera further than selfie range if possible
  
 If you have questions, reach out to Adam on Zoom or via [email](mailto:adam@bloomworks.digital)
  
