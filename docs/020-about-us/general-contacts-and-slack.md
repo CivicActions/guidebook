@@ -13,7 +13,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 - Sales related questions or ideas: Alex
 - Marketing related questions or ideas: ????
 - Personal, company or client security/compliance questions: Sofia
-- 
+
 ## Slack Channels
 
 - Bloomers: this is a locked internal channel (generally where new HR policies, etc are posted)
@@ -22,7 +22,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 - Good Reads: link sharing for relevant articles, events, and other pieces of interest
 - Hiring: a space to share hiring ideas and discuss logistics. *NOT* to be used to discuss individual candidates. 
 - Random: when you're not sure where to share it
-- Virtual Coffee: this is the office safe space for chatting about anything, come with your whole self
+- Virtual Coffee: this is the office safe space for chatting about anything, think of it as the company break room
 - BD General: business development team discussion space, especially for proposals
 - BD Opportunities: Sharing RFX's of interest
 - Bloom Comms:
