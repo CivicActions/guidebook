@@ -4,7 +4,7 @@ Time off under this policy is not being provided in addition to any pre-existing
 
 ## Holidays
 
-CivicActions is considered closed on the following holidays:
+Bloom Works is considered closed on the following holidays:
 
 | Holiday                       | Dates                                                |
 | ----------------------------- | ---------------------------------------------------- |
@@ -31,7 +31,7 @@ Employees should follow the following procedure for providing notice of, schedul
 1. You will want to cc team members who will be affected by your timeoff (eg your project manager or your supervisor), or you can choose to slack them separately.
 1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved.
 1. Then your time off will be put on Gusto.
-1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/050-how-we-work/tools/harvest.md) for logging time off.
+1. Lastly, [follow the procedure](https://github.com/bloom-works/handbook/blob/master/docs/050-how-we-work/tools/harvest.md) for logging time off.
 
 **Sample emails to demonstrate how to communicate on the ca-schedule list:**
 
