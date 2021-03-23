@@ -145,4 +145,12 @@ New full-time employees joining Bloom Workss will be eligible for coverage on th
 
 ## Professional Development Stipend
 
-Employees are encouraged to take education and training courses related to their profession. When appropriate, and with prior approval, CivicActions will pay for all or a portion of such courses.
+Employees are encouraged to take education and training courses related to their profession. When appropriate, and with prior approval, Bloom Works will pay for all or a portion of such courses.
+
+## Floating Holidays
+All full-time, regular employees receive 8 floating holidays per year in addition to Bloom Works’ regular paid holidays. These floating holidays may be used only for religious or cultural holidays, employee birthdays, or other state or federal holidays during which Bloom Works remains open.
+
+Floating holidays are available at the beginning of each calendar year for all current employees. A new employee hired before the end of the first half of the calendar year will receive 6 floating holidays upon hire; a new employee hired during the second half of the calendar year will receive 4 floating holidays upon hire.
+The request must be scheduled and approved in advance by the employee's immediate supervisor.
+
+Floating holidays will not be carried over to the next calendar year, nor may they be cashed out if not taken or paid upon termination of employment.
