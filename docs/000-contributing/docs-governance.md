@@ -18,10 +18,9 @@ We encourage each team at Bloom Works to take ownership over their respective do
 | [`040-employee-handbook-us`](../040-employee-handbook-us)       | [Legal](https://github.com/orgs/CivicActions/teams/legal/members)              |
 | [`050-how-we-work`](../050-how-we-work)                         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
 | [`060-engineering`](../060-engineering)                         | [Engineering](https://github.com/orgs/CivicActions/teams/engineering/members)  |
-| [`070-project-management`](../070-project-management)           | [Project Managers](https://github.com/orgs/CivicActions/teams/pm/members)      |
-| [`080-sales-and-marketing`](../080-sales-and-marketing)         | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
-| [`090-peopleops`](../090-peopleops)                             | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
-| [`100-security`](../100-security)                               | [Security](https://github.com/orgs/CivicActions/teams/security/members)        |
+| [`070-project-management`](../070-project-management)           | [Project Managers](https://github.com/orgs/CivicActions/teams/pm/members)      | 
+| [`080-peopleops`](../080-peopleops)                             | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |
+| [`090-security`](../090-security)                               | [Engineering](https://github.com/orgs/CivicActions/teams/security/members)        |
 
 Ideally, each of the above working groups have their own backlog of documentation tasks, and make documentation a regular part of their workflow.
 
