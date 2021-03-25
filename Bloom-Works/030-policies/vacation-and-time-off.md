@@ -74,7 +74,7 @@ Abuse of time off, including as legally-mandated paid sick leave, may result in 
 
 ## State and Local Paid Sick Leave Laws
 
-To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. Bloom Works prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to the PeopleOps Team (<mailto:sofia@bloomworks.digital>) so that the matter may be reviewed and appropriate corrective action may be taken.
+To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. Bloom Works prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to [Sofia] (<mailto:sofia@bloomworks.digital>) so that the matter may be reviewed and appropriate corrective action may be taken.
 
 ## Definitions
 
@@ -101,7 +101,7 @@ When you have a technical issue with your home network, power and personal equip
 1. Ping your team in Slack to let them know you aren't available.
 1. Set a Slack status (if you can,) so people know you aren't available.
 1. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
-1. If the problem lasts longer than 2 hours, email <mailto:ca-sofia@bloomworks.digital> and log it in Harvest under CA: Timeoff, using the task "Technical Issues".
+1. If the problem lasts longer than 2 hours, [email] (mailto:ca-sofia@bloomworks.digital) and log it in Harvest under Bloom Works: Timeoff, using the task "Technical Issues".
 1. If it's persistent, set an out of office message.
 
 ## Personal Leave of Absence
