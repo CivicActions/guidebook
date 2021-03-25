@@ -2,7 +2,7 @@
 
 ## Gusto
 
-Bloom Works utilizes the Gusto platform to manage payroll and benefits. The relationship with Gusto provides us with a selection of benefits that are typically only available to very large organizations The company's online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. 
+Bloom Works utilizes the Gusto platform to manage payroll and benefits. The relationship with Gusto provides us with a selection of benefits that are typically only available to very large organizations The company's online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration.
 
 Bloom Works has our 401k through Guideline.
 
@@ -16,7 +16,7 @@ Only authorized management may alter or modify any of the policies in this Emplo
 
 <!--- Protected classes from Trinet handbook, keep list updated in: employment, code-of-conduct and anti-harassment-policies -->
 
-Bloom Works provides equal employment opportunities and administers all aspects and conditions of employment without regard to age, race, color, national origin, gender (including pregnancy, childbirth or medical condition related to pregnancy or childbirth), gender identity or expression, sexual orientation, religion, physical or mental disability, medical condition, genetic information, marital status, veteran status, military status, or any other characteristic protected by federal, state, or local law. CivicActions takes allegations of discrimination, intimidation, harassment and retaliation very seriously and will promptly conduct an investigation when warranted.
+Bloom Works provides equal employment opportunities and administers all aspects and conditions of employment without regard to age, race, color, national origin, gender (including pregnancy, childbirth or medical condition related to pregnancy or childbirth), gender identity or expression, sexual orientation, religion, physical or mental disability, medical condition, genetic information, marital status, veteran status, military status, or any other characteristic protected by federal, state, or local law. Bloom takes allegations of discrimination, intimidation, harassment and retaliation very seriously and will promptly conduct an investigation when warranted.
 
 Equal employment opportunity includes, but is not limited to, employment, training, promotion, demotion, transfer, leaves of absence, and termination.
 
@@ -24,7 +24,7 @@ Equal employment opportunity includes, but is not limited to, employment, traini
 
 It is the policy of Bloom Works to comply with all the relevant and applicable provisions of the federal Americans with Disabilities Act (ADA), as well as state and local laws concerning the employment of persons with disabilities. Bloom Works will not discriminate against any qualified employee or job applicant because of a person's physical or mental disability with respect to any terms, privileges, or conditions of employment, including but not limited to hiring, advancement, discharge, compensation, and training.
 
-Employees who become disabled should notify administration if the conditions of the disability impair their ability to perform the essential functions of their position. Where necessary and feasible, reasonable accommodations will be made for qualified disabled employees to perform the essential functions of the job in question, as long as the accommodation does not cause CivicActions undue hardship.
+Employees who become disabled should notify administration if the conditions of the disability impair their ability to perform the essential functions of their position. Where necessary and feasible, reasonable accommodations will be made for qualified disabled employees to perform the essential functions of the job in question, as long as the accommodation does not cause Bloom undue hardship.
 
 ## Exempt v. Non-exempt
 
@@ -48,7 +48,7 @@ A high level of job performance and ethical behavior is expected of you.
 
 In the event that your job performance does not meet the standards established for your position, you should seek assistance from your manager to attain an acceptable level of performance. If you fail to respond to or fail to make positive efforts toward improvement, corrective action may ensue.
 
-If you violate established Company procedures, guidelines, or exhibit behavior that violates Bloom Works' standards of honesty and integrity or creates an appearance of impropriety, CivicActions may elect to administer disciplinary action.
+If you violate established Company procedures, guidelines, or exhibit behavior that violates Bloom Works' standards of honesty and integrity or creates an appearance of impropriety, Bloom may elect to administer disciplinary action.
 
 ## Reporting Irregularities
 
@@ -56,7 +56,7 @@ It is the responsibility of each employee of Bloom Works to report to a member o
 
 ## Conflict of Interest
 
-You know and share the values of our culture here, with an emphasis on integrity and transparency, and conflict of interest will not often be an issue, if ever. But, if you question the propriety of a transaction or activity that involves Bloom Works or employees/contractors of Bloom Works, or a client, or if an outside activity you may be considering raises questions in your mind, talk to your manager or one of the management team. 
+You know and share the values of our culture here, with an emphasis on integrity and transparency, and conflict of interest will not often be an issue, if ever. But, if you question the propriety of a transaction or activity that involves Bloom Works or employees/contractors of Bloom Works, or a client, or if an outside activity you may be considering raises questions in your mind, talk to your manager or one of the management team.
 
 ## Background Checks
 
@@ -68,11 +68,11 @@ All Bloom Works' employees hired to work in the U.S. need to complete a Form I-9
 
 ## Employment Classifications
 
-CivicActions has established the following Employee Classifications for compensation and benefit purposes only.
+Bloom has established the following Employee Classifications for compensation and benefit purposes only.
 
-Regular Full-Time Employee: An employee who is scheduled to work no less than 40 hours in a work week . The employee is eligible for all employment benefits offered by CivicActions.
+Regular Full-Time Employee: An employee who is scheduled to work no less than 40 hours in a work week . The employee is eligible for all employment benefits offered by Bloom.
 
-Regular Part-Time Employee: An employee who is scheduled to work less than 40 hours in a workweek. Regular part-time employees working at least 30 hours a week are eligible for all employment benefits offered by CivicActions.
+Regular Part-Time Employee: An employee who is scheduled to work less than 40 hours in a workweek. Regular part-time employees working at least 30 hours a week are eligible for all employment benefits offered by Bloom.
 
 Whether an employee is exempt or non-exempt depends on specific, statutory tests. See [Anti Harassment Policies](anti-harassment-policies.md). For our purposes, exempt employees don't get overtime and non-exempt do.
 
