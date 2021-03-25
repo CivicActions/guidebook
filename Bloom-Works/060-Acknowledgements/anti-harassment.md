@@ -1,4 +1,4 @@
-Please review and sign Bloom Works' Acknowledgement of Bloom's Harassment policy.
+Please review and sign the Acknowledgement of Bloom's Harassment policy.
 
 [Available for download here](https://drive.google.com/file/d/1K1XtOvo4xAivqDSoea0KoxO_DTF1SjVe/view?usp=sharing)
 
