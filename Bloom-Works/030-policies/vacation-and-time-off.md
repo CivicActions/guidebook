@@ -4,7 +4,9 @@ Here's some basic guidance on taking time off:
 
 -  You do not need to justify time off, and whenever possible please try to arrange it in advance with your project team. 
 
--  Employees receive 120 hours of PTO and 40 hours of sick leave each year (year begins at the time of hire). Up to 40 hours (5 days) of unused PTO and 40 hours (5 days) of unpaid sick leave can be carried over each year ("year" starts at the anniversary of your employment).
+-  Employees receive 120 hours of PTO and 40 hours of sick leave each year (year begins at the time of hire). 
+
+-  Up to 40 hours (5 days) of unused PTO and 40 hours (5 days) of unpaid sick leave can be carried over each year ("year" starts at the anniversary of your employment).
 
 -  If, for any reason, you are unable to work the expected hours on your project for reasons other than PTO (if for example your project team or role on the project is blocked) please notify someone on the Bloom management team (Lauren, Emily or Sofia). We will help determine the right next steps.
 
