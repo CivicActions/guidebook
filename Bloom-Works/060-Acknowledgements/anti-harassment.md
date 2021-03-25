@@ -1,3 +1,5 @@
-xxx
+Please review and sign Bloom Works' Acknowledgement of Bloom's Harassment policy.
 
-language on training too
+[Available for download here](https://drive.google.com/file/d/1K1XtOvo4xAivqDSoea0KoxO_DTF1SjVe/view?usp=sharing)
+
+Email a copy to [Sofia](mailto:sofia@bloomworks.digital)
