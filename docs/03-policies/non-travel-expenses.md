@@ -12,5 +12,6 @@ Receipts MUST show the card used (last 4 digits) and a date in order to be accep
  - Project: 
  - Category: select the best fit from the dropdown
  - Receipt: include the actual paper receipt AND an image showing the budget owner approval of the expense
+ 
  If you DO NOT see your project code or an appropriate category code please Slack Sofia. 
 
