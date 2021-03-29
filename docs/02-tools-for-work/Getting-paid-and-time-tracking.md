@@ -17,7 +17,7 @@ On the last workday of each month, please submit your invoice to admin@bloomwork
 ------------------------------
 
 ## Salaried Employees
-All salaried employees are expected to work 40 hours per week (85-95% billable) unless you have another arrangement with Bloom. Therefore, 34-38+ hours should be billable if you are full time on a project. You must update your hours worked each day in Harvest and in T Sheets (for CT team only). Check out the card on https://trello.com/c/MDeCS2Sd for more information on how to account for your hours in Harvest.
+All salaried employees are expected to work 40 hours per week (85-95% billable) unless you have another arrangement with Bloom. Therefore, between 34-38+ hours should be billable if you are full time on a project. You must update your hours worked each day in Harvest and in T Sheets (for CT team only). Check out the card on https://trello.com/c/MDeCS2Sd for more information on how to account for your hours in Harvest.
 
 For any weeks where you work fewer than 40 hours, you should log paid time off (PTO), holiday, or sick time in Harvest (project is Bloom > Holiday/PTO/sick) and also formally request the time in Gusto. See the card on https://trello.com/c/bOtixcay for more information on PTO, holiday, and sick policies.
 
