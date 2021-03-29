@@ -12,7 +12,8 @@ If you plan to work away from your primary work location where there’s a signi
 make sure, for example, that it won’t be an issue with your particular contract, client, or team. As a specific example, some clients have policies against accessing systems outside the country.
 In general, we try to be as flexible and accommodating as possible, but there may be some important factors to take into account.
 
-# Leaving CivicActions
+
+# Leaving Bloom Works
 
 ## At-Will Employment
 
