@@ -65,3 +65,80 @@
 - Before a "bug" or other issue is reported it should be "qualified" by the reporting user.
 - (See Issue Qualification or Issue Qualification and Defect Reporting) (<https://civicactions.net/content/issue-qualification> and <https://trac.civicactions.net/internal/template/wiki/IssueQualification>) (NEED TO MOVE THIS CONTENT OVER?)
 - Our sites include site history and QI documentation: <https://trello.com/b/MH1OIHzV/site-history-evaluation-project> (NEED TO MOVE THIS CONTENT?)
+
+---
+
+TODO: from Truss:
+
+# Recommended Feature and QA testing framework
+
+Truss utilizes [Cypress IO](http://cypress.io) as our qa/feature testing framework of choice.
+
+## Why we selected cypress
+
+Cypress was chosen for many reasons. It is designed from the ground up to tie into browser automation apis to add more stability when interacting with the browser. It provides more tools for better isolation of tests, which will allow tests to skip portions that take a long time (i.e. logging in to every test). Other benefits are to developer workflow as Cypress provides a GUI you can install locally to watch tests run, have tests automatically be re-run when code is changed, as well as a easy way to see what the application looked like at each step of the process after the test is completed.
+
+## Pros
+
+### Test Stability
+
+Cypress IO was designed to use the new automation api's provided by modern browsers. As such it has allowed them to create a more stable library than selenium based tests. This makes it more consistent and more reliable to find dom elements for testing.
+
+### Videos of sessions auto created
+
+Cypress based tests automatically create videos of test runs and stores in user defined location. This is also true of the docker containers provided by Cypress team which means that videos of tests run in a ci environment can be automatically exported and saved as part of a ci run.
+
+### Runs in Docker, with provided cypress containers
+
+Between having screenshots of errors, videos of test runs, and being able to step through a recent local test run and inspect each step; test developers have a large variety of tools for diagnosing andebugging tests. This is especially true of the GUI that allows you to step through each phase of the test after the fact as it is not availble with other frameworks at the time of this writing.
+
+In addition to the above, the GUI for cypress watches for file changes, and any changes to the test files will trigger a rerun of the open test, greatly improving the workflow of the developer.
+
+### Possible to avoid logging in via the ui for every test allowing for better test isolation and speen
+
+Test isolation is a key recommendation from the cypress team. In the [best practices](https://docs.cypress.io/guides/references/best-practices.html#Organizing-Tests-Logging-In-Controlling-State) documentation the cypress team notes that you do not have to rely on using the browser interactions to do tasks common to all tests such as logging in. Cypress provides tools for making api calls that can allow a test to aquire tokens, and other data, in a quick time allowing for tests to focus on the area that is needed.
+
+## Cons
+
+### Currently only supports chrome and headless browsers
+
+IE is in the works as is Firefox and mobile safari but no estimated date of release. This can be a hold up depending on the nature of the project. If IE support is critical, there are a couple of different workarounds that Truss has implemented on various projects.
+
+- Manually testing PRs against IE before merging
+- Executing tests via SauceLabs or similar service
+
+## Other options considered
+
+The main other option for feature/qa tests are selenium based frameworks, which have their own issues. Primarily selenium tests seem to suffer from consistency issues, the same run of a test against a clean version of an application may or may not result in the same test output.
+
+## Additional Resources
+
+- [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress.html)
+- [Key differences](https://docs.cypress.io/guides/overview/key-differences.html)
+- [Best practices](https://docs.cypress.io/guides/references/best-practices.html)
+
+# Feature and QA testing in eApp
+
+This is documentation of a decision on the eApp project as to why cypress was not chosen for this project. Though typically Truss would recommend [cypress](cypress.md)
+
+## Why selenium and nightwatch
+
+### Requirements
+
+1. Automated tests we can run
+1. Ability to run tests against IE locally and in a CI environment
+1. Green tests of basics
+
+#### Automated Tests We Can Run
+
+The tests need to be run regularly to ensure they are still passing. If they are not run they will inevitably begin to fail and if no one notices, then regressions are not caught and the value of the tests goes down since when they are run it will be unclear as to what has caused them to fail.
+
+So to support this we will mark all the currently failing tests as pending except for the newly fixed identification section tests. Once this is complete then ensure that the tests are run regularly. Primary desire is to have Circle CI build process run on a regular basis, ideally on every PR branch, but if not at least once a week against the default branch. If these options are not possible or we run out of time the tests should be run at least once a week by one of the eApp team developers.
+
+#### Ability To Run Tests Against IE Locally And In A CI Environment
+
+The current user base of eApp is primarily IE11 based at this time. In eApp history some major bugs that affected only IE users made it all the way into the hands of eApp end users. Due to this and the need to ensure that IE as well as other browsers are supported we need to ensure that whatever system we use supports multiple browsers. To that end selenium will be used as it already has wide support for multiple browsers and can be deployed with the help of selenium grid in a private environment controlled by NBIS.
+
+## What other options were considered
+
+We considered cypress.io as an alternative. While it provided better testing tools for developers and debugging tests, as well as better consistency between runs. However, it lacks support for IE currently, and no eta on when support for that will be added leads us to not choose it.

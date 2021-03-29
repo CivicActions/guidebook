@@ -1,0 +1,1 @@
+- junior ish people who can self manage and are "hungry"
