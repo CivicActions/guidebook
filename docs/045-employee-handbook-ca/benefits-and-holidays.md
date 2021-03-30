@@ -1,0 +1,87 @@
+# Benefits
+
+Time off under this policy is not being provided in addition to any pre-existing vacation, personal time, or sick leave policy, which are now superseded by this policy.
+
+## Holidays
+
+CivicActions Canada is considered closed on the following holidays:
+
+| Holiday        | Dates                      |
+| -------------- | -------------------------- |
+| New Year's Day | January 1st\*              |
+| Family Day     | Third Monday in February\* |
+| Good Friday    | Friday before Easter\*     |
+| Victoria Day   | Monday before May 25th\*   |
+| Canada Day     | July 1st\*                 |
+| Civic Holiday  | 1st Monday in August\*     |
+| Labour Day     | 1st Monday in September    |
+| Thanksgiving   | 2nd Monday of October      |
+| Christmas Day  | December 25th\*            |
+| Boxing Day     | December 26th\*            |
+
+If a holiday falls on a the weekend, the Canada office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
+
+Employees are not encouraged to work on these holidays. If you feel it's necessary to work on a holiday, hourly, non-exempt employees will be compensated at their normal hourly rate, and will receive overtime where appropriate.
+
+Exempt employees who voluntarily work on holidays will not receive additional compensation. Absent unique circumstances related to the needs of the business, you do NOT need to log entries when the office is closed for a holiday. All non-exempt employees must obtain approval from their manager prior to performing work on a holiday, and must record all hours worked, regardless of whether such prior approval was obtained.
+
+## Notice, Scheduling, and Approval of Time Off
+
+You do not need to justify time off for traditional vacation or personal time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies.
+
+For time off related to any sick leave that is **foreseeable**, employees should provide advance notice as soon as possible, preferably at least seven days in advance. If the need for sick leave is **unforeseeable**, employees shall provide notice as soon as practicable.
+
+Employees should follow the following procedure for providing notice of, scheduling, and obtaining approval of paid time off:
+
+1. If you are working on an active project (internal or external), discuss the impact of your absence with your project manager & team to get coverage and clarify project impact. This is especially important if there is flexibility in your dates. This is not necessary if the need is related to sick time that is **unforeseeable**.
+1. Email <mailto:ca-schedule@civicactions.com> to request the time. Make sure to explain your plan for coverage as discussed with your PM & team. If you are providing notice where the need is related to sick time and is **unforeseeable**, there's no need to explain further.
+1. You will want to cc team members who will be affected by your timeoff (eg your project manager or your supervisor), or you can choose to slack them separately.
+1. When the time off is approved, a manager will "reply-all" to your original email stating if the request is approved.
+1. Then your time off will be put on the Primary Out of Office Calendar and added to Harvest's Forecast tool for people planning purposes.
+1. Lastly, [follow the procedure](https://github.com/CivicActions/handbook/blob/master/docs/050-how-we-work/tools/harvest.md) for logging time off.
+
+**Sample emails to demonstrate how to communicate on the ca-schedule list:**
+
+- _Hello, I am out sick today. I've let my team know via slack not to expect me today._
+- _Hello, I want to take Aug 1-7 off. I will coordinate coverage with my team and remind them again prior to my time off._
+- _Hello, I am doing a prodev workshop on Feb 1. I'm cc'ing my team here to let them know I will be out that day._
+- _Hello, I need tomorrow off for a last minute doctor appointment. I am cc'ing those that need to know on this email not to expect me tomorrow._
+
+## Scheduling Shifts
+
+If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, you are attending a conference, or you need a Tuesday off but plan to make up the hours over the weekend.
+
+1. You should first make sure you understand the impact of your schedule shift to your (project) team and get coverage or move meetings as appropriate.
+1. Email the <mailto:ca-schedule@civicactions.net> list describing your schedule change and note that you've already worked out plans with your team for coverage, etc.
+1. The schedule change will be acknowledged in an email reply.
+1. The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.
+
+## Personal Tech Issues
+
+At CivicActions, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
+
+### Communication
+
+When you have a technical issue with your home network, power and personal equipment that stops you from being able to work at all, communicate early and often:
+
+1. Ping your team in Slack to let them know you aren't available.
+1. Set a Slack status (if you can,) so people know you aren't available.
+1. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
+1. If the problem lasts longer than 2 hours, email <mailto:ca-schedule@civicactions.net> and log it in Harvest under CA: Timeoff, using the task "Technical Issues".
+1. If it's persistent, set an out of office message.
+
+### Slack Channels
+
+- You can go to the following Slack channels for support: #windows #osx #gnu-linux
+
+## Personal Leave of Absence
+
+Employees of CivicActions, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
+
+## Medical Insurance
+
+To be updated with information from PEO Canada
+
+## Professional Development Stipend
+
+Employees are encouraged to take education and training courses related to their profession. When appropriate, and with prior approval, CivicActions will pay for all or a portion of such courses.
