@@ -6,7 +6,7 @@ updated: March 29 2021
 
 As part of CivicActions commitment to work/life balance and our movement toward greater workplace equity, it is aligned with our values to provide "Technology Stipends" to our employees to reimburse them for necessary expenditures including reasonable costs that are common for all employees at CivicActions. To avoid burdensome paperwork and to give employees flexibility in determining how best meet personal preferences in their work environment, CivicActions will pay to each employee the Technology Stipend once a year in one lump sum.
 
-### Definitions
+## Definitions
 
 - "Eligible Team Member" means direct employees of CivicActions Digital Services, ULC. Individuals who are independent contractors, work for staffing firms, or who are employed by other companies that contract with CivicActions are not eligible.
 - "Annual Eligibility Date":
@@ -14,7 +14,7 @@ As part of CivicActions commitment to work/life balance and our movement toward 
 - The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period.
 - "Payment Amount" - The Payment Amount as of April 1, 2021 is $1287.00 CAD. The amount will be reviewed annually.
 
-### Policy
+## Policy
 
 Eligible Team Members will receive the Payment Amount of the Technology Stipend in their first paycheck following their Annual Eligibility Date each year. The Technology Stipend is for necessary expenditures in the calendar year following the Eligibility Date including reasonable costs that are common for all employees such as computer, internet access, work space, electricity, phone, and other expenses reasonably attributable to their job.
 
