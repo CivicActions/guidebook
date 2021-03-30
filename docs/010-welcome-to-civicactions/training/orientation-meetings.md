@@ -115,8 +115,7 @@
 - Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
 - Add a photo avatar to your accounts (Slack, Google, Trello, Jira, etc.)
 - [Update resume into CivicActions template](../team-resume-instructions.md)
-- [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
-- Manager to provide an introduction to our copywriter / editor for support on bio & resume
+- Manager to provide an introduction to our copywriter / editor for support on staff bio & photo for team page
 
 ## Day 3
 
