@@ -1,4 +1,4 @@
-# Your own Events
+# Your Own Events
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "heads down" time in two-to-four hour chunks to complete tasks. You should also block off times where you don't want to get booked for meetings (eg a doctor's appt or long lunch with a friend).
 
