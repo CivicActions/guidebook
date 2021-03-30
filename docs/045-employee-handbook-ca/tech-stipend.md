@@ -9,9 +9,10 @@ As part of CivicActions commitment to work/life balance and our movement toward 
 ## Definitions
 
 - "Eligible Team Member" means direct employees of CivicActions Digital Services, ULC. Individuals who are independent contractors, work for staffing firms, or who are employed by other companies that contract with CivicActions are not eligible.
-- "Annual Eligibility Date":
-- The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date.
-- The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period.
+- "Annual Eligibility Date" means:
+  1. The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date. 
+  1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period.
+
 - "Payment Amount" - The Payment Amount as of April 1, 2021 is $1287.00 CAD. The amount will be reviewed annually.
 
 ## Policy
