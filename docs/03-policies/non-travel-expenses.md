@@ -1,4 +1,4 @@
-# General Business Expenses
+# General business expenses
 Bloom Works will timely reimburse pre-approved business-related out-of-pocket expenses as long as you submit a receipt. 
 Receipts MUST show the card used (last 4 digits) and a date in order to be accepted. 
 
