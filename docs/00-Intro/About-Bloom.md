@@ -10,7 +10,7 @@ Many of us have experience working in the government, and we know firsthand the 
 
 At Bloom, we've made it our business to be different. We're here to help navigate complex paths to make lives easier and visions more achievable. We’re inspired by the important work our partners (not clients) are doing, and our mission is to help them build cleaner solutions to digital challenges.
 
-Check out this GovTech piece for more about Bloom.
+[Check out this GovTech piece for more about Bloom.](https://www.govtech.com/biz/Bloom-Assembles-Digital-Government-Alumni-for-Consulting.html)
 
 ## Our core values
 
