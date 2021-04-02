@@ -13,8 +13,7 @@
 - ST/LT disability 
 - 401k: (100% match up to 6% match)
 
-Coming soon: Mental Health Benefits, and project referral bonus
+**These benefits are prorated for anyone working fewer than 40 hours a week*
 
-**This benefit is prorated for anyone working fewer than 40 hours a week*
-
-If you have any questions contact Sofia
+Coming soon: mental health resources
+If you have any questions, contact Sofia. 
