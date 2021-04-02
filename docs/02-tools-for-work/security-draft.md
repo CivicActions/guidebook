@@ -1,10 +1,6 @@
-# Objective
+# Password security
 
 Passwords are an important aspect of computer security. They are the front line of protection for user accounts. A poorly chosen password may result in the compromise of Bloom Works' entire corporate network. As such, all Bloom Works employees (including contractors and vendors with access to Company systems) are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords.
-
-## User Authentication
-
-Every user will be assigned @bloomworks.digital account and will have the opportunity to set your own password. Shared or group user IDs are prohibited for user-level access wherever possible.  
 
 ### Password recommendations 
 
