@@ -2,7 +2,7 @@
 
 ### <a name="purpose"></a>Handbook Purpose
 
-This Handbook has been prepared to describe the Bloom philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
+We've prepared this handbook to specify what Bloomers can expect from Bloom and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.
 
 ## License
 
