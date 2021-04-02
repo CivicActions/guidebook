@@ -1,18 +1,12 @@
 # Relocating
-If you personally plan to relocate where you live, please give at least six weeks notice and request formal approval by sending an email to admin@bloomworks.digital. After you receive formal,
-written approval, be sure to update Gusto with your new address, along with the effective date.
+If you personally plan to relocate where you live, please give at least six weeks notice. It gives us the necessary time to make sure we've completed any required local & state tax registrations so your and the company's taxes are computed correctly. It also helps us avoid issues with trying to do payroll gymnastics if we don’t get all the required registrations done in time.
 
-Following these steps are important for several reasons:
-- It gives us the necessary time to make sure we’ve completed any required state & local payroll tax registrations so your and the company’s taxes are computed correctly.
-- It helps us avoid issues with trying to do payroll gymnastics if we don’t get all the required registrations done in time.
--  It allows us to make sure it won’t cause issues with your client and/or team. This is rarely the case; nevertheless, it’s important that we check.
+We also need to make sure it won’t cause issues with your client and/or team. This is rarely the case; nevertheless, it’s important that we check.
 
 ## Temporary Relocation
-If you plan to work away from your primary work location where there’s a significant difference in timezone or you’re out of the country, please seek approval beforehand as we may need to
-make sure, for example, that it won’t be an issue with your particular contract, client, or team. As a specific example, some clients have policies against accessing systems outside the country.
+If you plan to work away from your primary work location where there’s a significant difference in timezone or you’re out of the country, please seek approval beforehand as we may need to make sure, for example, that it won’t be an issue with your particular contract, client, or team. As a specific example, some clients have policies against accessing systems outside the country.
+
 In general, we try to be as flexible and accommodating as possible, but there may be some important factors to take into account.
-
-
 ___
 
 
