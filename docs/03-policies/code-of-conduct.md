@@ -3,15 +3,15 @@ status: Final
 updated: March 17, 2021
 ---
 
-# Code of Conduct
+# Code of conduct
 
-## General Guidelines
+## General guidelines
 
 Successful operation of Bloom Works requires that all of us be respectful of, and open with, one another. This is a community of trust and it needs straight-forward, non-critical dialogue to accomplish its goals. There's little that can't be resolved with honest appraisal and an attitude of cooperation. We don't compete here, and we try really hard to keep communication constructive and open.
 
 If an issue is in the category of harassment, there is a "Reporting and Investigating Proscribed Harassment" Policy in [Anti Harassment Policies](../040-employee-handbook-us/anti-harassment-policies.md).
 
-## Code of Conduct
+## Code of conduct
 
 Within a virtual working environment communication is vital to keeping a collaborative, healthy and fun atmosphere. We want to foster an open, inclusive, and diverse culture with the freedom to be ourselves. With that in mind we also want to ensure that everyone here is treated fairly and also feels safe and welcome. We have a variety of communication tools and forums, including Slack, Zoom, and in-person events, and our code of conduct is intended for all of them.
 
@@ -34,6 +34,6 @@ If you believe someone is violating the code of conduct, please speak to a membe
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 Portions of text derived from the CivicActions, Citizen Code of Conduct, and the Geek Feminism Anti-Harassment Policy.
 
-## Personal Appearance
+## Personal appearance
 
 Be appropriate for the client you are meeting either face-to-face or via video conferencing. If you have any questions, you should contact your manager for suggestions.
