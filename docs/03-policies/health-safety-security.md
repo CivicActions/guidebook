@@ -1,6 +1,6 @@
-# Health, Safety and Security
+# Health, safety and security
 
-## Workers' Compensation
+## Workers' compensation
 
 Bloom Works provides insurance for all work-related injuries or illness. The name of Bloom Works' workers' compensation insurance carrier and other pertinent information is available. The carrier governs all insurance benefits provided by Bloom Works.
 
@@ -8,21 +8,21 @@ Bloom Works provides insurance for all work-related injuries or illness. The nam
 
 Bloom Works wants you to be safe under all circumstances. All employees have a stake in keeping the workplace safe, pleasant, and free of hazards of any kind. We rely on you to help make the company a friendly, secure place to work. If you ever feel unsafe please talk to your manager or refer to the Reporting and Investigating Proscribed Harassment Policy in [Anti Harassment Policies](../040-employee-handbook-us/anti-harassment-policies.md).
 
-## Use of Private Automobile
+## Use of private automobile
 
 If your job requires you to operate your personal vehicle for Bloom Works' business, Bloom Works needs proof of a current and valid state driver's license and proof of insurance.
 
 If you are involved in an automobile accident while on Bloom Works' business, report the accident to your manager immediately. Request a police report and obtain anything available to you at the scene of the accident.
 
-## Substance Abuse Policy
+## Substance abuse policy
 
 Bloom Works ("Company") is committed to providing a drug-free work environment. The use of drugs and abuse of alcohol not only jeopardizes the health, safety, and well-being of the individual user and coworkers, it also results in increased absenteeism and decreased productivity, higher workers' compensation costs and health/disability premiums, and endangers the safety of the general public.
 
-### PURPOSE
+### Pupose
 
 Our employees are our most valuable resource, and the safety of our employees and the public is important to us. The Company developed and published this substance abuse policy to address this very difficult health and social problem. This policy is intended to accurately detect and deter the use and abuse of drugs and alcohol in the workplace, while respecting the dignity and privacy of our employees. This policy replaces all existing policies concerning substance abuse and drug testing of employees.
 
-### POLICY GUIDELINES
+### Policy guidelines
 
 It is the policy of the Company that the possession, sale, or use of illegal drugs is inconsistent with the Company's needs to operate in a safe and efficient manner. The Company is also required by contract with most of our federal and state clients to require a drug free workplace environment. In some instances our contractual obligations may prohibit activities in the workplace or while performing work that may otherwise be legal. Although we are a work from home company, employees should be aware that the restrictions apply any place the performance of work is done in connection with their employment.
 
