@@ -1,6 +1,6 @@
 # BLOOM EMPLOYEE HANDBOOK
 
-This Handbook has been prepared to describe Bloom's philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+We've prepared this handbook to specify what Bloomers can expect from Bloom and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.
 
 ## This is not really the README you are looking for.
 
@@ -18,5 +18,4 @@ This work is licensed under the terms of the [Creative Commons Attribution 4.0 I
 
 We'd like to thank the folks at 18F and Civic Actions for [their](https://github.com/18F/handbook) [handbooks](https://github.com/bloom-works/handbook), from which this documentation was forked. We welcome you to fork our documentation, or use the 18F handbook, which is licensed as CC0.
 
-## Temporary Notes from Sofia 03/1/2021
-Draft folder contains policy that either (1) I'm not sure to adopt, (2) are outside of my expertise, (3) need to be reviewed. Not a great process at the moment so please forgive the mess. I'm working on it! 
+
