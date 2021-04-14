@@ -40,7 +40,7 @@ Employees should follow the following procedure for providing notice of, schedul
 1. If your time off is immediate, unplanned, and unforeseeable, the most important thing is that your team knows you are out. If you are able, please send a slack to notify the team and put the leave request in Unanet. If Unanet is not accessible for you, please send an email to peopleops@civicactions.com and cc anyone else who needs to know. You don't need to give specific information around why you are out, just indicate that you will be out today and when we can expect you back. If you anticipate being out more than a day or two, please let us know in your email, and we will let you know if we need you to submit a request in Unanet.
 1. Log your time in Unanet under the category of TIMEOFF, using sick, vacation, or technical issues. Remember that doctor's appointments for you and other family members are also billed as sick time.
 
-**Sample emails to demonstrate how to request timeoff in Unanet:**
+**Sample messages to demonstrate how to request timeoff in Unanet:**
 
 - _Hello, I am out sick today. I've let my team know via slack not to expect me today._
 - _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
