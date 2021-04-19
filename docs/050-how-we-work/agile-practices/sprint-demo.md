@@ -4,6 +4,10 @@
 
 The Sprint Demo (or Sprint Review) is an informal meeting where the project team shows the work accomplished during the sprint to project stakeholders and where the Product Owner declares items done.
 
+## Why do it:
+
+The purpose of the Sprint Demo is to help everyone visualize the new product, then elicit feedback from stakeholders and foster a collaborative environment. The feedback and collaboration from this is then used to create new backlog items or refine existing items. This is the adaptation phase of the sprint cycle. This is also when the Product Owner publicly pronounces sprint backlog items done.
+
 ## Who should participate:
 
 The participants in the Sprint Demo should include the Product Owner, Scrum Master, Project Team. Additionally, the meeting could include managing stakeholders, product users and developers from other projects.
@@ -19,10 +23,6 @@ The Scrum Master or a project team member should read aloud the sprint goal that
 Project team members should take turns demonstrating their completed work to the meeting attendees. Since CivicActions functions in a remote environment, team members should come prepared for screen sharing or link sharing so that the work is visible to everyone. The demonstrator should quickly walk through what has been built, showing relevant functionality. Discussion and questions from stakeholders regarding each demonstrated item may be needed. During this conversation, additional details or features of the product may be uncovered. Those details should be added to the product backlog in the form of stories and tasks. As individual units of work are demonstrated, it is the Product Owner's responsibility to declare these items as either _done_ or _not done_. Any items that are not done should be returned to the product backlog for consideration in the next sprint.
 
 Once the project team member has demonstrated all of his/her completed work, the next team member should demonstrate, and so on. Sprint backlog items that were not completed should not be demonstrated during the meeting. Once all completed work has been demonstrated, the team should update the product backlog with any remaining details that may have emerged during conversation.
-
-## Why to do it:
-
-The purpose of the Sprint Demo is to help everyone visualize the new product, then elicit feedback from stakeholders and foster a collaborative environment. The feedback and collaboration from this is then used to create new backlog items or refine existing items. This is the adaptation phase of the sprint cycle. This is also when the Product Owner publicly pronounces sprint backlog items done.
 
 ## Additional Resources:
 
