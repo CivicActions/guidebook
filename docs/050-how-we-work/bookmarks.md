@@ -45,13 +45,10 @@ Links to websites we use regularly.
 - [MxToolbox](https://mxtoolbox.com/SuperTool.aspx)
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) (Qualys)
 
+### Browser Extensions
+
+- [See list browser extension page](/en/latest/050-how-we-work/tools/browserextensions/)
+
 ### Accessibility
 
 - [CivicActions Accessibility Site](https://accessibility.civicactions.com)
-
-#### Useful Accessibility Extensions to Install
-
-- [WAVE Toolbar](https://wave.webaim.org/) - FF & Chrome
-- [Accessibility Insights](https://accessibilityinsights.io/) - Edge & Chrome
-- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Chrome
-- [Accessible Color Picker](https://chrome.google.com/webstore/detail/accessible-color-picker/bgfhbflmeekopanooidljpnmnljdihld) - Chrome
