@@ -25,9 +25,9 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Education Services            | ES   | Chianti Lomax             | #eduservices          |                                  |
 | Frontend                      | FE   | Iris Ibekwe               | #engineering-frontend | Biweekly                         |
 | Innovation Lab                | IL   | TBD                       | #labs                 |                                  |
-| Open Data                     | OD   | Kim Davidson              | #opendata             |                                  |
+| Open Data                     | OD   | TBD                       | #opendata             |                                  |
 | Product Management            | PD   | TBD                       | #productmanagement    | Biweekly                         |
 | Project Management            | PM   | TBD                       | #pm                   | Biweekly                         |
 | Quality Assurance             | QA   | Eric Napier               | #engineering-qa       | Biweekly                         |
 | Support & Helpdesk            | SP   | Ero Gray                  | #helpdesk             |                                  |
-| User Experience               | UX   | Shira Kates               | #ux                   | Weekly (Ops), Weekly (Brownbag)  |
+| User Experience               | UX   | TBD                       | #design               | Weekly (Ops), Weekly (Brownbag)  |
