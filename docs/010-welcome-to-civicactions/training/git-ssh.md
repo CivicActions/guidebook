@@ -14,7 +14,7 @@ SSH'ing to `*.civicactions.net` (for example, when using Git) requires port 940.
 1.  Create a `~/.ssh/config` file if you don't already have one.
 2.  Then add these lines.
 
-```
-Host *.civicactions.net
-Port 940
-```
+    ```
+    Host *.civicactions.net
+        Port 940
+    ```
