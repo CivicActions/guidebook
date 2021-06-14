@@ -17,7 +17,6 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 ## Main Listservs
 
 - Team-wide communication: <mailto:ca-team@civicactions.com>
-- Request time off: <mailto:ca-schedule@civicactions.com>
 - HR Notices: <mailto:ca-employees@civicactions.com>
 - Engineering: <mailto:ca-dev@civicactions.com>
 - Project Management: <mailto:ca-pm@civicactions.com>
