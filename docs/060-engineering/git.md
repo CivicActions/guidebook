@@ -120,7 +120,7 @@ So in the normal release flow:
 - Over the course of the sprint you might get v1.2.0, v1.3.0 etc
 - Sprint 1 ends, v1.3.0 looks good, gets pushed to prod
 
-In the case a subsiquent hotfix is required:
+In the case a subsequent hotfix is required:
 
 - In Sprint 2 work continues on master, v2.0.0 tag gets pushed to stage etc.
 - Meanwhile, critical bugfix needed on prod, so the v1.3.0 is branched to v1.
