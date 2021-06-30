@@ -100,7 +100,7 @@ We work to model the change we want to see in the world, and that starts with ho
 
 **CivicActions' Accessibility Commitment: Both in our work with the government and here at home, accessibility is never done.**
 
-**Serving people of all abilities**
+### Serving people of all abilities
 
 We are passionate about improving government technology to serve the public better, and that includes people of all backgrounds, situations, and abilities. Similarly, we want our website and our work to also be accessible to as many people as possible.
 
@@ -108,7 +108,7 @@ CivicActions Accessibility is an open, agile project, practice area and communit
 
 The accessibility team has been busily working on our accessibility website, which contains useful guides as well as a playbook. We have also introduced a proactive, interactive process to make government services accessible to everyone, called the [Holistic Enterprise Accessibility Review Technique (HEART)](https://accessibility.civicactions.com/heart). The team is looking for ways to pollinate accessibility as a core part of the way we work at CivicActions and we would love to have everyone contribute. We believe there is a role for everyone at CivicActions to play in making everything we do as accessible as possible.
 
-**If you'd like to know more about how you can participate:**
+### If you'd like to know more about how you can participate:
 
 - Join the #accessibility Slack channel
 - [Submit an 'Add new team member' issue](https://github.com/CivicActions/accessibility/issues/new/choose) : [Join GitHub](https://github.com/) if you haven't already
