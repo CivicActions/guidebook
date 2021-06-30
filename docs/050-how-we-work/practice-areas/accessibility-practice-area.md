@@ -1,7 +1,4 @@
-
 # Accessibility Practice Area
-
-  
 
 CivicActions Accessibility is an open project primarily developed by CivicActions team members.
 
@@ -13,28 +10,24 @@ Please [let us know](https://accessibility.civicactions.com/contact) what you fi
 
 ## Join Us:
 
--   Join the #accessibility CivicActions Slack channel (CivicActions Internal)
-    
--   [Submit an 'Add new team member' issue](https://github.com/CivicActions/accessibility/issues/new/choose) (Join [GitHub](https://github.com/) if you haven't already)
-    
--   [Join the meetings](https://accessibility.civicactions.com/calendar) (check-ins + prioritization + practice area calls
-    
+- Join the #accessibility CivicActions Slack channel (CivicActions Internal)
+
+- [Submit an 'Add new team member' issue](https://github.com/CivicActions/accessibility/issues/new/choose) (Join [GitHub](https://github.com/) if you haven't already)
+
+- [Join the meetings](https://accessibility.civicactions.com/calendar) (check-ins + prioritization + practice area calls
 
 ## CivicActions Accessibility Resources:
 
-  
+- Website: [https://accessibility.civicactions.com/](https://accessibility.civicactions.com/)
 
--   Website: [https://accessibility.civicactions.com/](https://accessibility.civicactions.com/)
-    
--   Playbook: [https://accessibility.civicactions.com/playbook/](https://accessibility.civicactions.com/playbook/)
-    
--   Accessibility Guide: [https://accessibility.civicactions.com/guide/](https://accessibility.civicactions.com/guide/)
-    
--   HEART: [https://accessibility.civicactions.com/heart](https://accessibility.civicactions.com/heart)
-    
--   Calendar: [https://accessibility.civicactions.com/calendar](https://accessibility.civicactions.com/calendar)
-    
--   Project Board: [https://github.com/CivicActions/accessibility/projects/1](https://github.com/CivicActions/accessibility/projects/1)
-    
+- Playbook: [https://accessibility.civicactions.com/playbook/](https://accessibility.civicactions.com/playbook/)
+
+- Accessibility Guide: [https://accessibility.civicactions.com/guide/](https://accessibility.civicactions.com/guide/)
+
+- HEART: [https://accessibility.civicactions.com/heart](https://accessibility.civicactions.com/heart)
+
+- Calendar: [https://accessibility.civicactions.com/calendar](https://accessibility.civicactions.com/calendar)
+
+- Project Board: [https://github.com/CivicActions/accessibility/projects/1](https://github.com/CivicActions/accessibility/projects/1)
 
 - Launching a community of practice: [https://medium.com/civicactions/launching-a-community-of-practice-for-accessibility-in-government-services-b0b085cd90d6](https://medium.com/civicactions/launching-a-community-of-practice-for-accessibility-in-government-services-b0b085cd90d6)
