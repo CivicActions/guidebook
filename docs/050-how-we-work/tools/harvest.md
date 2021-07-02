@@ -158,7 +158,7 @@ You do NOT need to log entries when the office is closed for a holiday.
 - 8 hours for a full day
 - 4 hours for a half day
 
-![Harvest screenshot 12](../../images/harvest12.png)
+<img alt="Unanet Screenshot highlighting that the sick days are under time off." src="../../images/Unanet-sick-leave.png">
 
 ## Harvest Phone App
 
