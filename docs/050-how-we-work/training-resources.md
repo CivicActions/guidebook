@@ -38,6 +38,6 @@ Here is a recommended reading list of books that people at CivicActions have fou
 - ["Hiring Engineers" by Marianne Bellotti](https://leanpub.com/hiring-engineers)
 - ["Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)" by Marianne Bellotti](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/)
 
-## Other Related Book Lists 
+## Other Related Book Lists
 
-- [Government and technology reading list](https://karpet.github.io/gov-tech-reading-list/) 
+- [Government and technology reading list](https://karpet.github.io/gov-tech-reading-list/)
