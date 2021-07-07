@@ -27,3 +27,17 @@ As an CivicActions team member, you have access to these online training resourc
 - When your booked time is up, use the following credentials to log in: //
 
   > @todo [Add link to credentials](https://trello.com/c/dxKtjdYD/111-add-link-to-doc-with-drupalizeme-and-buildamodule-credentials) -- but do not include credentials here
+
+# Books
+
+Here is a recommended reading list of books that people at CivicActions have found helpful.
+
+## Books / Ebooks
+
+- ["Distributed Teams: The Art and Practice of Working Together While Physically Apart" by John O'Duinn](https://distributedteamsbook.com/buy/)
+- ["Hiring Engineers" by Marianne Bellotti](https://leanpub.com/hiring-engineers)
+- ["Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)" by Marianne Bellotti](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/)
+
+## Other Related Book Lists 
+
+- [Government and technology reading list](https://karpet.github.io/gov-tech-reading-list/) 
