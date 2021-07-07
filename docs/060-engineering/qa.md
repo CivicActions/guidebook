@@ -68,5 +68,5 @@
 
 ## Test Frameworks
 
-* [Behat](https://docs.behat.org/en/latest/
-* [Cypress](https://www.cypress.io/): see [our documentation repo)[https://github.com/CivicActions/cypress-tests].
+- [Behat](https://docs.behat.org/en/latest/
+- [Cypress](https://www.cypress.io/): see [our documentation repo)[https://github.com/CivicActions/cypress-tests].
