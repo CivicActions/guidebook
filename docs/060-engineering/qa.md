@@ -65,3 +65,8 @@
 - Before a "bug" or other issue is reported it should be "qualified" by the reporting user.
 - (See Issue Qualification or Issue Qualification and Defect Reporting) (<https://civicactions.net/content/issue-qualification> and <https://trac.civicactions.net/internal/template/wiki/IssueQualification>) (NEED TO MOVE THIS CONTENT OVER?)
 - Our sites include site history and QI documentation: <https://trello.com/b/MH1OIHzV/site-history-evaluation-project> (NEED TO MOVE THIS CONTENT?)
+
+## Test Frameworks
+
+- [Behat](https://docs.behat.org/en/latest/)
+- [Cypress](https://www.cypress.io/): see [our documentation repo](https://github.com/CivicActions/cypress-tests).
