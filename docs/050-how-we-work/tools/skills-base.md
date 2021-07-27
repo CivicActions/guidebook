@@ -38,7 +38,7 @@ We do include some hints as well as specifics here though, so please read this f
 - The interest level is optional - it's fine to leave most skills as "not applicable" if you don't have anything specific to communicate
 - Feel free to note any Ah-has in the comments, as well as any skills that you have that are in this category but weren't listed
 - You can use the arrow keys and tab to rate with a keyboard
-- There is a progress bar at the dop - depending on your team, you might have a few pages to go though - feel free to stop and come back later if needed
+- There is a progress bar at the top - depending on your team, you might have a few pages to go though - feel free to stop and come back later if needed
 
 When you are done with a self assessment, click on "Review my Qualifications"
 
@@ -51,7 +51,7 @@ There are a few types of qualifications we need to track, some of which are not 
 - Academic qualifications - prefixed with "Degree:"
 - Professional qualifications/certificates - these are prefixed by the name of the issuing organization
 - US Federal background check form submissions - these are prefixed with "US Background Check Form" - if you aren't sure which form you submitted, check your e-mails or ask your project manager
-- US Federal background check adjudications - these are prefixed with "US Background Check Adjudication:" and the name of the agency that made that adjudication - if you aren't sure if you have recieved and adjudication ask your project managed - in many cases we may need to estimate the date
+- US Federal background check adjudications - these are prefixed with "US Background Check Adjudication:" and the name of the agency that made that adjudication - if you aren't sure if you have received and adjudication ask your project managed - in many cases we may need to estimate the date
 - Agency level project trainings (security, privacy etc) - these are prefixed with the country and name of the agency that manages the training (occasionally trainings taken for one agency may be issued by another agency) - if you aren't sure which you have taken you may want to refer to your project onboarding, training system or other tracking ticket/sheet
 
 For each qualification:
