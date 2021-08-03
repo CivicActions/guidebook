@@ -4,10 +4,6 @@
 
 Our mission is to help government better serve the public by transforming the way digital services are built and delivered. We partner with agencies to modernize technology systems, improve user experiences, and build capacity for making government services accessible and effective for all.
 
-## Values
-
-See the [values page](https://civicactions.com/values/) on civicactions.com.
-
 ## Value Proposition
 
 CivicActions partners with government agency executives, directors, and managers; IT staff and department leaders; and other agents of change who seek to transform the user experience of government by providing modern digital services that are innovative, intuitive, and rewarding.
