@@ -58,4 +58,4 @@ CivicActions will also post a message in #announcements about the person departi
 ### Manager
 
 - Work with the employee to transition the employee's workload to other team members.
-- Ensure they complete their last timesheet in Harvest.
+- Ensure they complete their last timesheet in Unanet.
