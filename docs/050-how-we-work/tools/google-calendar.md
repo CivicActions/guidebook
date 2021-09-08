@@ -8,6 +8,8 @@
 
 **You can see other people's public calendars to help schedule meetings.** To view someone else's calendar, type their name in the left column under "other calendars." Finally, there's a link titled "Find a time" (left of what's shown in the gif, below) which shows everyone's schedules next to each other so you can easily see when there are no conflicts.
 
+**Keep your calendar details private when sharing outside the organization.** Occasionally you might need to share your calendar with people outside the organization, for example, a project manager on a partner project. Your calendar has a lot of company-confidential information, including information about projects, clients, and links to meetings where confidential information might be discussed. When sharing your calendar with someone outside the organization, always use the option "Show only free/busy (hide details)".
+
 **You can set up blocks of time that people can reserve.** Just select "Appointment slots" after you choose a window of time.
 
 ## Best Practices
