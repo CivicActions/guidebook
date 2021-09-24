@@ -14,7 +14,7 @@ Only authorized management may alter or modify any of the policies in this Emplo
 
 ## Equal Employment
 
-CivicActions believes that we can be a stronger company if we better reflect the communities we serve. We have set up a Diversity, Equity, Inclusion and Accessibility (DEI&A) working group where we are actively working to improve how we recruit, orient and retain a diverse team. Like most technology companies, we still primarily employ white, able-bodied men. This is a problem which is understood within our organization and that we are committed to change. We know that by broadening our recruitment we are able to hire a talented, committed staff who our competition overlooks. 
+CivicActions believes that we can be a stronger company if we better reflect the communities we serve. We have set up a Diversity, Equity, Inclusion and Accessibility (DEI&A) working group where we are actively working to improve how we recruit, orient and retain a diverse team. Like most technology companies, we still primarily employ white, able-bodied men. This is a problem which is understood within our organization and that we are committed to change. We know that by broadening our recruitment we are able to hire a talented, committed staff who our competition overlooks.
 
 <!--- Protected classes from Trinet handbook, keep list updated in: employment, code-of-conduct and anti-harassment-policies -->
 
