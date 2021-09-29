@@ -19,13 +19,14 @@ Most CivicActions employees have free Zoom accounts, which have enough features 
 Paid accounts are available for those who need them regularly (once a week or so, or if you host a regular call that needs Zoom). If you need to host a longer meeting, or you need to record a meeting, you can either ask a project manager or someone you know has a paid account to host it for you, or you can request a paid account via <mailto:admin@civicactions.com>.
 
 ## Zoom Accessibility
+
 - There are a lot of [great accessibility features](https://explore.zoom.us/en/accessibility/) in Zoom. It is generally regarded as the most accessible video conferencing system.
 - To enable live captioning the host must first set it up in their settings.
-    1. Log in to your CivicActions issued Pro Zoom account
-    2. Click “Settings” in the left-hand navigation panel under “Profile“
-    3. Under “Meeting” click “In Meeting (Advanced)” then scroll down to find “Closed Captioning“ 
+  1. Log in to your CivicActions issued Pro Zoom account
+  2. Click "Settings" in the left-hand navigation panel under "Profile"
+  3. Under "Meeting" click "In Meeting (Advanced)" then scroll down to find "Closed Captioning"
 - Hosts can now can now enable/disable live captions in your Zoom meetings as can others in the meeting.
-- There will also be a “Live Transcript is available” message above the “CC Live Transcript” button when a Zoom host has enabled live transcriptions. This can be useful for people who want to to review the discussion after the meeting is finished or for people who may have trouble understanding a fast conversation in their second language. 
+- There will also be a "Live Transcript is available" message above the "CC Live Transcript" button when a Zoom host has enabled live transcriptions. This can be useful for people who want to to review the discussion after the meeting is finished or for people who may have trouble understanding a fast conversation in their second language.
 
 ## Tips and Shortcuts
 
