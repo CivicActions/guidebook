@@ -32,6 +32,10 @@ While Zoom is our default video meeting zoom, there are a few use cases for usin
 - If someone hears an echo & you don't, then it's likely your computer creating the echo. Try using headphones or plugging them in again
 - Use screen sharing for demos and for pairing
 
+## Google Meet Accessibility
+- There are a lot of [great accessibility features](https://support.google.com/meet/answer/7313544) in Google Meet
+- Learning how to [set up live captions](https://support.google.com/meet/answer/9300310) can help you engage with a client trouble hearing. This could be either because of a disability or because of a hardware malfunction. 
+
 ## Available Commands
 
 - /to, /msg \[user]\[message] - Sends an inline private message to the specified user.
