@@ -26,7 +26,7 @@ Paid accounts are available for those who need them regularly (once a week or so
   2. Click "Settings" in the left-hand navigation panel under "Profile"
   3. Under "Meeting" click "In Meeting (Advanced)" then scroll down to find "Closed Captioning"
 - Hosts can now can now enable/disable live captions in your Zoom meetings as can others in the meeting.
-- There will also be a "Live Transcript is available" message above the "CC Live Transcript" button when a Zoom host has enabled live transcriptions. This can be useful for people who want to to review the discussion after the meeting is finished or for people who may have trouble understanding a fast conversation in their second language.
+- There will also be a ["Live Transcript is available"](https://support.zoom.us/hc/en-us/articles/115004794983-Automatically-Transcribe-Cloud-Recordings-?_ga=2.177759968.494881096.1614756525-359380451.1613573452) message above the "CC Live Transcript" button when a Zoom host has enabled live transcriptions. This can be useful for people who want to to review the discussion after the meeting is finished or for people who may have trouble understanding a fast conversation in their second language.
 
 ## Tips and Shortcuts
 
