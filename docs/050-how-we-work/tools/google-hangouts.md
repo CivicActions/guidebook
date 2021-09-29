@@ -33,8 +33,9 @@ While Zoom is our default video meeting zoom, there are a few use cases for usin
 - Use screen sharing for demos and for pairing
 
 ## Google Meet Accessibility
+
 - There are a lot of [great accessibility features](https://support.google.com/meet/answer/7313544) in Google Meet
-- Learning how to [set up live captions](https://support.google.com/meet/answer/9300310) can help you engage with a client trouble hearing. This could be either because of a disability or because of a hardware malfunction. 
+- Learning how to [set up live captions](https://support.google.com/meet/answer/9300310) can help you engage with a client trouble hearing. This could be either because of a disability or because of a hardware malfunction.
 
 ## Available Commands
 
