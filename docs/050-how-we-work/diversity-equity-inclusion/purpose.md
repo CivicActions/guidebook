@@ -1,10 +1,10 @@
-# Diversity, Equity, and Inclusion at CivicActions
+# Diversity, Equity, Inclusion, and Accessibility (DEI&A) at CivicActions
 
-At Civicactions we believe that [working for the greater good](http://civicactions.com/values) requires committing to diversity, equity, and inclusion in both our team culture and our work on problems that shape civic life.
+At CivicActions we believe that [working for the greater good](http://civicactions.com/values) requires committing to diversity, equity, inclusion and accessibility in both our team culture and our work on problems that shape civic life.
 
 We recognize that we have a responsibility to address the inequality that permeates our lives as civic tech workers and individuals. We seek opportunities to address unjust practices and create greater inclusivity in our company, our industry, and beyond.
 
-## Why DEI is important to us
+## Why DEI&A is important to us
 
 - Our **public sector clients** count on us to create equitable solutions for the diversity of the people they serve, therefore we value diverse perspectives on our team that so we can better serve the public.
 - Good user experience design considers everyone. We value **diversity in user research** so that our design solutions reflect the people we serve.
