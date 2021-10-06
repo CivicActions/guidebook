@@ -30,7 +30,7 @@ Yes, except in limited circumstances where an employee is legally entitled to an
 
 ## 3. Does this policy apply to employees working in Canada or for CivicActions Digital Services, ULC?
 
-No. At this time employees of CDSULC and who work full time outside of the United States are not required to provide proof of vaccination and are not required to to comply with the Task Force Guidance except when working within the territory of U.S. CivicActions strongly encourages all employees of CDSULC to get vaccinated as soon as practical.
+No. At this time employees of CDSULC and who work full time outside of the United States are not required to provide proof of vaccination and are not required to comply with the Task Force Guidance except when working within the territory of U.S. CivicActions strongly encourages all employees of CDSULC to get vaccinated as soon as practical.
 
 ## 4. Do I need to engage in physical distancing or am I required to wear a mask while working?
 
