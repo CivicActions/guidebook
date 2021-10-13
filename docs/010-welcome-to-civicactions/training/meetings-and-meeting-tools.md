@@ -17,7 +17,7 @@ Our weekly all hands call includes everyone across CivicActions, and it's how th
 - Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 - Meetings occur frequently as listed below
 
-#### Every Monday
+#### Every Other Monday
 
 - Length of call: 30 minutes
 - Topics can range from a summary of a book, to staying balanced, to project overviews, to deep dive into a tool or module, etc
