@@ -13,13 +13,13 @@ Check out this blog post: [How Remote Working Helps Us Live Our Dreams (And Get 
 **When beginning your work day:**
 
 - Check your CivicActions email and calendar for updates.
-- Open Harvest so you remember to log your hours.
+- Open Unanet so you remember to log your hours.
 - Open Slack so your teammates can see that you are online and available. If you'd like, say good morning or "hello" in the [#general](https://civicactions.slack.com/messages/general/) channel when you log in.
 
 **When ending your work day:**
 
 - Let your (project) team know that you're heading offline and ensure that no one needs your input before you go.
-- Log your hours for the day in Harvest every day
+- Log your hours for the day in Unanet every day
 - Close Slack (or set yourself to away)so that you don't appear to be online when you're not.
 
 ## Communication Best Practices
