@@ -82,6 +82,10 @@ CivicActions will maintain a secure electronic employment file while you remain 
 
 If you have any changes to personal information, such as a change of address, phone number or name, we ask that you notify the People Operations Manager or Office Manager so the changes show up in all of your records.
 
+## Use of Company Resources
+
+CivicActions reserves the right to have access to office space, IT services, and equipement provided by CivicActions at any time, without advance notice to any employee.  Likewise, electronic mail, slack, voice mail, and other online services provided by the company are also company property and are to be used for business purposes. Online services provided by the company are for company business use are not intended for personal use. CivicActions reserves the right to inspect, monitor and have access to company computers, electronic mail, voice mail messages and other online service accounts. Therefore, employees should not expect that such property will be treated as private and personal to the employee.
+
 ## Employee References
 
 CivicActions will only confirm employment and provide employment dates and the positions held in response to third parties inquiries.
