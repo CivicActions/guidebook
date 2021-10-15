@@ -84,7 +84,7 @@ If you have any changes to personal information, such as a change of address, ph
 
 ## Use of Company Resources
 
-CivicActions reserves the right to have access to office space, IT services, and equipement provided by CivicActions at any time, without advance notice to any employee.  Likewise, electronic mail, slack, voice mail, and other online services provided by the company are also company property and are to be used for business purposes. Online services provided by the company are for company business use are not intended for personal use. CivicActions reserves the right to inspect, monitor and have access to company computers, electronic mail, voice mail messages and other online service accounts. Therefore, employees should not expect that such property will be treated as private and personal to the employee.
+CivicActions reserves the right to have access to office space, IT services, and equipement provided by CivicActions at any time, without advance notice to any employee. Likewise, electronic mail, slack, voice mail, and other online services provided by the company are also company property and are to be used for business purposes. Online services provided by the company are for company business use are not intended for personal use. CivicActions reserves the right to inspect, monitor and have access to company computers, electronic mail, voice mail messages and other online service accounts. Therefore, employees should not expect that such property will be treated as private and personal to the employee.
 
 ## Employee References
 
