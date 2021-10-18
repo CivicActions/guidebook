@@ -9,7 +9,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 - Time-off, vacation, leave of absence: Your project manager first, then project team
 - HR related concerns or questions: First speak with your supervisor/manager
 - Company Goals: Aaron Pava, Henry Poole
-- Sales related questions or ideas: Bill Ogilvie, Di Hussey
+- Sales and Proposal related questions or ideas: Bill Ogilvie
 - Marketing related questions or ideas: Melinda Burgess & Marlena Medford
 - Personal, company or client security/compliance questions: Fen Labalme
 
