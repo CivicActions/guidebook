@@ -13,7 +13,9 @@ Skills Base is a tool that lets us catalog our skills across the team and track 
 
 We use the word "skills" broadly here - this includes both highly specific skills (e.g. PHP programming) as well as broader workplace competencies (e.g. collaboration).
 
-## Getting started
+Team members should report the data in good faith and to the best of their knowledge. CivicActions may use this self reported data in making decisions. CivicActions may ask for documentation or other information the company in its discretion believes is relevant to verifying the information.
+
+## Getting Started
 
 To log in to Skills Base use the Google Apps icon ![Google Apps icon](../../images/gsuite.png) in the header of any CivicActions Google page then scroll down and click on the Skills Base icon. You can also access this through https://workspace.google.com/dashboard.
 
