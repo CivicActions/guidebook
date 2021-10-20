@@ -17,7 +17,7 @@ Team members should report the data in good faith and to the best of their knowl
 
 ## Getting Started
 
-To log in to Skills Base use the Google Apps icon ![Google Apps icon](../../images/gsuite.png) in the header of any CivicActions Google page then scroll down and click on the Skills Base icon. You can also access this through https://workspace.google.com/dashboard.
+To log in to Skills Base use the Google Apps icon ![Google Apps icon](../../images/gsuite.png) in the header of any CivicActions Google page then scroll down and click on the Skills Base icon. You can also access this through the [Google Workspace dashboard](https://workspace.google.com/dashboard).
 
 When you first log in you will need to go through a short onboarding:
 
