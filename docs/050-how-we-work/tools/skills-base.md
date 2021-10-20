@@ -11,6 +11,8 @@ Skills Base is a tool that lets us catalog our skills across the team and track 
 - To support the sales process
 - To support hiring
 
+Time spent on Skills Base can be tracked to PRODEV_COMMPART -> Professional Development.
+
 We use the word "skills" broadly here - this includes both highly specific skills (e.g. PHP programming) as well as broader workplace competencies (e.g. collaboration).
 
 Team members should report the data in good faith and to the best of their knowledge. CivicActions may use this self reported data in making decisions. CivicActions may ask for documentation or other information the company in its discretion believes is relevant to verifying the information.
