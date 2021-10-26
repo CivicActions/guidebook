@@ -8,8 +8,8 @@ The main handbook README is located at [docs/README.md](docs/README.md), which g
 
 ## CivicActions, Inc.
 
-2625 Alcatraz Avenue, Suite 320
-Berkeley, CA 94705
+3527 Mt. Diablo Blvd., Unit 269
+Lafayette, CA 94549
 
 510.408.7510 | main
 888.714.7388 | fax
