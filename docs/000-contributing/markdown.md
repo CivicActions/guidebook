@@ -47,7 +47,7 @@ Markdown can be really easy to use with a good editor such as some of these [tex
 
 ## Mixing HTML and Markdown
 
-For any markup that is not covered by Markdown's syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+For any markup that is not covered by Markdown's syntax, you simply use HTML itself. There's no need to preface it or delimit it to indicate that you're switching from Markdown to HTML; you just use the tags.
 
 Examples:
 
