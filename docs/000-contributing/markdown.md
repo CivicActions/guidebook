@@ -44,3 +44,14 @@ You can check that your markdown complies with the retext and remark locally:
 ## Editors
 
 Markdown can be really easy to use with a good editor such as some of these [text editors](../050-how-we-work/tools/text-editors.md) - many editors have plugings that support Prettier and Remark linting for real time fixing and feedback on your edits.
+
+## Mixing HTML and Markdown
+
+For any markup that is not covered by Markdown's syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+
+Examples:
+
+<details>
+  <summary>Example of an accordion</summary>
+  HTML block
+</details>
