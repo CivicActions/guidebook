@@ -6,7 +6,7 @@ This will be fleshed out in future iterations. For now, keep in mind that conten
 
 ## Suggestions
 
-The [Gitlab CI build](gitlab-ci.md) outputs a list of suggestions to improve the readbility, language and grammar of the file(s) your pull requests touches. You are encouraged to review and incorporate these.
+The [GitHub Actions build](github-actions.md) outputs a list of suggestions to improve the readbility, language and grammar of the file(s) your pull requests touches. You are encouraged to review and incorporate these.
 
 ## Specific terms
 
