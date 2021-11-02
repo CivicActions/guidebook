@@ -14,7 +14,8 @@ CivicActions is considered closed on the following holidays:
 | Independence Day              | July 4th\*                                           |
 | Labor Day                     | First Monday in September                            |
 | Veterans Day                  | November 11th\*                                      |
-| Thanksgiving                  | Fourth Thursday in November and the following Friday |
+| Thanksgiving                  | Fourth Thursday in November                          |
+| Day after Thanksgiving        | The Friday after Thanksgiving                        |
 | Christmas                     | December 25th\*                                      |
 
 If a holiday falls on a the weekend, the US office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
