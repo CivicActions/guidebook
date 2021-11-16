@@ -1,8 +1,6 @@
 # COVID-19 Safety and Vaccine policy
 
-CivicActions' U.S. COVID-19 Safety and Vaccine Policy is to comply with all guidance, including guidance conveyed through Frequently Asked Questions, as amended, for contractor or subcontractor workplace locations published by the Safer Federal Workforce Task Force (Task Force Guidance) at https://www.saferfederalworkforce.gov/contractors/.
-All employees must be fully vaccinated for COVID-19 by December 8, 2021, except in limited circumstances where an employee is legally entitled to an accommodation.
-All individuals, including covered contractor employees and visitors, to comply with published Centers for Disease Control and Prevention guidance for masking and physical distancing at a covered contractor workplace, as discussed in the Task Force guidance.
+CivicActions' U.S. COVID-19 Safety and Vaccine Policy is to comply with all guidance, including guidance conveyed through Frequently Asked Questions, as amended, for contractor or subcontractor workplace locations published by the Safer Federal Workforce Task Force (Task Force Guidance) at [https://www.saferfederalworkforce.gov/contractors/](https://www.saferfederalworkforce.gov/contractors/). All employees must be fully vaccinated for COVID-19 by January 18, 2022, except in limited circumstances where an employee is legally entitled to an accommodation. All individuals, including covered contractor employees and visitors, to comply with published Centers for Disease Control and Prevention guidance for masking and physical distancing at a covered contractor workplace, as discussed in the Task Force guidance.
 
 To facilitate compliance, CivicActions is taking the following steps:
 
@@ -11,9 +9,9 @@ To facilitate compliance, CivicActions is taking the following steps:
 - If needed, you are strongly encouraged to request an exemption or notify Marc of a request for exemption by October 18th to ensure exemption requests can be evaluated with minimal disruption.
 - To submit the proof of vaccination documentation you may (a) upload the documentation to GDrive and share it directly with marc.jones@civicactions.com, (b) email the documentation to covid19safety@civicactions.com; or (c) send the documentation via a Slack DM to @marcjones.
 - All documentation of an individual's compliance with the policy will be stored in a confidential/medical personnel file, separate from the individual's personnel file.
-- Current team members must be in compliance no later than December 8, 2021.
+- Current team members must be in compliance no later than January 18, 2022.
 - Effective October 18th, new hires must be in compliance prior to their first day of work.
-- Individuals who are not in compliance with the requirements by December 8th will be placed on unpaid leave until December 31, 2021. Individuals who come into compliance no later than December 31, 2021 will be offered the opportunity to return to work. Employment will end for Individuals who are not in compliance with this policy not later than December 31, 2021.
+- Individuals who are not in compliance with the requirements by January 18th, 2022 will be placed on unpaid leave until February 15, 2022. Individuals who come into compliance no later than February 15, 2022 will be offered the opportunity to return to work. Employment will end for Individuals who are not in compliance with this policy not later than February 15, 2022.
 
 If you have not been fully vaccinated yet and are planning to do so, you should prioritize scheduling an appointment to get vaccinated. Our flexible time off policy allows individuals to take time off for medical appointments during work hours, including to get vaccines. You should prioritize getting the vaccine as soon as practical. Project Managers and supervisors are expected to prioritize work schedules to give team members time to get vaccinated as soon as practical.
 
@@ -25,8 +23,8 @@ Yes, except in limited circumstances where an employee is legally entitled to an
 
 ## 2. Where can I get vaccinated?
 
-- U.S. residents can find information about l vaccination locations at https://www.vaccines.gov/
-- Ontario residents can find information about vaccination locations at https://covid-19.ontario.ca/vaccine-locations
+- U.S. residents can find information about vaccination locations at [https://www.vaccines.gov/](https://www.vaccines.gov/)
+- Ontario residents can find information about vaccination locations at [https://covid-19.ontario.ca/vaccine-locations](https://covid-19.ontario.ca/vaccine-locations)
 
 ## 3. Does this policy apply to employees working in Canada or for CivicActions Digital Services, ULC?
 
@@ -38,7 +36,7 @@ Generally, no. You are not required to comply with published Centers for Disease
 
 ## 5. Where can I find out additional information?
 
-CivicActions is aligning its company policy with the Safer Federal Workforce Guidance for Federal Contractors. You can find additional information on those guidelines at https://www.saferfederalworkforce.gov/contractors/.
+CivicActions is aligning its company policy with the Safer Federal Workforce Guidance for Federal Contractors. You can find additional information on those guidelines at [https://www.saferfederalworkforce.gov/contractors/](https://www.saferfederalworkforce.gov/contractors/).
 The Task Force Guidance includes:
 
 - [Frequently Asked Questions](https://www.saferfederalworkforce.gov/faq/contractors/)
