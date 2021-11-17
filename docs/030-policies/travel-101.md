@@ -8,7 +8,7 @@ Questions? Ask the Office Manager.
 
 ## Time Keeping
 
-Travel time is usually not billed to a specific project. It should be recorded as unbillable time for that project, unless otherwise requested from your Project Manager.
+Travel time is usually not billed to a specific project. It should be recorded as unbillable time for that project, unless otherwise requested from your Project Manager. Firm fixed price projects are an exception to that general rule, but it's still worth checking with your project team.
 
 ## Expense Approval and Reimbursement
 
