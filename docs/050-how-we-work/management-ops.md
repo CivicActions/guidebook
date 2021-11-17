@@ -14,7 +14,7 @@ The Management/Operations Team at CivicActions consists of these members:
 
 The group's purpose is to provide leadership in the operation of the company along with high level direction for Sales and Delivery.
 
-CivicActions aims to be a fairly flat organization without siloed authority. The Management/Operations Team collaborates with each other and with other team members to set direction for the company, manage revenues and expenses, actively support the Delivery team, and to help new initiatives or practices in the company grow.
+The Management/Operations Team collaborates with each other and with other team members to set direction for the company, manage revenues and expenses, actively support the Delivery team, and to help new initiatives or practices in the company grow.
 
 ## Communications
 
