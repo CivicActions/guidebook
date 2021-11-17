@@ -30,4 +30,4 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Project Management            | PM   | TBD                       | #pm                   | Biweekly                         |
 | Quality Assurance             | QA   | Eric Napier               | #engineering-qa       | Biweekly                         |
 | Support & Helpdesk            | SP   | Ero Gray                  | #helpdesk             |                                  |
-| User Experience               | UX   | TBD                       | #design               | Weekly (Ops), Weekly (Brownbag)  |
+| Design                        | UX   | Ben Leffler & Jen Harris  | #design               | Weekly (Ops), Weekly (Brownbag)  |
