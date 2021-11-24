@@ -14,11 +14,11 @@ _Before incurring an expense_ the cost should be estimated and approved by your 
 
 ## To request approval in Unanet
 
-1.  Unanet > Homepage > Scroll down to +Expense Request (be careful not to click +Expense Report) 
+1.  Unanet > Homepage > Scroll down to +Expense Request (be careful not to click +Expense Report)
 2.  Complete info on screen
 3.  Click on Details
 4.  Complete info on screen (Wizard screen will appear when you click on the amount)
-5.  For Wizard screen: You do NOT need to add a receipt for the Request. 
+5.  For Wizard screen: You do NOT need to add a receipt for the Request.
 6.  SUBMIT
 
 IMPORTANT NOTE: when your expense Request is approved, Unanet automatically changes it to an expense Report that will be on your Unanet homepage until you submit it. You will not receive a notification that this has occurred, so please check your homepage regularly after you submit a Request so you know when it has been approved.
