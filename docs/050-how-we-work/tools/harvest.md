@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Note: In 2021 CivicActions moved from using Harvest, to using Unanet. 
+Note: In 2021 CivicActions moved from using Harvest, to using Unanet.
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include JIRA and Trello integrations and a mobile app.
 
@@ -143,9 +143,10 @@ Directions for submitting expenses:
 
 ## Tracking Time off
 
-We track vacation, leave and sick time, and leave for employees. There is oversight on this, but ultimately you are responsible for this accuracy. Time off will not negatively impact your billable hour percentage. 
+We track vacation, leave and sick time, and leave for employees. There is oversight on this, but ultimately you are responsible for this accuracy. Time off will not negatively impact your billable hour percentage.
 
 Employees are responsible for:
+
 - Asking their manager for the time.
 - Submitting a Leave Request in Unanet
 - And adding the hours which they plan to take off to Unanet.
@@ -166,4 +167,3 @@ Note: You do NOT need to log entries for statuatory holidays, as that will be do
 - 4 hours for a half day
 
 ![Unanet Screenshot highlighting that the sick days are under time off](../../images/Unanet-sick-leave.png)
-
