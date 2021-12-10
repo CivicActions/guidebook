@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
+Note: In 2021 CivicActions moved from using Harvest, to using Unanet. 
+
+Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include JIRA and Trello integrations and a mobile app.
 
 ## Update Your Account and Profile
 
@@ -141,9 +143,14 @@ Directions for submitting expenses:
 
 ## Tracking Time off
 
-We track vacation, leave and sick time, and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. Time off will not negatively impact your billable hour percentage.
+We track vacation, leave and sick time, and leave for employees. There is oversight on this, but ultimately you are responsible for this accuracy. Time off will not negatively impact your billable hour percentage. 
 
-You do NOT need to log entries when the office is closed for a holiday.
+Employees are responsible for:
+- Asking their manager for the time.
+- Submitting a Leave Request in Unanet
+- And adding the hours which they plan to take off to Unanet.
+
+Note: You do NOT need to log entries for statuatory holidays, as that will be done for you.
 
 **Project:** CivicActions > Time off
 
@@ -160,11 +167,3 @@ You do NOT need to log entries when the office is closed for a holiday.
 
 ![Unanet Screenshot highlighting that the sick days are under time off](../../images/Unanet-sick-leave.png)
 
-## Harvest Phone App
-
-If you are often "on-the-go" consider downloading the Harvest App.
-
-This is also great for (and almost required) for any onsite trips & conferences. It makes entering time easy, but also makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip. It will also provide visibility on the total expense costs while traveling.
-
-- <https://www.getharvest.com/android>
-- <https://www.getharvest.com/iphone>
