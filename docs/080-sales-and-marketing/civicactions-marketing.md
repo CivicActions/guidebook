@@ -19,9 +19,10 @@ We welcome everyone at CivicActions to be part of the conversation about how to 
 - `#civicactions-homesite`: Discussion, feedback, ideas, and project management for civicactions.com. You can also use this channel to request an update to any homesite content, such as your staff profile.
 
 ## Brand
+
 The CivicActions brand is professional yet friendly. You can get our logo, colors, and brand guidelines from the [CivicActions Style Guide](https://civicactions-style-guide.readthedocs.io/en/latest/README/). Please refer to this guide for all brand questions, or ask us in the `#brand` Slack channel.
 
-Here are some commonly requested branded templates that you can use:  
+Here are some commonly requested branded templates that you can use:
 
 - [Presentation templates](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1) (Note: When you click a template from the Google Slides Template Gallery, it automatically creates a copy that you can edit. You don't have to worry about over-writing the template.)
 - Document templates (e.g., letterhead)
@@ -37,7 +38,7 @@ We attend events and conferences for a number of purposes, including:
 - Community participation / networking
 - Public speaking
 
-**Core events**  
+**Core events**
 The current list of "core events" that CivicActions sponsors and attends each year includes:
 
 - LibrePlanet (March)
