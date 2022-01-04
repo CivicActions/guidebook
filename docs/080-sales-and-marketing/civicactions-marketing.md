@@ -61,4 +61,3 @@ To get started or share an idea about attending or speaking at events, head over
 If pre-approved by your manager and the marketing department, CivicActions may pay all costs up to $1200/year per person to be used for travel, registration, attendance, etc. for any team member that has conference presentation accepted at a Non-Core Event. (Community Participation > Speaking Stipend)
 
 The Stipend is available three months after the beginning of employment and is reset at the calendar year. Speaking submissions and participation at non-core events are completely at the discretion of every team member, but we request you take into account your project delivery's schedule and check-in with your Project Manager to make sure it won't negatively impact your client delivery expectations.
-
