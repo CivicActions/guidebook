@@ -16,6 +16,6 @@ People planning is largely managed on slack, in the #people-planning channel. An
 
 Every other Thursday, CivicActions project managers meet to discuss people planning needs for their projects. This call is open to anyone who wants to join, to discuss needs or ask questions. This is also a place to get more specific about conversations started on slack.
 
-## Forecast
+## Forecasting in Unanet
 
-Project managers are tasked with keeping Harvest Forecast up to date with team member allocations and durations. All CivicActions team members have access to view Forecast to see the projects to which they are assigned.
+Project managers are tasked with keeping Unanet People Plans up to date with team member allocations and durations. 
