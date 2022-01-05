@@ -46,9 +46,8 @@ We attend events and conferences for a number of purposes, including:
 - Community Participation & Speaking
 
 **Core Events**
-The current list of "core events" that CivicActions sponsors and attends each year includes:
+The current list of "core events" that CivicActions sponsors and attends in the past has included:
 
-- LibrePlanet (March)
 - DrupalCon North America (April)
 - AGL Summit (May)
 - Code for America Summit (May)
@@ -61,15 +60,15 @@ The Events Team manages the sponsorship and planning of the Core Events with sup
 
 We highly encourage team members to share knowledge at conferences and have a number of initiatives to support these efforts.
 
-CivicActions will pay all costs for travel, registration, attendance, etc., for any team member that has conference presentation accepted at a Core Event. (Marketing > Core Events budget)
+CivicActions will pay all costs for travel, registration, attendance, etc., for any team member that has conference presentation accepted at a Core Event and pre-approved by Marketing. (Marketing > Core Events budget)
 
 Here's a [running list of public presentations](https://airtable.com/shrwEraiWKvbAScC7) by CivicActions folks.
 To get started or share idea about attending or speaking at events, head over to the Slack channel #events.
 
 <!-- prettier-ignore -->
-CivicActions will pay all costs up to $1200/year per person to be used for travel, registration, attendance, etc. for any team member that has conference presentation accepted at a Non-Core Event. (Community Participation > Speaking Stipend)
+If pre-approved by your manager and the marketing department, CivicActions may pay all costs up to $1200/year per person to be used for travel, registration, attendance, etc. for any team member that has conference presentation accepted at a Non-Core Event. (Community Participation > Speaking Stipend)
 
-The Stipend is available three months after the beginning of employment and is reset at the calendar year. Speaking submissions and participation at non-core events are completely at the discretion of every team member, but we request you take into account your project delivery's schedule and check-in with your Project Manager to make sure it won't negatively impact your client delivery expectations.
+The Stipend is available three months after the beginning of employment and is reset at the calendar year. In addition to getting pre-approval from Marketing and your manager, we request you take into account your project delivery's schedule and check-in with your Project Manager to make sure it won't negatively impact your client delivery expectations.
 
 ### Professional Development Stipend
 
