@@ -1,4 +1,4 @@
-CivicActions is 100% fully distributed, so we have flexibility on where we can work. Being able to work from different locations helps humans deal with different life situations while still having a meaningful job. 
+CivicActions is 100% fully distributed, so we have flexibility on where we can work. Being able to work from different locations helps humans deal with different life situations while still having a meaningful job.
 
 Just because "On-the-Go" work is possible does not mean that it is automatically a good fit for you personally and professionally. Before you start, ask yourself these questions if you're thinking about working from a new, temporary location:
 
