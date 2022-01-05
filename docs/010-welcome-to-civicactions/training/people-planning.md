@@ -18,4 +18,4 @@ Every other Thursday, CivicActions project managers meet to discuss people plann
 
 ## Forecasting in Unanet
 
-Project managers are tasked with keeping Unanet People Plans up to date with team member allocations and durations. 
+Project managers are tasked with keeping Unanet People Plans up to date with team member allocations and durations.
