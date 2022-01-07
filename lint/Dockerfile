@@ -15,7 +15,7 @@ RUN \
     pip3 install mkdocs mdx_truly_sane_lists
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
-RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/nightly/master/install.sh | sh -s -- -b /usr/local/bin/ ${REVIEWDOG_VERSION}
+RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b /usr/local/bin/ ${REVIEWDOG_VERSION}
 
 COPY *.sh /usr/bin/
 
