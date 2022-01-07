@@ -1,6 +1,6 @@
 FROM node:15-alpine
 
-ENV REVIEWDOG_VERSION=v0.11.0-nightly20201213+85edbc6
+ENV REVIEWDOG_VERSION=v0.13.1
 
 RUN \
     apk add --update \
