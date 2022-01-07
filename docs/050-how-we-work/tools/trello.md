@@ -6,7 +6,7 @@ Trello is easy and intuitive. Install the extensions listed in that section belo
 
 If you like to live on the edge, skip this reading, but promise to come back in a week or two, maybe when you're a few days into a project that uses Trello, and read it.
 
-- Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
+- Introduction [video](https://www.youtube.com/watch?v=xky48zyL9iA)
 
 ## About Trello
 
