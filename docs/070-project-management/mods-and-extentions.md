@@ -9,8 +9,8 @@ There are many different things that can happen to a contract that would require
 - File the MOD in the Shared Google drive "Contracts" folder - this is the single source of contract truth
 - Notify ca-management, the Office Manager, and Marc of MOD file location via the <mailto:contracts@civicactions.com> mailing list with Subject line: "NSF new contract MOD 0004"
 - Notify the sales team of increased/decreased funds in the Slack channel #sales
-- Update your Harvest project budget to include the new funding
-- Update your budget tracking tool/spreadsheet (if you have one separate from Harvest)
+- Ensure your Unanet has the project budget to include the new funding
+- Update your budget tracking tool/spreadsheet (if you have one separate from Unanet)
 - Update delivery projections spreadsheet if these funds impact it (or extend the contract)
 - Update Forecast if MOD impact who or how long certain people are on the project
 
