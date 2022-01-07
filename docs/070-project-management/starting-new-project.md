@@ -23,9 +23,8 @@ It may be helpful to copy these lists into a card/checklist on your project Trel
 
 ### Project Setup
 
-- Set up [Harvest client and project and allocated team](https://civicactions.harvestapp.com/projects?filter=active)
-- Update [Harvest Forecast](https://forecastapp.com/615047/schedule/projects) with allocated team
-- Update [Delivery Projections spreadsheet](https://docs.google.com/spreadsheets/d/1kTZ2isvcaRNfFeipxU6fSx3xqM7a1p3JCzqczIFcklk/edit#gid=0)
+- Ensure project is set up in Unanet
+- Update People Assignments and Plans
 - Set up Shared Google Drive folders for projects using the consistent [project folder structure](project-folder.md)
 - Set up [project email lists](listserv-setup.md) (decide if you need both internal and client facing)
 - Set up project Slack channels (internal and client facing)
