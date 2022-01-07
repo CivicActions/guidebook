@@ -45,8 +45,6 @@ As with many other aspects of our work together, overcommunication is always bet
 
 ## Tracking time & using estimates with Jira
 
-We use a [Harvest](harvest.md) integration that allows you to track time spent on a ticket from within the Jira ticket itself.
-
 Most tickets will benefit from careful estimates of how much work/time is involved. Project managers and engineers will decide this during Backlog Refinement and/or Sprint Planning.
 
 ## Other resources:
