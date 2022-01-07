@@ -5,7 +5,7 @@ ENV REVIEWDOG_VERSION=v0.13.1
 RUN \
     apk add --update \
     ca-certificates \
-    bash~=5.0 \
+    bash \
     git \
     openssh \
     python3 \
