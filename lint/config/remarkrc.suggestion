@@ -1,5 +1,5 @@
 {
   "plugins": [
-      "/usr/src/retext.suggestion"
+      "/usr/src/retext.suggestion.js"
     ]
 }
