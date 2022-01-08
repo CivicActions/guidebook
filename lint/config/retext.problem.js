@@ -2,13 +2,13 @@
 
 // This is inspired by https://github.com/sparkartgroup/quality-docs/
 
-var unified = import("unified");
-var remark2retext = import("remark-retext");
-var english = import("retext-english");
-var quotes = import("retext-quotes");
-var sentenceSpacing = import("retext-sentence-spacing");
-var repeated = import("retext-repeated-words");
-var indefinite = import("retext-indefinite-article");
+import { unified } from "unified";
+import remark2retext from "remark-retext";
+import english from "retext-english";
+import quotes from "retext-quotes";
+import sentenceSpacing from "retext-sentence-spacing";
+import repeated from "retext-repeated-words";
+import indefinite from "retext-indefinite-article";
 
 module.exports = attacher;
 

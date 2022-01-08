@@ -2,13 +2,13 @@
 
 // This is inspired by https://github.com/sparkartgroup/quality-docs/
 
-var unified = import("unified");
-var remark2retext = import("remark-retext");
-var english = import("retext-english");
-var contractions = import("retext-contractions");
-var readability = import("retext-readability");
-var simplify = import("retext-simplify");
-var equality = import("retext-equality");
+import { unified } from "unified";
+import remark2retext from "remark-retext";
+import english from "retext-english";
+import contractions from "retext-contractions";
+import readability from "retext-readability";
+import simplify from "retext-simplify";
+import equality from "retext-equality";
 
 var ignoreWords = [];
 
