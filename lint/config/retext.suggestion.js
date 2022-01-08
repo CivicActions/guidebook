@@ -2,13 +2,13 @@
 
 // This is inspired by https://github.com/sparkartgroup/quality-docs/
 
-var unified = require("unified");
-var remark2retext = require("remark-retext");
-var english = require("retext-english");
-var contractions = require("retext-contractions");
-var readability = require("retext-readability");
-var simplify = require("retext-simplify");
-var equality = require("retext-equality");
+var unified = import("unified");
+var remark2retext = import("remark-retext");
+var english = import("retext-english");
+var contractions = import("retext-contractions");
+var readability = import("retext-readability");
+var simplify = import("retext-simplify");
+var equality = import("retext-equality");
 
 var ignoreWords = [];
 
