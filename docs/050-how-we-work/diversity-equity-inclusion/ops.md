@@ -2,9 +2,10 @@
 
 ## [Join](https://docs.google.com/forms/d/1KEwz-rAeRg736rC-vCHU5uEL9ZSo0FesXefQHFN03Rg/edit?usp=sharing) the DEIA Working Group
 
-People are encouraged to apply to become part of the DEIA Working Group. We strive to reflect the diversity we seek to achieve within CivicActions. Approved members are allocated time to work on DEIA issues with the Working Group and receive an additional $500 Professional Development budget to advance their awareness. 
+People are encouraged to apply to become part of the DEIA Working Group. We strive to reflect the diversity we seek to achieve within CivicActions. Approved members are allocated time to work on DEIA issues with the Working Group and receive an additional $500 Professional Development budget to advance their awareness.
 
-## Join the Conversation 
+## Join the Conversation
+
 **#celebrating-diversity**
 This Slack channel is for folks who want to share resources or start conversations about DEIA topics. We also encourage everyone to introduce DEIA-related conversations where they are likely to reach the widest and most relevant audience. For example, do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
 
