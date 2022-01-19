@@ -28,7 +28,7 @@ Strategy and Leadership:
 
 Project management
 
-- Helping work group members maintain momentum on initiatives
+- Helping Working Group members maintain momentum on initiatives
 - Resourcing / soliciting hours for DEIA initiatives
 - Establishing call agenda
 - Prioritizing initiatives
