@@ -11,8 +11,7 @@ This Slack channel is for folks who want to share resources or start conversatio
 
 ## Contribute to a DEIA initiative
 
-Anyone at CivicActions who is interested can join work on a DEIA initiative. To get started, ask someone in the #celebrating-diversity channel to add you to the monthly DEIA working group call. There is a lot of work to be done, so feel free to reach out to the working group if you think of an initiative that fits your interests and capacity.
-**[See our current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives)**
+Anyone at CivicActions who is interested can join work on a DEIA initiative. To get started, ask someone in the #celebrating-diversity channel to add you to the weekly DEIA Working Group call. There is a lot of work to be done, so feel free to reach out to the working group if you think of an initiative that fits your interests and capacity.
 
 ## Get support
 
