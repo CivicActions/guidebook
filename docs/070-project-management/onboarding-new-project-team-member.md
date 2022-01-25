@@ -6,7 +6,7 @@
 - The ticket should capture all the steps the new team member needs to take to be onboarded to the project (granting account access, discussing time tracking, getting their SSH key, contractor SoW, inviting them to email lists, explaining balance scores, access to our tools like Slack, etc.).
 - This ticket should also include notes from the initial meeting call / interview.
 - The PM shall provide good examples of properly logged time, ticket management processes, writing an acceptance test and QA steps, etc. These can be screenshots and / or linked Google documents.
-- The PM should add the Harvest project to the new team member, and update their hours for the project in Forecast.
+- The PM should add the person to Assignments and Plans in Unanet.
 - The PM should add the new team member to the appropriate Google Team Drives.
 - If the project requires a type of background check, fingerprinting, security training courses, or other project required onboarding measures, the PM is responsible for ensuring the new team member completes these tasks in time. If possible, add these types of tasks to a ticket that the new team member can track to.
 - If the project requires the new team member complete approval paperwork, or there is a contractual modification necessary to add/swap team members, the PM will lead this effort (asking for help from management as needed).

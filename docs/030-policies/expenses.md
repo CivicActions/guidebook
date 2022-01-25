@@ -7,51 +7,35 @@ updated: April 20, 2018
 
 CivicActions will timely reimburse approved business-related out-of-pocket expenses as long as you submit a receipt.
 
-## Step 1: Request approval for an expense
+## Request approval for an expense
 
 <!-- prettier-ignore -->
-_Before incurring an expense_ the cost should be estimated and approved by the budget owner. The exception to this is [prodev expenses of less than $50](prodev.md#your-prodev-budget), which do not require approval.
+_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](prodev.md#your-prodev-budget), which do not require approval.
 
-To request approval:
+## To request approval in Unanet
 
-1.  Go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses)
-2.  Create a new card in the "Requests" column. Note that it is fine to group several related expenses (e.g. a complete trip including travel, accommodation and food) into a single card - please break out significant costs in the card description.
-3.  Add the appropriate label to your card (pro dev, marketing, summit, client related funds, etc)
-4.  Your card should indicate (see the example in the instructions column):
+1.  Unanet > Homepage > Scroll down to +Expense Request (be careful not to click +Expense Report)
+2.  Complete info on screen
+3.  Click on Details
+4.  Complete info on screen (Wizard screen will appear when you click on the amount)
+5.  For Wizard screen: You do NOT need to add a receipt for the Request.
+6.  SUBMIT
 
-    - Card title: Your name and the purpose of the expense
-    - The estimated amount(s) of the expense
-    - Any key dates relating to the expense
+IMPORTANT NOTE: when your expense Request is approved, Unanet automatically changes it to an expense Report that will be on your Unanet homepage until you submit it. You will not receive a notification that this has occurred, so please check your homepage regularly after you submit a Request so you know when it has been approved.
 
-5.  Assign the card to the budget owner who will become your "Approver":
+## To request reimbursement in Unanet
 
-    - Pro Dev: Elizabeth Raley
-    - Client projects: Project Manager
-    - Marketing: Aaron Pava
-    - Sales: Bill Oglive
-    - UX: Shira Kates
-    - IT/IS: Owen Barton
-    - Other: Elizabeth Raley
+1.  Unanet > Homepage > Scroll down to +Expense Report
+2.  Complete info on screen
+3.  Click on Details
+4.  Complete info on screen (Wizard screen will appear when you click on the amount)
+5.  For Wizard screen: A receipt is required at this time.
+6.  SUBMIT
 
-6.  Click on Watch under Actions so you will be notified when the card is moved to the "Approved" column (you will not move the card to "Approved").
+## Receiving reimbursement
 
-## Step 2: Expense approval
-
-1.  To approve your request, the budget owner will move it into the "Approved" column.
-2.  If they have questions, they will ask you in the card comments.
-
-## Step 3: Submitting expenses for reimbursement
-
-_The steps below assume you already created a card in "Requests" and your Approver moved it to "Approved" (see above). Once you have incurred your expense, here is how to get reimbursed:_
-
-1.  [Log your receipts to Harvest](../050-how-we-work/tools/harvest.md#tracking-expenses).
-2.  Once all receipts are logged, add a comment to the Trello card indicating the total amount of expenses incurred.
-3.  Move your card from the "Approved" column to the "Submitted" column. (Remember that the Approver needs to be the one to move your card from "Requests" to "Approved" first.)
-
-## Step 4: Receiving reimbursement
-
-1.  The Admin reviews cards in the "Submitted" column and moves them to "Retrieved" in preparation for reimbursement.
-2.  Then the Admin will reimburse the expense amount and move the card to the "Reimbursed" column.
+1.  Once all approvals have been granted, the Bookkeeper will extract the report and create a vendor invoice in preparation for reimbursement.
+2.  The funds will be reimbursed via ACH.
 
 ## Expense guidelines
 

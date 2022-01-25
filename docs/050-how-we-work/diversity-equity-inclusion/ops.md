@@ -1,49 +1,34 @@
-# DEI Practice Area: Get Involved
+# DEIA: Get Involved
 
-## Join the conversation
+## [Join](https://docs.google.com/forms/d/1KEwz-rAeRg736rC-vCHU5uEL9ZSo0FesXefQHFN03Rg/edit?usp=sharing) the DEIA Working Group
 
-**#dei-ops**
-This Slack channel is for folks who want to share resources or start conversations about DEI topics. We also encourage everyone to introduce DEI-related conversations where they are likely to reach the widest and most relevant audience. For example, do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
+People are encouraged to apply to become part of the DEIA Working Group. We strive to reflect the diversity we seek to achieve within CivicActions. Approved members are allocated time to work on DEIA issues with the Working Group and receive an additional $500 Professional Development budget to advance their awareness.
 
-**Lead or attend DEI Brownbags (currently decommissioned)**
-These monthly 30-45 minute topic-oriented calls are for folks who are interested in talking about DEI issues together. Have something you'd like to talk about? Then you're the right person to lead the brownbag! Calls start with a brief introduction (or optional presentation) by the topic leader followed by open discussion.
+## Join the Conversation
 
-**[Brownbag planning Trello board](https://trello.com/b/DooWcXUf/dei-brownbag)**
+**#celebrating-diversity**
+This Slack channel is for folks who want to share resources or start conversations about DEIA topics. We also encourage everyone to introduce DEIA-related conversations where they are likely to reach the widest and most relevant audience. For example, do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
 
-## Contribute to a DEI initiative
+## Contribute to a DEIA initiative
 
-Anyone at CivicActions who is interested can join work on a DEI initiative. To get started, ask someone in the #dei-ops channel to add you to the monthly DEI-ops call. Someone can help you find an initiative that fits your interests and capacity.
-**[See our current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives)**
+Anyone at CivicActions who is interested can join work on a DEIA initiative. To get started, ask someone in the #celebrating-diversity channel to add you to the weekly DEIA Working Group call. There is a lot of work to be done, so feel free to reach out to the Working Group if you think of an initiative that fits your interests and capacity.
 
 ## Get support
 
-Not everyone is at the same level of familiarity or comfort with DEI topics, and that's okay. Team members who have questions or concerns about DEI topics, but aren't comfortable bringing them to a large group conversation or public channel can reach out to a **[DEI point-person](https://trello.com/c/5XyeNrfZ/109-dei-point-people)** for support. DEI point-people help our team talk through sensitive issues in team dynamics, answer questions, or just be there to listen. Folks can reach out to any of the DEI point-people listed in the pinned post in #dei-ops.
+Not everyone is at the same level of familiarity or comfort with DEIA topics, and that's okay. Fortunately our HR team is in a good position to handle many questions that come up. Team members who have questions or concerns about DEIA topics, but aren't comfortable bringing them to a large group conversation or public channel can reach out to a member of the DEIA Working Group for support. Folks can reach out to any of the DEIA Working Group members pinned in the pinned post in #celebrating-diversity.
 
-**[DEI Point Person Manifesto:](https://docs.google.com/document/d/11wQ-hlk9QWTan24rm5xwKvode_2s8gOLQzrI-7GObFI/edit)** Learn more about the principles and goals that designated DEI point people promise to uphold as team members providing individual support for sensitive topics.
-
-## Leadership and facilitation
-
-The DEI Practice Area is led by a facilitator who serves on a voluntary basis. Anyone with interest and capacity can help facilitate DEI work.
-
-### DEI facilitator responsibilities
+### DEIA Work Group responsibilities
 
 Strategy and Leadership:
 
 - Owning/maintaining the practice area strategic plan, including mission, vision, and goals
 - Helping identify and prioritize current initiatives
-- Documenting practice area work and content (Handbook, DEI practice area folder, DEI resource inventory, DEI Strategic Plan)
-- Socializing/communicating DEI work to the rest of the company
+- Documenting practice area work and content (Handbook, DEIA practice area folder, DEIA resource inventory)
+- Socializing/communicating DEIA work to the rest of the company
 
 Project management
 
-- Helping practice area members maintain momentum on initiatives
-- Resourcing / soliciting hours for DEI initiatives
+- Helping Working Group members maintain momentum on initiatives
+- Resourcing / soliciting hours for DEIA initiatives
 - Establishing call agenda
-- Prioritizing initiatives (Trello board)
-- Distributing call notes
-
-### Co-facilitator responsibilities
-
-- Coworking with the facilitator on any of the above
-- Running meetings when the facilitator can't be present, or co-running meetings when needed
-- Serving as a point person for dei-ops inquiries from the rest of the team
+- Prioritizing initiatives
