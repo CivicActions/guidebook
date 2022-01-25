@@ -43,7 +43,7 @@ For non-billable internal meetings, PMs should bill as CA > Delivery > Project M
 
 We use Unanet for documenting which projects team members are on, as well as their availability.
 
-For a team member whose time is split between projects, it helps plan how much time should be allocated to each project.
+For a team member whose time is split between projects, Unanet helps plan how much time should be allocated to each project.
 
 ## Scheduling Meetings
 
@@ -93,3 +93,13 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 - Quarterly deliverables
 - Integrated project plan (IPP)
 - Release notes
+
+## PM Tools
+
+- [Unanet](https://civicactions.unanet.biz)
+- [Jira](../050-how-we-work/tools/jira.md)
+- [Trello](../050-how-we-work/tools/trello.md)
+- [GitHub](../050-how-we-work/tools/github.md)
+- Burndown charts
+- [Google Docs/Folders](../050-how-we-work/tools/google-docs.md)
+- [Slack](../050-how-we-work/tools/slack.md) (client-facing and internal channels)

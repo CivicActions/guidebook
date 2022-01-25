@@ -1,10 +1,12 @@
 # Jira
 
+The following is a general overview of Jira, but each project may have specific setups or workflows that differ.
+
 ## About Jira
 
-CivicActions uses [Jira](https://www.atlassian.com/software/jira) for many project management, work tracking and ticketing purposes, especially for larger projects. Jira has enormous potential for integration with other tools, and works well with Scrum, Kanban and other Agile methodologies. Compared to Trello, Jira is a more full-featured and complex way of tracking work. We often use Jira on our larger & federal projects.
+CivicActions uses [Jira](https://www.atlassian.com/software/jira) for many project management, work tracking, and ticketing purposes, especially for larger projects. Jira has enormous potential for integration with other tools, and works well with Scrum, Kanban and other Agile methodologies. Compared to Trello, Jira is a more full-featured and complex way of tracking work. We often use Jira on our larger & federal projects.
 
-Typically the Project Manager will take primary responsibility for creating and/or updating Jira project boards, and will help keep track of ticket progress. However, each person on a team is expected to be responsible for updating their own tickets. In general, all aspects of sprint planning are best shared by the team, and should involve group cooperation.
+Typically the project manager/lead will take primary responsibility for creating and/or updating Jira project boards, and will help keep track of ticket progress. However, each person on a team is expected to be responsible for updating their own tickets. In general, all aspects of sprint planning are best shared by the team, and should involve group cooperation.
 
 ## Plan / Work / Report modes
 
@@ -14,15 +16,15 @@ Jira has Plan, Work and Report modes, which do more or less what they sound like
 - [Work mode](https://confluence.atlassian.com/agile065/jira-agile-user-s-guide/using-a-board/using-work-mode) is for progress during a sprint, for instance moving a ticket from "To Do" to "In Progress" to "Code Review", etc.
 - [Report mode](https://confluence.atlassian.com/agile065/jira-agile-user-s-guide/using-a-board/using-report-mode) is for tracking progress and results with a variety of reporting options.
 
-## The Project Manager's role in Jira
+## The Project Manager/lead's role in Jira
 
-Project Managers start and end sprints, help keep track of overall workloads and ticket priorities, and usually keep close track of which tickets are blocked or unattended.
+Project managers/leads start and end sprints, help keep track of overall workloads and ticket priorities, and usually keep close track of which tickets are blocked or unattended.
 
-Project managers at CivicActions typically become very proficient in Jira.
+Project managers/leads at CivicActions typically become very proficient in Jira.
 
 ### Setting up workflows
 
-Jira's default workflow doesn't fit all projects, and project managers usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include:
+Jira's default workflow doesn't fit all projects, and project managers/leads usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include:
 
 - Is there a development branch? Does a workflow need to show when development gets merged into master?
 - Are there documentation stages that need to happen post-development?
@@ -45,9 +47,11 @@ As with many other aspects of our work together, overcommunication is always bet
 
 ## Tracking time & using estimates with Jira
 
+Some projects may use a field on Jira tickets to track percent complete or number of points burndown to show team visibility of progress on a ticket.
+
 Most tickets will benefit from careful estimates of how much work/time is involved. Project managers and engineers will decide this during Backlog Refinement and/or Sprint Planning.
 
-## Other resources:
+## Other resources, if you are new to Jira:
 
 - [Jira & Agile Project Management Video](http://youtu.be/NrHpXvDXVrw) (0:40 min)
 - [Jira in a Nutshell Video](http://youtu.be/xrCJv0fTyR8) (0:04 min)
