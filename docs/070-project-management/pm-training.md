@@ -83,7 +83,7 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 - Comprehend & ask questions about SoW & Contract
 - Know what deliverables the project requires
 
-## Typical PM Project Deliverables
+## Potential PM Project Deliverables
 
 - Burn down and/or burn up reports
 - Hours reports
@@ -99,7 +99,7 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 - [Unanet](https://civicactions.unanet.biz)
 - [Jira](../050-how-we-work/tools/jira.md)
 - [Trello](../050-how-we-work/tools/trello.md)
-- [GitHub](../050-how-we-work/tools/github.md)/Waffle
+- [GitHub](../050-how-we-work/tools/github.md)
 - Burndown charts
 - [Google Docs/Folders](../050-how-we-work/tools/google-docs.md)
 - [Slack](../050-how-we-work/tools/slack.md) (client-facing and internal channels)
