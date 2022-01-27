@@ -15,7 +15,7 @@ There are topics in this document that require more detail on how we implement p
 
 ## Onboarding Process
 
-Welcome aboard! As part of the new employee onboarding process, we created a three to four day Onboarding Schedule to assist you through navigating CivicActions as a new team member. You will meet with an onboarding captain for one hour each day for three consecutive days, and then have follow up self-guided readings and tasks to help you orient. You will also be paired up with a seasoned CivicActions-er in your domain area to help you learn about our working practices and our primary tools and how we use them. You will also attend a few focused trainings around agile, security, and company culture. In addition to, your project may have additional security trainings and background checks to complete before starting on the project.
+Welcome aboard! As part of the new employee onboarding process, we created an onboarding schedule to assist you through navigating CivicActions as a new team member. You will meet with an onboarding lead for one and a half hours each day for two consecutive days, and then have follow-up self-guided readings and tasks to help you orient. You will also be paired up with your CivicActions manager (most often in your domain area) to support you and help you learn about our working practices, our primary tools and how we use them. You will also attend a few focused trainings around accessibility, agile methodology, security, and company culture. In addition to, your project may have additional project-specific onboarding, security trainings, and background checks to complete before starting on the project.
 
 ## Links and Resources
 
