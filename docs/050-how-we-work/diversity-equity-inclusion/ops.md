@@ -7,7 +7,8 @@ People are encouraged to apply to become part of the DEIA Working Group. We stri
 ## Join the Conversation
 
 **#celebrating-diversity**
-This Slack channel is for folks who want to share resources or start conversations about DEIA topics. We also encourage everyone to introduce DEIA-related conversations where they are likely to reach the widest and most relevant audience. For example, do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
+This Slack channel is for folks who want to share resources or start conversations about DEIA topics. We also encourage everyone to introduce DEIA-related conversations where they are likely to reach the widest and most relevant audience. For example, 
+do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
 
 ## Contribute to a DEIA initiative
 
