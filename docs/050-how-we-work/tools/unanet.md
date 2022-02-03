@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Unanet is an enterprise resource planning (ERP) system that CivicActions uses for timetracking, planning, forecasting and accounting. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories.
+Unanet is an enterprise resource planning (ERP) system that CivicActions uses for time tracking, planning, forecasting and accounting. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories.
 
 ## Logging Time
 
