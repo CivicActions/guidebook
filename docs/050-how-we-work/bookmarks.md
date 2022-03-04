@@ -50,4 +50,4 @@ Links to websites we use regularly.
 
 ### Accessibility
 
-- [CivicActions Accessibility Site](https://accessibility.civicactions.com)
+- [CivicActions Accessibility Site](https://accessibility.civicactions.com/guide/tools)
