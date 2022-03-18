@@ -1,6 +1,6 @@
 ---
-status: Draft
-updated: January 3, 2022
+status: Published
+updated: March 18, 2022
 ---
 
 # CivicActions Employee Referral Bonus Program
@@ -25,7 +25,7 @@ We offer a larger referral bonus for a referral that results in hiring a Referre
    1. an employee whose primary job responsibilities include hiring or recruiting.
 1. Referred Candidate - an applicant, or an individual CivicActions hiring team is actively recruiting, for a posted job who has either been referred to CivicActions by an Eligible Referring Employee or who indicates in their initial job application they were referred by an Eligible Referring Employee.
 1. Referred Hire - a newly hired employee who was a Referred Candidate, has accepted a job offer for regular full-time employment with CivicActions, Inc., and who has started the position.
-1. Referred Job Posting - A job posting listed on CivicAction's company career page. the public job description for which an Eligible Referring Employee has submitted a referral to CivicActions for a Referred Candidate, or the job for which a Referred Candidate has applied and indicated who referred them.
+1. Referred Job Posting - A job posting listed on CivicAction's [company career page](https://civicactions.com/careers#open-positions). the public job description for which an Eligible Referring Employee has submitted a referral to CivicActions for a Referred Candidate, or the job for which a Referred Candidate has applied and indicated who referred them.
 1. Underrepresented Group ("UG") - CivicActions determines which Underrepresented Groups to target its recruiting efforts based on company personnel information including federal contractor affirmative action planning, EEO-1 and VETS 4112 reports. While we feel strongly that groups below do not represent diversity in full, we limited the definition of "UG" in this policy because they are relevant, measurable indicators of how effective we are at recruiting and supporting underrepresented talent. Currently a Referred Hire is considered a member of a UG if they self-identify to the company after accepting a job offer as:
    1. a member of an underrepresented racial or ethnicity group including Black or African American, Hispanic or Latino, Asian, Native Hawaiian or other Pacific Islander, and American Indian/Alaskan Native;
    1. a woman; or
@@ -39,7 +39,7 @@ Individuals must meet all of the following requirements to be receive the referr
 1. You must be an Eligible Referring Employee.
 1. CivicActions must receive timely notification of a referral. For a referral to be timely either:
    1. the Referred Candidate must state that they have been referred by you at the time the candidate completes the initial application for a posted job, or
-   1. you must submit the referral to the PeopleOps/Hiring using the Online Referral Form (i) prior to the Referred Candidate applying for the job, and (ii) prior to CivicActions' recruitment team communicating with the applicant.
+   1. you must submit the referral to the PeopleOps/Hiring using the [Online Referral Form](https://docs.google.com/forms/d/e/1FAIpQLSdjPghk80F5Mla0bF36VH5iZcEDa-NhVYDN2DMxP2sDTERZ8A/viewform) (i) prior to the Referred Candidate applying for the job, and (ii) prior to CivicActions' recruitment team communicating with the applicant.
 1. You must not be directly involved in making the final selection of a job candidate for the Referred Job Posting. You will not be ineligible for a bonus for being involved in drafting position requirements, resume review, or workstyle or technical interviews.
 1. You must not be a relative of the Referred Candidate.
 1. The Referred Candidate must be qualified for the Referred Job Posting and be hired to fill the Referred Job Posting.
