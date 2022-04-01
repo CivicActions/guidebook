@@ -46,8 +46,8 @@ Links to websites we use regularly.
 
 ### Browser Extensions
 
-- [See list browser extension page](/en/latest/050-how-we-work/tools/browserextensions/)
+- [See list browser extension page](../050-how-we-work/tools/browserextensions/)
 
 ### Accessibility
 
-- [CivicActions Accessibility Site](https://accessibility.civicactions.com)
+- [CivicActions Accessibility Site](https://accessibility.civicactions.com/guide/tools)
