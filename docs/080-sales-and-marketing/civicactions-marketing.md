@@ -16,16 +16,16 @@ We welcome everyone at CivicActions to be part of the conversation about how to 
 - `#marketing`: Discussion on marketing strategy, content, initiatives, press, and general quesions or ideas
 - `#brand`: Brand-related assets, projects, resources, questions (logos, colors, styles, templates, letterhead...)
 - `#events`: General discussion, planning, and questions about events we may attend or sponsor. There are also channels specific to core events like #event-drupal-govcon, #event-cfa-summit, etc.
-- `#civicactions-homesite`: Discussion, feedback, ideas, and project management for civicactions.com. You can also use this channel to request an update to any homesite content, such as your staff profile.
+- `#civicactions-homesite`: Discussion, feedback, ideas, and project management for civicactions.com. You can also use this channel to request an update to any homesite content.
 
 ## Brand
 
-The CivicActions brand is professional yet friendly. You can get our logo, colors, and brand guidelines from the [CivicActions Style Guide](https://civicactions-style-guide.readthedocs.io/en/latest/README/). Please refer to this guide for all brand questions, or ask us in the `#brand` Slack channel.
+The CivicActions brand is professional yet friendly. You can get our logo, colors, and brand guidelines from the [CivicActions Style Guide](https://civicactions-style-guide.readthedocs.io/en/latest/). Please refer to this guide for all brand questions, or ask us in the `#brand` Slack channel.
 
 Here are some commonly requested branded templates that you can use:
 
-- [Presentation templates](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1) (Note: When you click a template from the Google Slides Template Gallery, it automatically creates a copy that you can edit. You don't have to worry about over-writing the template.)
-- Document templates (e.g., letterhead)
+- [Presentation templates](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1) (Note: When you click a template from the Google Slides Template Gallery, a copy is automatically created, which you can edit. You don't have to worry about over-writing the template.)
+- [Document templates](https://docs.google.com/document/u/0/?tgif=d&ftv=1) (e.g., letterhead)
 - One-pager templates (COMING SOON)
 
 ## Events
