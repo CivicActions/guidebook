@@ -46,7 +46,7 @@ Links to websites we use regularly.
 
 ### Browser Extensions
 
-- [See list browser extension page](https://handbook.civicactions.com/en/latest/050-how-we-work/tools/browserextensions/)
+- [See list browser extension page](../050-how-we-work/tools/browserextensions/)
 
 ### Accessibility
 
