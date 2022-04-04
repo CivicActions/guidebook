@@ -1,4 +1,4 @@
-# Defining diversity, equity, and inclusion
+# Defining diversity, equity, inclusion, and accessibility (DEIA)
 
 ## Diversity
 
@@ -40,3 +40,14 @@ As a working group, we understand that creating an inclusive work culture is the
 - Creating opportunities for CivicActioners to form relationships on pod calls that aren't work-focused
 - Offering Slack channels for various affinity groups — spaces where folks can openly discuss issues and causes that are important to them
 - Encouraging team members to use 5% of their working time giving back to a community they care about
+
+## Accessibility
+
+There are many [definitions for accessibility](https://en.wikipedia.org/wiki/Social_model_of_disability), but generally we look to for those barriers that stop people from engaging in our built or digital environments. People with disabilities are often excluded by products and services that limit the ways that you can engage with them. As a distributed team working primarily with digital government, most of CivicActions accessibility concerns are related to digital tools. 
+
+### What we're doing to support an accessible team culture
+- [Accessibility is part of our company culture](https://handbook.civicactions.com/en/latest/020-about-us/culture/#accessibility)
+- CivicActions has an [Accessibility Practice Area](https://handbook.civicactions.com/en/latest/050-how-we-work/practice-areas/accessibility-practice-area/) and a [dedicated sub-site](https://accessibility.civicactions.com/)
+- All new staff are given onboarding on accessibility issues when they join the company
+- We are finding ways to think more about accesssibility barriers in our hiring process and internal communications
+
