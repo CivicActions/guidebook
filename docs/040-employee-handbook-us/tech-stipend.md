@@ -12,7 +12,7 @@ As part of CivicActions commitment to work/life balance and our movement toward 
 - "Annual Eligibility Date" means:
 
   1. The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date.
-  1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period.
+  1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period[1]_.
 
 - "Payment Amount" - The Payment Amount as of April 1, 2021 is $1027.00 USD. The amount will be reviewed annually.
 
@@ -21,3 +21,5 @@ As part of CivicActions commitment to work/life balance and our movement toward 
 Eligible Team Members will receive the Payment Amount of the Technology Stipend in the paycheck covering the pay period in which their Annual Eligibility Date occurs each year. The Technology Stipend is for necessary expenditures in the calendar year following the Eligibility Date including reasonable costs that are common for all employees such as computer, internet access, work space, electricity, phone, and other expenses reasonably attributable to their job.
 
 The Technology Stipend will be paid at the current reimbursement Payment Amount as determined by CivicActions. The Payment Amount will be direct deposited using the same method as the team member's paycheck and other expense reimbursements. To ensure compliance with federal law, IRS requires, and state and local laws, CivicActions may in its sole discretion deducted and/or convert to a taxable payment a prorated amount of the last Technology Stipend payment made to an employee who leaves CivicActions employment in the year following the Eligibility Date. Part Time Eligible Team Members employees will receive a proportional amount based on the average number of hours scheduled to work per month.
+
+   [1] If you or one of your employees are within the ninety-day Introductory Period, do not have equipment that is satisfactory to complete your defined role, and would benefit from receiving your Technology Stipend early, there are options available to you. Reach out to your manager and/or a people operations professional to find out more information.
