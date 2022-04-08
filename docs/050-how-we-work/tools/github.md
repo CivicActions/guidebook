@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/) is a publicly available, free service which hosts the source code for tens of thousands of open source projects. GitHub is very secure, and is working hard to make git version control more user friendly. CivicActions uses GitHub for all public open source projects ( <https://github.com/civicactions> ). We are an open source company that believes in sharing our code where possible. We encourage internal projects, client and pro-bono projects to be developed in the open and released under an open license.
 
-There are times where data or code needs to be kept private. In most instances we will use our own internal GitLab infrastructure  ( <https://git.civicactions.net> ) to manage our private repositories. There may also be projects which are just better supported on our own infrastructure. Generally when a client asks for a project to not be developed in public and doesn't have their own Git hosting in place we will use [our GitLab instance](https://git.civicactions.net). 
+There are times where data or code needs to be kept private. In most instances we will use our own internal GitLab infrastructure ( <https://git.civicactions.net> ) to manage our private repositories. There may also be projects which are just better supported on our own infrastructure. Generally when a client asks for a project to not be developed in public and doesn't have their own Git hosting in place we will use [our GitLab instance](https://git.civicactions.net).
 
 ## Setting Up Your Account
 
