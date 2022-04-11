@@ -16,7 +16,6 @@ If CivicActions sees a problem with an employee's performance, or there is other
 
 Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation.
 
-
 ## Continuation of Benefits
 
 COBRA
@@ -37,12 +36,11 @@ If you have any questions, please contact //WHO?.
 
 ### 3. Return your equipment
 
-When you leave CivicActions, you are responsible for returning all CivicActions issued equipment. 
+When you leave CivicActions, you are responsible for returning all CivicActions issued equipment.
 
 ## Offboarding process
 
 PeopleOps will send you information on what you need to do to offboard and what you can expect. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions.
-
 
 ### Manager
 
