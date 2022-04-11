@@ -27,7 +27,6 @@ Review [The Project Manager Role](pm-role.md) for an overview of PM responsibili
 
 ## Logging Internal Meetings
 
-
 ### Common Internal Meetings
 
 - All Humans Call (AHC)
