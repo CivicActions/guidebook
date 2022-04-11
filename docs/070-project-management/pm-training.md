@@ -27,19 +27,15 @@ Review [The Project Manager Role](pm-role.md) for an overview of PM responsibili
 
 ## Logging Internal Meetings
 
-For non-billable internal meetings, PMs should bill as CA > Delivery > Project Management.
-
-![alt text](../images/pm-ahc.png "PM billing Delivery")
 
 ### Common Internal Meetings
 
-- All Hands Call
+- All Humans Call (AHC)
 - Weekly Agile PM Meeting
 - Pod Calls
-- Monthly All Hands Call
 - Check-ins with team members on performance & balance, etc.
 
-## Resourcing
+## People Planning
 
 We use Unanet for documenting which projects team members are on, as well as their availability.
 
