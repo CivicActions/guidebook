@@ -22,4 +22,4 @@ Eligible Team Members will receive the Payment Amount of the Technology Stipend 
 
 The Technology Stipend will be paid at the current reimbursement Payment Amount as determined by CivicActions. The Payment Amount will be direct deposited using the same method as the team member's paycheck and other expense reimbursements. To ensure compliance with federal law, IRS requires, and state and local laws, CivicActions may in its sole discretion deducted and/or convert to a taxable payment a prorated amount of the last Technology Stipend payment made to an employee who leaves CivicActions employment in the year following the Eligibility Date. Part Time Eligible Team Members employees will receive a proportional amount based on the average number of hours scheduled to work per month.
 
-<sup>1</sup>: If you or one of your team members need their tech stipend early, reach out to your manager or PeopleOps to find out more information. There are options available for you. 
+<sup>1</sup>: If you or one of your team members need their tech stipend early, reach out to your manager or PeopleOps to find out more information. There are options available for you.
