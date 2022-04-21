@@ -6,11 +6,11 @@ Remember that you can book time on your own calendar. We recommend blocking off 
 
 Also, if you're planning a meeting, be sure to state your goal (what the meeting is and what it isn't) in an agenda and invite description.
 
-## All Hands Calls
+## All Humans Calls (AHC)
 
-Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning). We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
+Our weekly AHC includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the AHCs, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future AHCs on the [AHC Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning). We also have an hour-long monthly AHC. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
 
-### All Hands Calls Overview
+### AHC Overview
 
 - We use Zoom for this - see [more about Zoom](../../050-how-we-work/tools/zoom.md)
 - Everyone on team is encouraged to join

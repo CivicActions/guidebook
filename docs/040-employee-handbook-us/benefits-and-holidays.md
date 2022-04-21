@@ -6,17 +6,17 @@ Time off under this policy is not being provided in addition to any pre-existing
 
 CivicActions is considered closed on the following holidays:
 
-| Holiday                       | Dates                         |
-| ----------------------------- | ----------------------------- |
-| New Year's Day                | January 1st\*                 |
-| Martin Luther King's Birthday | Third Monday in January       |
-| Memorial Day                  | Last Monday in May            |
-| Independence Day              | July 4th\*                    |
-| Labor Day                     | First Monday in September     |
-| Veterans Day                  | November 11th\*               |
-| Thanksgiving                  | Fourth Thursday in November   |
-| Day after Thanksgiving        | The Friday after Thanksgiving |
-| Christmas                     | December 25th\*               |
+| Holiday                             | Dates                         |
+| ----------------------------------- | ----------------------------- |
+| New Year's Day                      | January 1st\*                 |
+| Birthday of Martin Luther King, Jr. | Third Monday in January       |
+| Memorial Day                        | Last Monday in May            |
+| Independence Day                    | July 4th\*                    |
+| Labor Day                           | First Monday in September     |
+| Veterans Day                        | November 11th\*               |
+| Thanksgiving Day                    | Fourth Thursday in November   |
+| Day after Thanksgiving              | The Friday after Thanksgiving |
+| Christmas Day                       | December 25th\*               |
 
 If a holiday falls on a the weekend, the US office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
 

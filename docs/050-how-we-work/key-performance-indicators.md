@@ -1,6 +1,6 @@
 # Company KPIs
 
-CivicActions tracks and presents company-wide Key Performance Indicators (KPIs) at each monthly All Hands Call (AHC).
+CivicActions tracks and presents company-wide Key Performance Indicators (KPIs) at each monthly All Humans Call (AHC).
 
 ## Definition of terms
 

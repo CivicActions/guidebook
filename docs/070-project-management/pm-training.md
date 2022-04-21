@@ -27,19 +27,14 @@ Review [The Project Manager Role](pm-role.md) for an overview of PM responsibili
 
 ## Logging Internal Meetings
 
-For non-billable internal meetings, PMs should bill as CA > Delivery > Project Management.
-
-![alt text](../images/pm-ahc.png "PM billing Delivery")
-
 ### Common Internal Meetings
 
-- All Hands Call
+- All Humans Call (AHC)
 - Weekly Agile PM Meeting
 - Pod Calls
-- Monthly All Hands Call
 - Check-ins with team members on performance & balance, etc.
 
-## Resourcing
+## People Planning
 
 We use Unanet for documenting which projects team members are on, as well as their availability.
 
@@ -83,7 +78,7 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 - Comprehend & ask questions about SoW & Contract
 - Know what deliverables the project requires
 
-## Typical PM Project Deliverables
+## Potential PM Project Deliverables
 
 - Burn down and/or burn up reports
 - Hours reports
@@ -99,7 +94,7 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 - [Unanet](https://civicactions.unanet.biz)
 - [Jira](../050-how-we-work/tools/jira.md)
 - [Trello](../050-how-we-work/tools/trello.md)
-- [GitHub](../050-how-we-work/tools/github.md)/Waffle
+- [GitHub](../050-how-we-work/tools/github.md)
 - Burndown charts
 - [Google Docs/Folders](../050-how-we-work/tools/google-docs.md)
 - [Slack](../050-how-we-work/tools/slack.md) (client-facing and internal channels)
