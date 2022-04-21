@@ -1,4 +1,4 @@
-# How to Create Tickets and Cards
+# How to Create Tickets
 
 This may also be best learned during a project (on a project-by-project basis)
 
@@ -9,9 +9,11 @@ Description: An epic often starts as the big picture and then the user stories f
 ## Who Creates Tickets/Cards
 
 - Product Owners
+- Product Manager
 - Project Managers
+- Scrum Masters
 - Engineers
-- UX Team
+- UX/Design Team
 
 ## User Story
 
@@ -24,6 +26,7 @@ Description: An epic often starts as the big picture and then the user stories f
 
 - Notes that explain how/where to start
 - Helps if another engineer has to pick up your ticket
+- Often these plans/notes are in the comments field on a Jira ticket
 
 ## User Acceptance Tests (UAT)
 

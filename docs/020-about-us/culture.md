@@ -36,12 +36,12 @@ We invest extra effort into our communication strategies because we are a mostly
 
 Being a gender-diverse team means that not everyone's pronouns are immediately obvious, so it's important to find out. Taking the time to learn and use your teammates' personal pronouns correctly will help you communicate respectfully.
 
-Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
+Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate. Zoom has recently added a pronouns feature that you can add to your profile.
 
 These practices won't be familiar to everyone, and it may take some time and practice to get used to. That's ok — there are plenty of resources and people here to support you as you learn.
 
 **Resources**
-Check out the All Hands Call slide deck on personal pronouns to learn more about:
+Check out the All Humans Call (AHC) slide deck on personal pronouns to learn more about:
 
 - What are gender neutral pronouns?
 - Why do personal pronouns matter in our industry?
@@ -50,7 +50,7 @@ Check out the All Hands Call slide deck on personal pronouns to learn more about
 
 [AHC: Personal pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit)
 
-If you have questions, concerns, or just want to practice, you can DM a designated DEI point person listed in the #dei-ops channel description for support.
+If you have questions, concerns, or just want to practice, you can DM member of HR for support or post a question in #celebrating-diversity Slack channel.
 
 ## Transparency
 
@@ -66,7 +66,7 @@ You can read the relevant sections for free [here](<https://books.google.com/boo
 
 ### How does Radical Transparency Work at CivicActions?
 
-Here's a real life example: In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.
+Here's a real life example: In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Humans Call (AHC) in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.
 
 You can view those slides [here](https://docs.google.com/presentation/d/1swxbFAieY2p39mjR5ou5WW9SNPQkDisTttyXTsYLdgo/edit).
 
@@ -130,7 +130,7 @@ A: We get it. Any new job can be scary, and starting a new job remotely can be e
 
 ### Q: What is CivicActions doing to foster diversity?
 
-A: We are actively looking to recruit diverse team members, and we are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual in-person retreat, during All Hands Calls, during check-ins and via our Slack channel #dei-ops. And we need help with this - we hope you'll join in on the conversation.
+A: We are actively looking to recruit diverse team members, and we are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual in-person retreat, during All Hands Calls, during check-ins and via our #celebrating-diversity Slack channel. And we need help with this - we hope you'll join in on the conversation.
 
 ### Q: Open communications generally make me uncomfortable and I may feel intimidated asking a question in front of an audience. Can I just go to the person who I know has the answer in a more private way?
 
@@ -170,7 +170,7 @@ Many topics can have a political dimension. If you observe someone make a partis
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
-A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form a "withhold" conversation as mentioned above). If you're not comfortable addressing them directly or you have been harassed, you should talk to a member of the PeopleOps or Ops Team to help resolve the issue or report is as appropriate. If you are told that content you shared is offensive or otherwise inappropriate you are expected to remove the content and consider if it is consistent with CivicActions' culture, CivicActions' code of conduct, and being respectful of others before sharing it again. This is particularly true in CivicActions social Slack channels where content share should be welcomed by everyone participating in the channel in good faith.
+A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form of a "withhold" conversation as mentioned above). If you're not comfortable addressing them directly or you have been harassed, you should talk to a member of the PeopleOps or Ops Team to help resolve the issue or report as appropriate. If you are told that content you shared is offensive or otherwise inappropriate you are expected to remove the content and consider if it is consistent with CivicActions' culture, CivicActions' code of conduct, and being respectful of others before sharing it again. This is particularly true in CivicActions social Slack channels where content sharing should be welcomed by everyone participating in the channel in good faith.
 
 If you would like to speak to a counselor confidentially, TriNet provides CivicActions employees with access to an Employee Assistance Program.
 

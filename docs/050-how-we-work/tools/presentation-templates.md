@@ -1,6 +1,6 @@
 # CivicActions Presentation Templates
 
-The CivicActions slide deck presentation template is available [here](https://docs.google.com/presentation/d/1xHjy8U9mW34NUh7OXoezhYQtL-DmQnCjEb5RR2ZxF54/edit#slide=id.gde6e9fa718_0_3)
+The CivicActions slide deck presentation templates are available [here](https://docs.google.com/presentation/u/0/?ftv=1&folder=0APTE_R8az0YzUk9PVA&tgif=d)
 
 You can use this slide deck template as you see fit
 

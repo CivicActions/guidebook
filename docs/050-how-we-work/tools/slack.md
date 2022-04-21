@@ -28,7 +28,6 @@
 - Consider using the word "ping" to check on the availability of someone
 - Create a Zoom from Slack: type **/zoom** (will need to authorize)
 - Create a Google Meet from Slack: type **/hangout** (will need to authorize the slack app in Meet/Hangout too)
-- To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
 - You can adjust notification preferences:
   ![Slack Notifications](../../images/slack-notifications.png)
 - Wrap your text in single asterisks for **bold**, underscores for _italics_, `grave accents` for code, and start the line with a > sign to make it a block quote. Formatting in Slack is similar to Markdown.![Formatting in Slack](../../images/slack-formatting.png "Slack Formatting")

@@ -6,7 +6,7 @@ Practice areas that provide client services also [work across departments](worki
 
 It is important to note that practice areas may overlap in places, and that client projects can often be served by more than one practice area during the course of delivery. Similarly team members may work across multiple practice areas, even in a single day.
 
-Each client facing practice area is identified by a unique 2 character code - this is used to identify practice area work in Harvest and other tools.
+Each client facing practice area is identified by a unique 2 character code - this is used to identify practice area work in Unanet and other tools.
 
 Each area has one or two Practice Area leads. The lead is responsible for guiding the collaborative creation of vision, strategy and goals of the practice area, supporting departments and people planning.
 
@@ -16,18 +16,16 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 ## Directory
 
-| Name                          | Code | Leads                     | Slack                 | Meets                            |
-| ----------------------------- | ---- | ------------------------- | --------------------- | -------------------------------- |
-| Accessibility                 | AX   | Mike Gifford              | #accessibility        | Biweekly                         |
-| DevSecOps                     | DV   | Owen Barton & Fen Labalme | #devsecops            | Biweekly                         |
-| Diversity, Equity & Inclusion |      | Rotating                  | #dei-ops              | Weekly (Ops), Monthly (Brownbag) |
-| Drupal                        | DR   | Bob Schmitt               | #engineering-drupal   | Biweekly                         |
-| Education Services            | ES   | Chianti Lomax             | #eduservices          |                                  |
-| Frontend                      | FE   | Iris Ibekwe               | #engineering-frontend | Biweekly                         |
-| Innovation Lab                | IL   | TBD                       | #labs                 |                                  |
-| Open Data                     | OD   | TBD                       | #opendata             |                                  |
-| Product Management            | PD   | TBD                       | #productmanagement    | Biweekly                         |
-| Project Management            | PM   | TBD                       | #pm                   | Biweekly                         |
-| Quality Assurance             | QA   | Eric Napier               | #engineering-qa       | Biweekly                         |
-| Support & Helpdesk            | SP   | Ero Gray                  | #helpdesk             |                                  |
-| Design                        | UX   | Ben Leffler & Jen Harris  | #design               | Weekly (Ops), Weekly (Brownbag)  |
+| Name                                         | Leads                           | Slack                 | Meets                           |
+| -------------------------------------------- | ------------------------------- | --------------------- | ------------------------------- |
+| Accessibility                                | Mike Gifford                    | #accessibility        | Biweekly                        |
+| DevSecOps                                    | David Sumner                    | #devsecops            | Biweekly                        |
+| Diversity, Equity, Inclusion & Accessability | Rotating                        | #celebratingdiversity | Weekly                          |
+| Drupal                                       | Andy, Daniel M, Jonathan, Julie | #engineering-drupal   | Biweekly                        |
+| Workforce Transformation                     | Chianti Lomax                   | #eduservices          |                                 |
+| Frontend                                     | Iris Ibekwe, Dan Goodwin        | #engineering-frontend | Biweekly                        |
+| Data Science                                 | Jake Rozran                     | #engineering-data     |                                 |
+| Product Management                           | TBD                             | #productmanagement    | Biweekly                        |
+| Project Management                           | Heidi Harting-Rex               | #projectmanagement    | Biweekly                        |
+| Quality Assurance                            | Eric Napier                     | #engineering-qa       | Biweekly                        |
+| Design                                       | Ben Leffler, Val Runde          | #design               | Weekly (Ops), Weekly (Brownbag) |
