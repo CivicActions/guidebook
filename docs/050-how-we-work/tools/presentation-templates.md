@@ -10,4 +10,4 @@ You can use this slide deck template as you see fit
 - consider for presenting an AHC
 - editing help [here](https://support.google.com/docs/topic/1694827?hl=en&ref_topic=2811776)
 
-The CivicActions Style Guide with the logo and color pallete is available [here](https://civicactions-style-guide.readthedocs.io/en/latest/README/)
+The CivicActions Style Guide with the logo and color palette is available [here](https://civicactions-style-guide.readthedocs.io/en/latest/README/)
