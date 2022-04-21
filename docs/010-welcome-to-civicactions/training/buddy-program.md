@@ -14,7 +14,7 @@ A buddy typically has been with CivicActions for at least six months to one year
 
 ## Tips for the Buddy
 
-- Invite your new hire to any of your project meetings that you think might be helpful to have him/her observe
+- Invite your new hire to any of your project meetings that you think might be helpful to have them observe
 - Put yourself in your new hire's shoes. What important info do you wish you had known at that time? Share it!
 - Conversation starters:
   - What have you been learning during your onboarding sessions with your manager?
