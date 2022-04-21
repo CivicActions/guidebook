@@ -41,7 +41,7 @@ Sharing your own pronouns promotes clarity and transparency and can also promote
 These practices won't be familiar to everyone, and it may take some time and practice to get used to. That's ok — there are plenty of resources and people here to support you as you learn.
 
 **Resources**
-Check out the All Hands Call slide deck on personal pronouns to learn more about:
+Check out the All Humans Call (AHC) slide deck on personal pronouns to learn more about:
 
 - What are gender neutral pronouns?
 - Why do personal pronouns matter in our industry?
@@ -66,7 +66,7 @@ You can read the relevant sections for free [here](<https://books.google.com/boo
 
 ### How does Radical Transparency Work at CivicActions?
 
-Here's a real life example: In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.
+Here's a real life example: In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Humans Call (AHC) in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.
 
 You can view those slides [here](https://docs.google.com/presentation/d/1swxbFAieY2p39mjR5ou5WW9SNPQkDisTttyXTsYLdgo/edit).
 
