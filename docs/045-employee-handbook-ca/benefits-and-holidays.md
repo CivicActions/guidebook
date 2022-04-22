@@ -19,7 +19,7 @@ For employees in Ontario, CivicActions Canada is considered closed on the follow
 | Christmas Day  | December 25th            |
 | Boxing Day     | December 26th            |
 
-If a holiday falls on a the weekend, the Ontario office observes on the Monday for the holiday.
+If a holiday falls on a the weekend, the Ontario office observes the holiday on the following Monday.
 
 Employees are not encouraged to work on these holidays. If you feel it's necessary to work on a holiday, hourly, non-exempt employees will be compensated at their normal hourly rate, and will receive overtime where appropriate.
 
