@@ -21,7 +21,6 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 - A full time employee is slotted for a 40 hour work week
 - Log your time in Unanet accurately. If you spend 6 hours on a project and 2 hours on internal work, ensure the time is logged correctly in the Unanet projects.
 
-
 ### Jogging Your Memory
 
 Many staff at CivicActions are disciplined in keeping track of their hours or are able to work in structured blocks that allow for this to be easily record their time end of each day. If you are unsure you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://drive.google.com/drive/u/0/recent), [check Zoom meetings](https://zoom.us/meeting#/previous), examine Slack messages `on:Monday from:me` or look at the GitHub overview when you login.
