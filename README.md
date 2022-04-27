@@ -4,7 +4,7 @@ This Handbook has been prepared to describe CivicActions' philosophy, working me
 
 ## This is not really the README you are looking for.
 
-The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <https://handbook.civicactions.com/en/latest/README/>
+The main handbook README is located at [docs/index.md](docs/index.md), which gets synced to readthedocs at <https://handbook.civicactions.com/en/latest/>
 
 ## CivicActions, Inc.
 
@@ -17,7 +17,7 @@ civicactions.com
 
 ## License
 
-Copyright 2017-2021 CivicActions.
+Copyright 2017-2022 CivicActions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](docs/LICENSE.md).
 

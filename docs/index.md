@@ -1,6 +1,6 @@
 # CivicActions Handbook
 
-[![Pipeline status](https://gitlab.com/civicactions/handbook/badges/master/pipeline.svg)](https://gitlab.com/civicactions/handbook/-/commits/master) [![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
 
 ## CivicActions, Inc.
 
@@ -17,7 +17,7 @@ This Handbook has been prepared to describe the CivicActions philosophy, working
 
 ## License
 
-Copyright 2017 CivicActions.
+Copyright 2017-2022 CivicActions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 
