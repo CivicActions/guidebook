@@ -16,16 +16,16 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 ## Directory
 
-| Name                                         | Leads                           | Slack                 | Meets                           |
-| -------------------------------------------- | ------------------------------- | --------------------- | ------------------------------- |
-| Accessibility                                | Mike Gifford                    | #accessibility        | Biweekly                        |
-| DevSecOps                                    | David Sumner                    | #devsecops            | Biweekly                        |
-| Diversity, Equity, Inclusion & Accessability | Rotating                        | #celebratingdiversity | Weekly                          |
-| Drupal                                       | Andy, Daniel M, Jonathan, Julie | #engineering-drupal   | Biweekly                        |
-| Workforce Transformation                     | Chianti Lomax                   | #eduservices          |                                 |
-| Frontend                                     | Iris Ibekwe, Dan Goodwin        | #engineering-frontend | Biweekly                        |
-| Data Science                                 | Jake Rozran                     | #engineering-data     |                                 |
-| Product Management                           | TBD                             | #productmanagement    | Biweekly                        |
-| Project Management                           | Heidi Harting-Rex               | #projectmanagement    | Biweekly                        |
-| Quality Assurance                            | Eric Napier                     | #engineering-qa       | Biweekly                        |
-| Design                                       | Ben Leffler, Val Runde          | #design               | Weekly (Ops), Weekly (Brownbag) |
+| Name                                         | Leads                                                                   | Slack                 | Meets                           |
+| -------------------------------------------- | ----------------------------------------------------------------------- | --------------------- | ------------------------------- |
+| Accessibility                                | Mike Gifford                                                            | #accessibility        | Biweekly                        |
+| DevSecOps                                    | David Sumner                                                            | #devsecops            | Biweekly                        |
+| Diversity, Equity, Inclusion & Accessability | Rotating                                                                | #celebratingdiversity | Weekly                          |
+| Drupal                                       | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Julie Kramer | #engineering-drupal   | Biweekly                        |
+| Workforce Transformation                     | Chianti Lomax                                                           | #eduservices          |                                 |
+| Frontend                                     | Iris Ibekwe, Dan Goodwin                                                | #engineering-frontend | Biweekly                        |
+| Data Science                                 | Jake Rozran                                                             | #engineering-data     |                                 |
+| Product Management                           | TBD                                                                     | #productmanagement    | Biweekly                        |
+| Project Management                           | Heidi Harting-Rex                                                       | #projectmanagement    | Biweekly                        |
+| Quality Assurance                            | Eric Napier                                                             | #engineering-qa       | Biweekly                        |
+| Design                                       | Ben Leffler, Val Runde                                                  | #design               | Weekly (Ops), Weekly (Brownbag) |
