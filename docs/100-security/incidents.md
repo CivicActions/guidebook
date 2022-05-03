@@ -10,22 +10,37 @@ Please remember:
 
 ## Handling phishing emails
 
-A phishing email is a suspicious email that asks you to click a link, open an attachment, or enter data into a form -- all actions that create opportunities for hackers.
+A phishing email is a suspicious email message that asks you to click a link, open an attachment, or enter data into a form. These actions create opportunities for an attacker.
 
-**If you got phished:** If you received a suspicious email and did any of the following, you must [report it immediately as a security incident](#reporting-an-incident):
+Phishing is a crime. The ultimate goal of an attack can vary, but in every case, it brings devastating consequences for organizations, their clients, and employees. For organizations with a remote workforce like CivicActions, the risk to employees includes your home network. Therefore, it is critically important that you exercise caution with every email you receive, learn to detect the warning signs of phishing threats, and follow the reporting process.
 
-- Clicked a link
-- Opened an attachment
-- Entered information into a form
+### Simulated phishing attacks
 
-See [Reporting an incident](#reporting-an-incident). Even if you don't think something bad happened, you must report it. Many incidents happen silently so you won't notice until the damage has been done. The security team can help you verify that your system is secure.
+On a regular basis, CivicActions conducts simulated phishing attacks. These suspicious messages contain tracking mechanisms that allow CivicActions to monitor the various ways you engage with messages, including open them, clicking links, opening attachments, and entering form data.
 
-**If you receive a suspicious email:**
+If you demonstrate a pattern of moderate to high risk behavior during these exercises, you will be advised by your manager and you might be required to complete security awareness training as part of your professional development.
 
-1. Alert your CivicActions team members about the suspicious email using the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/) or [#general](https://civicactions.slack.com/messages/general/).
-2. Use the _Report phishing_ or _Report spam_ option in your email application, or delete the email. (In Gmail, _Report phishing_ is located in the options menu for the message. To access the menu, click the button with three dots. If you need help finding these options, ask for help using the Slack channel [#general](https://civicactions.slack.com/messages/general/) or [email](mailto:security@civicactions.com).)
+### Reporting policy
 
-**If you find a suspicious email in your spam folder:** Ignore it. If the email went to your Spam folder automatically, the CivicActions mail server has already flagged it as spam.
+Everyone is expected to [report suspicious email messages using the Report phishing option in Gmail](https://support.google.com/mail/answer/8253?hl=en#zippy=%2Cuse-gmail-to-help-you-identify-phishing-emails%2Creport-a-phishing-email). When you report phishing threats in Gmail, Google responds automatically using a combination of the following actions:
+
+- Displays a warning to other users about the message content
+- Moves the suspicious message to the Spam folder
+- Alerts Gmail administrators at CivicActions about unusual spikes in user reports
+
+_Note: The Report phishing option is effective at thwarting phishing threats only in the Gmail web application ([mail.google.com](https://mail.google.com/))._
+
+### Reporting process
+
+- **If you got phished:** If clicked a link, opened an attachment, or entered data into a form, [report it immediately as a security incident](#reporting-an-incident). Even if you don't think something bad happened, you must report it. Many incidents happen silently so you won't notice until the damage has been done. The security team can help you verify that your system is secure.
+
+- **If you received a suspicious email:** [Use the Report phishing option in Gmail](https://support.google.com/mail/answer/8253?hl=en#zippy=%2Cuse-gmail-to-help-you-identify-phishing-emails%2Creport-a-phishing-email). It is located in the options menu for the message. To access the menu, open or preview the message, expand the message options menu (look for the button with three dots), and select Report phishing.
+
+The Gmail web application is recommended. If you are using a mobile app or mail client, alert your CivicActions team members in the Slack channel [#loving-security](https://civicactions.slack.com/messages/loving-security/), or forward the message to [security@civicactions.com](mailto:security@civicactions.com).
+
+### Spam folder
+
+If you find a suspicious email in your Spam folder, ignore it. The CivicActions mail server has already flagged it as spam.
 
 ## Reporting an incident
 
