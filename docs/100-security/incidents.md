@@ -32,6 +32,8 @@ _Note: The Report phishing option is effective at thwarting phishing threats onl
 
 ### Reporting process
 
+Please note that it is not considered a security risk to open an email, even if you do not know the sender or did not expect the message. [Many indicators of a suspcious email](https://support.google.com/mail/answer/8253?hl=en) can only be observed after you open the message.
+
 - **If you got phished:** If you clicked a link, opened an attachment, or entered data into a form, [report it immediately as a security incident](#reporting-an-incident). Even if you don't think something bad happened, you must report it. Many incidents happen silently so you won't notice until the damage has been done. The security team can help you verify that your system is secure.
 
 - **If you received a suspicious email:** [Use the Report phishing option in Gmail](https://support.google.com/mail/answer/8253?hl=en#zippy=%2Cuse-gmail-to-help-you-identify-phishing-emails%2Creport-a-phishing-email). It is located in the options menu for the message. To access the menu, open or preview the message, expand the message options menu (look for the button with three dots), and select Report phishing.
