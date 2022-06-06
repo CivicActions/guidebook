@@ -6,19 +6,19 @@ Time off under this policy is not being provided in addition to any pre-existing
 
 For employees in Ontario, CivicActions Canada is considered closed on the following holidays:
 
-| Holiday        | Dates                    |
-| -------------- | ------------------------ |
-| New Year's Day | January 1st              |
-| Family Day     | Third Monday in February |
-| Good Friday    | Friday before Easter     |
-| Victoria Day   | Monday before May 25th   |
-| Canada Day     | July 1st                 |
-| Civic Holiday  | 1st Monday in August     |
-| Labour Day     | 1st Monday in September  |
-| National Day for Truth and Reconciliation | September 30th |
-| Thanksgiving   | 2nd Monday of October    |
-| Christmas Day  | December 25th            |
-| Boxing Day     | December 26th            |
+| Holiday                                   | Dates                    |
+| ----------------------------------------- | ------------------------ |
+| New Year's Day                            | January 1st              |
+| Family Day                                | Third Monday in February |
+| Good Friday                               | Friday before Easter     |
+| Victoria Day                              | Monday before May 25th   |
+| Canada Day                                | July 1st                 |
+| Civic Holiday                             | 1st Monday in August     |
+| Labour Day                                | 1st Monday in September  |
+| National Day for Truth and Reconciliation | September 30th           |
+| Thanksgiving                              | 2nd Monday of October    |
+| Christmas Day                             | December 25th            |
+| Boxing Day                                | December 26th            |
 
 If a holiday falls on a the weekend, the Ontario office observes the holiday on the following Monday.
 
