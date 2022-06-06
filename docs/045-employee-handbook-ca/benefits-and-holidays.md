@@ -15,6 +15,7 @@ For employees in Ontario, CivicActions Canada is considered closed on the follow
 | Canada Day     | July 1st                 |
 | Civic Holiday  | 1st Monday in August     |
 | Labour Day     | 1st Monday in September  |
+| National Day for Truth and Reconciliation | September 30th |
 | Thanksgiving   | 2nd Monday of October    |
 | Christmas Day  | December 25th            |
 | Boxing Day     | December 26th            |
