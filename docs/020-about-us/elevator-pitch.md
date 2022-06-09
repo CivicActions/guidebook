@@ -12,7 +12,7 @@ Here's a sample:
 
 > them: Huh?
 
-> me: Have you read about the opiod crisis?
+> me: Have you read about the opioid crisis?
 
 > them: Yeah...
 
