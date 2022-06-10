@@ -12,11 +12,12 @@ Here's a sample:
 
 > them: Huh?
 
-> me: Have you read about the opiod crisis?
+> me: Have you read about the opioid crisis?
 
 > them: Yeah...
 
 > me: Well, one of our clients is the federal agency CMS. For CMS, we help them make data available on the financial relationship between drug manufactures and physicians. This makes it possible for non profits and journalists to study the links between payments to physicians by manufacturers. We are also helping veterans by making it easy to get support when they need it most.
+
 > me: The vision, in short, is to make our world work great for everyone. We focus on improving government. I personally am doing...
 
 Some points to keep in mind:
