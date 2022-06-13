@@ -18,7 +18,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 | Name                                         | Leads                                                                   | Slack                  | Meets                           |
 | -------------------------------------------- | ----------------------------------------------------------------------- | ---------------------- | ------------------------------- |
-| Accessibility                                | Mike Gifford                                                            | #accessibility         | Twice monthly                   |
+| Accessibility                                | Mike Gifford, Margeaux Salmon-Spring, Laura Flannery                    | #accessibility         | Twice monthly                   |
 | DevSecOps                                    | David Sumner                                                            | #devsecops             | Biweekly                        |
 | Diversity, Equity, Inclusion & Accessibility | Rotating                                                                | #celebrating-diversity | Weekly                          |
 | Drupal                                       | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Julie Kramer | #engineering-drupal    | Monthly                         |
