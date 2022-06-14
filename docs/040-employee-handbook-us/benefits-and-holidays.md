@@ -11,6 +11,7 @@ CivicActions is considered closed on the following holidays:
 | New Year's Day                      | January 1st\*                 |
 | Birthday of Martin Luther King, Jr. | Third Monday in January       |
 | Memorial Day                        | Last Monday in May            |
+| Juneteenth                          | June 19th\*                   |
 | Independence Day                    | July 4th\*                    |
 | Labor Day                           | First Monday in September     |
 | Veterans Day                        | November 11th\*               |
