@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "remark-cli": "^10.0.1",
     "remark-comment-config": "^7.0.1",
