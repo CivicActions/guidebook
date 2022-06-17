@@ -27,4 +27,3 @@ Backlog Refinement sessions are an important part of preparation for [Sprint Pla
 ## Additional Resources:
 
 - [Scrum Training Series Video](http://scrumtrainingseries.com/BacklogRefinementMeeting/BacklogRefinementMeeting.htm)
-- [Scrum Alliance Blog Post on Backlog Refinement](https://www.scrumalliance.org/community/articles/2014/october/product-backlog-refinement)
