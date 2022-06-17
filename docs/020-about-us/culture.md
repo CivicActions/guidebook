@@ -111,7 +111,7 @@ The accessibility team has been busily working on our accessibility website, whi
 ### If you'd like to know more about how you can participate:
 
 - Join the #accessibility Slack channel
-- [Submit an 'Add new team member' issue](https://github.com/CivicActions/accessibility/issues/new/choose) : [Join GitHub](https://github.com/) if you haven't already
+- [Submit an "Add new team member" issue](https://github.com/CivicActions/accessibility/issues/new/choose) : [Join GitHub](https://github.com/) if you haven't already
 - [Join the meetings](https://accessibility.civicactions.com/calendar) check-ins + prioritization + practice area calls
 
 ## Common Questions

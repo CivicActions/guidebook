@@ -2,17 +2,17 @@
 
 // This is inspired by https://github.com/sparkartgroup/quality-docs/
 
-var unified = require("unified");
-var remark2retext = require("remark-retext");
-var english = require("retext-english");
-var contractions = require("retext-contractions");
-var readability = require("retext-readability");
-var simplify = require("retext-simplify");
-var equality = require("retext-equality");
+import { unified } from "unified";
+import remark2retext from "remark-retext";
+import english from "retext-english";
+import contractions from "retext-contractions";
+import readability from "retext-readability";
+import simplify from "retext-simplify";
+import equality from "retext-equality";
 
 var ignoreWords = [];
 
-module.exports = attacher;
+export default attacher;
 
 function attacher() {
   this.use(

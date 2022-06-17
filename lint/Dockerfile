@@ -1,11 +1,11 @@
-FROM node:15-alpine
+FROM node:16-alpine
 
-ENV REVIEWDOG_VERSION=v0.11.0-nightly20201213+85edbc6
+ENV REVIEWDOG_VERSION=v0.13.1
 
 RUN \
     apk add --update \
     ca-certificates \
-    bash~=5.0 \
+    bash \
     git \
     openssh \
     python3 \
@@ -15,7 +15,7 @@ RUN \
     pip3 install mkdocs mdx_truly_sane_lists
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
-RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/nightly/master/install.sh | sh -s -- -b /usr/local/bin/ ${REVIEWDOG_VERSION}
+RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b /usr/local/bin/ ${REVIEWDOG_VERSION}
 
 COPY *.sh /usr/bin/
 

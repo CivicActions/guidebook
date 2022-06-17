@@ -2,15 +2,15 @@
 
 // This is inspired by https://github.com/sparkartgroup/quality-docs/
 
-var unified = require("unified");
-var remark2retext = require("remark-retext");
-var english = require("retext-english");
-var quotes = require("retext-quotes");
-var sentenceSpacing = require("retext-sentence-spacing");
-var repeated = require("retext-repeated-words");
-var indefinite = require("retext-indefinite-article");
+import { unified } from "unified";
+import remark2retext from "remark-retext";
+import english from "retext-english";
+import quotes from "retext-quotes";
+import sentenceSpacing from "retext-sentence-spacing";
+import repeated from "retext-repeated-words";
+import indefinite from "retext-indefinite-article";
 
-module.exports = attacher;
+export default attacher;
 
 function attacher() {
   this.use(
