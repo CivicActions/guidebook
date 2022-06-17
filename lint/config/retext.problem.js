@@ -10,7 +10,7 @@ import sentenceSpacing from "retext-sentence-spacing";
 import repeated from "retext-repeated-words";
 import indefinite from "retext-indefinite-article";
 
-module.exports = attacher;
+export default attacher;
 
 function attacher() {
   this.use(

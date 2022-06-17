@@ -12,7 +12,7 @@ import equality from "retext-equality";
 
 var ignoreWords = [];
 
-module.exports = attacher;
+export default attacher;
 
 function attacher() {
   this.use(
