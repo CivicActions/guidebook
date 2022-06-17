@@ -1,6 +1,9 @@
 #!/bin/bash
 set -euo pipefail
 
+# Add global git config entry for GITHUB_WORKSPACE as a safe.directory.
+git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
 LOCAL_MASTER=$(git branch --list master)
 # Use local master if it exists, otherwise
 MASTER=master
