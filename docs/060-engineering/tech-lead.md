@@ -153,7 +153,7 @@ The Technical Team Lead is the primary tech lead for a project with multiple TLs
 
 @todo Needs review.
 
-The Solutions Architect resembles the TA in that their focus is on solving complex engineering problems and communicating direction to an engineering team. The difference between the TA and the SA is that the SA generally does not lead an engineering team on a daily basis. They can be temporary 'smokejumpers' on a project brought in to work alongside a TL to solve complex problems, roadmap an implementation approach, produce tickets and documentation to guide the team, and lead the team only so far as is necessary. Or they can be utilized as a permanent resource at the program level alongside a TTL to jump between teams needing their support. Alternatively, a TTL may have SA as part of their responsibilities.
+The Solutions Architect resembles the TA in that their focus is on solving complex engineering problems and communicating direction to an engineering team. The difference between the TA and the SA is that the SA generally does not lead an engineering team on a daily basis. They can be temporary "smokejumpers" on a project brought in to work alongside a TL to solve complex problems, roadmap an implementation approach, produce tickets and documentation to guide the team, and lead the team only so far as is necessary. Or they can be utilized as a permanent resource at the program level alongside a TTL to jump between teams needing their support. Alternatively, a TTL may have SA as part of their responsibilities.
 
 ### Assistant Technical Lead (ATL)
 
@@ -185,7 +185,7 @@ Objectives and key results (OKRs) should target various responsibilities listed 
 - Leading development initiatives.
   - Map out the implementation for 3-5 features end to end.
   - Peer review all tickets for 3-5 epics.
-    New developers are up and running within 2 business days.
+  - New developers are up and running within 2 business days.
 
 ### Are TLs always backend engineers at heart? What about Frontend and DevSecOps engineers?
 
