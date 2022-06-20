@@ -10,7 +10,7 @@ Very important note: these are roles, not individuals. This means that:
 
 ## Tech Lead
 
-See [Tech Lead (TL) Role Description](tech-lead.md). 
+See [Tech Lead (TL) Role Description](tech-lead.md).
 
 ## Lead Themer
 

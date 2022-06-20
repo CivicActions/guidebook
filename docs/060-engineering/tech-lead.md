@@ -1,6 +1,6 @@
 # Tech Lead (TL) Role Description
 
-CivicActions technical team leaders are known as "Tech Leads" (TL). The Tech Lead is responsible for the technical direction of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals and architecting solutions to leading development teams to work on the highest priorities and ensuring successful project completion. Our Tech Leads work in tandem with a  project leadership team responsible for managing the project’s overall progress and budget, which may include Design Lead, Project Managers, Scrum Masters, Engagement Managers, and/or Product Managers.
+CivicActions technical team leaders are known as "Tech Leads" (TL). The Tech Lead is responsible for the technical direction of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals and architecting solutions to leading development teams to work on the highest priorities and ensuring successful project completion. Our Tech Leads work in tandem with a project leadership team responsible for managing the project's overall progress and budget, which may include Design Lead, Project Managers, Scrum Masters, Engagement Managers, and/or Product Managers.
 
 ## General Responsibilities
 
@@ -15,7 +15,7 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 ### Business Development
 
 - Support reviewing RFP and appendices.
-- Support  filling out analysis documentation.
+- Support filling out analysis documentation.
 - Support estimating the proposed solution.
 - Support development of project roadmaps.
 - Support for high-level technical solutioning.
@@ -24,9 +24,9 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 ### Planning
 
 - Responsible for release management, planning, and communication.
-- Accountable for knowing, understanding and communicating to the team the project contract scope, expectations, boundaries and knowledge gaps surrounding: project timeline, budgets, roles and responsibilities, partners and supporting entities, functional requirements, design requirements, accessibility requirements, performance requirements, security requirements, technical landscape. 
+- Accountable for knowing, understanding and communicating to the team the project contract scope, expectations, boundaries and knowledge gaps surrounding: project timeline, budgets, roles and responsibilities, partners and supporting entities, functional requirements, design requirements, accessibility requirements, performance requirements, security requirements, technical landscape.
 - Accountable for ensuring continuous delivery.
-- Accountable for leading project-wide technical discovery to understand an initiative’s functional, technical, testing, security, performance, and accessibility requirements in collaboration with service design and UX discovery efforts.
+- Accountable for leading project-wide technical discovery to understand an initiative's functional, technical, testing, security, performance, and accessibility requirements in collaboration with service design and UX discovery efforts.
 - Support the Product Owner (PO) and Project Manager (PM) in defining development priorities and identifying high value work.
 - Support ticket refinement.
 - Support epic story creation.
@@ -36,7 +36,7 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 
 - Responsible for onboarding engineers: project technical background, technical goals and active initiatives, team structure and personnel, project tools, environments, repositories, development workflows, CI/CD processes.
 - Responsible for offboarding engineers: removing admin access to sites/services/servers, updating any documentation, transferring tickets/knowledge, and so on.
-- Responsible for nurturing a project engineering team culture which values care, balance, openness, and honors client and partner culture and values (follow the platinum rule: treat others as they want to be treated). 
+- Responsible for nurturing a project engineering team culture which values care, balance, openness, and honors client and partner culture and values (follow the platinum rule: treat others as they want to be treated).
 - Responsible for fostering collaboration within and across teams and valuing listening and empathy.
 - Accountable for guiding all high-level technical discussions with the project team, partner teams, client, additional stakeholders, partners, and third parties.
 - Support individual professional development.
@@ -44,19 +44,19 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 ### Risk Management
 
 - Accountable for triaging current and potential technical risks.
-- Accountable for developing and communicating risk mitigation strategies for major technical risks. 
+- Accountable for developing and communicating risk mitigation strategies for major technical risks.
 - Support the team in gaining a broad understanding of what constitutes a risk - estimation (budget/timeline), security, performance, accessibility, usability, complexity (quality/maintenance) etc.
 - Supporting the team in identifying, communicating, and managing risks and blockers to engineering success.
 - Supporting the team in identifying and surfacing issues around best practices.
 
 ### Development
 
-- Responsible for facilitation of implementation and release of a stable sustainable product at the end of each sprint which meets stakeholder requirements, passes quality standards (e.g. functionality, code quality, security, performance, accessibility), and conforms to established best practices.  
-- Responsible for facilitation of establishment and implementation of development operations, processes, tools, and schedules surrounding local development, code workflows and promotion, automation, and environment usage.  
+- Responsible for facilitation of implementation and release of a stable sustainable product at the end of each sprint which meets stakeholder requirements, passes quality standards (e.g. functionality, code quality, security, performance, accessibility), and conforms to established best practices.
+- Responsible for facilitation of establishment and implementation of development operations, processes, tools, and schedules surrounding local development, code workflows and promotion, automation, and environment usage.
 - Responsible for technical architecture.
 - Responsible for ensuring design and coding standard compliance.
 - Responsible for applying continuous learning within project engineering teams, CivicActions engineering team, and relevant practice Areas.
-- Responsible for leading code review processes. 
+- Responsible for leading code review processes.
 - Responsible for keeping project engineering documentation thorough and current to the extent that the project can be handed off to a new engineering team.
 - Responsible for ensuring Agile best practices are followed within the engineering team.
 - Support establishing and implementing continuous integration tools and processes.
@@ -75,8 +75,8 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 
 - Accountable for facilitating standards around implementation plans, estimates, and testing steps on tickets and holding the team accountable to these.
 - Accountable for ticket risk assessment.
-- Support the project team in removing ticket blockers. 
-- Support facilitating standards around ticket creation. 
+- Support the project team in removing ticket blockers.
+- Support facilitating standards around ticket creation.
 - Support ticket prioritization.
 - Support assignment of tickets when applicable.
 - Supports the Project Manager reviewing tickets for proper formatting (implementation plans, estimates, user stories) and ensures that tickets appropriately document the issue and the resolution.
@@ -89,21 +89,21 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 ## Responsibilities not expected
 
 - Knowing everything about a project: knowledge is shared among all project participants.
-- Coding everything:  the Tech Lead's primary responsibilities are around leading and supporting the engineering team, not the engineering itself.  
-- Primary organizational contact with the Product Owner: that is part of the Project Manager’s role.
-- Final authority on development and ticket backlog priorities: that is part of the Product Owner’s role.
+- Coding everything: the Tech Lead's primary responsibilities are around leading and supporting the engineering team, not the engineering itself.
+- Primary organizational contact with the Product Owner: that is part of the Project Manager's role.
+- Final authority on development and ticket backlog priorities: that is part of the Product Owner's role.
 - Availability and support outside of established working hours, unless mutually agreed upon as a project responsibility.
 
 ## Skills
 
 - Building, leading and managing project engineering teams.
 - Coaching and mentoring engineers.
-- Complex problem solving. 
-- Risk analysis and management. 
+- Complex problem solving.
+- Risk analysis and management.
 - Estimating level of effort.
-- Technical prioritization. 
-- Managing competing priorities, parallel work streams. 
-- Executive functioning — organizational and planning skills applied to self and team.  
+- Technical prioritization.
+- Managing competing priorities, parallel work streams.
+- Executive functioning — organizational and planning skills applied to self and team.
 - Time management for self and team.
 - Communicating technical subjects to technical and non-technical audiences.
 - Presenting to audiences.
@@ -111,23 +111,23 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 - Familiar with best practices of chosen technical stack.
 - Relationship building.
 - Conflict resolution.
-- Qualities: Motivating, self-directed, bias towards action, self and team awareness, 
+- Qualities: Motivating, self-directed, bias towards action, self and team awareness,
 - Values: Collaboration, listening, empathy, perseverance, resilience, adaptability, transparency, attention to detail, ownership, accountability.
 
 ## Experience
 
 - Gathering, defining, and translating technical requirements.
-- Architecting best-of-breed technical solutions based on requirements.  
-- Roadmapping technical solutions. 
-- Implementing and continuously improving engineering processes. 
+- Architecting best-of-breed technical solutions based on requirements.
+- Roadmapping technical solutions.
+- Implementing and continuously improving engineering processes.
 - Implementing complex development tasks.
-- Managing and integrating codebases on large teams. 
-- Reviewing code with an eye for best practices, efficiency, performance, and security. 
-- Testing and debugging code. 
+- Managing and integrating codebases on large teams.
+- Reviewing code with an eye for best practices, efficiency, performance, and security.
+- Testing and debugging code.
 - Release management.
-- Agile methodology and best practices. 
-- Exposure to a variety of projects of varying team sizes and durations. 
-- Remote-based work. 
+- Agile methodology and best practices.
+- Exposure to a variety of projects of varying team sizes and durations.
+- Remote-based work.
 
 ## Technical Leadership Project Roles at CivicActions
 
@@ -141,29 +141,30 @@ Technical Lead is the de facto role for a project engineering lead, commonly res
 
 @todo Needs review.
 
-The Technical Architect is the primary tech lead for a single large engineering team. Another differentiator between TA and TL, besides team size, is the scope of technical architecture work required. A team with a TA is typically involved in multiple large efforts of new development, such as in a new large web site. As a result the TA often spends as much time communicating with the client and supporting parties as she does with her engineering team, often resulting in an environment where the TA establishes and guides the team on an implementation approach but may be less involved in the micro-level details than a TL. 
+The Technical Architect is the primary tech lead for a single large engineering team. Another differentiator between TA and TL, besides team size, is the scope of technical architecture work required. A team with a TA is typically involved in multiple large efforts of new development, such as in a new large web site. As a result the TA often spends as much time communicating with the client and supporting parties as she does with her engineering team, often resulting in an environment where the TA establishes and guides the team on an implementation approach but may be less involved in the micro-level details than a TL.
 
 ### Technical Team Lead (TTL)
 
 @todo Needs review.
 
-The Technical Team Lead is the primary tech lead for a project with multiple TLs and/or TAs, analogous to a program manager in project management. The Technical Team Lead is focused at the program level on overall program technical strategy, leading/supporting a team of tech leads, coordinating with multiple third-parties and supporting teams, and supporting technical leadership of multiple projects or multiple engineering teams working in parallel.   
+The Technical Team Lead is the primary tech lead for a project with multiple TLs and/or TAs, analogous to a program manager in project management. The Technical Team Lead is focused at the program level on overall program technical strategy, leading/supporting a team of tech leads, coordinating with multiple third-parties and supporting teams, and supporting technical leadership of multiple projects or multiple engineering teams working in parallel.
 
 ### Solutions Architect (SA)
 
 @todo Needs review.
 
-The Solutions  Architect resembles the TA in that their focus is on solving complex engineering problems and communicating direction to an engineering team. The difference between the TA and the SA is that the SA generally does not lead an engineering team on a daily basis. They can be temporary 'smokejumpers' on a project brought in to work alongside a TL to solve complex problems, roadmap an implementation approach, produce tickets and documentation to guide the team, and lead the team only so far as is necessary. Or they can be utilized as a permanent resource at the program level alongside a TTL to jump between teams needing their support. Alternatively, a TTL may have SA as part of their responsibilities. 
+The Solutions Architect resembles the TA in that their focus is on solving complex engineering problems and communicating direction to an engineering team. The difference between the TA and the SA is that the SA generally does not lead an engineering team on a daily basis. They can be temporary 'smokejumpers' on a project brought in to work alongside a TL to solve complex problems, roadmap an implementation approach, produce tickets and documentation to guide the team, and lead the team only so far as is necessary. Or they can be utilized as a permanent resource at the program level alongside a TTL to jump between teams needing their support. Alternatively, a TTL may have SA as part of their responsibilities.
 
 ### Assistant Technical Lead (ATL)
 
-The Assistant Technical Lead role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities  (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL role is commonly an internally-identified role whereas the other technical leadership roles may be defined in the contract.
+The Assistant Technical Lead role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL role is commonly an internally-identified role whereas the other technical leadership roles may be defined in the contract.
 
 ## FAQs
 
 ### Is a TL an individual or a role?
 
 This is a role, which means that:
+
 - One individual could perform one role on one project and another role on another project (e.g. a TL on project A could also be a frontend engineer on project B).
 - Multiple roles on a project could be shared by the same person (e.g. the TL could also be the Lead Engineer). This is the norm for many small and medium projects.
 
@@ -177,13 +178,14 @@ This is a role, which means that:
 ### What are some personal OKRs that I can use to gain experience to become a TL or as an ATL?
 
 Objectives and key results (OKRs) should target various responsibilities listed above with specific key results. Examples:
+
 - Getting involved in sales and business development.
-   - Completed 1-3 project scorecards.
-   - Participated in 1-3 project proposals.
+  - Completed 1-3 project scorecards.
+  - Participated in 1-3 project proposals.
 - Leading development initiatives.
-   - Map out the implementation for 3-5 features end to end. 
-   - Peer review all tickets for 3-5 epics.
-New developers are up and running within 2 business days.
+  - Map out the implementation for 3-5 features end to end.
+  - Peer review all tickets for 3-5 epics.
+    New developers are up and running within 2 business days.
 
 ### Are TLs always backend engineers at heart? What about Frontend and DevSecOps engineers?
 
