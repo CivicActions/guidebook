@@ -1,4 +1,4 @@
-# Tech Lead (TL) Role Description
+# Tech Lead (TL) Project Role Description
 
 CivicActions technical team leaders are known as "Tech Leads" (TL). The Tech Lead is responsible for the technical direction of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals and architecting solutions to leading development teams to work on the highest priorities and ensuring successful project completion. Our Tech Leads work in tandem with a project leadership team responsible for managing the project's overall progress and budget, which may include Design Lead, Project Managers, Scrum Masters, Engagement Managers, and/or Product Managers.
 
@@ -157,23 +157,23 @@ The Solutions Architect resembles the TA in that their focus is on solving compl
 
 ### Assistant Technical Lead (ATL)
 
-The Assistant Technical Lead role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL role is commonly an internally-identified role whereas the other technical leadership roles may be defined in the contract.
+The Assistant Technical Lead project role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the project team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL project role is commonly an internally-identified project role whereas the other technical leadership project roles may be defined in the contract.
 
 ## FAQs
 
-### Is a TL an individual or a role?
+### Is a TL an individual on the project or a project role?
 
-This is a role, which means that:
+This is a project role, which means that:
 
 - One individual could perform one role on one project and another role on another project (e.g. a TL on project A could also be a frontend engineer on project B).
 - Multiple roles on a project could be shared by the same person (e.g. the TL could also be the Lead Engineer). This is the norm for many small and medium projects.
 
 ### How does one become a TL?
 
-- An individual could be hired into the role.
-- An individual could show interest and experience and volunteer for the role.
-- An individual who has experience can be asked to take on the role.
-- An individual can first step into the Assistant Technical Lead role and work towards gaining experience with the different responsibilities before they take on the TL role.
+- An individual could be hired to fulfil the project role.
+- An individual could show interest and experience and volunteer for the project role.
+- An individual who has experience can be asked to take on the project role.
+- An individual can first step into the Assistant Technical Lead project role and work towards gaining experience with the different responsibilities before they take on the TL project role.
 
 ### What are some personal OKRs that I can use to gain experience to become a TL or as an ATL?
 
@@ -189,11 +189,11 @@ Objectives and key results (OKRs) should target various responsibilities listed 
 
 ### Are TLs always backend engineers at heart? What about Frontend and DevSecOps engineers?
 
-The TL role is one type of growth path to consider. Any engineer is welcome to work towards the TL role. An engineer who is interested in TL should identify if they can take on the responsibilities or have gaps and work towards closing those gaps.
+The TL project role is one type of growth path to consider. Any engineer is welcome to work towards the TL project role. An engineer who is interested in TL should identify if they can take on the responsibilities or have gaps and work towards closing those gaps.
 
 ### Should the ability to perform these responsibilities not be expected of any engineer who has attained "some" level of experience on projects?
 
-Yes. Ultimately this role (an individual or multiple team members) is given the ownership of those expectations in formal documentation.
+Yes. Ultimately this project role (an individual or multiple team members) is given the ownership of those expectations in formal documentation.
 
 ## Important Links for TLs
 
