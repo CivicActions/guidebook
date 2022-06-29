@@ -54,6 +54,15 @@ Individuals must meet all of the following requirements to be receive the referr
 1. The Referred Hire must maintain continuous full-time employment in good standing with CivicActions, Inc. for at least 90 days after the Referred Hire's first day of employment without accepting other employment or communicating their intention to resign from CivicActions, Inc.
 1. You must not have received three or more bonuses as a result of this program in the last 365 days, unless you receive written approval from your supervisor in advance.
 
+## How to make a referral link with Greenhouse
+
+A simple way to refer someone is with the Greenhouse referral link. You can find an official tutorial on this process [here](https://support.greenhouse.io/hc/en-us/articles/200721674-Generate-my-referrer-link#:~:text=The%20easiest%20way%20to%20generate,the%20link%20to%20your%20clipboard.). 
+
+You can access CivicActions' Greenhouse through the G-Suite apps. Just go to your Gmail Inbox and click the app switcher icon:
+
+![image](https://user-images.githubusercontent.com/9451726/176326514-b5b4d27f-9858-4527-900a-39475a698a3a.png)
+
+
 ## Additional Information
 
 All candidates will be evaluated for employment consistent with company policies and procedures. CivicActions generally prioritizes reviewing the qualifications of and interviewing Referred Candidates. The priority of reviewing a Referred Candidate will not be affected by a Referred Candidates status as a member of a UG.
