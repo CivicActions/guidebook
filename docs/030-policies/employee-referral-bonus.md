@@ -56,12 +56,11 @@ Individuals must meet all of the following requirements to be receive the referr
 
 ## How to make a referral link with Greenhouse
 
-A simple way to refer someone is with the Greenhouse referral link. You can find an official tutorial on this process [here](https://support.greenhouse.io/hc/en-us/articles/200721674-Generate-my-referrer-link#:~:text=The%20easiest%20way%20to%20generate,the%20link%20to%20your%20clipboard.). 
+A simple way to refer someone is with the Greenhouse referral link. You can find an official tutorial on this process [here](https://support.greenhouse.io/hc/en-us/articles/200721674-Generate-my-referrer-link#:~:text=The%20easiest%20way%20to%20generate,the%20link%20to%20your%20clipboard.).
 
 You can access CivicActions' Greenhouse through the G-Suite apps. Just go to your Gmail Inbox and click the app switcher icon:
 
 ![image](https://user-images.githubusercontent.com/9451726/176326514-b5b4d27f-9858-4527-900a-39475a698a3a.png)
-
 
 ## Additional Information
 
