@@ -60,8 +60,6 @@ A simple way to refer someone is with the Greenhouse referral link. You can find
 
 You can access CivicActions' Greenhouse through the G-Suite apps. Just go to your Gmail Inbox and click the app switcher icon:
 
-![image](https://user-images.githubusercontent.com/9451726/176326514-b5b4d27f-9858-4527-900a-39475a698a3a.png)
-
 ## Additional Information
 
 All candidates will be evaluated for employment consistent with company policies and procedures. CivicActions generally prioritizes reviewing the qualifications of and interviewing Referred Candidates. The priority of reviewing a Referred Candidate will not be affected by a Referred Candidates status as a member of a UG.
