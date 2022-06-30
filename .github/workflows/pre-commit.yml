@@ -9,17 +9,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0
-          persist-credentials: false
+          # Check out the right branch, and use a token so the new commit also runs actions.
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PRE_COMMIT_TOKEN }}
       - uses: actions/setup-python@v2
       # Skip checks that don't auto-fix issues initially.
-      - uses: pre-commit/action@v2.0.0
+      - uses: pre-commit/action@v3.0.0
         env:
           SKIP: remark,codespell,mkdocs,check-yaml,check-json,check-added-large-files
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          token: ${{ secrets.PRE_COMMIT_TOKEN }}
+          commit_message: Apply pre-commit automatic fixes.
       # Final run without committing to ensure passes.
-      - uses: pre-commit/action@v2.0.0
+      - uses: pre-commit/action@v3.0.0
         env:
           # We skip checks that have their own actions.
           SKIP: remark,codespell
