@@ -25,7 +25,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Workforce Transformation                     | Chianti Lomax                                                           | #eduservices           |                                      |
 | Frontend                                     | Dan Goodwin, Eric Huffman, Iris Ibekwe                                  | #engineering-frontend  | Biweekly                             |
 | Data Science                                 | Jake Rozran                                                             | #engineering-data      |                                      |
-| Product Management                           | TBD                                                                     | #productmanagement     | Biweekly                             |
+| Product Management                           | Liz Tupper                                                              | #productmanagement     | Biweekly                             |
 | Project Management                           | Heidi Harting-Rex                                                       | #projectmanagement     | Biweekly                             |
 | Quality Assurance                            | Eric Napier                                                             | #engineering-qa        | Biweekly                             |
-| Design                                       | Ben Leffler, Val Runde                                                  | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| Design                                       | Ben Leffler, Jenna Waszak, Val Runde                                    | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
