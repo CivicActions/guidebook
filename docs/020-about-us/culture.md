@@ -116,7 +116,10 @@ The accessibility team has been busily working on our accessibility website, whi
 
 ## Common Questions
 
-### Q: What are some keys to success at CivicActions?
+
+
+
+#### Q: What are some keys to success at CivicActions?
 
 A: The most successful team members at CivicActions embody the culture. They have high emotional intelligence, are active listeners, are introspective and reflective, embrace failure, and do not tolerate a blame culture. It's also helpful if you have "self-starter" tendencies and enjoy taking initiative -- while also being a great team player.
 
