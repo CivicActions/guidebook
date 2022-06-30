@@ -18,14 +18,14 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 | Name                                         | Leads                                                                   | Slack                  | Meets                           |
 | -------------------------------------------- | ----------------------------------------------------------------------- | ---------------------- | ------------------------------- |
-| Accessibility                                | Mike Gifford, Margeaux Salmon-Spring, Laura Flannery                    | #accessibility         | Twice monthly                   |
+| Accessibility                                | Margeaux Salmon-Spring, Mike Gifford, Laura Flannery                    | #accessibility         | Twice monthly                   |
 | DevSecOps                                    | David Sumner                                                            | #devsecops             | Biweekly                        |
 | Diversity, Equity, Inclusion & Accessibility | Rotating                                                                | #celebrating-diversity | Weekly                          |
 | Drupal                                       | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Julie Kramer | #engineering-drupal    | Monthly                         |
 | Workforce Transformation                     | Chianti Lomax                                                           | #eduservices           |                                 |
-| Frontend                                     | Iris Ibekwe, Dan Goodwin                                                | #engineering-frontend  | Biweekly                        |
+| Frontend                                     | Dan Goodwin, Eric Huffman, Iris Ibekwe                                  | #engineering-frontend  | Biweekly                        |
 | Data Science                                 | Jake Rozran                                                             | #engineering-data      |                                 |
 | Product Management                           | TBD                                                                     | #productmanagement     | Biweekly                        |
 | Project Management                           | Heidi Harting-Rex                                                       | #projectmanagement     | Biweekly                        |
 | Quality Assurance                            | Eric Napier                                                             | #engineering-qa        | Biweekly                        |
-| Design                                       | Ben Leffler, Val Runde                                                  | #design                | Weekly (Ops), Weekly (Brownbag) |
+| Design                                       | Ben Leffler, Val Runde                                                  | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
