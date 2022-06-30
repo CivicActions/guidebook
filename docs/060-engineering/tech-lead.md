@@ -137,24 +137,6 @@ Any of the following technical leadership roles may be employed on a project tea
 
 Technical Lead is the de facto role for a project engineering lead, commonly responsible for leading a team of engineers and responsible for the technical direction of a project (or a single project engineering team on projects with multiple engineering teams)
 
-### Technical Architect (TA)
-
-@todo Needs review.
-
-The Technical Architect is the primary tech lead for a single large engineering team. Another differentiator between TA and TL, besides team size, is the scope of technical architecture work required. A team with a TA is typically involved in multiple large efforts of new development, such as in a new large web site. As a result the TA often spends as much time communicating with the client and supporting parties as she does with her engineering team, often resulting in an environment where the TA establishes and guides the team on an implementation approach but may be less involved in the micro-level details than a TL.
-
-### Technical Team Lead (TTL)
-
-@todo Needs review.
-
-The Technical Team Lead is the primary tech lead for a project with multiple TLs and/or TAs, analogous to a program manager in project management. The Technical Team Lead is focused at the program level on overall program technical strategy, leading/supporting a team of tech leads, coordinating with multiple third-parties and supporting teams, and supporting technical leadership of multiple projects or multiple engineering teams working in parallel.
-
-### Solutions Architect (SA)
-
-@todo Needs review.
-
-The Solutions Architect resembles the TA in that their focus is on solving complex engineering problems and communicating direction to an engineering team. The difference between the TA and the SA is that the SA generally does not lead an engineering team on a daily basis. They can be temporary "smokejumpers" on a project brought in to work alongside a TL to solve complex problems, roadmap an implementation approach, produce tickets and documentation to guide the team, and lead the team only so far as is necessary. Or they can be utilized as a permanent resource at the program level alongside a TTL to jump between teams needing their support. Alternatively, a TTL may have SA as part of their responsibilities.
-
 ### Assistant Technical Lead (ATL)
 
 The Assistant Technical Lead project role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the project team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL project role is commonly an internally-identified project role whereas the other technical leadership project roles may be defined in the contract.
