@@ -11,4 +11,4 @@ jobs:
       - name: Run mkdocs
         uses: docker://civicactions/handbook-lint:latest
         with:
-          entrypoint: mkdocs.sh
+          entrypoint: /usr/bin/mkdocs.sh
