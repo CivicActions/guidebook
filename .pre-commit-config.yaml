@@ -44,5 +44,5 @@ repos:
     hooks:
       - id: prettier
 ci:
-  # We skip checks that have their own actions.
-  skip: [remark, codespell]
+  # We skip checks that have their own actions or external dependencies.
+  skip: [remark, codespell, mkdocs]
