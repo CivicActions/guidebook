@@ -17,7 +17,7 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
   remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -f=remark-lint \
-      -name="remark-lint" \
+      -name="remark-lint-suggestions" \
       -reporter="github-pr-check" \
       -fail-on-error="false" \
       -level="info" \
@@ -25,7 +25,7 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
 
   remark --rc-path=/usr/src/remarkrc.problem --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -f=remark-lint \
-      -name="remark-lint" \
+      -name="remark-lint-problem" \
       -reporter="github-pr-check" \
       -fail-on-error="true" \
       -level="error" \
