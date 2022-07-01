@@ -1,0 +1,14 @@
+name: mkdocs
+
+on:
+  pull_request:
+
+jobs:
+  mkdocs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run mkdocs
+        uses: docker://civicactions/handbook-lint:latest
+        with:
+          entrypoint: mkdocs.sh
