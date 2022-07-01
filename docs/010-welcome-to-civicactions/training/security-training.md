@@ -17,7 +17,7 @@ Every employee and contractor at CivicActions practices safe and secure computin
 
 - [Securing our Laptops](../../100-security/awareness.md#securing-your-laptop)
 - [Using Password Management Tools](../../100-security/awareness.md#password-management-tools)
-- [Using Multi-Factor Authentication](../../100-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
+- [Using Multi-Factor Authentication](../../100-security/awareness.md#use-multi-factor-authentication-mfa)
 - [Increasing our awareness of Phishing and Social Engineering](../../100-security/awareness.md#phishing-and-social-engineering)
 - [Keeping our Personal Systems up-to-date](../../100-security/awareness.md#keep-your-systems-up-to-date)
 - [Employing Disk Encryption and Secure Storage Management](../../100-security/awareness.md#disk-encryption-and-storage-management)

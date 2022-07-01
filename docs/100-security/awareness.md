@@ -26,7 +26,7 @@ A password manager will enable you to have unique, strong passwords for every se
 - We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](#yubikey) token).
 - Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
 - It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
-- CivicActions also requires that you have a [backup second factor authenticator](#two-factor-redundancy-and-tfa-backup-codes) for your LastPass account.
+- CivicActions also requires that you have a [backup second factor authenticator](#multi-factor-redundancy-and-mfa-backup-codes) for your LastPass account.
 
 ### Disable Browser Password Autofill
 
@@ -36,19 +36,19 @@ LastPass provides secure password management especially when unlocked via Two Fa
 - In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
 - In Safari, go to Preferences >> Passwords and uncheck "AutoFill user names and passwords"
 
-## Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
+## Use Multi-Factor Authentication (MFA)
 
-Two-Factor Authentication (TFA) includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. CivicActions recommends you use Two-Factor Authentication for services that support it.
+Multi-Factor Authentication (MFA), sometimes known as Two-Factor Authentication (TFA or 2FA), greatly enhances login security by requiring two or more pieces of evidence (or factors) before granting access to a service. These factors may include something you know (e.g., your memorized password), something you have (e.g., your smartphone or a YubiKey), and something you are (e.g., your fingerprint or iris scan). CivicActions recommends you use multi-factor authentication for services that support it.
 
 For example, as your password manager grows to have more passwords in it - not only CivicActions systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
 
-CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include GMail, Hangouts and Google Docs access - use Two-Factor Authentication on their CivicActions Google Account.
+CivicActions requires that its employees and contractors that are given access to CivicActions Services - that include Gmail, Google Drive, Gitlab, and Slack - use multi-factor authentication on their CivicActions Google Account.
 
-### Two-Factor Authenticators (TFA)
+### Multi-Factor Authenticators (MFA)
 
 There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. _(Note that Google Authenticator is no longer recommended as it does not support encrypted cloud backup.)_
 
-Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)).
+Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Multi-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes)).
 
 #### LastPass Authenticator
 
@@ -58,17 +58,17 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 #### Authy
 
 - For installation instructions (iPhone or Android), see: <https://authy.com/download/>
-- Guides for setting up Two-Factor Authentication: <https://authy.com/guides/>
+- Guides for setting up Multi-Factor Authentication: <https://authy.com/guides/>
 
 #### YubiKey
 
-Once set up, your YubiKey greatly simplifies the process of Two-Factor Authentication (TFA). While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches easily to your keychain _(and should only be inserted when authenticating)_.
+Once set up, your YubiKey greatly simplifies the process of Multi-Factor Authentication (MFA). While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches easily to your keychain _(and should only be inserted when authenticating)_.
 
-- See "[Let's get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
+- See "[Let's get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use MFA with: [Gmail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
 
-While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes).
+While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes).
 
-### Partial List of TFA-Enabled Services
+### Partial List of MFA-Enabled Services
 
 - LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
 - Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
@@ -77,11 +77,11 @@ While YubiKey is the easiest to use on a daily basis, if you lose it you could g
 - iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
 - Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)
 
-### Two-Factor Redundancy and TFA Backup Codes
+### Multi-Factor Redundancy and MFA Backup Codes
 
-As a final, crucially important step, **_you must have a backup second factor for all your TFA accounts_**. Imagine that you use a YubiKey to unlock LastPass and you lose it. Without a backup second factor, you would be effectively locked out of all of your accounts. So you need a backup.
+As a final, crucially important step, **_you must have a backup second factor for all your MFA accounts_**. Imagine that you use a YubiKey to unlock LastPass and you lose it. Without a backup second factor, you would be effectively locked out of all of your accounts. So you need a backup.
 
-SMS can often be an easy backup, but it is known to be insecure. Most services that provide TFA provide multiple second factor options, and we recommend that you set up at least one of several backup strategies for each TFA-enabled service you use:
+SMS can often be an easy backup, but it is known to be insecure. Most services that provide MFA provide multiple second factor options, and we recommend that you set up at least one of several backup strategies for each MFA-enabled service you use:
 
 - Have a second YubiKey in safe keeping (the author of this article has three).
 - [Authy](#authy) and [LastPass Authenticator](#lastpass-authenticator) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
