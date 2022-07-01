@@ -38,19 +38,19 @@ In particular:
 - We ensure that access to documents/sites/dashboards is limited to those that should have access.
 - This includes our Google Docs!
 - We ensure that users with enhanced privileges (to sites and/or servers)
-  - must use TFA for authentication/authorization
+  - must use MFA for authentication/authorization
   - are appropriately adjusted upon separation from CivicActions.
 
-### Advanced: Connecting to TFA-enabled Sevices/Apps
+### Advanced: Connecting to MFA-enabled Sevices/Apps
 
-Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass TFA.
+Some applications and services may need to connect to your CivicActions Google account but they might not be able to handle Multi-Factor Authentication (MFA). An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass MFA.
 
-There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other TFA-enabled services also support app passwords -- see their respective documentation.
+There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other MFA-enabled services also support app passwords -- see their respective documentation.
 
 ### IT: Sharing Service Accounts
 
 - If a service allows individual accounts, use only individual accounts and not shared credentials.
-- Prefer services that allow individual accounts, services that allow TFA and secure password policies.
+- Prefer services that allow individual accounts, services that allow MFA and secure password policies.
 - If a service only allows a single account, have a shared LastPass master account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day LastPass accounts for the 2-3 trusted people.
 - If the LastPass master account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
 - Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people leave.
