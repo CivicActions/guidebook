@@ -2,7 +2,6 @@ name: reviewdog
 on: [pull_request]
 jobs:
   remark-lint:
-    name: runner / remark-lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
