@@ -18,6 +18,10 @@ While Zoom is our default video meeting zoom, there are a few use cases for usin
 - **You can dial people into a Google Meet call.**
 - A Google Meet invite dialog can generate a phone number that people can call
 
+## Video Call Best Practices
+
+See [Video Call Best Practices](../video-call-best-practices.md) for details.
+
 ## Google Meet Accessibility
 
 - There are a lot of [great accessibility features](https://support.google.com/meet/answer/7313544) in Google Meet
