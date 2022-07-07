@@ -20,17 +20,7 @@ While Zoom is our default video meeting zoom, there are a few use cases for usin
 
 ## Video Call Best Practices
 
-- Be on time - please! Every 10 seconds actually matters
-- Teams are encouraged to turn on their video during calls. This helps most people build trust and deeper connections. If you feel being on camera is draining or stressful, it is recommended that you turn on your video at the beginning of the call and tell the other participants that you can focus better without the video. You can also let your team members know about this preference ahead of time if you would rather not discuss it during the call.
-- Add a photo to your account so it shows up in Google Meet if your camera is off
-- We use the chat and screen sharing features
-- Turn off your camera or reduce bandwidth if connection is poor
-- Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
-- Use proper etiquette for video call professionalism (consider the appropriateness of background visuals/noise, attire/dress, use of effects, eating, muting, etc.)
-- It's okay to mute others or ask them to mute themselves
-- We can invite people outside of CivicActions
-- If someone hears an echo & you don't, then it's likely your computer creating the echo. Try using headphones or plugging them in again
-- Use screen sharing for demos and for pairing
+See [Video Call Best Practices](../video-call-best-practices.md) for details.
 
 ## Google Meet Accessibility
 

@@ -18,6 +18,10 @@ Most CivicActions employees have free Zoom accounts, which have enough features 
 
 Paid accounts are available for those who need them regularly (once a week or so, or if you host a regular call that needs Zoom). If you need to host a longer meeting, or you need to record a meeting, you can either ask a project manager or someone you know has a paid account to host it for you, or you can request a paid account via <mailto:admin@civicactions.com>.
 
+## Video Call Best Practices
+
+See [Video Call Best Practices](../video-call-best-practices.md) for details.
+
 ## Zoom Accessibility
 
 - There are a lot of [great accessibility features](https://explore.zoom.us/en/accessibility/) in Zoom. It is generally regarded as the most accessible video conferencing system.
