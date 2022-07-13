@@ -51,7 +51,7 @@ We encourage all CivicActioners to give back to the Drupal community (see [commu
 
 If you have created or are creating a module or a theme and use CivicActions time to work on it —  either for a client or as professional development/community participation time — please make sure to add CivicActions under ‘Supporting organizations’ when editing the module or theme. An example screenshot of what the checkbox looks like:
 
-
+![Supporting organizations field screenshot seen in Drupal.org module and theme edit forms](../../images/drupal-pa-support-org-screenshot.png)
 
 Adding the organization will ensure that the module and theme will also be attributed to CivicActions. Examples of that can be seen under https://www.drupal.org/civicactions#projects-supported.
 
@@ -59,6 +59,6 @@ Adding the organization will ensure that the module and theme will also be attri
 
 If you are contributing to drupal.org issues for CivicActions and our customers, please make sure to click the box under ‘Attribute this contribution’. An example screenshot of what the checkbox looks like:
 
-
+![Attribute this contribution field screenshot seen in Drupal.org issue comment forms](../../images/drupal-pa-contribution-attribution-screenshot.png)
 
 Checking the box and adding the organization and customer will ensure that any credit you receive will also be attributed to CivicActions and the customer. Examples of that can be seen under https://www.drupal.org/civicactions#org-page-issue-credit.
