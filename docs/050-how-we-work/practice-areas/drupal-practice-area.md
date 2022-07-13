@@ -38,11 +38,11 @@ CivicActions engineers tend to be very helpful, so it's rare for a question not 
 
 ## Contributions to drupal.org
 
-We encourage all CivicActioners to give back to the Drupal community (see [community participation](../030-policies/community-participation/#professional-development-and-community-participation). To track those contributions, follow the instructions below. Doing this helps our Practice Area to be aware of and appreciate your contributions. It also helps our organization as a whole!
+We encourage all CivicActioners to give back to the Drupal community (see [community participation](../../030-policies/community-participation/#professional-development-and-community-participation)). To track those contributions, follow the instructions below. Doing this helps our Practice Area to be aware of and appreciate your contributions. It also helps our organization as a whole!
 
 ### Update your drupal.org profile
 
-- Go to http://drupal.org/.
+- Go to [http://drupal.org/](http://drupal.org/).
 - Log into your drupal.org account (create one if you do not have one).
 - Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
 - Align your role with CivicActions in the "[Contributor roles](https://www.drupal.org/community/contributor-guide/find-your-role)" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support".
