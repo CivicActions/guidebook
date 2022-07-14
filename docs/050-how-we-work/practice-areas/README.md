@@ -18,10 +18,10 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 | Name                                         | Leads                                                                   | Slack                  | Meets                                |
 | -------------------------------------------- | ----------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
-| Accessibility                                | Laura Flannery, Margeaux Salmon-Spring, Mike Gifford                    | #accessibility         | Twice monthly                        |
+| [Accessibility](accessibility-practice-area.md)                                | Laura Flannery, Margeaux Salmon-Spring, Mike Gifford                    | #accessibility         | Twice monthly                        |
 | DevSecOps                                    | David Sumner                                                            | #devsecops             | Biweekly                             |
 | Diversity, Equity, Inclusion & Accessibility | Rotating                                                                | #celebrating-diversity | Weekly                               |
-| Drupal                                       | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Julie Kramer | #engineering-drupal    | Monthly                              |
+| [Drupal](drupal-practice-area.md)                                      | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Julie Kramer | #engineering-drupal    | Monthly                              |
 | Workforce Transformation                     | Chianti Lomax                                                           | #eduservices           |                                      |
 | Frontend                                     | Dan Goodwin, Eric Huffman, Iris Ibekwe                                  | #engineering-frontend  | Biweekly                             |
 | Data Science                                 | Jake Rozran                                                             | #engineering-data      |                                      |
