@@ -1,10 +1,12 @@
 # Drupal Practice Area
 
-Drupal is one of CivicActions [Practice Areas](README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
+Drupal is one of CivicActions's [Practice Areas](README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
+
+## Drupal Practice Area Calls
 
 To be invited to the monthly call, please post a message in the Slack channel and one of your colleagues will add you. You can also find the call on our CivicActions (Primary) calendar.
 
-Drupal engineers meet each month on Zoom to discuss topics of common interest. Make sure you have been added to the calendar invites. You are encouraged to share your contributions to Drupal.org and the CivicActions Drupal practice area in the Slack channel and on the monthly call.
+Drupal engineers meet each month on Zoom to discuss topics of common interest. You are encouraged to share your contributions to Drupal.org and the CivicActions Drupal practice area in the Slack channel and on the monthly call.
 
 The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
@@ -12,7 +14,7 @@ More recently, we've been adding agenda items and notes to this document: [2022 
 
 ## Drupal Practice Area OKRs
 
-CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth](https://www.amazon.com/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=sr_1_1)
+CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth](https://www.whatmatters.com/the-book)
 
 We are still in the process of optimizing our practices in this area. That said, Drupal practice area participants have developed practice area OKRs that merge with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
 
@@ -28,9 +30,9 @@ A previous year's objective was to gather an inventory of the skills of Drupal P
 
 ## Gotta Drupal problem? We can help!
 
-One of the most cherished practices is the "30 minute rule" which states, "You are only allowed to be stuck on a problem for 30 minutes before you ask for help."
+One of our most cherished practices is the "30 minute rule" which states, "You are only allowed to be stuck on a problem for 30 minutes before you ask for help."
 
-The [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) channel is used to reach out to other CivicActions Drupal engineers to ask for help on specific Drupal problems.
+One important use of the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) channel is to reach out to other CivicActions Drupal engineers to ask for help on specific Drupal problems.
 
 When you ask for help, it's a good idea to provide a context for your problem, describe (or display) the problem, then describe what approaches you've already taken to solve the problem. If you can summarize the nature of the problem in the first sentence, it's more likely you'll get a quick response.
 
