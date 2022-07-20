@@ -1,6 +1,6 @@
 # Drupal Practice Area
 
-Drupal is one of CivicActions's [Practice Areas](README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
+Drupal is a CivicActions engineering-focused [Practice Areas](README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
 
 ## Drupal Practice Area Calls
 
@@ -10,37 +10,37 @@ Drupal engineers meet each month on Zoom to discuss topics of common interest. Y
 
 The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
-More recently, we've been adding agenda items and notes to this document: [2022 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/129pvtjRwknQcMcsgwMfAHKGViXpQC6cElw-AIqzussU/edit) to structure our conversations.
+We add agenda items and notes to this document: [2022 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/129pvtjRwknQcMcsgwMfAHKGViXpQC6cElw-AIqzussU/edit) to structure our conversations.
 
 ## Drupal Practice Area OKRs
 
 CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: [Measure What Matters](https://www.whatmatters.com/the-book)
 
-We are still in the process of optimizing our practices in this area. That said, Drupal practice area participants have developed practice area OKRs that merge with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
+We are still in the process of optimizing our OKR practices. That said, Drupal practice area participants have developed practice area OKRs that merge with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and via:
 
 - [Trello board](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
 - [Culture amp](https://civicactions.cultureamp.com/performance/new_goals/department)
 
 ## Skillsbase: Complete a self-assessment of your Drupal skills
 
-A previous year's objective was to gather an inventory of the skills of Drupal Practice Area participants. As part of your onboarding, you should have already completed the skills assessment. If not, you should consider completing it as part of your onboarding to the Drupal practice area.
+Please complete a skills assessment as part of your onboarding to the Drupal practice area if you have not done so.
 
 - [Drupal Skills Categories](https://app.skills-base.com/skillcategories/view/id/16)
 - [Skills Assessment](https://app.skills-base.com/people/view#assessments)
 
-## Gotta Drupal problem? We can help!
+## Got a Drupal problem? We're all here to help!
 
-One of our most cherished practices is the "30 minute rule" which states, "You are only allowed to be stuck on a problem for 30 minutes before you ask for help."
+One of our most cherished practices is the "30 minute rule" which states, "If you are stuck on a problem for 30 minutes, you need to ask for help."
 
 One important use of the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) channel is to reach out to other CivicActions Drupal engineers to ask for help on specific Drupal problems.
 
-When you ask for help, it's a good idea to provide a context for your problem, describe (or display) the problem, then describe what approaches you've already taken to solve the problem. If you can summarize the nature of the problem in the first sentence, it's more likely you'll get a quick response.
+When asking for help provide a context for the issue, describe (or display) the problem, and describe what approaches you've already taken to solve the problem. If you can summarize the nature of the problem in the first sentence, it's more likely you'll get a quick response.
 
-CivicActions engineers tend to be very helpful, so it's rare for a question not to get a response within a few hours. If for some reason you don't get a response, try a different wording or expand on things you have tried.
+CivicActions engineers all strive to be very helpful, so it's rare for a question not to get a response within a few hours. If for some reason you don't get a response, try a different wording or expand on things you have tried.
 
 ## Contributions to drupal.org
 
-We encourage all CivicActioners to give back to the Drupal community (see [community participation](../../030-policies/community-participation/#professional-development-and-community-participation)). To track those contributions, follow the instructions below. Doing this helps our Practice Area to be aware of and appreciate your contributions. It also helps our organization as a whole!
+We strongly encourage all CivicActioners to look for opportunities to give back to the Drupal community (see [community participation](../../030-policies/community-participation/#professional-development-and-community-participation)). To track contributions follow the instructions below. Tracking community contributions helps our Practice Area see and appreciate your contributions. It also helps our organization as a whole!
 
 ### Update your drupal.org profile
 
