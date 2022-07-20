@@ -1,12 +1,12 @@
 # Practice Areas
 
-Practice areas are a self-organized group oriented around a specific practice or craft - oriented towards learning, continuous improvement and cross-pollination of ideas and best practice across the company.
+Practice areas are self-organized groups oriented around a specific practice or craft to foster learning, continuous improvement and cross-pollination of ideas and best practice across the company.
 
 Practice areas that provide client services also [work across departments](working-with-depts.md) and delivery to develop, market, sell, deliver and grow a set of related services and build the team that delivers those services.
 
-It is important to note that practice areas may overlap in places, and that client projects can often be served by more than one practice area during the course of delivery. Similarly team members may work across multiple practice areas, even in a single day.
+It is important to note practice areas may overlap in places, and that client projects can often be served by more than one practice area during the course of delivery. Similarly team members may work across multiple practice areas, even in a single day.
 
-Each client facing practice area is identified by a unique 2 character code - this is used to identify practice area work in Unanet and other tools.
+Each client-facing practice area is identified by a unique 2 character code - this is used to identify practice area work in Unanet and other tools.
 
 Each area has one or two Practice Area leads. The lead is responsible for guiding the collaborative creation of vision, strategy and goals of the practice area, supporting departments and people planning.
 
