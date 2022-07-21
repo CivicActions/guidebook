@@ -40,7 +40,7 @@ CivicActions engineers all strive to be very helpful, so it's rare for a questio
 
 ## Contributions to drupal.org
 
-We strongly encourage all CivicActioners to look for opportunities to give back to the Drupal community (see [community participation](../../030-policies/community-participation/#professional-development-and-community-participation)). To track contributions follow the instructions below. Tracking community contributions helps our Practice Area see and appreciate your contributions. It also helps our organization as a whole!
+We strongly encourage all CivicActioners to look for opportunities to give back to the Drupal community (see [community participation](../../030-policies/community-participation.md/#professional-development-and-community-participation)). To track contributions follow the instructions below. Tracking community contributions helps our Practice Area see and appreciate your contributions. It also helps our organization as a whole!
 
 ### Update your drupal.org profile
 
