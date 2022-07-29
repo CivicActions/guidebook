@@ -20,6 +20,16 @@ CivicActions provides equal employment opportunities and administers all aspects
 
 Equal employment opportunity includes, but is not limited to, employment, training, promotion, demotion, transfer, leaves of absence, and termination.
 
+### Increasing our Diversity
+
+CivicActions has several tactics to hire from a more diverse pool of applicants. Firstly, we post new positions to a number of agencies that specialize in diversity hiring. CivicAction staff can see the list of agencies we post to. Depending on the job, the hiring team chooses how widely to distribute the positions. We encourage our team to look into their networks and promote opportunities to people that we know. Our 2022 affirmative action plan (AAP) goals include hiring more women in sales, hiring more minorities in leadership and hiring more veterans. 
+
+We are also working to leverage our hiring platform, Greenhouse.io, to minimize the opportunity for unconscious bias by ensuring mental shortcuts and assumptions don’t interfere with the chance of hiring a great candidate. In this process we nudge employees with timely reminders at key points in the hiring process to remind them to engage in efforts to promote inclusion. Consiously work to grade assessments objectively with anonymous take-home assignments and ensure we are evaluating candidates consistently and fairly. We work to make objective hiring decisions and hold all candidates to the same standards. 
+
+Our hiring teams define key decision criteria for a role up front to avoid inadvertent shifting of criteria during the interview process. We also require skills ratings explanations scorecards for more critical candidate evaluations. 
+
+We work to cultivate inclusion and belonging in the candidate experience. Building an inclusive hiring culture that attracts and engages candidates from a wide range of experiences, cultures and demographics. By empowering candidates to pre-record the correct pronunciation of their name and indicate their personal pronouns, the hiring team can get it right and candidates feel seen and acknowledged. We alsoshare our culture and mission on a customized career page so candidates can see how your values align with our hiring culture.
+
 ## Reasonable Accommodations
 
 It is the policy of CivicActions to comply with all the relevant and applicable provisions of the federal Americans with Disabilities Act (ADA), as well as state and local laws concerning the employment of persons with disabilities. CivicActions will not discriminate against any qualified employee or job applicant because of a person's physical or mental disability with respect to any terms, privileges, or conditions of employment, including but not limited to hiring, advancement, discharge, compensation, and training.
