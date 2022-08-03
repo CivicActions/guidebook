@@ -167,7 +167,7 @@ continue;
 Then you can simplify this as:
 
 ```
-if ($type == "blog_post" || $user->uid == $node->uid) {
+if (!($type == "blog_post" || $user->uid == $node->uid)) {
 // do something ...
 }
 ```
