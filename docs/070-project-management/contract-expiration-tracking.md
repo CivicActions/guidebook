@@ -15,4 +15,4 @@ All active, current contracts can be located in the Shared Google CivicActions C
 
 ## Contract Management
 
-(WIP) CivicActions is currently revamping our contract management processes and workflows. This will include more information about where to locate a master list of contracts and dates.
+CivicActions is currently revamping our contract management processes and workflows. This will include more information about where to locate a master list of contracts and dates.
