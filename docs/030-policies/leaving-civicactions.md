@@ -33,7 +33,7 @@ If you or your covered dependents lose eligibility for regular, TriNet group med
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave CivicActions, send an email that includes your termination date to your manager or Elizabeth.
+If you decide you want to leave CivicActions, send an email that includes your termination date to peopleops@civicactions.com and copy your manager on the email.
 
 ### 2. Review benefits paperwork
 
