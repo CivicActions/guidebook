@@ -9,8 +9,8 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 3. Reviewing and approving timesheets
 4. Reviewing and approving expenses
 5. Runnings reports for the following
-   * Plans vc Actuals
-   * Planned Utilization
+   - Plans vc Actuals
+   - Planned Utilization
 
 ## People planning and assignments for a project
 
