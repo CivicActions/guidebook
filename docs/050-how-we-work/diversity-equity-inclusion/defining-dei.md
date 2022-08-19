@@ -50,5 +50,5 @@ There are many [definitions for accessibility](https://en.wikipedia.org/wiki/Soc
 - [Accessibility is part of our company culture](https://handbook.civicactions.com/en/latest/020-about-us/culture/#accessibility)
 - CivicActions has an [Accessibility Practice Area](https://handbook.civicactions.com/en/latest/050-how-we-work/practice-areas/accessibility-practice-area/) and a [dedicated sub-site](https://accessibility.civicactions.com/)
 - All new staff are given onboarding on accessibility issues when they join the company
-- We are finding ways to think more about accesssibility barriers in our hiring process and internal communications
+- We are finding ways to think more about accessibility barriers in our hiring process and internal communications
 - Our team is encouraged to contribute and incorporate accessibility into their work
