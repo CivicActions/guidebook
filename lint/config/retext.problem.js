@@ -20,6 +20,6 @@ function attacher() {
       .use(sentenceSpacing, { preferred: 1 })
       .use(quotes, { preferred: "straight" })
       .use(repeated)
-      .use(indefinite)
+      .use(indefinite),
   );
 }
