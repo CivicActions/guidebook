@@ -66,7 +66,7 @@ You can read the relevant sections for free [here](<https://books.google.com/boo
 
 ### How does Transparency Work at CivicActions?
 
-Transparency is the company, board, and management team's responsibility. We aim to be open and transparent with employees, clients, and one another. Whether it's a challenge or an issue, we encourage discussions to occur in the open.  This does not mean that you cannot ever speak in private. This means that we have a responsibility to be as transparent as possible about the work we do and how we do it.
+Transparency is the company, board, and management team's responsibility. We aim to be open and transparent with employees, clients, and one another. Whether it's a challenge or an issue, we encourage discussions to occur in the open. This does not mean that you cannot ever speak in private. This means that we have a responsibility to be as transparent as possible about the work we do and how we do it.
 
 ## Inclusion
 
@@ -132,7 +132,7 @@ A: The Balance Score is mostly for yourself. It's a way to check in with yoursel
 
 ### Q: Sometimes we need to put the client in their place. What can we do so that they don't take advantage of us?
 
-A: It can be frustrating when a client doesn't model values of openness, care, or balance. This is where the "us vs. them" can start showing up. Instead of "putting the client in their place" we aim to understand where the client is coming from. What is bringing up this behavior? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. In an escalated situation, it's not up to a single team member to remedy the situation. The support of the program manager and other team members can help with resolution. 
+A: It can be frustrating when a client doesn't model values of openness, care, or balance. This is where the "us vs. them" can start showing up. Instead of "putting the client in their place" we aim to understand where the client is coming from. What is bringing up this behavior? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. In an escalated situation, it's not up to a single team member to remedy the situation. The support of the program manager and other team members can help with resolution.
 
 ### Q: I've made a mistake in my work and I don't want to use our group forums to talk about it. Can I just ping my manager directly?
 
@@ -160,8 +160,8 @@ Many topics can have a political dimension. If you observe someone make a partis
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
-A: If you're comfortable communicating with the person who offended you, please start there. You can tell them that what they said was offensive and how it made you feel. If you feel harassed, you should talk to a member of the PeopleOps or your manager. 
-If someone tells you that content you shared is offensive you should remove the content. When sharing content, consider if it is consistent with CivicActions' culture and code of conduct. 
+A: If you're comfortable communicating with the person who offended you, please start there. You can tell them that what they said was offensive and how it made you feel. If you feel harassed, you should talk to a member of the PeopleOps or your manager.
+If someone tells you that content you shared is offensive you should remove the content. When sharing content, consider if it is consistent with CivicActions' culture and code of conduct.
 
 We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion. You are or know of someone who is subject to behavior in violation of our [Policy Against Proscribed Harassment and Discrimination](https://handbook.civicactions.com/en/latest/030-policies/anti-harassment-policies/) you can follow the [reporting procedures](https://handbook.civicactions.com/en/latest/030-policies/anti-harassment-policies/#reporting-and-investigating-proscribed-harassment) in that policy.
 
