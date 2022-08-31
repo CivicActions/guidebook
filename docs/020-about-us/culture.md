@@ -36,7 +36,7 @@ Here are some of the tools and practices we use to help us remain open with each
 
 Being a gender-diverse team means that not everyone's pronouns are immediately obvious, so it's important to find out. Taking the time to learn and use your teammates' personal pronouns correctly will help you communicate respectfully.
 
-Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, zoom profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate. 
+Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, zoom profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
 
 These practices won't be familiar to everyone, and it may take some time and practice to get used to. That's ok — there are plenty of resources and people here to support you as you learn.
 
@@ -82,7 +82,7 @@ Some practical tips for making inclusive spaces on your team:
 - Take time to learn more about how inequality affects people at work
 - Speak up when you notice that someone is disrespected or left out
 
-We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessability isn't just a core part of our culture, it's also a committee. 
+We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessability isn't just a core part of our culture, it's also a committee.
 
 [Learn more about the Diversity, Equity, Inclusion, and Accessability Committee](https://civicactions-handbook.readthedocs.io/en/latest/050-how-we-work/diversity-equity-inclusion/ops/)
 
@@ -120,7 +120,7 @@ A: We are a very supportive team and if you need help, we want you to know that 
 
 ### Q: What is CivicActions doing to foster diversity?
 
-A: We are actively looking to recruit for a more diverse team, and we have goals each year to increase diversity in different areas of the company. We are having on-going discussions about what diversity means and how to foster it.  These discussions happen at our annual summits, during All Human Calls, during check-ins and via our #celebrating-diversity Slack channel. And we need help with this - we hope you'll join in on the conversation.
+A: We are actively looking to recruit for a more diverse team, and we have goals each year to increase diversity in different areas of the company. We are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual summits, during All Human Calls, during check-ins and via our #celebrating-diversity Slack channel. And we need help with this - we hope you'll join in on the conversation.
 
 ### Q: Open communications generally make me uncomfortable and I may feel intimidated asking a question in front of an audience. Can I just go to the person who I know has the answer in a more private way?
 
@@ -128,7 +128,7 @@ A: The idea behind our open communication policy is to keep the team in the know
 
 ### Q: Balance Scores make me feel self conscious. I don't want people to know that I'm unbalanced. How is the company using this information?
 
-A: The Balance Score is mostly for yourself. It's a way to check in with yourself, sometimes multiple times a day, to realize if you are aware of and honoring your priorities. The company doesn't use this information, unless we frame it as a way to teach team members how to be more self aware or to be more attuned with each other. If you're unbalanced and don't want to discuss it with anyone, you're welcome to say so if someone asks why your score is low. The Balance Score is another way that we can learn to be more in tune to ourselves and have a better understanding of our peers. It's an authentic way of communicating that can feel uncomfortable at first but hopefully becomes an exercise in being attuned to oneself. 
+A: The Balance Score is mostly for yourself. It's a way to check in with yourself, sometimes multiple times a day, to realize if you are aware of and honoring your priorities. The company doesn't use this information, unless we frame it as a way to teach team members how to be more self aware or to be more attuned with each other. If you're unbalanced and don't want to discuss it with anyone, you're welcome to say so if someone asks why your score is low. The Balance Score is another way that we can learn to be more in tune to ourselves and have a better understanding of our peers. It's an authentic way of communicating that can feel uncomfortable at first but hopefully becomes an exercise in being attuned to oneself.
 
 ### Q: Sometimes we need to put the client in their place. What can we do so that they don't take advantage of us?
 
