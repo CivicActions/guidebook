@@ -36,7 +36,7 @@ Here are some of the tools and practices we use to help us remain open with each
 
 Being a gender-diverse team means that not everyone's pronouns are immediately obvious, so it's important to find out. Taking the time to learn and use your teammates' personal pronouns correctly will help you communicate respectfully.
 
-Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, zoom profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
+Sharing your own pronouns promotes clarity and transparency. It can also promote inclusion by normalizing the practice. You can communicate your pronouns in your Slack profile, Zoom profile, email signature, business card, CivicActions staff bio, and in spoken communication.
 
 These practices won't be familiar to everyone, and it may take some time and practice to get used to. That's ok — there are plenty of resources and people here to support you as you learn.
 
@@ -50,7 +50,7 @@ Check out the All Humans Call (AHC) slide deck on personal pronouns to learn mor
 
 [AHC: Personal pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit)
 
-If you have questions, concerns, or just want to practice, you can DM member of PeopleOps for support or post a question in #celebrating-diversity Slack channel.
+If you have questions, concerns, or want to practice, you can DM member of PeopleOps for support or post a question in #celebrating-diversity Slack channel.
 
 ## Transparency
 
@@ -66,7 +66,7 @@ You can read the relevant sections for free [here](<https://books.google.com/boo
 
 ### How does Transparency Work at CivicActions?
 
-We believe radical transparency is the company, board, and management team's responsibility to be open and transparent with employees, clients, and one another. We believe everyone in the company is responsible for being direct and transparent when they have a challenge with someone. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly. This does not mean that you cannot ever speak privately to other people. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
+Transparency is the company, board, and management team's responsibility. We aim to be open and transparent with employees, clients, and one another. Whether it's a challenge or an issue, we encourage discussions to occur in the open.  This does not mean that you cannot ever speak in private. This means that we have a responsibility to be as transparent as possible about the work we do and how we do it.
 
 ## Inclusion
 
@@ -82,9 +82,9 @@ Some practical tips for making inclusive spaces on your team:
 - Take time to learn more about how inequality affects people at work
 - Speak up when you notice that someone is disrespected or left out
 
-We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessability isn't just a core part of our culture, it's also a committee.
+We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessibility isn't just a core part of our culture, it's also a committee.
 
-[Learn more about the Diversity, Equity, Inclusion, and Accessability Committee](https://civicactions-handbook.readthedocs.io/en/latest/050-how-we-work/diversity-equity-inclusion/ops/)
+[Learn more about the Diversity, Equity, Inclusion, and Accessibility Committee](https://civicactions-handbook.readthedocs.io/en/latest/050-how-we-work/diversity-equity-inclusion/ops/)
 
 ## Accessibility
 
@@ -120,7 +120,7 @@ A: We are a very supportive team and if you need help, we want you to know that 
 
 ### Q: What is CivicActions doing to foster diversity?
 
-A: We are actively looking to recruit for a more diverse team, and we have goals each year to increase diversity in different areas of the company. We are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual summits, during All Human Calls, during check-ins and via our #celebrating-diversity Slack channel. And we need help with this - we hope you'll join in on the conversation.
+A: We have goals each year to increase diversity in different areas of the company. We are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual summits, during All Human Calls, during check-ins and via our #celebrating-diversity Slack channel. And we need help with this - we hope you'll join in on the conversation.
 
 ### Q: Open communications generally make me uncomfortable and I may feel intimidated asking a question in front of an audience. Can I just go to the person who I know has the answer in a more private way?
 
@@ -132,15 +132,15 @@ A: The Balance Score is mostly for yourself. It's a way to check in with yoursel
 
 ### Q: Sometimes we need to put the client in their place. What can we do so that they don't take advantage of us?
 
-A: Transformation starts with people. With our expectations of good communication and authentic relationships, it can be frustrating when a client doesn't reciprocate with the same openness. This is where the "us vs. them" can start showing up. Instead of "putting the client in their place" we aim to understand where the client is coming from. What is bringing up this behavior? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. We can also look within ourselves -- for example, if our concern is that we're being taken advantage of, why do we feel that way? In an escalated situation, it's not up to a single team member to remedy the situation, but rather to use the support of the team and the program management to get to a healthier relationship with the client or partner.
+A: It can be frustrating when a client doesn't model values of openness, care, or balance. This is where the "us vs. them" can start showing up. Instead of "putting the client in their place" we aim to understand where the client is coming from. What is bringing up this behavior? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. In an escalated situation, it's not up to a single team member to remedy the situation. The support of the program manager and other team members can help with resolution. 
 
 ### Q: I've made a mistake in my work and I don't want to use our group forums to talk about it. Can I just ping my manager directly?
 
-A: Yes, of course you can ping your manager directly about it. Depending on the issue though, it may subsequently be discussed openly. If it's something related to development, your peers may have made the exact same mistake and have the solution you're looking for. If it's project budget related, we may want to present it to the client immediately along with a plan of action on what steps we suggest taking next. The reason most people feel uncomfortable with sharing their mistakes is that they come from environments where failure isn't acceptable. That attitude is neither realistic nor helpful -- so at CivicActions we learn from failure and from each other.
+A: Yes, you can ping your manager directly about it. Depending on the issue though, it may subsequently be discussed openly. If it's something related to development, your peers may have made the exact same mistake and have the solution you're looking for. If it's project budget related, we may want to present it to the client immediately along with a plan of action on what steps we suggest taking next. The reason most people feel uncomfortable with sharing their mistakes is that they come from environments where failure isn't acceptable. That attitude is neither realistic nor helpful -- so at CivicActions we learn from failure and from each other.
 
 ### Q: On a project team, who is accountable for what? I want someone to be held responsible.
 
-A: In short, we're all responsible for the success of the project. Commitments are made individually during our daily standups and sprint plannings. Certain roles may have certain responsibilities, but the make-up of a team is more indicative of who will be responsible for what based on the skills between team members. If there is something specific that is making you uncomfortable or if there is someone specific that you feel should be accountable for something, that should be brought up. A project manager can be very helpful in identifying and remedying issues -- but that doesn't mean it is their sole responsibility to do so. We also use Team Working Agreements that can be helpful in ensuring everyone knows who is responsible for what.
+A: In short, we're all responsible for the success of the project. Commitments are made individually during our daily standups and sprint plannings. Certain roles may have certain responsibilities, but the make-up of a team is more indicative of who will be responsible for what based on the skills between team members. If there is something specific that is making you uncomfortable or if there is someone specific that you feel should be accountable for something, that should be brought up. A project manager can be very helpful in identifying and remedying issues -- but that doesn't mean it is their sole responsibility to do so. We also use Team Working Agreements which can be helpful in ensuring team members know who is responsible for what.
 
 ### Q: I find all the Slack communications overwhelming. I prefer to read only what pertains to me. How can I manage this?
 
@@ -160,10 +160,11 @@ Many topics can have a political dimension. If you observe someone make a partis
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
-A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form of a "tension" conversation as mentioned above). If you're not comfortable addressing them directly or you have been harassed, you should talk to a member of the PeopleOps or your manager to help resolve the issue or report as appropriate. If you are told that content you shared is offensive or otherwise inappropriate you are expected to remove the content and consider if it is consistent with CivicActions' culture, CivicActions' code of conduct, and being respectful of others before sharing it again. This is particularly true in CivicActions social Slack channels where content sharing should be welcomed by everyone participating in the channel in good faith.
+A: If you're comfortable communicating with the person who offended you, please start there. You can tell them that what they said was offensive and how it made you feel. If you feel harassed, you should talk to a member of the PeopleOps or your manager. 
+If someone tells you that content you shared is offensive you should remove the content. When sharing content, consider if it is consistent with CivicActions' culture and code of conduct. 
 
 We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion. You are or know of someone who is subject to behavior in violation of our [Policy Against Proscribed Harassment and Discrimination](https://handbook.civicactions.com/en/latest/030-policies/anti-harassment-policies/) you can follow the [reporting procedures](https://handbook.civicactions.com/en/latest/030-policies/anti-harassment-policies/#reporting-and-investigating-proscribed-harassment) in that policy.
 
 ### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn't welcome here.
 
-A: A technique that seems to work well is to just simply say "we don't do that here." This usually gets the person to realize that what they were saying was inappropriate and unwelcome and doesn't put you in a position to have to explain anything. It's simple and to the point (and easy to remember!) If you're not comfortable addressing it directly you can go to PeopleOps or your manager for support.
+A: A technique that seems to work well is to say "we don't do that here." This usually gets the person to realize that what they were saying was inappropriate and unwelcome and doesn't put you in a position to have to explain anything. It's simple and to the point (and easy to remember!) If you're not comfortable addressing it directly you can go to PeopleOps or your manager for support.
