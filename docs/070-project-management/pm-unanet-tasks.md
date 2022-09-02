@@ -48,15 +48,15 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
    a. Month by month, person by person (ie. entering a figure in each field)
    Consider leave requests, holidays, conferences and so on
    b. ** IMPORTANT ** Double click on every person's name who you are planning for to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
-   c. Note re above: Assigning a labor category is done by task, it does not translate to all tasks, even if you choose the 'People for many Tasks' option
+   c. Note re above: Assigning a labor category is done by task, it does not translate to all tasks, even if you choose the "People for many Tasks" option
 
 3. Click on Save
 4. If you are finished, you may click on Assign
 
    a. You will have an opportunity to double check your plan at this point
    b. You will also have an option to check the Exceed box to allow a person to exceed the number of hours you have allocated for them (if FFP, you may wish to check this box)
-   c. You will have an opportunity to notify different people about the plan you have just created
-   d. Select the plans you wish to save by clicking on the Assign box at the beginning of each plan (or the one above to assign all)
+   c. You will have an opportunity to notify different people about the plan you have created
+   d. Select the plans you wish to save by clicking on the "Assign" box at the beginning of each plan (or the one above to "assign all")
 
 ### Tips
 
@@ -129,14 +129,14 @@ To check this by viewing the person expense approval history:
 
 **Expense report and request statuses and what they mean:**
 
-#### Requests
+### Requests
 
 - Requesting - user is still editing the request
 - Preapproving - user has submitted the request (remains in this status until the final manager has approved)
-- Preapproved - All approvals have been given for the request, which now becomes a report (in the 'In use' status and will need to be submitted)
+- Preapproved - All approvals have been given for the request, which now becomes a report (in the "In use" status and will need to be submitted)
 - Denied - the expense request has been denied
 
-#### Reports
+### Reports
 
 - In Use - user is still editing the report
 - Submitted - user has submitted the report
@@ -157,18 +157,18 @@ This report is useful for spotting anomalies such as a terminated employee in th
 1. Reports / Dashboard
 2. Scroll down to Project Reports (Time & Expense Only)
 3. In the Periodic Reports box, select Performance
-4. Make sure 'Report On:' shows 'All Projects I can see'
+4. Make sure "Report On:" shows "All Projects I can see"
 5. Enter the project code or project type
 
    a. For specific projects, find the Project Code field and enter the project code or use the wildcard % with part of the code (eg. %gnet) and click on the blue arrow to select
    b. For all billable projects you have access to, find the Project Type field and enter %b- and click on the arrow to select
 
-6. Scroll down to 'Reporting Period' and select the following:
+6. Scroll down to "Reporting Period" and select the following:
 
    a.Month
    b. Start date (we recommend at least a couple of months prior for comparison purposes)
 
-7. In the next field 'Number of Periods', select the number of months you wish to view
+7. In the next field "Number of Periods", select the number of months you wish to view
 8. Scroll down to Row Options and select only Show Plans and Show Actuals
 9. Underneath, in Column Options, select Show Projects (if you are viewing more than one project) and Show People
 10. Run Report
@@ -186,25 +186,25 @@ This report will show you the planned utilization of various personnel
 
 1. Reports/Dashboard
 2. Scroll to People Reports section
-3. In the Periodic Reports box, select 'Resource Allocation'
-4. Make sure REPORT ON: is set to 'All People I Can See'
+3. In the Periodic Reports box, select "Resource Allocation"
+4. Make sure REPORT ON: is set to "All People I Can See"
 5. Scroll down to REPORTING PERIOD and set to your desired view
 
-   a. You may want to check Month and set the start date as 'Calendar - Previous Month'
+   a. You may want to check Month and set the start date as "Calendar - Previous Month"
 
 6. In NUMBER OF PERIODS set the number of periods you wish to view
 
    a. Try starting with 7 to take you through December
 
-7. In COLUMN OPTIONS, uncheck 'Show People Organizations'
-8. In LEAVE REQUESTS, check 'Include Leave Requests'
+7. In COLUMN OPTIONS, uncheck "Show People Organizations"
+8. In LEAVE REQUESTS, check "Include Leave Requests"
 
    a. You can check to include unapproved leave requests
 
    Note, this will not include any detail, it will merely highlight the months that include leave requests
 
-9. In BOOKED % COLOR, change the middle line 'For % from' to 80
-   a. The previous line 'For % to' will automatically change to 79
+9. In BOOKED % COLOR, change the middle line "For % from" to 80
+   a. The previous line "For % to" will automatically change to 79
 
 10. RUN Report
 
@@ -212,7 +212,7 @@ Your report will look like this:
 
 #### Save the report to your dashboard
 
-1. After running the report, click on 'Back to Criteria'
-2. Click on 'Save Criteria' at the top of the screen
+1. After running the report, click on "Back to Criteria"
+2. Click on "Save Criteria" at the top of the screen
 3. Name your report as you see fit (Planned Utilization Report for example)
 4. Save to the dashboard(s) of your choosing
