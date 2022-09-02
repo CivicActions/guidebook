@@ -89,6 +89,8 @@ A/ holidays
 B/ OOO
 C/ Any other events, e.g., summits, etc.
 
+Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared calendar and try searching "name OOO". This will allow you to isolate the forthcoming dates for the given person.
+
 ## Reviewing and approving timesheets
 
 ## Reviewing and approving expenses
