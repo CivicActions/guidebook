@@ -26,6 +26,6 @@ function attacher() {
         severity: "fatal",
         threshold: 5 / 7,
       })
-      .use(equality, { ignore: ignoreWords || [] })
+      .use(equality, { ignore: ignoreWords || [] }),
   );
 }
