@@ -78,6 +78,7 @@ You may enter multiple hours/month on the planning grid rather than one month pe
    b. You can also enter the labor category here if it is the same for each person
 
 ## Adjust projections for holidays or other time-off
+
 In general, resource allocations can be expected using the following rations:
 1/ If a FT resource devoted to the project, then 80%
 2/ If an AD resource devoted to the project, then 65%
@@ -87,8 +88,6 @@ From that place, then deduct - monthly - for any of the following:
 A/ holidays
 B/ OOO
 C/ Any other events, e.g., summits, etc.
-
-
 
 ## Reviewing and approving timesheets
 
