@@ -54,15 +54,15 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 ### Tips
 
 You may enter multiple hours/month on the planning grid rather than one month per person at a time. You can do this multiple ways.
-   a. For the same number of hours for every person for every period - Double click on the space to the left of the first month in the header
-      i. You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
-      ii. You can also enter the labor category here if it is the same for each person.
-   b. For the same number of hours for an individual for every period - Double click on the name of the person
-      i. You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for that person for each month.
-      ii. You can also enter the labor category here.
-   c. For the same number of hours for each person for a particular month - Double click on the month at the top of the page
-      i. You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for each person for the selected month.
-      ii. You can also enter the labor category here if it is the same for each person
+a. For the same number of hours for every person for every period - Double click on the space to the left of the first month in the header
+i. You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
+ii. You can also enter the labor category here if it is the same for each person.
+b. For the same number of hours for an individual for every period - Double click on the name of the person
+i. You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for that person for each month.
+ii. You can also enter the labor category here.
+c. For the same number of hours for each person for a particular month - Double click on the month at the top of the page
+i. You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for each person for the selected month.
+ii. You can also enter the labor category here if it is the same for each person
 
 ## Adjust projections for holidays or other time-off
 
