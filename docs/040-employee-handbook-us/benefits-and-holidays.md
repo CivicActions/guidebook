@@ -27,7 +27,7 @@ Exempt employees who voluntarily work on holidays will not receive additional co
 
 ## Notice, Scheduling, and Approval of Time Off
 
-You do not need to justify time off for traditional vacation or personal time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies.
+You do not need to justify time off for traditional vacation or personal time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies. If your expected time off is under 4 hours, there is no need to submit a time off request in unanet. Just log the time away, set your slack status, and set your google calendar as out of office.
 
 For time off related to any sick leave that is **foreseeable**, employees should provide advance notice as soon as possible, preferably at least seven days in advance. If the need for sick leave is **unforeseeable**, employees shall provide notice as soon as practicable.
 
