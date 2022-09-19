@@ -90,6 +90,8 @@ We work to model the change we want to see in the world, and that starts with ho
 
 **CivicActions' Accessibility Commitment: Both in our work with the government and here at home, accessibility is never done.**
 
+We have solidified this commitment through our [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge). 
+
 ### Serving people of all abilities
 
 We are passionate about improving government technology to serve the public better, and that includes people of all backgrounds, situations, and abilities. Similarly, we want our website and our work to also be accessible to as many people as possible.
@@ -101,7 +103,8 @@ The accessibility team has been busily working on our accessibility website, whi
 ### If you'd like to know more about how you can participate:
 
 - Join the #accessibility Slack channel
-- [Submit an "Add new team member" issue](https://github.com/CivicActions/accessibility/issues/new/choose) : [Join GitHub](https://github.com/) if you haven't already
+- Become an [Accessibility Champion](https://accessibility.civicactions.com/guide/champions-program)
+- Ask a question in Slack or in our [GitHub Discussion](https://github.com/CivicActions/accessibility/discussions) page
 - [Join the meetings](https://accessibility.civicactions.com/calendar) check-ins + prioritization + practice area calls
 
 ## Common Questions
