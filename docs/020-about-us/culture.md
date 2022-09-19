@@ -90,7 +90,7 @@ We work to model the change we want to see in the world, and that starts with ho
 
 **CivicActions' Accessibility Commitment: Both in our work with the government and here at home, accessibility is never done.**
 
-We have solidified this commitment through our [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge).
+We have solidified this commitment through our [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge). We are working build a more robust culture of accessibility through our [Champions Program](https://accessibility.civicactions.com/guide/champions-program).
 
 ### Serving people of all abilities
 
