@@ -100,12 +100,9 @@ CivicActions Accessibility is an open, agile project, practice area and communit
 
 The accessibility team has been busily working on our accessibility website, which contains useful guides as well as a playbook. We have also introduced a proactive, interactive process to make government services accessible to everyone, called the [Holistic Enterprise Accessibility Review Technique (HEART)](https://accessibility.civicactions.com/heart). The team is looking for ways to pollinate accessibility as a core part of the way we work at CivicActions and we would love to have everyone contribute. We believe there is a role for everyone at CivicActions to play in making everything we do as accessible as possible.
 
-### If you'd like to know more about how you can participate:
+### Want to know more about how you can participate?
 
-- Join the #accessibility Slack channel
-- Become an [Accessibility Champion](https://accessibility.civicactions.com/guide/champions-program)
-- Ask a question in Slack or in our [GitHub Discussion](https://github.com/CivicActions/accessibility/discussions) page
-- [Join the meetings](https://accessibility.civicactions.com/calendar) check-ins + prioritization + practice area calls
+Check out our [Accessibility Practice Area](https://handbook.civicactions.com/en/latest/050-how-we-work/practice-areas/accessibility-practice-area/)! 
 
 ## Common Questions
 
