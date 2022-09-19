@@ -102,7 +102,7 @@ The accessibility team has been busily working on our accessibility website, whi
 
 ### Want to know more about how you can participate?
 
-Check out our [Accessibility Practice Area](https://handbook.civicactions.com/en/latest/050-how-we-work/practice-areas/accessibility-practice-area/)!
+Check out our [Accessibility Practice Area](/en/latest/050-how-we-work/practice-areas/accessibility-practice-area/)!
 
 ## Common Questions
 
