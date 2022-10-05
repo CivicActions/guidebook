@@ -1,13 +1,25 @@
-# Time Off Request and Approval Process
+# Leave Requests and Stepping Away
 
-When a team member requests time off, the Project Manager has a unique role in the approval process:
+## Out Of Office (OOO) Process
+All Team members are asked to complete the following when requesting OOO leave:
+1. Insert all Leave Requests in Unanet (from the Dashboard, create a new Leave Request)
+2. In Unanet and on submission, CC the Project Manager
+3. Confirm that your OOO is placed on any team calendar(s), plus the CivicActions OOO calendar
+4. Remind your teammates about your OOO:
+- At Sprint Planning 
+- Prior to sprint turnover
+- At least three days in advance (and longer for extended time off)
 
-1.  The team member confirms with their PM that time off plans work with the project schedule.
-2.  The PM compares the time off request with the project schedule, and checks to see if other team members are also out of office, then the PM makes the decision (_rarely is time off declined_).
-3.  The PM and the team member discuss if/how the time off impacts the project schedule and discuss coverage if needed (_i.e. who picks up the slack in ticket work?_).
-4.  Assuming the PM approves the time off, the team member goes through the [formal process for requesting time off](../040-employee-handbook-us/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off).
-5.  A Delivery Manager approves the time off via email reply and requests that the admin support team adds the time off to the Master Out of Office Calendar.
-6.  The admin support team enters the time off into Harvest's Forecast tool which we use for people resourcing.
-7.  The PM should double check that Forecast is correct, and update the Delivery Projects spreadsheet as needed (for example if a project is time & material, then a day off will impact the projected invoiced amount for the month).
-8.  As the time off date approaches, the PM and the team member work through project impacts and coverage together. It is good practice that the PM add the team's out of office notices to the scrum notes as the dates approach.
-9.  The PM and the team member notify the rest of the team about the time off.
+## Unexpected Event Process
+In the case that you experience an unexpected event, e.g., illness, family emergency, etc., the process is amended slightly, as follows:
+1. Insert all Leave Requests in Unanet (from the Dashboard, create a new Leave Request)
+2. In Unanet and on submission, CC the Project Manager
+3. Communicate with the Project Manager about required work and associated deadlines, also suggesting the best teammate to provide coverage for all items
+4. Alert your teammates on the full-project team Slack channel, including your expected return time (if known)
+5. Confirm that your teammates know when they may contact you if required
+
+## Away from Keyboard Process
+In the case that you need to be away during the work day, and in order to support your teammates, the process is as follows:
+1. Alert your teammates on the full-project team Slack channel, including your expected return time
+2. Update your Calendar to reflect your time away
+3. Update your Slack status
