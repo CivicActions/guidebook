@@ -19,7 +19,7 @@ In the case that you experience an unexpected event, e.g., illness, family emerg
 
 1. Insert all Leave Requests in Unanet (from the Dashboard, create a new Leave Request)
 2. In Unanet and on submission, CC the Project Manager
-3. Communicate with the Project Manager about required work and associated deadlines, also suggesting the best teammate to provide coverage for all items
+3. Communicate with the Project Manager about required work and associated deadlines, and also suggest the best teammate to provide coverage
 4. Alert your teammates on the full-project team Slack channel, including your expected return time (if known)
 5. Confirm that your teammates know when they may contact you if required
 
