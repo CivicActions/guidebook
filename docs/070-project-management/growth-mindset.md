@@ -20,8 +20,6 @@ If we think of giving and receiving feedback to other team members in terms of
 
 Then we may embrace a growth mindset, or the idea that team improvement happens at the individual level and only via effective iterations.
 
-Feedback can be simple and straightforward.
-
 ## How to Give and Receive Feedback
 
 ### Give Feedback
