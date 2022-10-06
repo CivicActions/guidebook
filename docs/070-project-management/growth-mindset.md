@@ -2,11 +2,11 @@
 
 ## What is Mindset?
 
-Definition: underlying beliefs people have about learning and intelligence
+Definition: underlying beliefs people have about learning and intelligence.
 
 ## What is Growth Mindset?
 
-Definition from Carol Dweck: When students believe they can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement
+Definition from Carol Dweck: When students believe they can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement.
 
 ## Why?
 
@@ -20,11 +20,11 @@ If we think of giving and receiving feedback to other team members in terms of
 
 Then we may embrace a growth mindset, or the idea that team improvement happens at the individual level and only via effective iterations.
 
-Feedback can be simple and straightforward
+Feedback can be simple and straightforward.
 
-# How to Give and Receive Feedback
+## How to Give and Receive Feedback
 
-## Give Feedback
+### Give Feedback
 
 - Focus on the project first, and the role second
 - Ask permission to give feedback, confirming that the recipient is willing to absorb it
@@ -37,7 +37,7 @@ Remember:
 - It is critical to confirm the timing for the feedback to be received
 - The solution lies within the recipient
 
-## Receive Feedback
+### Receive Feedback
 
 - Listen and Be Present
 - Close your laptop
