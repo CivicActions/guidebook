@@ -2,7 +2,7 @@
 
 ## What is free and open source software?
 
-Broadly speaking, free / open source software is software whose inner workings are made fully public and distributed freely to the community. As a FOSS team, the software CivicActions writes is made is generally meant to be public (mostly at <https://github.com/civicactions>), and we welcome anyone to use that software, copy it, and change it.
+Broadly speaking, free / open source software is software whose inner workings are made fully public and distributed freely to the community. As a FOSS team, the software CivicActions writes is generally meant to be public (mostly at <https://github.com/civicactions>), and we welcome anyone to use that software, copy it, and change it.
 
 Here's a [short video](https://www.youtube.com/watch?v=a8fHgx9mE5U) explaining the origin and benefits of this approach.
 
@@ -22,7 +22,7 @@ CivicActions also extends these policies to artifacts that are not generally cat
 
 FOSS has no direct relationship to PII or the Privacy Act. PII is data. "Free and Open Source Software" refers to the release of code. Data can be managed entirely separately from code, and generally is. Additionally, "FOSS" is an entirely separate concept from "open data".
 
-For example, whitehouse.gov is powered by Drupal. Drupal publishes their software as open source for anyone to use, but this software doesn't contain any of the content or data that users of Drupal might put into it when publishing a website. Another example is WordPress, a FOSS blogging platform that also powers digitalgov.gov.
+For example, whitehouse.gov is powered by Drupal. Drupal publishes their software as open source for anyone to use, but this software doesn't contain any of the content or data that users of Drupal might put into it when publishing a website. Another example is WordPress, a FOSS blogging platform that also powers digital.gov.
 
 ## CivicActions believes in Free and Open Source Software
 
