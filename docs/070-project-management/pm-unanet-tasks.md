@@ -77,12 +77,11 @@ You may enter multiple hours/month on the planning grid rather than one month pe
 
 1. For the same number of hours for every person for every period - Double click on the space to the left of the first month in the header
 
-
 <img width="1018" alt="Plan with Grid 6" src="https://user-images.githubusercontent.com/73595515/195397003-605e7e9c-a2b7-46bc-a7e0-51a61c5b8a18.png">
 
-   a. You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
-   b. You can also enter the labor category here if it is the same for each person.
-   
+a. You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
+b. You can also enter the labor category here if it is the same for each person.
+
 <img width="770" alt="Plan with Grid 7" src="https://user-images.githubusercontent.com/73595515/195397079-4bb7d99f-37e1-4dd5-bbcd-b7c179ff160d.png">
 
 2. For the same number of hours for an individual for every period - Double click on the name of the person
