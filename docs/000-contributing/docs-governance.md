@@ -1,6 +1,6 @@
 # Documentation Governance
 
-Every team member with a GitHub account is empowered to make [pull requests](git-workflow.md) to change any part of the documentation, and every team member is encourage to review any pull request.
+Every team member with a GitHub account is empowered to make [pull requests](git-workflow.md) to change any part of the documentation, and every team member is encouraged to review any pull request.
 
 Ideally, pull requests should be assigned to team members who are subject matter experts. For example, changes to the LICENSE.md file were assigned to a lawyer (who happens to be a copyleft and FLOSS expert). If you're not sure who to assign the PR too, you might want to ask in the #docs channel.
 
@@ -34,4 +34,4 @@ The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS
 
 GitHub team management is an ongoing responsibility of the Docs working group, but is generally [taken care of during onboarding](https://trello.com/c/I5L6gPiQ/174-add-to-github).
 
-To add someone to a team, to go the [subteam page](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) and click _Add a member_.
+To add someone to a team, go to the [subteam page](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) and click _Add a member_.
