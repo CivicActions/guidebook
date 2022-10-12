@@ -19,12 +19,12 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 1. Contracts/Project/List
 2. Enter the project code or % and part of the code (eg. %gnet)
 
-<img width="1024" alt="Plan with Grid 1" src="https://user-images.githubusercontent.com/73595515/195396502-dcf75a15-842f-4acb-9b7f-885511cec5e9.png">
+![Screenshot of Plan with Grid 1](../images/Plan-with-Grid-1.png)
 
 3. Select your project and click on the pencil or double click anywhere on project row (except on an icon) to open Project profile
 4. From the left side menu, select People Plans/Plan with Grid
 
-<img width="1239" alt="Plan with Grid 2" src="https://user-images.githubusercontent.com/73595515/195396543-69f86500-718e-44ed-97dc-3149160388d5.png">
+![Screenshot of Plan with Grid 2](../images/Plan-with-Grid-2.png)
 
 ### Create the Grid
 
