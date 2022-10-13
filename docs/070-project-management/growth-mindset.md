@@ -38,9 +38,6 @@ Remember:
 ### Receive Feedback
 
 - Listen and Be Present
-- Close your laptop
-- Put phone away
-- Focus only on Zoom
 - Demonstrate active Listening
 - Maintain eye contact
 - Be mindful of posture
