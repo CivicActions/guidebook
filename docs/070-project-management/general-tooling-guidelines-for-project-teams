@@ -1,8 +1,8 @@
 # General Guidelines for Tools on Project Teams
 
-## Slack 
+## Slack
 - We use Slack for casual/working chats and non-urgent questions
-- Slack communications are often asynchronous 
+- Slack communications are often asynchronous
 - To notify someone in particular, type @name with your message
 - If you want to call attention to everyone subscribed to channel, write @channel
 - To alert only those in a channel/group who are online, write @here
@@ -20,8 +20,7 @@
 - The expected response time for email messages is within 24 hours
 
 ## Jira
-- We track all work (current and planned) in Jira or an equivelant 
-- If we are discussing something that needs to be done and there isn’t already a Jira ticket, we will create one
-- If we are discussing something in Slack or on a call that does relate to a ticket, we make sure the conversation is recorded in the ticket (even if it’s just a copy-paste of the Slack chat)
+- We track all work (current and planned) in Jira or an equivelant
+- If we are discussing something that needs to be done and there isn't already a Jira ticket, we will create one
+- If we are discussing something in Slack or on a call that does relate to a ticket, we make sure the conversation is recorded in the ticket (even if it's just a copy-paste of the Slack chat)
 - We ensure that tickets are up to date - tickets being actively worked on at least daily (normally more) and doing a pass through all other assigned tickets 2 or 3 times a week
-
