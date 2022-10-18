@@ -30,14 +30,14 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 
 1. Change plan view to Tasks for Many People (you can also choose People for Many Tasks, which will show the grid listed by person with all tasks they are assigned to rather than by task with all people assigned to each task).
 
-   a. If you wish to only view specific tasks, copy the task name and paste it into Task Name field. Note: if the task name is 9. CLIN 2001 PM, you will need to lose the number and enter CLIN 2001 PM
-   b. If you don't select specific tasks, the grid will show all tasks including inactive ones and non-billable
+   - If you wish to only view specific tasks, copy the task name and paste it into Task Name field. Note: if the task name is 9. CLIN 2001 PM, you will need to lose the number and enter CLIN 2001 PM
+   - If you don't select specific tasks, the grid will show all tasks including inactive ones and non-billable
 
 2. Select planning period criteria
 
-   a. Calendar Months
-   b. Choose how many months to plan for
-   c. Choose the start date of your plan by entering the date or using the dropdown menu
+   - Calendar Months
+   - Choose how many months to plan for
+   - Choose the start date of your plan by entering the date or using the dropdown menu
 
 3. Budget in Hours or Utilization (most people select hours)
 
@@ -56,20 +56,20 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 1. Find the task you wish to plan
 2. Enter the allocations (# of hours) by month
 
-   a. Month by month, person by person (ie. entering a figure in each field)
+   - Month by month, person by person (ie. entering a figure in each field)
    Consider leave requests, holidays, conferences and so on
-   b. ** IMPORTANT ** Double click on every person's name who you are planning for to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
-   c. Note re above: Assigning a labor category is done by task, it does not translate to all tasks, even if you choose the "People for many Tasks" option
+   - ** IMPORTANT ** Double click on every person's name who you are planning for to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
+   - Note re above: Assigning a labor category is done by task, it does not translate to all tasks, even if you choose the "People for many Tasks" option
 
 ![Screenshot of Plan with Grid 5](../images/Plan-with-Grid-5.png)
 
 3. Click on Save
 4. If you are finished, you may click on Assign
 
-   a. You will have an opportunity to double check your plan at this point
-   b. You will also have an option to check the Exceed box to allow a person to exceed the number of hours you have allocated for them (if FFP, you may wish to check this box)
-   c. You will have an opportunity to notify different people about the plan you have created
-   d. Select the plans you wish to save by clicking on the "Assign" box at the beginning of each plan (or the one above to "assign all")
+   - You will have an opportunity to double check your plan at this point
+   - You will also have an option to check the Exceed box to allow a person to exceed the number of hours you have allocated for them (if FFP, you may wish to check this box)
+   - You will have an opportunity to notify different people about the plan you have created
+   - Select the plans you wish to save by clicking on the "Assign" box at the beginning of each plan (or the one above to "assign all")
 
 ### Tips
 
@@ -79,20 +79,20 @@ You may enter multiple hours/month on the planning grid rather than one month pe
 
 ![Screenshot of Plan with Grid 6](../images/Plan-with-Grid-6.png)
 
-a. You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
-b. You can also enter the labor category here if it is the same for each person.
+- You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
+- You can also enter the labor category here if it is the same for each person.
 
 ![Screenshot of Plan with Grid 7](../images/Plan-with-Grid-7.png)
 
 2. For the same number of hours for an individual for every period - Double click on the name of the person
 
-   a. You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for that person for each month.
-   b. You can also enter the labor category here.
+   - You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for that person for each month.
+   - You can also enter the labor category here.
 
 3. For the same number of hours for each person for a particular month - Double click on the month at the top of the page
 
-   a. You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for each person for the selected month.
-   b. You can also enter the labor category here if it is the same for each person
+   - You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for each person for the selected month.
+   - You can also enter the labor category here if it is the same for each person
 
 ## Adjust projections for holidays or other time-off
 
@@ -116,9 +116,9 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 
 1. Find your approvals
 
-   a. Click on the Unanet logo
-   b. Scroll down to Approvals
-   c. Look for Expense Reports and/or Requests and click on Primary Approvals to view
+   - Click on the Unanet logo
+   - Scroll down to Approvals
+   - Look for Expense Reports and/or Requests and click on Primary Approvals to view
 
 ![Screenshot of Approving Expense 1](../images/Approving-Expenses-1.png)
 
@@ -138,16 +138,16 @@ To check this by viewing the person expense approval history:
 
 2.  Review the REQUEST
 
-    a. Click on the magnifying glass to view all details
-    b. Check the project type and expense type are correct
-    c. Approve or Disapprove as you see fit - you do NOT need to check ProDev usage - Rachael does that as part of the project approval process before the request reaches you.
+    - Click on the magnifying glass to view all details
+    - Check the project type and expense type are correct
+    - Approve or Disapprove as you see fit - you do NOT need to check ProDev usage - We do that as part of the project approval process before the request reaches you.
 
 3.  Review the REPORT
 
-    a. Make sure there are no duplicates
-    b. Click on the magnifying glass to view all details
-    c. Check the amount, project type and expense type are correct
-    d. Click on attachments to open the receipt and double check the details
+    - Make sure there are no duplicates
+    - Click on the magnifying glass to view all details
+    - Check the amount, project type and expense type are correct
+    - Click on attachments to open the receipt and double check the details
 
     Checklist
 
@@ -155,10 +155,10 @@ To check this by viewing the person expense approval history:
           2. Check project/expense type
           3. Check the receipt date (should match date entered in Unanet)
           4. Check the receipt amount (should match amount entered in Unanet)
-          5. Check the credit card number does not end in 2997. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on 'disapprove' and ask the  requestor to resubmit with 'Henry's Visa' for Payment Method (on the Details page)
+          5. Check the credit card number does not end in ****. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on 'disapprove' and ask the  requestor to resubmit with '**** Visa' for Payment Method (on the Details page)
 
-    e. If there are any problems with the the report, click on 'disapprove' and let the requestor know why you have disapproved it
-    f. If all looks good, click on 'Approve'
+    - If there are any problems with the the report, click on 'disapprove' and let the requestor know why you have disapproved it
+    - If all looks good, click on 'Approve'
 
 **Expense report and request statuses and what they mean:**
 
@@ -196,13 +196,13 @@ This report is useful for spotting anomalies such as a terminated employee in th
 4. Make sure "Report On:" shows "All Projects I can see"
 5. Enter the project code or project type
 
-   a. For specific projects, find the Project Code field and enter the project code or use the wildcard % with part of the code (eg. %gnet) and click on the blue arrow to select
-   b. For all billable projects you have access to, find the Project Type field and enter %b- and click on the arrow to select
+   - For specific projects, find the Project Code field and enter the project code or use the wildcard % with part of the code (eg. %gnet) and click on the blue arrow to select
+   - For all billable projects you have access to, find the Project Type field and enter %b- and click on the arrow to select
 
 6. Scroll down to "Reporting Period" and select the following:
 
-   a.Month
-   b. Start date (we recommend at least a couple of months prior for comparison purposes)
+   - Month
+   - Start date (we recommend at least a couple of months prior for comparison purposes)
 
 7. In the next field "Number of Periods", select the number of months you wish to view
 8. Scroll down to Row Options and select only Show Plans and Show Actuals
@@ -229,7 +229,7 @@ This report will show you the planned utilization of various personnel
 4. Make sure REPORT ON: is set to "All People I Can See"
 5. Scroll down to REPORTING PERIOD and set to your desired view
 
-   a. You may want to check Month and set the start date as "Calendar - Previous Month"
+   - You may want to check Month and set the start date as "Calendar - Previous Month"
 
 6. In NUMBER OF PERIODS set the number of periods you wish to view
 
@@ -238,12 +238,12 @@ This report will show you the planned utilization of various personnel
 7. In COLUMN OPTIONS, uncheck "Show People Organizations"
 8. In LEAVE REQUESTS, check "Include Leave Requests"
 
-   a. You can check to include unapproved leave requests
+   - You can check to include unapproved leave requests
 
    Note, this will not include any detail, it will merely highlight the months that include leave requests
 
 9. In BOOKED % COLOR, change the middle line "For % from" to 80
-   a. The previous line "For % to" will automatically change to 79
+   - The previous line "For % to" will automatically change to 79
 
 ![Screenshot of Planned Utilization 3](../images/Planned-Utilization-3.png)
 
