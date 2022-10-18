@@ -57,7 +57,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 2. Enter the allocations (# of hours) by month
 
    - Month by month, person by person (ie. entering a figure in each field)
-   Consider leave requests, holidays, conferences and so on
+     Consider leave requests, holidays, conferences and so on
    - ** IMPORTANT ** Double click on every person's name who you are planning for to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
    - Note re above: Assigning a labor category is done by task, it does not translate to all tasks, even if you choose the "People for many Tasks" option
 
