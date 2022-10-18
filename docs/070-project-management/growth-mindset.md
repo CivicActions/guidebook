@@ -1,6 +1,7 @@
 # Conflict Resolution and Growth Mindset
 
 ## Conflict Resolution
+
 Working on projects and with people means that conflicts and tensions will arise; they can be thought of as a natural part of the cycle. Our practice is to recognize when tension exists and concerning a team member, and ask the person to share it in a 1:1 conversation. The sole purpose is to clear the air and both parties agree to acknowledge the tension and then close the conversation. When we share in this objective way, we clear our minds of anything that might interfere with being able to hear what the other person is saying so that we might be present to who they are in this moment, rather than the story we have been telling ourselves about them.
 
 Another approach to the inherent project tensions is embracing a growth mindset:
