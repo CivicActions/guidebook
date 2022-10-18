@@ -17,7 +17,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 ### Open Plan with Grid
 
 1. Contracts/Project/List
-2. Enter the project code or % and part of the code (eg. %gnet)
+2. Enter the project code or % and part of the code (eg. %acme)
 
 ![Screenshot of Plan with Grid 1](../images/Plan-with-Grid-1.png)
 
@@ -133,8 +133,8 @@ To check this quickly:
 To check this by viewing the person expense approval history:
 
       i. People/List/Type last name in Last Name field and click blue > then List
-      i. Click on the dollar icon
-      i. Click on 'Completed Expense Requests' to view
+      ii. Click on the dollar icon
+      iii. Click on 'Completed Expense Requests' to view
 
 2.  Review the REQUEST
 
