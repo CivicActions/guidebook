@@ -21,7 +21,7 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## Markdown linter
 
-We are using <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readbility, language and grammar issues.
+We are using <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readability, language and grammar issues.
 
 - The [remarkrc.problem file](https://github.com/CivicActions/handbook/blob/master/lint/config/remarkrc.problem) shows a list of all the rules being enforced.
 - The [remarkrc.suggestion file](https://github.com/CivicActions/handbook/blob/master/lint/config/remarkrc.suggestion) shows a list of all rules used to give suggestions.
@@ -43,7 +43,7 @@ You can check that your markdown complies with the retext and remark locally:
 
 ## Editors
 
-Markdown can be really easy to use with a good editor such as some of these [text editors](../050-how-we-work/tools/text-editors.md) - many editors have plugings that support Prettier and Remark linting for real time fixing and feedback on your edits.
+Markdown can be really easy to use with a good editor such as some of these [text editors](../050-how-we-work/tools/text-editors.md) - many editors have plugins that support Prettier and Remark linting for real time fixing and feedback on your edits.
 
 ## Mixing HTML and Markdown
 

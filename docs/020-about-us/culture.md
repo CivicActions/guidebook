@@ -84,11 +84,13 @@ Some practical tips for making inclusive spaces on your team:
 
 We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessibility isn't just a core part of our culture, it's also a committee.
 
-[Learn more about the Diversity, Equity, Inclusion, and Accessibility Committee](https://civicactions-handbook.readthedocs.io/en/latest/050-how-we-work/diversity-equity-inclusion/ops/)
+[Learn more about the Diversity, Equity, Inclusion, and Accessibility Committee](../050-how-we-work/diversity-equity-inclusion/ops.md)
 
 ## Accessibility
 
 **CivicActions' Accessibility Commitment: Both in our work with the government and here at home, accessibility is never done.**
+
+We have solidified this commitment through our [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge). We are working build a more robust culture of accessibility through our [Champions Program](https://accessibility.civicactions.com/guide/champions-program).
 
 ### Serving people of all abilities
 
@@ -98,11 +100,9 @@ CivicActions Accessibility is an open, agile project, practice area and communit
 
 The accessibility team has been busily working on our accessibility website, which contains useful guides as well as a playbook. We have also introduced a proactive, interactive process to make government services accessible to everyone, called the [Holistic Enterprise Accessibility Review Technique (HEART)](https://accessibility.civicactions.com/heart). The team is looking for ways to pollinate accessibility as a core part of the way we work at CivicActions and we would love to have everyone contribute. We believe there is a role for everyone at CivicActions to play in making everything we do as accessible as possible.
 
-### If you'd like to know more about how you can participate:
+### Want to know more about how you can participate?
 
-- Join the #accessibility Slack channel
-- [Submit an "Add new team member" issue](https://github.com/CivicActions/accessibility/issues/new/choose) : [Join GitHub](https://github.com/) if you haven't already
-- [Join the meetings](https://accessibility.civicactions.com/calendar) check-ins + prioritization + practice area calls
+Check out our [Accessibility Practice Area](../050-how-we-work/practice-areas/accessibility-practice-area.md)!
 
 ## Common Questions
 
