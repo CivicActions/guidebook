@@ -110,8 +110,6 @@ From that place, then deduct - monthly - for any of the following:
 
 Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared calendar and try searching "name OOO". This will allow you to isolate the forthcoming dates for the given person.
 
-## Reviewing and approving timesheets
-
 ## Reviewing and approving expenses
 
 1. Find your approvals
