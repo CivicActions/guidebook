@@ -4,7 +4,7 @@ Time off under this policy is not being provided in addition to any pre-existing
 
 ## Holidays
 
-CivicActions is considered closed on the following holidays:
+CivicActions is considered closed in the US on the following holidays:
 
 | Holiday                             | Dates                         |
 | ----------------------------------- | ----------------------------- |
@@ -19,7 +19,24 @@ CivicActions is considered closed on the following holidays:
 | Day after Thanksgiving              | The Friday after Thanksgiving |
 | Christmas Day                       | December 25th\*               |
 
-If a holiday falls on a the weekend, the US office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
+If a holiday falls on a the weekend, the US observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
+
+CivicActions is considered closed in Canada on the following holidays:
+
+| Holiday                             | Dates                         |
+| ----------------------------------- | ----------------------------- |
+| New Year's Day                      | January 1st\*                 |
+| Family Day                          | Third Monday in February      |
+| Good Friday                         | Friday before Easter          |
+| Victoria Day                        | Monday preceding May 25th     |
+| Canada Day                          | July 1st\*                    |
+| Civic Holiday                       | First Monday in August        |
+| Labour Day                          | First Monday in September     |
+| Thanksgiving Day                    | Second Monday in October      |
+| Christmas Day                       | December 25th\*               |
+| Boxing Day                          | December 26th\*               |
+
+If a holiday falls on a the weekend, a floating holiday may exist and Canadian team members may observe on the preceding Friday or Monday as regionally celebrated. 
 
 Employees are not encouraged to work on these holidays. If you feel it's necessary to work on a holiday, hourly, non-exempt employees will be compensated at their normal hourly rate, and will receive overtime where appropriate.
 
