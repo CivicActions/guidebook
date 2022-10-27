@@ -14,7 +14,7 @@ Note: A person is on a single board, even if their work spans across multiple pr
 
 - [DevOps Team](https://trello.com/b/ADD9wXzP/devops-team-responsibilities)
 - [Drupal Team](https://trello.com/b/9v2snoyG/drupal-team-responsibilities)
-- [Marketing/Content Team ](https://trello.com/b/oIhQ6EKe/marketing-content-team-responsibilities)
+- [Marketing/Content Team](https://trello.com/b/oIhQ6EKe/marketing-content-team-responsibilities)
 - [Open Data Team](https://trello.com/b/QwOEU9Kv/open-data-team-responsibilities)
 - [Ops Team](https://trello.com/b/qYDkL0tM/ops-team-responsibilities)
 - [Project Management Team](https://trello.com/b/kg4VtPiG/project-manager-team-responsibilities)
