@@ -8,7 +8,7 @@ In our [Accessibility Site](https://accessibility.civicactions.com/agile), we ar
 
 If you aren't part of the CivicActions team [let us know](https://accessibility.civicactions.com/contact) what you find helpful, if there are resources we should include or if there are ways we can improve. If you are part of CivicActions, please reach out on Slack.
 
-## We encourage C:
+## Join Us:
 
 - Join the #accessibility CivicActions Slack channel (CivicActions Internal)
 
