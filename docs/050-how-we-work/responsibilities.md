@@ -12,13 +12,13 @@ The next iteration of this exercise will be to look at the responsibilities with
 
 Note: A person is on a single board, even if their work spans across multiple practice areas. Each person should include all of their responsibilities in their column, even if some responsibilities don't relate to the practice area.
 
-- [DevOps Team Trello board](https://trello.com/b/ADD9wXzP/devops-team-responsibilities)
-- [Drupal Team Trello board](https://trello.com/b/9v2snoyG/drupal-team-responsibilities)
-- [Marketing/Content Team Trello board](https://trello.com/b/oIhQ6EKe/marketing-content-team-responsibilities)
-- [Open Data Team Trello board](https://trello.com/b/QwOEU9Kv/open-data-team-responsibilities)
-- [Ops Team Trello board](https://trello.com/b/qYDkL0tM/ops-team-responsibilities)
-- [Project Management Team Trello board](https://trello.com/b/kg4VtPiG/project-manager-team-responsibilities)
-- [Sales/BizDev Team Trello board](https://trello.com/b/onwxhh2c/sales-bizdev-team-responsibilities)
-- [Security Team Trello board](https://trello.com/b/bVYPLQ26/security-team-responsibilities)
-- [Support Team Trello board](https://trello.com/b/Dzwa18am/support-team-responsibilities)
-- [UX Team Trello board](https://trello.com/b/DtoB8NaV/ux-team-responsibilities)
+- [DevOps Team](https://trello.com/b/ADD9wXzP/devops-team-responsibilities)
+- [Drupal Team](https://trello.com/b/9v2snoyG/drupal-team-responsibilities)
+- [Marketing/Content Team ](https://trello.com/b/oIhQ6EKe/marketing-content-team-responsibilities)
+- [Open Data Team](https://trello.com/b/QwOEU9Kv/open-data-team-responsibilities)
+- [Ops Team](https://trello.com/b/qYDkL0tM/ops-team-responsibilities)
+- [Project Management Team](https://trello.com/b/kg4VtPiG/project-manager-team-responsibilities)
+- [Sales/BizDev Team](https://trello.com/b/onwxhh2c/sales-bizdev-team-responsibilities)
+- [Security Team](https://trello.com/b/bVYPLQ26/security-team-responsibilities)
+- [Support Team](https://trello.com/b/Dzwa18am/support-team-responsibilities)
+- [UX Team](https://trello.com/b/DtoB8NaV/ux-team-responsibilities)
