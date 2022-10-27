@@ -2,7 +2,7 @@
 
 _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
 
-I [recently suggested](the-most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) that the way we approach new development is the most important factor in determining the long term value of our work. But just how can developers using Drupal make the most of open source by ensuring that participating and contributing is an essential part of our daily workflow? Here are some practical tips that come out of our experience at CivicActions and that can guide you in deciding how to approach new development to get the full benefit of open source. Read on as well for a discussion of patching vs. hacking vs. forking and of how to get attention for your patches.
+I [recently suggested](most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) that the way we approach new development is the most important factor in determining the long term value of our work. But just how can developers using Drupal make the most of open source by ensuring that participating and contributing is an essential part of our daily workflow? Here are some practical tips that come out of our experience at CivicActions and that can guide you in deciding how to approach new development to get the full benefit of open source. Read on as well for a discussion of patching vs. hacking vs. forking and of how to get attention for your patches.
 
 ## Approach to New Development
 
@@ -41,7 +41,7 @@ Changes we might make to existing modules fall into three general categories, wh
 
 In weighing potential changes, it's essential to figure out what kind of change we're making and to carefully weigh costs and benefits, ensuring that the client too is aware of long term implications. At every stage, we should ask:
 
-- Can this change be made through API methods rather than code changes? For example, is there a hook availble that could be used in a custom module to achieve the change without changing existing modules?
+- Can this change be made through API methods rather than code changes? For example, is there a hook available that could be used in a custom module to achieve the change without changing existing modules?
 - If not, can this change be made cleanly through a patch?
 - If not, is the benefit that would result from this change truly worth the long term costs of a hack or a fork?
 
