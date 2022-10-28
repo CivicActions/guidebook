@@ -19,7 +19,7 @@ What are some of the benefits and risks of custom vs. contributed development? H
 <table>
 <thead>
 <tr>
-<th></th>
+<th>Topic</th>
 <th>Custom Development</th>
 <th>Contributed Development</th>
 </tr>
