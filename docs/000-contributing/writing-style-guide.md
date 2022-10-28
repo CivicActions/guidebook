@@ -9,9 +9,10 @@ This will be fleshed out in future iterations. For now, keep in mind that conten
 We use sentence case for our titles and headings. When using sentence case, we capitalize the first word, all proper nouns, and a word following a colon. We do not capitalize the next word if a title or heading begins with a number.
 
 Examples
-* Site building using Drupal
-* Engineer's role in client relationships
-* 30 days checkin
+
+- Site building using Drupal
+- Engineer's role in client relationships
+- 30 days checkin
 
 ## Suggestions
 
