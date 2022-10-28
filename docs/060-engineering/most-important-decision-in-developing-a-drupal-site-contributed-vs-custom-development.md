@@ -16,17 +16,62 @@ For larger projects, new development can include:
 
 What are some of the benefits and risks of custom vs. contributed development? Here's some suggestions on how they compare.
 
-|                                     | Custom Development                                                                                                        | Contributed Development                                                                                                                                                          |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _Initial development time_          | Can often be done quickly.                                                                                                | Can take a longer time.                                                                                                                                                          |
-| _Meeting customer specs_            | Can potentially match customer specs exactly.                                                                             | May require relatively more adjustment of customer specs, or additional work to customize a generic solution.                                                                    |
-| _Flexibility/reusability_           | Tends to be specific to a particular case. Answering a similar need even in the same project tends to require new coding. | Tends to be more flexible. May answer the next need with little or no new coding.                                                                                                |
-| _Code quality_                      | May encourage short-cuts.                                                                                                 | Imposes a relative rigour and promotes cleaner, higher quality code.                                                                                                             |
-| _Code footprint_                    | Can tend to override, duplicate, replace existing code, leading to a larger overall code footprint.                       | Tends to focus on only what's needed, reducing code duplication.                                                                                                                 |
-| _Understandable code_               | Tends to promote custom, non-standard approaches that are relatively difficult for new developers to follow.              | Tends to promote more standard approaches.                                                                                                                                       |
-| _Troubleshooting and security_      | Onus is entirely on the project.                                                                                          | Potential benefit of contributions from community contributions and wider testing environment given a bigger install base.                                                       |
-| _Maintenance and upgrade time_      | Can with a custom code base that needs maintenance and upgrades, increasing long term cost.                               | Still needs maintenance and upgrading but may benefit from community contributions and from the potential to share costs with other projects since it meets their needs as well. |
-| _Developer satisfaction and growth_ | May reduce initial stress ("Sure, we can do that.").                                                                      | May provide greater fulfillment and more valuable learning.                                                                                                                      |
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Custom Development</th>
+<th>Contributed Development</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Initial development time</em></td>
+<td>Can often be done quickly.</td>
+<td>Can take a longer time.</td>
+</tr>
+<tr>
+<td><em>Meeting customer specs</em></td>
+<td>Can potentially match customer specs exactly.</td>
+<td>May require relatively more adjustment of customer specs, or additional work to customize a generic solution.</td>
+</tr>
+<tr>
+<td><em>Flexibility/reusability</em></td>
+<td>Tends to be specific to a particular case. Answering a similar need even in the same project tends to require new coding.</td>
+<td>Tends to be more flexible. May answer the next need with little or no new coding.</td>
+</tr>
+<tr>
+<td><em>Code quality</em></td>
+<td>May encourage short-cuts.</td>
+<td>Imposes a relative rigour and promotes cleaner, higher quality code.</td>
+</tr>
+<tr>
+<td><em>Code footprint</em></td>
+<td>Can tend to override, duplicate, replace existing code, leading to a larger overall code footprint.</td>
+<td>Tends to focus on only what's needed, reducing code duplication.</td>
+</tr>
+<tr>
+<td><em>Understandable code</em></td>
+<td>Tends to promote custom, non-standard approaches that are relatively difficult for new developers to follow.</td>
+<td>Tends to promote more standard approaches.</td>
+</tr>
+<tr>
+<td><em>Troubleshooting and security</em></td>
+<td>Onus is entirely on the project.</td>
+<td>Potential benefit of contributions from community contributions and wider testing environment given a bigger install base.</td>
+</tr>
+<tr>
+<td><em>Maintenance and upgrade time</em></td>
+<td>Can with a custom code base that needs maintenance and upgrades, increasing long term cost.</td>
+<td>Still needs maintenance and upgrading but may benefit from community contributions and from the potential to share costs with other projects since it meets their needs as well.</td>
+</tr>
+<tr>
+<td><em>Developer satisfaction and growth</em></td>
+<td>May reduce initial stress ("Sure, we can do that.").</td>
+<td>May provide greater fulfillment and more valuable learning.</td>
+</tr>
+</tbody>
+</table>
 
 Most problems have at least a generic component and can be approached in part through abstracted development. Part of the work is discussion with the client. We need to work to ensure the client understands the relative costs and benefits of custom development vs. generic solutions. In most cases, opting to give the clients "just what they want" just isn't in their long term interest and can cut them off from the benefits of choosing an open source solution in the first place.
 
