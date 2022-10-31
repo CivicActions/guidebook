@@ -40,7 +40,7 @@ repos:
       - id: codespell
         files: docs
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v3.0.0-alpha.3
+    rev: v3.0.0-alpha.4
     hooks:
       - id: prettier
 ci:
