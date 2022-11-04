@@ -1,5 +1,8 @@
 name: reviewdog
-on: [pull_request]
+
+on:
+  pull_request:
+
 jobs:
   remark-lint:
     runs-on: ubuntu-latest
