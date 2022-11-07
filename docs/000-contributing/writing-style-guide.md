@@ -12,7 +12,7 @@ Examples
 
 - Site building using Drupal
 - Engineer's role in client relationships
-- 30 days checkin
+- Accessibility: Everyone has a role
 
 ## Suggestions
 
