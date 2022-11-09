@@ -8,8 +8,6 @@ theme:
   hljs_languages:
     - yaml
     - rust
-plugins:
-  - search
 extra_css:
   - css/extra.css
 markdown_extensions:
