@@ -17,6 +17,7 @@ Now prepare for the new month:
 ## Quarterly Checklists (to be completed by the fifth business day of each quarter)
 
 Wrap up the past quarter:
+
 1. Adjust onboarding decks with any new project resources
 2. Adjust the All Projects deck with any changes
 
