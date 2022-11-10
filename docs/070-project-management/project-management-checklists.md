@@ -5,7 +5,7 @@
 Wrap up the past month:
 
 1. Complete monthly contractual deliverables (monthly reporting, etc.)
-2. Run the 'plan vs actual' report for the last month to verify reporting accuracy
+2. Run the "plan vs actual" report for the last month to verify reporting accuracy
 
 Now prepare for the new month:
 
