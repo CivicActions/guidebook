@@ -124,15 +124,15 @@ NOTE: All expense reimbursements except for ProDev < $50 should be submitted as 
 
 To check this quickly:
 
-      i. Click on the magnifying glass next to the expense report
-      ii. Scroll down to Approval History
-      iii. A report that has previously been a request will show 'PreApproving' and 'PreApproved' statuses in the history. If it has never been a request, you will only see 'Approving' and/or 'Completed'. (See below for explanation of statuses and an example of an expense request and report approval history).
+      a. Click on the magnifying glass next to the expense report
+      b. Scroll down to Approval History
+      c. A report that has previously been a request will show 'PreApproving' and 'PreApproved' statuses in the history. If it has never been a request, you will only see 'Approving' and/or 'Completed'. (See below for explanation of statuses and an example of an expense request and report approval history).
 
 To check this by viewing the person expense approval history:
 
-      i. People/List/Type last name in Last Name field and click blue > then List
-      ii. Click on the dollar icon
-      iii. Click on 'Completed Expense Requests' to view
+      a. People/List/Type last name in Last Name field and click blue > then List
+      b. Click on the dollar icon
+      b. Click on 'Completed Expense Requests' to view
 
 2.  Review the REQUEST
 
@@ -149,11 +149,11 @@ To check this by viewing the person expense approval history:
 
     Checklist
 
-          1. Receipt should be attached
-          2. Check project/expense type
-          3. Check the receipt date (should match date entered in Unanet)
-          4. Check the receipt amount (should match amount entered in Unanet)
-          5. Check the credit card number does not end in ****. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on 'disapprove' and ask the  requestor to resubmit with '**** Visa' for Payment Method (on the Details page)
+         1. Receipt should be attached
+         2. Check project/expense type
+         3. Check the receipt date (should match date entered in Unanet)
+         4. Check the receipt amount (should match amount entered in Unanet)
+         5. Check the credit card number does not end in ****. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on 'disapprove' and ask the  requestor to resubmit with '**** Visa' for Payment Method (on the Details page)
 
     - If there are any problems with the the report, click on 'disapprove' and let the requestor know why you have disapproved it
     - If all looks good, click on 'Approve'
