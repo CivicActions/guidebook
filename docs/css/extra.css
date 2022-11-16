@@ -34,6 +34,9 @@ h6 {
 .wy-menu-vertical a:active {
   background-color: #db1b3b;
 }
+.wy-menu-vertical li.current a {
+  color: #484848;
+}
 .wy-side-nav-search {
   background-color: #db1b3b;
 }
