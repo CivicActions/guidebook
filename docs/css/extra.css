@@ -27,6 +27,9 @@ h6 {
 .wy-nav-content a:visited {
   color: #db1b3b;
 }
+.wy-menu-vertical ul.subnav span {
+  color: #484849;
+}
 .wy-menu-vertical span {
   color: #edf0f2;
   font-weight: bold;
