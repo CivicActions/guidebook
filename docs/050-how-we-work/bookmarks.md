@@ -11,7 +11,7 @@ Links to websites we use regularly.
 
 - [Twitter](https://twitter.com/CivicActions)
 - [Facebook](https://www.facebook.com/CivicActions/)
-- [LinkedIn](https://www.linkedin.com/company-beta/54684/)
+- [LinkedIn](https://www.linkedin.com/company/civicactions/)
 
 ## Tools
 
