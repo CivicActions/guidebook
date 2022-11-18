@@ -37,14 +37,26 @@ h6 {
 .wy-menu-vertical a:active {
   background-color: #db1b3b;
 }
+.wy-menu-vertical a:hover {
+  color: #e7e7e7;
+}
 .wy-menu-vertical li.current a {
-  color: #484848;
+  color: #404040;
 }
 .wy-side-nav-search {
   background-color: #db1b3b;
 }
 .wy-side-nav-search > div.version {
   color: #fff7f6;
+}
+code {
+  color: #9d3429;
+}
+a code {
+  color: #1e5d86; 
+}
+a:hover code {
+  color: #1f5d86; 
 }
 footer {
   color: #545454;
