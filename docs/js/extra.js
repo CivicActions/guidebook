@@ -4,7 +4,7 @@ if (document.getElementById("rtd-search-form")) {
     .firstElementChild.setAttribute("aria-label", "Search docs");
 }
 
-if (document.getElementById("content_search").getElementsByTagName("input")) {
+if (document.getElementById("content_search")) {
   document
     .getElementById("content_search")
     .getElementsByTagName("input")[0]
