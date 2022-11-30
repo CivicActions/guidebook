@@ -18,8 +18,8 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 | Name                                            | Leads                                                                                        | Slack                  | Meets                                |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
-| [Accessibility](accessibility-practice-area.md) | Laura Flannery, Mike Gifford                                         | #accessibility         | Twice monthly                        |
-| DevSecOps                                       | David Sumner, Sharjeel Aziz                                                                                 | #devsecops             | Biweekly                             |
+| [Accessibility](accessibility-practice-area.md) | Laura Flannery, Mike Gifford                                                                 | #accessibility         | Twice monthly                        |
+| DevSecOps                                       | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | Diversity, Equity, Inclusion & Accessibility    | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
 | [Drupal](drupal-practice-area.md)               | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
 | Workforce Transformation                        | Chianti Lomax                                                                                | #eduservices           |                                      |
@@ -28,4 +28,4 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Product Management                              | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
 | Project Management                              | Heidi Harting-Rex                                                                            | #projectmanagement     | Biweekly                             |
 | Quality Assurance                               | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
-| Design                                          | Ben Leffler, Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                                         | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| Design                                          | Ben Leffler, Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
