@@ -121,11 +121,11 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
    1. To check this quickly:
       1. Click on the magnifying glass next to the expense report
       1. Scroll down to Approval History
-      1. A report that has previously been a request will show 'PreApproving' and 'PreApproved' statuses in the history. If it has never been a request, you will only see 'Approving' and/or 'Completed'. (See below for explanation of statuses and an example of an expense request and report approval history).
+      1. A report that has previously been a request will show "PreApproving" and "PreApproved" statuses in the history. If it has never been a request, you will only see "Approving" and/or "Completed". (See below for explanation of statuses and an example of an expense request and report approval history).
    1. To check this by viewing the person expense approval history:
       1. People/List/Type last name in Last Name field and click blue > then List
       1. Click on the dollar icon
-      1. Click on 'Completed Expense Requests' to view
+      1. Click on "Completed Expense Requests" to view
 1. Review the REQUEST
    1. Click on the magnifying glass to view all details
    1. Check the project type and expense type are correct
@@ -141,8 +141,8 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
       1. Check the receipt date (should match date entered in Unanet)
       1. Check the receipt amount (should match amount entered in Unanet)
       1. Check the credit card number does not end in xxxx. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on "disapprove" and ask the requestor to resubmit with "x Visa" for Payment Method (on the Details page)
-         1. If there are any problems with the the report, click on "disapprove" and let the requestor know why you have disapproved it
-         1. If all looks good, click on 'Approve'
+         1. If there are any problems with the report, click on "disapprove" and let the requestor know why you have disapproved it
+         1. If all looks good, click on "Approve"
 
 **Expense report and request statuses and what they mean:**
 
