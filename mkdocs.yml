@@ -7,6 +7,8 @@ theme:
   hljs_languages:
     - yaml
     - rust
+plugins:
+  - search
 extra_css:
   - css/extra.css
 extra_javascript:
