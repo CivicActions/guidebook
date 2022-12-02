@@ -3,12 +3,11 @@ repo_url: https://github.com/CivicActions/handbook/
 site_url: https://handbook.civicactions.com/en/latest/
 theme:
   name: readthedocs
-  highlightjs: true
+  highlightjs: True
   hljs_languages:
     - yaml
     - rust
-plugins:
-  - search
+  collapse_navigation: False
 extra_css:
   - css/extra.css
 extra_javascript:
