@@ -4,7 +4,6 @@ site_url: https://handbook.civicactions.com/en/latest/
 theme:
   name: readthedocs
   highlightjs: true
-  collapse_navigation: false
   hljs_languages:
     - yaml
     - rust
