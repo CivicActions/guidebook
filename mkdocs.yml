@@ -11,5 +11,7 @@ plugins:
   - search
 extra_css:
   - css/extra.css
+extra_javascript:
+  - js/extra.js
 markdown_extensions:
   - mdx_truly_sane_lists
