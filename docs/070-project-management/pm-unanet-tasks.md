@@ -136,15 +136,15 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
    1. Check the amount, project type and expense type are correct
    1. Click on attachments to open the receipt and double check the details
    1. Checklist
-      1. Receipt should be attached
-      1. Check project/expense type
-      1. Check the receipt date (should match date entered in Unanet)
-      1. Check the receipt amount (should match amount entered in Unanet)
-      1. Check the credit card number does not end in xxxx. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on "disapprove" and ask the requestor to resubmit with "x Visa" for Payment Method (on the Details page)
-         1. If there are any problems with the report, click on "disapprove" and let the requestor know why you have disapproved it
-         1. If all looks good, click on "Approve"
+      - Receipt should be attached
+      - Check project/expense type
+      - Check the receipt date (should match date entered in Unanet)
+      - Check the receipt amount (should match amount entered in Unanet)
+      - Check the credit card number does not end in xxxx. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on "disapprove" and ask the requestor to resubmit with "x Visa" for Payment Method (on the Details page)
+       - If there are any problems with the report, click on "disapprove" and let the requestor know why you have disapproved it
+       - If all looks good, click on "Approve"
 
-**Expense report and request statuses and what they mean:**
+## Expense report and request statuses and what they mean
 
 ### Requests
 
