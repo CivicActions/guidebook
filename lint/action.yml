@@ -6,8 +6,11 @@ inputs:
     description: "GITHUB_TOKEN."
     required: true
     default: ${{ github.token }}
+  command:
+    description: "Command to run"
+    required: true
 runs:
   using: "docker"
   image: "Dockerfile"
   args:
-    - remark.sh
+    - ${{ inputs.command }}
