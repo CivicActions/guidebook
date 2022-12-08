@@ -7,3 +7,4 @@ set -euo pipefail
 tmp_dir=$(mktemp -d -t mkdocs-XXXXXX)
 /usr/bin/mkdocs build --strict --site-dir "${tmp_dir}" 2>&1 | { grep -v '^INFO' || true; }
 rm -rf "${tmp_dir}"
+echo "mkdocs build successful"
