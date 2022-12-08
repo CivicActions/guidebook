@@ -14,3 +14,4 @@ jobs:
         uses: ./lint
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          command: remark.sh
