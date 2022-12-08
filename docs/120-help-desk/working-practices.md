@@ -5,7 +5,8 @@
 Respect for our users and clients is one of the primary values in our work. As CivicActions support staff, we demonstrate this by emphasizing helpfulness, timeliness and kindness in our working practices.
 
 ## Accessibility
-All communication from CivicActions Support should be as accessible as possible. Using plain language when communicating with each other, end users and clients is critical for people with different cognitive abilities, speakers of a non-English language, or those who rely on audio to listen to text. Try to keep the reading level of your responses between a 6-8 grade reading level. Use of a plain language tool such as the [Hemingway App](https://hemingwayapp.com/) can help you achieve accessible communication. 
+
+All communication from CivicActions Support should be as accessible as possible. Using plain language when communicating with each other, end users and clients is critical for people with different cognitive abilities, speakers of a non-English language, or those who rely on audio to listen to text. Try to keep the reading level of your responses between a 6-8 grade reading level. Use of a plain language tool such as the [Hemingway App](https://hemingwayapp.com/) can help you achieve accessible communication.
 
 ## Helpfulness
 
@@ -37,17 +38,14 @@ Often when someone asks a question about a web application, responding quickly m
 
 The first step toward helping users feel attended-to is to **always reply promptly**. Any reply is better than no reply. Users and clients like to know that we've read their correspondence, and that we're looking into the issue. We don't have to know everything in order to begin an interaction, and we don't even have to be specific about next steps; often our first response may be as simple as:
 
+_Hi (name),
+Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information._
 
-*Hi (name),
-Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it    in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.*
+_Let me know if I can help with anything else in the meantime!_
 
-*Let me know if I can help with anything else in the meantime!*
-
-
-*Thanks,
+_Thanks,
 (My name)
-CivicActions Support*
-
+CivicActions Support_
 
 The simple act of sending a response that acknowledges a question helps create a mutually beneficial partnership, and tells the user that they're not alone.
 
