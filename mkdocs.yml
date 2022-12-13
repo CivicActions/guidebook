@@ -3,5 +3,8 @@ repo_url: https://github.com/CivicActions/handbook/
 site_url: https://handbook.civicactions.com/en/latest/
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.expand
 plugins:
   - search
