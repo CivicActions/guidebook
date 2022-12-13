@@ -57,8 +57,8 @@ We use established Drupal contrib projects rather than writing custom code. It's
 
 #### Resources
 
-- <http://civicactions.com/blog/most_important_decision_developing_site_Contributed_vs_custom_development>
-- <http://www.civicactions.com/blog/Drupal_Developer_Tips_Getting_Most_out_Open_Source>
+- [The Most Important Decision In Developing A Drupal Site: Contributed Vs. Custom Development](most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md)
+- [Drupal Developer Tips for Getting the Most out of Open Source](drupal-developer-tips-for-getting-the-most-out-of-open-source.md)
 
 ### We use Features best practices.
 
