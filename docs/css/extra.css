@@ -1,5 +1,10 @@
 :root {
-  --md-primary-fg-color: #a23737;
+  --md-primary-fg-color: #A23737;
+  --md-accent-fg-color: #3B4EB7;
+}
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #FFA8A8;
+  --md-accent-fg-color: #AFBBFF;
 }
 .md-search__form {
   background-color: #d83933;
