@@ -1,4 +1,4 @@
-# CivicActions Handbook
+# CivicActions Guidebook
 
 [![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
 
@@ -11,9 +11,9 @@ Lafayette, CA 94549
 888.714.7388 | fax
 civicactions.com
 
-### <a name="purpose"></a>Handbook Purpose
+### <a name="purpose"></a>Guidebook Purpose
 
-This Handbook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
+This Guidebook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
 
 ## License
 

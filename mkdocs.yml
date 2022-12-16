@@ -1,4 +1,4 @@
-site_name: CivicActions Handbook
+site_name: CivicActions Guidebook - Beta
 repo_url: https://github.com/CivicActions/handbook/
 site_url: https://handbook.civicactions.com/en/latest/
 theme:
@@ -6,5 +6,11 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
+  favicon: img/favicon.ico
+markdown_extensions:
+  - toc:
+      title: On this page
 plugins:
   - search
+extra_css:
+  - css/extra.css
