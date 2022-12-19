@@ -51,7 +51,7 @@ Resources:
 
 ## Assignment of pull requests
 
-Your PR will automatically be assigned to a team for a review, based on which part of the handbook you are editing. That automatic review assignment is explained in [guidebook-governance.md](docs-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
+Your PR will automatically be assigned to a team for a review, based on which part of the handbook you are editing. That automatic review assignment is explained in [Guidebook governance](guidebook-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
 
 ## How to review and merge pull requests
 
