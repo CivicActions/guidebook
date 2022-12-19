@@ -12,8 +12,8 @@ MASTER=master
 if [[ -z ${LOCAL_MASTER} ]]; then
   MASTER=origin/master
 fi
-# Only check paths changed on branch to avoid excessive output.
-export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" | grep '^docs')
+# Only check paths changed on branch to avoid excessive output. Exclude CSS.
+export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':!docs/css/extra.css' | grep '^docs')
 
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
