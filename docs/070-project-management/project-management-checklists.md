@@ -15,8 +15,8 @@ Now prepare for the new month:
 4. Update Unanet with Plans (subtracting any OOO or company holidays) for all project resources
 5. Assign Plans
 6. Update any project-related scheduling (if needed)
-7. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?  
-Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
+7. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
+   Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
 
 ## Quarterly Checklists (to be completed by the fifth business day of each quarter)
 
@@ -29,13 +29,11 @@ Wrap up the past quarter:
 Now prepare for the new quarter:
 
 3. Review project Wrappers (Legal and Project Management)
+
 - Review contractual dates and details
 - Review QASP
 - Confirm deliverables are being met
 - Verify alignment with DevOps around deliverables
 - Confirm scope has not changed
+
 4. Review Team Working Agreements
-
-
-
-
