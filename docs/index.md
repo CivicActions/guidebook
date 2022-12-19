@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # CivicActions Guidebook
 
 [![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
