@@ -7,7 +7,7 @@ theme:
     - navigation.tabs
     - navigation.expand
   favicon: img/favicon.ico
-  logo: img/CA-Short-Logo-White.svg
+  logo: img/ca-logo-white.svg
   palette:
     # Palette toggle for light mode
     - scheme: default
