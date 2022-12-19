@@ -14,6 +14,7 @@ CivicActions recognizes the importance of individual professional development (p
 CivicActions supports and encourages the professional development of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
 
 In addition to the $1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
+
 <!-- prettier-ignore-end -->
 
 Historical Prodev Hours Spent:
