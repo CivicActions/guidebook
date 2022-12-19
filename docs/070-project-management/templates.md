@@ -14,7 +14,7 @@ The following templates can be helpful for budget tracking to include in weekly 
 
 ## Client Change Request
 
-Some project contracts require formal change requests when modifying key personnel, deliverables, budget, etc. This document can serve for initiating  change with the contracting officer representative (COR).
+Some project contracts require formal change requests when modifying key personnel, deliverables, budget, etc. This document can serve for initiating change with the contracting officer representative (COR).
 
 [Client Change Request Template](https://docs.google.com/a/civicactions.net/document/d/1575TtYmZEu0vpsKlAXwXTFYc1HPhb0L5_ACiG1DL1jU/edit?usp=sharing)
 
@@ -32,13 +32,13 @@ Decision tracking supports project management by documenting all major pivot poi
 
 ## Kickoff Agenda
 
-This template is used as a guide for project managers when beginning a project. The agenda provides a list of key points the Project Manager can address during to ensure there are clear expectations of all participating parties. 
+This template is used as a guide for project managers when beginning a project. The agenda provides a list of key points the Project Manager can address during to ensure there are clear expectations of all participating parties.
 
 [Kickoff Meeting Agenda Template](https://docs.google.com/a/civicactions.net/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit?usp=sharing)
 
 ## Kickoff Deck
 
-A newer template, this deck serves as a starting place for the key topics to include on any Kickoff call. 
+A newer template, this deck serves as a starting place for the key topics to include on any Kickoff call.
 
 [Kickoff Deck](https://docs.google.com/presentation/d/18ZN9EP34qLrsWjE7WhsfyRH54DTV3jOA3rRWzXY7bKM/edit)
 
@@ -48,9 +48,9 @@ Used as a guide for Project Managers when facilitating daily scrum calls; the te
 
 [Meeting Notes template](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
 
-## OOO Coverage 
+## OOO Coverage
 
-A few templates that support Project Managers for OOO planning and returning. 
+A few templates that support Project Managers for OOO planning and returning.
 
 [Coverage Plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
 
@@ -64,13 +64,13 @@ To maintain the integrity of all Production systems, this template is an efficia
 
 ## Project Brief (aka Onboarding Deck)
 
-All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of provide an overarching view of the projecs. 
+All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of provide an overarching view of the projecs.
 
 [Project Brief](https://docs.google.com/presentation/d/1Vk7DKxe5Sop6T3JhudOcLGCffH8XJXDiX8WtBbH3Te0/edit#slide=id.gd85224ffcd_0_0)
 
 ## Project Contacts
 
-This template is useful for projects that have a large stakeholder team or when the project team has a partner team. 
+This template is useful for projects that have a large stakeholder team or when the project team has a partner team.
 
 [Project Contacts Template](https://docs.google.com/spreadsheets/d/14dgvmMI4cmIGzLOldfRaPHh65j4BKu03v9hRWxEtA1A/edit?usp=drive_web&ouid=103893616702532363241)
 
@@ -102,27 +102,16 @@ This template is used as a guide for Project Managers to send weekly status upda
 
 ## Wrapper/ Legal
 
-A template required for each project and managed by our Legal team. This is updated quarterly to confirm alignment with all current contract details. 
+A template required for each project and managed by our Legal team. This is updated quarterly to confirm alignment with all current contract details.
 
-Once completed, the Legal Wrapper is owned by our Legal team, retained in their folders, and is read-only. It is transparent, however, for all of CivicActions. 
+Once completed, the Legal Wrapper is owned by our Legal team, retained in their folders, and is read-only. It is transparent, however, for all of CivicActions.
 
 [Legal Wrapper](https://docs.google.com/document/d/1BTkjJ2N8iPPsuxjb3cLfaqe30nfVQHSgs8cuWaFKalw/edit)
 
-## Wrapper/ Project Management 
+## Wrapper/ Project Management
 
 The companion to the Legal Wrapper, with all details needed for the Project Manager. This is also updated quarterly to confirm all current contact details are accurate.
 
 Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. It is transparent for all of CivicActions.
 
 [Project Management Wrapper](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#heading=h.2fgd0t58pes3)
-
-
-
-
-
-
-
-
-
-
-
