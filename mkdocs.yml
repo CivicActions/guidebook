@@ -27,4 +27,4 @@ plugins:
 extra_css:
   - css/extra.css
 #nav:
-  #- Welcome: index.md
+#- Welcome: index.md
