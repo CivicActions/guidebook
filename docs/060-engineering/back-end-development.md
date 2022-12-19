@@ -45,7 +45,7 @@
 - We use render arrays and theme functions, so we can separate logic and presentation.
 - We try to keep modules that could be useful on another site completely generic from the start (a good technique is to develop in a fresh Drupal install rather then the actual site), and theme the site specific stuff in your site theme.
 - We use contrib modules (or write new ones!)
-  - [The Most Important Decision In Developing A Drupal Site: Contributed Vs. Custom Development](https://civicactions.com/blog/developing-drupal-site-contributed-vs-custom-development/): When writing code, we try to think about abstracting functionality where appropriate. This helps make it easier for us to contribute back to the larger community and also lets us recycle our work on different projects. Keep an eye to the horizon!
+  - [The Most Important Decision In Developing A Drupal Site: Contributed Vs. Custom Development](most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md): When writing code, we try to think about abstracting functionality where appropriate. This helps make it easier for us to contribute back to the larger community and also lets us recycle our work on different projects. Keep an eye to the horizon!
 - We put any site text longer than a line or two in a settings field (or, at the least, a variable).
 - For shorter strings make sure all text is run through the `t()` function, and then use locale.module to "translate" it if changes are needed. Locale module is also useful for keeping contrib modules (image, location etc.) as "pristine" as possible, which makes upgrading easier.
 - We use `variable_get()` for text or settings that may change, so that these can be easily changed without needing to push a release.
