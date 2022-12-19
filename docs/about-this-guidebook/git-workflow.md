@@ -10,9 +10,9 @@ In this project, The "master" branch is the active branch, with the latest, appr
 
 We recommend this approach for those who are not already familiar with the Git workflow, and who do not have tools for keeping their GitHub forks up to date.
 
-You'll need a GitHub account, and to be added to the CivicActions Team ([instructions are here](../050-how-we-work/tools/github.md)).
+You'll need a GitHub account, and to be added to the CivicActions Team ([using these instructions](../050-how-we-work/tools/github.md)).
 
-Go to a page, click edit, and make your changes, using [markdown](markdown.md). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
+Go to a page, click edit, and make your changes, using [markdown](markdown-for-guidebook.md). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
 When you save it ("make a commit"), there are three fields to fill out. _All of these are optional_, with default values, and in most cases it's fine to leave the defaults.
 
