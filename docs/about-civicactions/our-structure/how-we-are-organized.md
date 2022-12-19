@@ -16,9 +16,9 @@ Temporary teams initiated to achieve a specific goal - for example delivering a 
 
 Client specific projects and service specific teams that deliver value to clients and generate revenue.
 
-## [Practice areas](practice-areas/README.md)
+## [Practice areas](../../050-how-we-work/practice-areas/README.md)
 
-Self-organized group oriented around a specific practice, service or craft.
+Self-organized group oriented around a specific practice, service, or craft.
 
 ## Pods
 
