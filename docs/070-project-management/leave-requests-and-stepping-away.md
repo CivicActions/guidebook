@@ -1,4 +1,6 @@
-# Leave Requests and Stepping Away
+# Leave Requests and Stepping Away: Guidelines for Project Managers
+
+Guidelines that Project Managers may use to coach teams on communications for OOO and stepping away:
 
 ## Out Of Office (OOO) Process
 
