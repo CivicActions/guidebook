@@ -70,4 +70,4 @@ Any disputes or interpretations of this Employee Referral Bonus Program will be 
 
 CivicActions reviews this program periodically, but no less than annually. CivicActions may make changes as it determines appropriate based on changes to the company's condition including to the amount of the Referral Bonus and the groups listed in Underrepresented Groups.
 
-CivicActions will pay, according to CivicActions' Bonus Policy, an earned Referral Bonus after the Referred Hire complete's 90 days of employment at CivicActions, Inc.
+CivicActions will pay, according to CivicActions' Bonus Policy, an earned Referral Bonus after the Referred Hire completes 90 days of employment at CivicActions, Inc.
