@@ -83,7 +83,7 @@ nav:
       - Training resources: company-policies/new-hire-orientation/training-resources.md
       - Video call best practices: company-policies/new-hire-orientation/video-call-best-practices.md
       - Virtual workplace basics: company-policies/new-hire-orientation/virtual-workplace-basics.md
-  - Common practices and tools:  
+  - Common practices and tools:
     - Agile
       - Agile overview: common-practices-tools/agile/agile-overview.md
       - Agile practice: common-practices-tools/agile/agile-practice.md
@@ -132,5 +132,3 @@ nav:
     - Guidebook governance: about-this-guidebook/guidebook-governance.md
     - Guidebook writing style: about-this-guidebook/guidebook-writing-style.md
     - Markdown: about-this-guidebook/markdown-for-guidebook.md
-    
-  
