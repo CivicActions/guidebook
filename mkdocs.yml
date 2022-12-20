@@ -31,5 +31,8 @@ extra_javascript:
   # Read the Docs requires JQuery for its JavaScript code to inject the flyout
   # menu. Material for MkDocs does not come with JQuery.
   - "https://code.jquery.com/jquery-3.6.2.min.js"
-#nav:
-#- Welcome: index.md
+nav:
+  - Welcome: index.md
+  - About CivicActions: 
+    - Mission and values: about-civicactions/mission-values.md
+    - Culture: about-civicactions/culture.md
