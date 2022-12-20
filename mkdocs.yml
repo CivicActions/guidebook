@@ -6,7 +6,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
-    - navigation.indexes
   favicon: img/favicon.ico
   logo: img/ca-logo-white.svg
   palette:
@@ -33,28 +32,105 @@ extra_javascript:
   # menu. Material for MkDocs does not come with JQuery.
   - "https://code.jquery.com/jquery-3.6.2.min.js"
 nav:
-  - Welcome: index.md
+  - Home: index.md
   - About CivicActions:
-      - Mission and values: about-civicactions/mission-values.md
-      - Culture: about-civicactions/culture.md
-      - Diversity, Equity, Inclusion, and Accessibility (DEIA) at CivicActions:
-          - purpose.md
-          - Defining diversity, equity, inclusion, and accessibility (DEIA): defining-dei.md
-          - Affinity channels: affinity-channels.md
-          - DEIA':' Get involved: deia-get-involved.md
-          - DEIA resources: resources.md
-      - Our structure:
-          - Organization':' department, projects, practice areas, and pods: how-we-are-organized.md
-          - Organizational structure: org-structure.md
-          - Management team: management-team.md
-      - Background and history: background-and-history.md
-      - Our annual summit: our-annual-summit.md
+    - Mission and values: about-civicactions/mission-values.md
+    - Culture: about-civicactions/culture.md
+    - Diversity, Equity, Inclusion, and Accessibility (DEIA):
+      - DEIA at CivicActions: about-civicactions/purpose.md
+      - Defining DEIA: defining-dei.md
+      - Affinity channels: affinity-channels.md
+      - DEIA - Get involved: deia-get-involved.md
+      - Resources: resources.md
+    - Our structure:
+      - Organization':' department, projects, practice areas, and pods: about-civicactions/our-structure/how-we-are-organized.md
+      - Organizational structure: about-civicactions/our-structure/org-structure.md
+      - Management team: about-civicactions/our-structure/management-team.md
+    - Background and history: about-civicactions/background-and-history.md
+    - Our annual summit: about-civicactions/our-annual-summit.md
   - Employee Benefits:
-      - Benefits policy (US employees): us-benefits-policy.md
-      - Compensation (US employees): us-compensation.md
-      - Technology stipend policy (US employees): us-tech-stipend.md
-      - Benefits policy (Canadian employees): canada-benefits-policy.md
-      - Technology stipend (Canadian employees): canada-tech-stipend.md
-      - Professional development: professional-development.md
-      - Employee referral bonus program: employe-referral-bonus.md
-      - On-call stipends: on-call-stipend.md
+    - Benefits policy (US employees): employee-benefits/us-benefits-policy.md
+    - Compensation (US employees): employee-benefits/us-compensation.md
+    - Technology stipend policy (US employees): employee-benefits/us-tech-stipend.md
+    - Benefits policy (Canadian employees): employee-benefits/canada-benefits-policy.md
+    - Technology stipend (Canadian employees): employee-benefits/canada-tech-stipend.md
+    - Professional development: employee-benefits/professional-development.md
+    - Employee referral bonus program: employee-benefits/employe-referral-bonus.md
+    - On-call stipends: employee-benefits/on-call-stipend.md
+  - Company Policies:
+    - Expenses: company-policies/expenses.md
+    - Timesheets (Unanet): company-policies/timesheets.md
+    - Security Policy: company-policies/security-policy.md
+    - Employment policies (US employees):
+      - Employment: company-policies/employment-us/employment.md
+      - Introductory period: company-policies/employment-us/introductory-period.md
+      - Anti-harassment: company-policies/employment-us/anti-harassment-policies.md
+      - Covid 19 safety: company-policies/employment-us/covid-19-safety.md
+    - Code of conduct: company-policies/code-of-conduct.md
+    - Workplace guidelines: company-policies/workplace-guidelines.md
+    - Annual performance review: company-policies/annual-performance-review.md
+    - Performance management: company-policies/performance-management.md
+    - Leaving Civicactions: company-policies/leaving-civicactions.md
+    - Health, Safety and Security Policy: company-policies/health-safety-security.md
+    - New hire orientation:
+      - Welcome to CivicActions!: company-policies/new-hire-orientation/welcome.md
+      - Buddy program: company-policies/new-hire-orientation/buddy-program.md
+      - Elevator pitch: company-policies/new-hire-orientation/elevator-pitch.md
+      - Free and open source software (FOSS): company-policies/new-hire-orientation/intro-open-source.md
+      - Meetings and meeting tools: company-policies/new-hire-orientation/Meetings-and-meeting-tools.md
+      - People planning: company-policies/new-hire-orientation/people-planning.md
+      - Security for everyone: company-policies/new-hire-orientation/security-training.md
+      - Training resources: company-policies/new-hire-orientation/training-resources.md
+      - Video call best practices: company-policies/new-hire-orientation/video-call-best-practices.md
+      - Virtual workplace basics: company-policies/new-hire-orientation/virtual-workplace-basics.md
+  - Common practices and tools:  
+    - Agile
+      - Agile overview: common-practices-tools/agile/agile-overview.md
+      - Agile practice: common-practices-tools/agile/agile-practice.md
+      - Backlog refinement: common-practices-tools/agile/backlog-refinement.md
+      - Daily scrum calls: common-practices-tools/agile/daily-scrum-calls.md
+      - How to create tickets: common-practices-tools/agile/how-to-create-tickets.md
+      - Sprint cycle: common-practices-tools/agile/sprint-cycle.md
+      - Sprint demo: common-practices-tools/agile/sprint-demo.md
+      - Sprint planning meetings: common-practices-tools/agile/sprint-planning-meetings.md
+      - Sprint retrospectives: common-practices-tools/agile/sprint-retrospectives.md
+    - Balance scores: common-practices-tools/balance-scores.md
+    - Gold Star Program: common-practices-tools/gold-star-program.md
+    - Security awareness and tools:
+      - Awareness and tools: common-practices-tools/security-awareness-and-tools/awareness.md
+      - Drupal RMF support: common-practices-tools/security-awareness-and-tools/drupal-rmf-support.md
+      - Encryption: common-practices-tools/security-awareness-and-tools/encryption.md
+      Incidents:
+        - Contigency plan: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
+        - Incident response checklist: common-practices-tools/security-awareness-and-tools/incidents/incident-response-checklist.md
+        - Incident response plan: common-practices-tools/security-awareness-and-tools/incidents/incident-response-plan.md
+        - Security incidents: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
+    - Skills Base: common-practices-tools/skills-base.md
+    - Software and support:
+      - Internal technical support: common-practices-tools/software-and-support/internal-tech-support.md
+      - Email: common-practices-tools/software-and-support/email.md
+      - General contacts and listservs: common-practices-tools/software-and-support/general-contacts-and-listservs
+      - Github: common-practices-tools/software-and-support/gibhub.md
+      - Google Calendar: common-practices-tools/software-and-support/google-calendar.md
+      - Google Docs: common-practices-tools/software-and-support/google-docs.md
+      - Google Meet: common-practices-tools/software-and-support/google-meet.md
+      - Jira: common-practices-tools/software-and-support/jira.md
+      - Markdown: common-practices-tools/software-and-support/markdown.md
+      - Slack: common-practices-tools/software-and-support/slack.md
+      - Text editors: common-practices-tools/software-and-support/text-editors.md
+      - Trello: common-practices-tools/software-and-support/trello.md
+      - Zoom: common-practices-tools/software-and-support/zoom.md
+    - Telephone use: common-practices-tools/telephone.md
+  - Practice areas:
+    - About practice areas: practice-areas/about-practice-areas.md
+    - Accessibility practice area: practice-areas/accessibility-practice-area.md
+  - About this guidebook:
+    - How and when to contribute to the guidebook: about-this-guidebook/README.md
+    - File structure: about-this-guidebook/file-structure.md
+    - Git workflow: about-this-guidebook/git-workflow.md
+    - GitHub actions: about-this-guidebook/github-actions.md
+    - Guidebook governance: about-this-guidebook/guidebook-governance.md
+    - Guidebook writing style: about-this-guidebook/guidebook-writing-style.md
+    - Markdown: about-this-guidebook/markdown-for-guidebook.md
+    
+  
