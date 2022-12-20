@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
+    - navigation.indexes
   favicon: img/favicon.ico
   logo: img/ca-logo-white.svg
   palette:
@@ -36,7 +37,8 @@ nav:
   - About CivicActions:
     - Mission and values: about-civicactions/mission-values.md
     - Culture: about-civicactions/culture.md
-    - Diversity, Equity, Inclusion, and Accessibility (DEIA) at CivicActions: purpose.md
+    - Diversity, Equity, Inclusion, and Accessibility (DEIA) at CivicActions:
+      - purpose.md
       - Defining diversity, equity, inclusion, and accessibility (DEIA): defining-dei.md
       - Affinity channels: affinity-channels.md
       - DEIA: Get involved: deia-get-involved.md
