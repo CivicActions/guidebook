@@ -28,4 +28,4 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Product Management                              | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
 | Project Management                              | Heidi Harting-Rex                                                                            | #projectmanagement     | Biweekly                             |
 | Quality Assurance                               | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
-| Design                                          | Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| Design                                          | Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                             | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
