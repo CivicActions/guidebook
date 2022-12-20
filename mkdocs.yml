@@ -33,6 +33,6 @@ extra_javascript:
   - "https://code.jquery.com/jquery-3.6.2.min.js"
 nav:
   - Welcome: index.md
-  - About CivicActions: 
-    - Mission and values: about-civicactions/mission-values.md
-    - Culture: about-civicactions/culture.md
+  - About CivicActions:
+      - Mission and values: about-civicactions/mission-values.md
+      - Culture: about-civicactions/culture.md
