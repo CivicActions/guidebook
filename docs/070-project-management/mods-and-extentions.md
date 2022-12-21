@@ -1,19 +1,36 @@
-# When your project gets a contractual Modification (MOD) or Extension
+# When your project has a contractual Modification (MOD) or Extension
 
-## What is the difference between a contract MOD and a contract extension?
+## What is the difference between a contract MOD and an Extension?
 
-There are many different things that can happen to a contract that would require a modification. One of the most common modifications on a contract is an Extension in the form of "option terms" or "option years" - which would provide additional funding and timeline to the existing contract. Contract modifications can also come in the form of changes of key personnel that are listed on the contract. Another common modification is changes in scope or deliverables that are in writing in the contract. Basically anytime something deviates from that first main contract for a project, we need to create a change request for a MOD.
+Contract Modifications (MOD) are required for any change to the original document, e.g. adjustments to the following:
+-key personnel
+-scope
+-deliverables
+-contract amount
 
-## Common steps to take when you have a contract MOD
+Contract Extensions generally involve retaining the contractual language yet adjusting the given dates, e.g., for <b>option terms</b> or <b>option years</b>.
 
-- File the MOD in the Shared Google drive "Contracts" folder - this is the single source of contract truth
-- Notify ca-management, the Office Manager, and Marc of MOD file location via the <mailto:contracts@civicactions.com> mailing list with Subject line: "NSF new contract MOD 0004"
-- Notify the sales team of increased/decreased funds in the Slack channel #sales
-- Ensure your Unanet has the project budget to include the new funding
-- Update your budget tracking tool/spreadsheet (if you have one separate from Unanet)
-- Update delivery projections spreadsheet if these funds impact it (or extend the contract)
-- Update Forecast if MOD impact who or how long certain people are on the project
+## Contractual changes
 
-## MODs are a good time to re-evaluate
+Any contractual changes require input from the CivicActions Legal team. 
 
-When you get a contractual modification, this is a good time to pause with the client and team to make sure everyone agrees about what should happen in the extension or with the new MOD funds.
+## MODs and Extensions are a good time to re-evaluate
+
+If your project requires a MOD or Extension, it is prudent to ensure everyone agrees about <i>why</i> the change is being made. Pull in your Project Management colleagues for input, as well as CivicActions leaders, i.e., Sales. 
+
+## Common steps for a MOD or Extension:
+
+- Start with a short summary document which outlines the following:
+1/ Why the change is required
+2/ The current contractual language
+3/ The proopsed contractual language
+e.g., 
+FROM
+(old paragraphs, page numbers, etc.)
+TO
+(replacement language matched to old paragraphs, page numbers, etc.)
+
+- Schedule an internal call to review
+- Work with Legal and Sales to confirm language and strategy
+
+
