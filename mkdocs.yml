@@ -5,7 +5,8 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.expand
+    - navigation.indexes
+    #- navigation.expand
   favicon: img/favicon.ico
   logo: img/ca-logo-white.svg
   palette:
