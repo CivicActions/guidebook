@@ -12,25 +12,23 @@ Contract Extensions generally involve retaining the contractual language yet adj
 
 ## Contractual changes
 
-Any contractual changes require input from the CivicActions Legal team. 
+Any contractual changes require input from the CivicActions Legal team.
 
 ## MODs and Extensions are a good time to re-evaluate
 
-If your project requires a MOD or Extension, it is prudent to ensure everyone agrees about <i>why</i> the change is being made. Pull in your Project Management colleagues for input, as well as CivicActions leaders, i.e., Sales. 
+If your project requires a MOD or Extension, it is prudent to ensure everyone agrees about <i>why</i> the change is being made. Pull in your Project Management colleagues for input, as well as CivicActions leaders, i.e., Sales.
 
 ## Common steps for a MOD or Extension:
 
 - Start with a short summary document which outlines the following:
-1/ Why the change is required
-2/ The current contractual language
-3/ The proopsed contractual language
-e.g., 
-FROM
-(old paragraphs, page numbers, etc.)
-TO
-(replacement language matched to old paragraphs, page numbers, etc.)
+  1/ Why the change is required
+  2/ The current contractual language
+  3/ The proopsed contractual language
+  e.g.,
+  FROM
+  (old paragraphs, page numbers, etc.)
+  TO
+  (replacement language matched to old paragraphs, page numbers, etc.)
 
 - Schedule an internal call to review
 - Work with Legal and Sales to confirm language and strategy
-
-
