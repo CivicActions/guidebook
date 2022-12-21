@@ -124,15 +124,15 @@ nav:
   - Practice areas:
       - About practice areas: practice-areas/about-practice-areas.md
       - Accessibility practice area: practice-areas/accessibility-practice-area.md
-      - Design and research: 
-        - Design and research methods: /practice-areas/design-and-research/design-and-research-methods.md
-        - Audience and outcomes guide: practice-areas/design-and-research/audience-and-outcomes-guide.md
-      - Engineering: 
-        - Engineering calls: practice-areas/engineering/README.md
-      - Help desk: 
-        - Help desk support: practice-areas/help-desk/help-desk.md
-      - Project management: 
-        - Project manager role: practice-areas/project-management/pm-role.md
+      - Design and research:
+          - Design and research methods: /practice-areas/design-and-research/design-and-research-methods.md
+          - Audience and outcomes guide: practice-areas/design-and-research/audience-and-outcomes-guide.md
+      - Engineering:
+          - Engineering calls: practice-areas/engineering/README.md
+      - Help desk:
+          - Help desk support: practice-areas/help-desk/help-desk.md
+      - Project management:
+          - Project manager role: practice-areas/project-management/pm-role.md
   - About this guidebook:
       - How and when to contribute to the guidebook: about-this-guidebook/README.md
       - File structure: about-this-guidebook/file-structure.md
