@@ -38,13 +38,13 @@ nav:
       - Mission and values: about-civicactions/mission-values.md
       - Culture: about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
-          - DEIA at CivicActions: about-civicactions/purpose.md
-          - Defining DEIA: defining-dei.md
-          - Affinity channels: affinity-channels.md
-          - DEIA - Get involved: deia-get-involved.md
-          - Resources: resources.md
+          - DEIA at CivicActions: about-civicactions/diversity-equity-inclusion/purpose.md
+          - Defining DEIA: about-civicactions/diversity-equity-inclusion/defining-dei.md
+          - Affinity channels: about-civicactions/diversity-equity-inclusion/affinity-channels.md
+          - DEIA - Get involved: about-civicactions/diversity-equity-inclusion/deia-get-involved.md
+          - Resources: about-civicactions/diversity-equity-inclusion/resources.md
       - Our structure:
-          - Organization':' department, projects, practice areas, and pods: about-civicactions/our-structure/how-we-are-organized.md
+          - Departments, projects, practice areas, and pods: about-civicactions/our-structure/how-we-are-organized.md
           - Organizational structure: about-civicactions/our-structure/org-structure.md
           - Management team: about-civicactions/our-structure/management-team.md
       - Background and history: about-civicactions/background-and-history.md
@@ -56,7 +56,7 @@ nav:
       - Benefits policy (Canadian employees): employee-benefits/canada-benefits-policy.md
       - Technology stipend (Canadian employees): employee-benefits/canada-tech-stipend.md
       - Professional development: employee-benefits/professional-development.md
-      - Employee referral bonus program: employee-benefits/employe-referral-bonus.md
+      - Employee referral bonus program: employee-benefits/employee-referral-bonus.md
       - On-call stipends: employee-benefits/on-call-stipend.md
   - Company policies:
       - Expenses: company-policies/expenses.md
@@ -66,7 +66,7 @@ nav:
           - Employment: company-policies/employment-us/employment.md
           - Introductory period: company-policies/employment-us/introductory-period.md
           - Anti-harassment: company-policies/employment-us/anti-harassment-policies.md
-          - Covid 19 safety: company-policies/employment-us/covid-19-safety.md
+          - Covid 19 safety: company-policies/employment-us/covid19-safety.md
       - Code of conduct: company-policies/code-of-conduct.md
       - Workplace guidelines: company-policies/workplace-guidelines.md
       - Annual performance review: company-policies/annual-performance-review.md
@@ -78,7 +78,7 @@ nav:
           - Buddy program: company-policies/new-hire-orientation/buddy-program.md
           - Elevator pitch: company-policies/new-hire-orientation/elevator-pitch.md
           - Free and open source software (FOSS): company-policies/new-hire-orientation/intro-open-source.md
-          - Meetings and meeting tools: company-policies/new-hire-orientation/Meetings-and-meeting-tools.md
+          - Meetings and meeting tools: company-policies/new-hire-orientation/meetings-and-meeting-tools.md
           - People planning: company-policies/new-hire-orientation/people-planning.md
           - Security for everyone: company-policies/new-hire-orientation/security-training.md
           - Training resources: company-policies/new-hire-orientation/training-resources.md
@@ -102,7 +102,7 @@ nav:
           - Drupal RMF support: common-practices-tools/security-awareness-and-tools/drupal-rmf-support.md
           - Encryption: common-practices-tools/security-awareness-and-tools/encryption.md
           - Incidents:
-              - Contigency plan: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
+              - Contingency plan: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
               - Incident response checklist: common-practices-tools/security-awareness-and-tools/incidents/incident-response-checklist.md
               - Incident response plan: common-practices-tools/security-awareness-and-tools/incidents/incident-response-plan.md
               - Security incidents: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
@@ -110,8 +110,8 @@ nav:
       - Software and support:
           - Internal technical support: common-practices-tools/software-and-support/internal-tech-support.md
           - Email: common-practices-tools/software-and-support/email.md
-          - General contacts and listservs: common-practices-tools/software-and-support/general-contacts-and-listservs
-          - Github: common-practices-tools/software-and-support/gibhub.md
+          - General contacts and listservs: common-practices-tools/software-and-support/general-contacts-and-listservs.md
+          - Github: common-practices-tools/software-and-support/github.md
           - Google Calendar: common-practices-tools/software-and-support/google-calendar.md
           - Google Docs: common-practices-tools/software-and-support/google-docs.md
           - Google Meet: common-practices-tools/software-and-support/google-meet.md
@@ -126,12 +126,12 @@ nav:
       - About practice areas: practice-areas/about-practice-areas.md
       - Accessibility practice area: practice-areas/accessibility-practice-area.md
       - Design and research:
-          - Design and research methods: /practice-areas/design-and-research/design-and-research-methods.md
+          - Design and research methods: practice-areas/design-and-research/design-and-research-methods.md
           - Audience and outcomes guide: practice-areas/design-and-research/audience-and-outcomes-guide.md
       - Engineering:
           - Engineering calls: practice-areas/engineering/README.md
       - Help desk:
-          - Help desk support: practice-areas/help-desk/help-desk.md
+          - Help desk support: practice-areas/help-desk/helpdesk.md
       - Project management:
           - Project manager role: practice-areas/project-management/pm-role.md
   - About this guidebook:
