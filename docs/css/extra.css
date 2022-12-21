@@ -27,12 +27,37 @@ h6 {
 .wy-nav-content a:visited {
   color: #db1b3b;
 }
+.wy-menu-vertical ul.subnav li.current span {
+  color: #484849;
+}
+.wy-menu-vertical span {
+  color: #edf0f2;
+  font-weight: bold;
+}
 .wy-menu-vertical a:active {
   background-color: #db1b3b;
+}
+.wy-menu-vertical a:hover {
+  color: #e7e7e7;
+}
+.wy-menu-vertical li.current a {
+  color: #404040;
 }
 .wy-side-nav-search {
   background-color: #db1b3b;
 }
 .wy-side-nav-search > div.version {
   color: #fff7f6;
+}
+code {
+  color: #9d3429;
+}
+a code {
+  color: #1e5d86;
+}
+a:hover code {
+  color: #1f5d86;
+}
+footer {
+  color: #545454;
 }
