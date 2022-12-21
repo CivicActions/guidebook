@@ -1,6 +1,6 @@
 # Project Management Checklists
 
-The Project Management practice area suggests - for all projects - leveraging the following checklists:
+The Project Management practice area suggests leveraging the following checklists for all projects:
 
 ## Monthly Checklists (to be completed by the third business day of each month)
 
@@ -31,10 +31,10 @@ Now prepare for the new quarter:
 
 3. Review project Wrappers (Legal and Project Management)
 
-- Review contractual dates and details
-- Review QASP
-- Confirm deliverables are being met
-- Verify alignment with DevOps around deliverables
-- Confirm scope has not changed
+   - Review contractual dates and details
+   - Review QASP
+   - Confirm deliverables are being met
+   - Verify alignment with DevOps around deliverables
+   - Confirm scope has not changed
 
 4. Review Team Working Agreements
