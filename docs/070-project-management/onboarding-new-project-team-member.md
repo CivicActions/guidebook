@@ -1,13 +1,24 @@
 # Onboarding a New Project Team Member
 
-- Project Manager and Tech Lead shall meet with the new team member before they begin to discuss the project and set expectations. If the new team member is a contractor, the PM and TL interview the contractor for fit in terms of team and work capabilities.
-- PM writes a follow up email outlining what was discussed, linking to necessary documents, sharing helpful screenshots, outlining next steps, expectations, etc.
-- PM creates a ticket (for the sprint or backlog) to track onboarding process / progress for the new team member.
-- The ticket should capture all the steps the new team member needs to take to be onboarded to the project (granting account access, discussing time tracking, getting their SSH key, contractor SoW, inviting them to email lists, explaining balance scores, access to our tools like Slack, etc.).
-- This ticket should also include notes from the initial meeting call / interview.
-- The PM shall provide good examples of properly logged time, ticket management processes, writing an acceptance test and QA steps, etc. These can be screenshots and / or linked Google documents.
-- The PM should add the person to Assignments and Plans in Unanet.
-- The PM should add the new team member to the appropriate Google Team Drives.
-- If the project requires a type of background check, fingerprinting, security training courses, or other project required onboarding measures, the PM is responsible for ensuring the new team member completes these tasks in time. If possible, add these types of tasks to a ticket that the new team member can track to.
-- If the project requires the new team member complete approval paperwork, or there is a contractual modification necessary to add/swap team members, the PM will lead this effort (asking for help from management as needed).
-- If the new team member is a contractor, the PM shall prepare an "Offboard Card" to ensure the contractor is properly removed from CivicActions tools, files, and project lists after their work is complete. An offboard card template is [here](https://trello.com/c/sXpzezNI/60-offboard-template). See also [Offboarding a Contractor from a Project](project-offboarding.md).
+Onboarding a new team member is a great opportunity for the Project Manager to confirm all project materials are in good standing. Some suggestions are as follows:
+
+- The Project Manager will update the project Onboarding Deck/Brief, adding the new colleague, plus verifying all details are accurate
+- The Project Manager will coordinate with People Ops about the official start date, expecting that the first fours days, at least, will be devoted to company onboarding (whether CivicActions or a partner)
+- The Project Manager and Tech Lead, plus any other applicable colleagues, shall meet with the new team member before they begin. The objective is to discuss the project and set expectations 
+<br>Note: If the new team member is a contractor, the interview will focus on fit for team and work capabilities
+- Following the call, the Project Manager is encouraged to write a follow up email outlining what was discussed; providing links; sharing helpful screenshots; providing next steps, etc.
+- The Project Manager creates a ticket to track the onboarding process / progress for the new team member. The ticket will include - yet is not limited to - the following:
+<br>A/ Granting account access
+<br>B/ Discussing time tracking (with examples)
+<br>C/ Getting an SSH key
+<br>D/ The project Onboarding Brief
+<br>E/ Explaining balance scores
+<br>F/ Highlighting applicable scope 
+<br>G/ Invitations to email lists
+<br>H/ Access to tools like Slack, Jira, etc.
+- The Project Manager shall do a JIRA workflow walkthrough, highlighting the ticket management processes; acceptance criteria; QA steps, etc. 
+- The Project Manager adds the person to Plans and Assignments in Unanet
+- The Project Manager adds the new team member to the appropriate Google Drives
+- If the project requires any type of background check, fingerprinting, security training courses, etc., the Project Manager is responsible for ensuring timely completion of these tasks. If possible, add details to the ticket for tracking
+- If the contract requires adjustment, e.g., key personnel, for the new team member, the Project Manager will lead this effort (asking for help from management if needed)
+- If the new team member is a contractor, the Project Manager shall prepare an "Offboard Card" to ensure the contractor is properly removed from CivicActions tools, files, and project lists after their work is complete. See [offboard card template](https://trello.com/c/sXpzezNI/60-offboard-template) and [Offboarding a Contractor from a Project](project-offboarding.md)
