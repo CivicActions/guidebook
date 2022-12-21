@@ -2,7 +2,7 @@
 
 ## Wrappers
 
-All projects include Legal and Project Management Wrappers. These two documents serve to point Project Managers - and any other CivicActions employees - to key contract details.
+Wrappers are documents that provide critical contract details. All projects include a Legal and a Project Management Wrapper. These two documents serve to point Project Managers - and any other CivicActions employee - to what we are obliged to deliver.
 
 ## Contract Management
 
