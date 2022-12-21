@@ -44,10 +44,6 @@ Links to websites we use regularly.
 - [MxToolbox](https://mxtoolbox.com/SuperTool.aspx)
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) (Qualys)
 
-### Browser Extensions
-
-- [See list browser extension page](../050-how-we-work/tools/browserextensions.md)
-
 ### Accessibility
 
 - [CivicActions Accessibility Site](https://accessibility.civicactions.com/guide/tools)
