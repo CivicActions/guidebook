@@ -12,7 +12,7 @@ All contracts can be tracked via the [Client Contract Index](https://docs.google
 
 On the Legal Wrapper (see [template](https://docs.google.com/document/d/1BTkjJ2N8iPPsuxjb3cLfaqe30nfVQHSgs8cuWaFKalw/edit)), the <b>Awarded period of performance (initial)</b> section which will include contract dates.
 
-In addition, a link to all contracts is included at the top of the Legal Wrapper, on the <b>Contract folder</b> row. The link allows transparency for all base and modification contracts, including additional documents e.g., SOOs, etc.
+A link to all contracts is included at the top of the Legal Wrapper, on the <b>Contract folder</b> row. The linked folder will include all base and modification contracts, including additional documents (e.g., SOOs, etc.).
 
 ## Project Folders
 
