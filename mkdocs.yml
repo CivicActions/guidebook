@@ -102,7 +102,7 @@ nav:
           - Drupal RMF support: common-practices-tools/security-awareness-and-tools/drupal-rmf-support.md
           - Encryption: common-practices-tools/security-awareness-and-tools/encryption.md
           - Incidents:
-              - Contingency plan: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
+              - Contingency plan: common-practices-tools/security-awareness-and-tools/incidents/contingency-plan.md
               - Incident response checklist: common-practices-tools/security-awareness-and-tools/incidents/incident-response-checklist.md
               - Incident response plan: common-practices-tools/security-awareness-and-tools/incidents/incident-response-plan.md
               - Security incidents: common-practices-tools/security-awareness-and-tools/incidents/incidents.md
