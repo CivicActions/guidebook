@@ -2,7 +2,7 @@
 
 We manage email lists via [Google Groups/Forum](https://groups.google.com/a/civicactions.net/forum/)
 
-We use internal and client-facing listservs for email communication. PMs are responsible for setting up and maintaining project mailing lists.
+We use internal and client-facing listservs for email communication. Project Managers are responsible for setting up and maintaining project mailing lists.
 
 ## Naming conventions
 
