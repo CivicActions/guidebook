@@ -100,7 +100,7 @@ nav:
       - Gold Star Program: 050-how-we-work/gold-star-program.md
       - Security awareness and tools:
           - Awareness and tools: 100-security/awareness.md
-            - Setting up and using Yubikey
+          - Setting up and using Yubikey:
               - 100-security/yubikey/README.md
               - Yubikey and Linux: 100-security/yubikey/linux.md
               - Yubikey and Mac OS: 100-security/yubikey/macosx.md
