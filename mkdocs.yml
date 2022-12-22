@@ -100,7 +100,8 @@ nav:
       - Gold Star Program: 050-how-we-work/gold-star-program.md
       - Security awareness and tools:
           - Awareness and tools: 100-security/awareness.md
-            - Setting up and using Yubikey: 100-security/yubikey/README.md
+            - Setting up and using Yubikey
+              - 100-security/yubikey/README.md
               - Yubikey and Linux: 100-security/yubikey/linux.md
               - Yubikey and Mac OS: 100-security/yubikey/macosx.md
           - Drupal RMF support: 100-security/drupal-rmf-support.md
@@ -174,7 +175,7 @@ nav:
           - When your project gets a contractual Modification (MOD) or Extension: 070-project-management/mods-and-extentions.md
           - Tracking contract expirations and renewals: 070-project-management/contract-expiration-tracking.md
           - Tracking contractual requirements: 070-project-management/contractual-requirements.md
-          - Conflict resolution and growth mindset: 070-project-management/growth-mindset/what-is-growth-mindset.md
+          - Conflict resolution and growth mindset: 070-project-management/growth-mindset.md
           - Time off request and approval process: 070-project-management/pto-request-approval-process.md
           - Having the hard conversations: 070-project-management/hard-conversations.md
           - Listserv setup: 070-project-management/listserv-setup.md
