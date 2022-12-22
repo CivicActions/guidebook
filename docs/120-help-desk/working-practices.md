@@ -1,12 +1,16 @@
-# CivicActions Help Desk Working Practices
+# CivicActions Project Support Best Practices
 
 ## Overview
 
 Respect for our users and clients is one of the primary values in our work. As CivicActions support staff, we demonstrate this by emphasizing helpfulness, timeliness and kindness in our working practices.
 
+## Accessibility
+
+All communication from CivicActions Support should be as accessible as possible. Using plain language when communicating with each other, end users and clients is critical for people with different cognitive abilities, speakers of a non-English language, or those who rely on audio to listen to text. Try to keep the reading level of your responses between a 6-8 grade reading level. Use of a plain language tool such as the [Hemingway App](https://hemingwayapp.com/) can help you achieve accessible communication.
+
 ## Helpfulness
 
-When answering a user question, we always strive to **provide helpful information**. Many help desk interactions in the world seem designed to make the user go away. Our aim is the opposite: We want to solve the problem. We want to help.
+When answering a user question, we always strive to **provide helpful information**. Many support interactions in the world seem designed to make the user go away. Our aim is the opposite: We want to solve the problem. We want to help.
 
 To be helpful, we use the following tactics:
 
@@ -34,17 +38,17 @@ Often when someone asks a question about a web application, responding quickly m
 
 The first step toward helping users feel attended-to is to **always reply promptly**. Any reply is better than no reply. Users and clients like to know that we've read their correspondence, and that we're looking into the issue. We don't have to know everything in order to begin an interaction, and we don't even have to be specific about next steps; often our first response may be as simple as:
 
-```
-Hi (name),
-Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
-
-Let me know if I can help with anything else in the meantime!
-
-
-Thanks,
-(My name)
-CivicActions Support
-```
+> Hi (name),
+>
+> Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
+>
+> Let me know if I can help with anything else in the meantime!
+>
+> Thanks,
+>
+> (My name)
+>
+> CivicActions Support
 
 The simple act of sending a response that acknowledges a question helps create a mutually beneficial partnership, and tells the user that they're not alone.
 
@@ -52,11 +56,11 @@ The simple act of sending a response that acknowledges a question helps create a
 
 We **always follow up**. We check and re-check our ticket queues frequently. If a person hasn't yet responded, we reach back out, and make sure all is well at least twice before closing the ticket. There may be times when this is inappropriate (spam doesn't need a response, and someone angrily unsubscribing from a website may want to be done with the interaction as quickly as possible), but in most cases we reach out to make sure an interaction is complete.
 
-### Resolution time
+### Resolution Time
 
 We do our best to **solve problems quickly**. We can't always do this; sometimes problems require lengthy engineering engagements, or simply can't be done, or _shouldn't_ be done. But when possible, we come to an actual solution quickly and let the user know. If our resolution doesn't solve the original request, we'll explain why and what's being done instead.
 
-If a given help desk interaction requires engineering time or work that's outside help desk staff's capacity (for instance, if it means opening an engineering work ticket, or requesting approval or information from a stakeholder), we'll inform the user of the next steps, make sure they know everything they need to know, and communicate with other people involved to make sure those next steps can and will be taken, before our help desk interaction can be considered complete.
+If a given support interaction requires engineering time or work that's outside support staff's capacity (for instance, if it means opening an engineering work ticket, or requesting approval or information from a stakeholder), we'll inform the user of the next steps, make sure they know everything they need to know, and communicate with other people involved to make sure those next steps can and will be taken, before our support interaction can be considered complete.
 
 As with First Response time, our primary goal will be solving users' problems in the most effective way possible. The timeliness of our resolution is important, but is always in service to providing a good user experience.
 
@@ -66,6 +70,6 @@ Websites and web applications are frustrating; we've all experienced this. At Ci
 
 We always remember that just because a feature makes sense to us doesn't mean that it makes sense to end-users! Users may or may not have a strong background in computers and technology. Website users may be new to a particular browser environment or website type, or be limited to frustrating hardware and software requirements by their employer. Our goal is to do what we can to make the tools fit their needs. It's always in our mutual best interest to try to meet users where they're at.
 
-It may sometimes be necessary to **reassure that we're here to help**. Many help desks in the world are not helpful, and users may sometimes assume the worst. We can change that by simply saying "We'll do our best to solve that!" or "I'll get to the bottom of this and find out the answer for you".
+It may sometimes be necessary to **reassure that we're here to help**. Many support interactions in the world are not helpful, and users may sometimes assume the worst. We can change that by simply saying "We'll do our best to solve that!" or "I'll get to the bottom of this and find out the answer for you".
 
 At times, as with any kind of work, communication with users can be frustrating, but every interaction is a chance to learn and grow, and we're at our best when we're collaborating from a standpoint of humility and appreciation. When we experience what appears to be impatience or rudeness from a user, our first choice in response is to **express empathy** so that the user knows we're on their side. This is surprisingly effective at solving problems. It also reflects our own personal motivations — we're actually here to help — and the CivicActions company values.
