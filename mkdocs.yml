@@ -60,6 +60,7 @@ nav:
       - On-call stipends: 030-policies/on-call-stipend.md
   - Company policies:
       - Expenses: 030-policies/expenses.md
+      - Travel expenses and billing: 030-policies/travel-101.md
       - Timesheets (Unanet): 050-how-we-work/tools/unanet.md
       - Security Policy: 030-policies/security.md
       - Employment policies (US employees):
@@ -99,6 +100,9 @@ nav:
       - Gold Star Program: 050-how-we-work/gold-star-program.md
       - Security awareness and tools:
           - Awareness and tools: 100-security/awareness.md
+            - Setting up and using Yubikey: 100-security/yubikey/README.md
+            - Yubikey and Linux: 100-security/yubikey/linux.md
+            - Yubikey and Mac OS: 100-security/yubikey/macosx.md
           - Drupal RMF support: 100-security/drupal-rmf-support.md
           - Encryption: 100-security/encryption.md
           - Incidents:
@@ -109,6 +113,7 @@ nav:
       - Skills Base: 050-how-we-work/tools/skills-base.md
       - Software and support:
           - Internal technical support: 050-how-we-work/support.md
+          - Bookmarks: 050-how-we-work/bookmarks.md
           - Email: 050-how-we-work/tools/email.md
           - General contacts and listservs: 020-about-us/general-contacts-and-listservs.md
           - Github: 050-how-we-work/tools/github.md
@@ -136,8 +141,11 @@ nav:
           - User personas guide: 110-ux/services/research/user-personas-guide.md
       - Engineering:
           - Engineering calls: 060-engineering/README.md
+          - Accessibility: 060-engineering/accessibility.md
           - Backend development: 060-engineering/back-end-development.md
           - Development and hosting environments: 060-engineering/dev-environments.md
+          - Drupal - contributed vs. custom development: 060-engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+          - Drupal developer tips for getting the most out of open source: 060-engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - Drupal practice area: 050-how-we-work/practice-areas/drupal-practice-area.md
           - Drupal site building: 060-engineering/drupal-site-building.md
           - Engineer's role in client/team relationships: 060-engineering/engineer-role-in-client-relationships.md
@@ -166,6 +174,7 @@ nav:
           - When your project gets a contractual Modification (MOD) or Extension: 070-project-management/mods-and-extentions.md
           - Tracking contract expirations and renewals: 070-project-management/contract-expiration-tracking.md
           - Tracking contractual requirements: 070-project-management/contractual-requirements.md
+          - Conflict resolution and growth mindset: 070-project-management/growth-mindset/#what-is-growth-mindset
           - Time off request and approval process: 070-project-management/pto-request-approval-process.md
           - Having the hard conversations: 070-project-management/hard-conversations.md
           - Listserv setup: 070-project-management/listserv-setup.md
@@ -183,3 +192,4 @@ nav:
       - Guidebook governance: 000-contributing/docs-governance.md
       - Guidebook writing style: 000-contributing/writing-style-guide.md
       - Markdown: 000-contributing/markdown.md
+      - License: LICENSE.md
