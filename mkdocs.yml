@@ -33,16 +33,16 @@ extra_javascript:
   # menu. Material for MkDocs does not come with JQuery.
   - "https://code.jquery.com/jquery-3.6.2.min.js"
 nav:
-- Home: index.md
+  - Home: index.md
   - About CivicActions:
       - Mission and values: 020-about-us/mission-values.md
       - Culture: 020-about-us/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
-          - DEIA at CivicActions: 050-how-we-work/diversity-equity-inclusion/diversity-equity-inclusion/purpose.md
-          - Defining DEIA: 050-how-we-work/diversity-equity-inclusion/diversity-equity-inclusion/defining-dei.md
-          - Affinity channels: 050-how-we-work/diversity-equity-inclusion/diversity-equity-inclusion/affinity-channels.md
-          - DEIA - Get involved: 050-how-we-work/diversity-equity-inclusion/diversity-equity-inclusion/deia-get-involved.md
-          - Resources: 050-how-we-work/diversity-equity-inclusion/diversity-equity-inclusion/resources.md
+          - DEIA at CivicActions: 050-how-we-work/diversity-equity-inclusion/purpose.md
+          - Defining DEIA: 050-how-we-work/diversity-equity-inclusion/defining-dei.md
+          - Affinity channels: 050-how-we-work/diversity-equity-inclusion/affinity-channels.md
+          - DEIA - Get involved: 050-how-we-work/diversity-equity-inclusion/deia-get-involved.md
+          - Resources: 050-how-we-work/diversity-equity-inclusion/resources.md
       - Our structure:
           - Departments, projects, practice areas, and pods: 050-how-we-work/organization.md
           - Organizational structure: 020-about-us/org-structure.md
@@ -75,7 +75,7 @@ nav:
       - Health, Safety and Security Policy: 030-policies/health-safety-security.md
       - New hire orientation:
           - Welcome to CivicActions!: 010-welcome-to-civicactions/welcome.md
-          - Buddy program: /010-welcome-to-civicactions/training/buddy-program.md
+          - Buddy program: 010-welcome-to-civicactions/training/buddy-program.md
           - Elevator pitch: 020-about-us/elevator-pitch.md
           - Free and open source software (FOSS): 010-welcome-to-civicactions/training/intro-open-source.md
           - Meetings and meeting tools: 010-welcome-to-civicactions/training/meetings-and-meeting-tools.md
@@ -129,7 +129,7 @@ nav:
           - Design and research methods: 110-ux/services/README.md
           - Audience and outcomes guide: 110-ux/services/research/audiences-and-outcomes-guide.md
           - Content audit guide: 110-ux/services/research/content-audit-guide.md
-          - Content modeling guidew: 110-ux/services/design/content-modeling-guide.md
+          - Content modeling guide: 110-ux/services/design/content-modeling-guide.md
           - Stakeholder interviews guide: 110-ux/services/research/stakeholder-interviews-guide.md
           - Story mapping guide: 110-ux/services/research/story-mapping-guide.md
           - Usability testing guide: 110-ux/services/research/usability-testing-guide.md
