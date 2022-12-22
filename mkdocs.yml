@@ -132,7 +132,6 @@ nav:
       - About practice areas: 050-how-we-work/practice-areas/README.md
       - Accessibility practice area: 050-how-we-work/practice-areas/accessibility-practice-area.md
       - Design and research:
-          - Design and research methods: 110-ux/services/README.md
           - Audience and outcomes guide: 110-ux/services/research/audiences-and-outcomes-guide.md
           - Content audit guide: 110-ux/services/research/content-audit-guide.md
           - Content modeling guide: 110-ux/services/design/content-modeling-guide.md
@@ -185,6 +184,7 @@ nav:
           - Project folder structure: 070-project-management/project-folder.md
           - Project Manager templates: 070-project-management/templates.md
           - Project Manager training: 070-project-management/pm-training.md
+          - Unanet Tasks and Training Material: 070-project-management/pm-unanet-tasks.md
   - About this guidebook:
       - How and when to contribute to the guidebook: 000-contributing/README.md
       - File structure: 000-contributing/file-structure.md
