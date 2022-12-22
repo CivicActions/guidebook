@@ -38,14 +38,17 @@ Often when someone asks a question about a web application, responding quickly m
 
 The first step toward helping users feel attended-to is to **always reply promptly**. Any reply is better than no reply. Users and clients like to know that we've read their correspondence, and that we're looking into the issue. We don't have to know everything in order to begin an interaction, and we don't even have to be specific about next steps; often our first response may be as simple as:
 
-_Hi (name),
-Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information._
-
-_Let me know if I can help with anything else in the meantime!_
-
-_Thanks,
-(My name)
-CivicActions Support_
+> Hi (name),
+> 
+> Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
+>
+> Let me know if I can help with anything else in the meantime!
+>
+> Thanks,
+> 
+> (My name)
+> 
+> CivicActions Support
 
 The simple act of sending a response that acknowledges a question helps create a mutually beneficial partnership, and tells the user that they're not alone.
 
