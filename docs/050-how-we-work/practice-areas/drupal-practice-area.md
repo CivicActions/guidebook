@@ -10,7 +10,7 @@ Drupal engineers meet each month on Zoom to discuss topics of common interest. Y
 
 The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
-We add agenda items and notes to this document: [2022 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/129pvtjRwknQcMcsgwMfAHKGViXpQC6cElw-AIqzussU/edit) to structure our conversations.
+We add agenda items and notes to this document: [2023 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/16c_ors3wOMv68e7_R6OadjBIgPFWA_Ty6ux8xt6zqqw/edit#) to structure our conversations.
 
 ## Drupal Practice Area OKRs
 
@@ -40,7 +40,7 @@ CivicActions engineers all strive to be very helpful, so it's rare for a questio
 
 ## Contributions to drupal.org
 
-We strongly encourage all CivicActioners to look for opportunities to give back to the Drupal community (see [community participation](../../030-policies/community-participation.md#professional-development-and-community-participation)). To track contributions follow the instructions below. Tracking community contributions helps our Practice Area see and appreciate your contributions. It also helps our organization as a whole!
+We strongly encourage all CivicActioners to look for opportunities to give back to the Drupal community. To track contributions follow the instructions below. Tracking community contributions helps our Practice Area see and appreciate your contributions. It also helps our organization as a whole!
 
 ### Update your drupal.org profile
 
