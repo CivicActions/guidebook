@@ -12,7 +12,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Run mkdocs to check build.
-        uses: .config
+        uses: .config/
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           command: mkdocs.sh
