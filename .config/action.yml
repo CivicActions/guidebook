@@ -1,5 +1,5 @@
-name: "Run remark-lint with reviewdog"
-description: "🐶 Run remark-lint with reviewdog on pull requests for documentation projects."
+name: "Run repo specific lint tools"
+description: "Runs repo specific lint tools on pull requests for documentation projects."
 author: "civicactions"
 inputs:
   github_token:

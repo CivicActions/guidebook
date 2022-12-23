@@ -12,9 +12,9 @@ build:
     python: "3.9"
 
 mkdocs:
-  configuration: mkdocs.yml
+  configuration: .config/mkdocs.yml
 
 # Optionally declare the Python requirements required to build your docs
 python:
   install:
-    - requirements: lint/requirements.txt
+    - requirements: .config/requirements.txt

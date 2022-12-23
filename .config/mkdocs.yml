@@ -1,6 +1,7 @@
 site_name: CivicActions Guidebook - Beta
 repo_url: https://github.com/CivicActions/handbook/
 site_url: https://handbook.civicactions.com/en/latest/
+docs_dir: ../docs
 theme:
   name: material
   features:
