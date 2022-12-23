@@ -1,18 +1,19 @@
-# Tracking Contract Expirations and Renewals
+# Tracking Contract Details: Leveraging Project Wrappers
 
-## Tracking Contract Dates
+## Wrappers
 
-When a project is awarded, the sales team will have a handoff call to the delivery team. The delivery team should receive a copy of the contract, and at this point the project manager should make sure the contract dates (start dates, end dates, option terms) get added to the Project Contracts Calendar.
-
-The PM may want to a separate document that lists the project contract dates in one easy view. Below are a couple template options:
-
-- [TEMPLATE Project Catalogue of Contract Awards](https://docs.google.com/spreadsheets/d/1Ur6yFfqBnF0L2BXw9tM0j9wC5uiFLqdW2v-_3BR2-gg/edit#gid=0)
-- There is also optionally a sheet for this on the [TEMPLATE: Project Budget, Hours, Terms](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
-
-## Contract Locations
-
-All active, current contracts can be located in the Shared Google CivicActions Contracts folder. You would locate the folder by P# or client and project name. Within the specific project's folder, there will be sub folders for each mod or extension.
+Wrappers are documents that provide critical contract details. All projects include a Legal and a Project Management Wrapper. These two documents serve to point Project Managers - and any other CivicActions employee - to what we are obliged to deliver.
 
 ## Contract Management
 
-CivicActions is currently revamping our contract management processes and workflows. This will include more information about where to locate a master list of contracts and dates.
+All contracts can be tracked via the [Client Contract Index](https://docs.google.com/spreadsheets/d/1vEcmuGy2ZZEBIAWYxKvqpaUvEIj1iVzamPduMnHqQ1A/edit?pli=1#gid=1951421606). The Legal Wrapper is available via this index, with a link to the Project Management Wrapper included.
+
+## Tracking Contract Dates
+
+On the Legal Wrapper (see [template](https://docs.google.com/document/d/1BTkjJ2N8iPPsuxjb3cLfaqe30nfVQHSgs8cuWaFKalw/edit)), the <b>Awarded period of performance (initial)</b> section which will include contract dates.
+
+A link to all contracts is included at the top of the Legal Wrapper, on the <b>Contract folder</b> row. The linked folder will include all base and modification contracts, including additional documents (e.g., SOOs, etc.).
+
+## Project Folders
+
+On the Project Management Wrapper (see [template](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#)), note the links to both Internal and External folders.
