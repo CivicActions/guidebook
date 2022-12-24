@@ -28,7 +28,7 @@ Ideally, each of the above working groups have their own backlog of documentatio
 
 > @todo or will we use GitHub issues, with issue tags for each team?
 
-The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS) file in the top level of this repo maps the governance of `docs/` directories to their respective GitHub teams and CivicActions practice areas, and automatically assigns pull requests to that team for review, when a PR is submitted that.
+The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS) file in the top level of this repo maps the governance of subdirectories to their respective GitHub teams and CivicActions practice areas, and automatically assigns pull requests to that team for review, when a PR is submitted that.
 
 ## GitHub team management
 

@@ -6,19 +6,19 @@
 # * @CivicActions/civicactions-team
 
 # These will automatically assign PRs that touch files in these directories to their respective teams for review.
-docs/00-contributing/* @CivicActions/docs
-docs/010-welcome-to-civicactions/* @CivicActions/civicactions-team
-docs/02-about-us/* @CivicActions/civicactions-team
-docs/05-engineering/* @CivicActions/engineering  @CivicActions/docs
-docs/06-project-management/* @CivicActions/pm  @CivicActions/docs
-docs/07-sales-and-marketing/* @CivicActions/civicactions-team  @CivicActions/docs
-docs/100-security/* @CivicActions/security  @CivicActions/docs
+00-contributing/* @CivicActions/docs
+010-welcome-to-civicactions/* @CivicActions/civicactions-team
+02-about-us/* @CivicActions/civicactions-team
+05-engineering/* @CivicActions/engineering  @CivicActions/docs
+06-project-management/* @CivicActions/pm  @CivicActions/docs
+07-sales-and-marketing/* @CivicActions/civicactions-team  @CivicActions/docs
+100-security/* @CivicActions/security  @CivicActions/docs
 
 # Require management approval to change CODEOWNERS
 CODEOWNERS @CivicActions/management
 
 # Legal review is REQUIRED for all changes to these sections
-docs/08-hr-admin/ @CivicActions/legal
-docs/030-policies/ @CivicActions/legal
-docs/040-employee-handbook-us/ @CivicActions/legal
-docs/045-employee-handbook-ca/ @CivicActions/legal
+08-hr-admin/ @CivicActions/legal
+030-policies/ @CivicActions/legal
+040-employee-handbook-us/ @CivicActions/legal
+045-employee-handbook-ca/ @CivicActions/legal
