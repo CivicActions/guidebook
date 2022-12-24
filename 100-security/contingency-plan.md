@@ -185,4 +185,4 @@ This plan is most effective if all CivicActions team members know about it, reme
   - All changes to the plan should be communicated to the rest of the team.
   - At least once a year, and after major changes to our systems, we review and update the plan.
 - How we protect this plan from unauthorized modification:
-  - This plan is stored in the CivicActions Handbook GitHub repository (<https://github.com/CivicActions/handbook/tree/master/docs/09-security>) with authorization to modify it limited to the Incident Response Team by GitHub access controls. CivicActions policy is that changes are proposed by making a pull request and ask another team member to review and merge the pull request.
+  - This plan is stored in the CivicActions Handbook GitHub repository (<https://github.com/CivicActions/handbook/tree/master/09-security>) with authorization to modify it limited to the Incident Response Team by GitHub access controls. CivicActions policy is that changes are proposed by making a pull request and ask another team member to review and merge the pull request.

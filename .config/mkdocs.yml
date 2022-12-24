@@ -1,7 +1,7 @@
 site_name: CivicActions Guidebook - Beta
 repo_url: https://github.com/CivicActions/handbook/
 site_url: https://handbook.civicactions.com/en/latest/
-docs_dir: ../docs
+docs_dir: "../.docs"
 theme:
   name: material
   features:
@@ -35,7 +35,7 @@ extra_javascript:
   - "https://code.jquery.com/jquery-3.6.2.min.js"
 # Navigation of the entire site is managed below, both the main menu items and their child pages.
 nav:
-  - Home: index.md
+  - Home: README.md
   - About CivicActions:
       - Mission and values: 020-about-us/mission-values.md
       - Culture: 020-about-us/culture.md
