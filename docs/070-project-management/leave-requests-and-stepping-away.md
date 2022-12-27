@@ -6,10 +6,11 @@ Guidelines that Project Managers may use to coach teams on communications for OO
 
 All Team members are asked to complete the following when requesting OOO leave:
 
-1. Insert all Leave Requests in Unanet (from the Dashboard, create a new Leave Request)
-2. In Unanet and on submission, CC the Project Manager
-3. Confirm that your OOO is placed on any team calendar(s), plus the CivicActions OOO calendar
-4. Remind your teammates about your OOO:
+1. Work with the Project Manager to confirm OOO dates and required coverage; obtain pre-approval
+2. Insert all Leave Requests in Unanet (from the Dashboard, create a new Leave Request)
+3. In Unanet and on submission, CC the Project Manager
+4. Confirm that your OOO is placed on any team calendar(s), plus the CivicActions OOO calendar
+5. Remind your teammates about your OOO:
 
 - At Sprint Planning
 - Prior to sprint turnover
