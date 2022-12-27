@@ -8,7 +8,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 2. Adjusting projections for holidays or other OOO
 3. Reviewing and approving timesheets
 4. Reviewing and approving expenses
-5. Runnings reports 
+5. Runnings reports
    - Plans v Actuals
    - Planned Utilization
 
@@ -122,6 +122,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 
 1. Click on the first timesheet in the list
 2. One approach to reviewing timesheets is as follows:
+
 - Read the top summary to learn how the time was spent
 - Compare the time reported to known data, e.g., AHCs; holidays; OOO; project meetings/ deliverables, etc.
 - Confirm that, in general, time is properly allocated
@@ -133,7 +134,6 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 ### Tips
 
 1. If you use the Approve > button, Unanet will display timesheets one after another
-
 
 ## 4/ Reviewing and approving expenses
 
@@ -171,7 +171,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
    1. Check the receipt date (should match date entered in Unanet)
    1. Check the receipt amount (should match amount entered in Unanet)
    1. Check the credit card number does not end in xxxx. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on "disapprove" and ask the requestor to resubmit with "x Visa" for Payment Method (on the Details page)
-   1. If there are any problems with the report, click on "Disapprove" and let the requestor know why 
+   1. If there are any problems with the report, click on "Disapprove" and let the requestor know why
    1. If all looks good, click on "Approve"
 
 ## Expense report and request statuses and what they mean
