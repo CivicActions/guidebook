@@ -1,18 +1,18 @@
-# Project Management Unanet Tasks and Training Material
+# Project Management: Unanet Tasks and Training Materials
 
 ## Introduction
 
-Unanet is an enterprise resource planning (ERP) system that CivicActions uses for time tracking, planning, forecasting and accounting. As a project lead, you're responsible for the following Unanet tasks:
+Unanet is an enterprise resource planning (ERP) system that CivicActions leverages for time tracking, planning, forecasting and accounting. As a project lead, you're responsible for the following Unanet tasks:
 
-1. People planning and assignments for a project
-2. Adjust projections for holidays or other time-off
+1. People planning and assignments
+2. Adjusting projections for holidays or other OOO
 3. Reviewing and approving timesheets
 4. Reviewing and approving expenses
-5. Runnings reports for the following
+5. Runnings reports 
    - Plans v Actuals
    - Planned Utilization
 
-## People planning and assignments for a project (Plan with Grid)
+## 1/ People planning and assignments (aka Plan with Grid)
 
 ### Open Plan with Grid
 
@@ -31,7 +31,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 1. Change plan view to Tasks for Many People (you can also choose People for Many Tasks, which will show the grid listed by person with all tasks they are assigned to rather than by task with all people assigned to each task).
 
    - If you wish to only view specific tasks, copy the task name and paste it into Task Name field. Note: if the task name is 9. CLIN 2001 PM, you will need to lose the number and enter CLIN 2001 PM
-   - If you don't select specific tasks, the grid will show all tasks including inactive ones and non-billable
+   - If you don't select specific tasks, the grid will show all tasks including inactive and non-billable
 
 2. Select planning period criteria
 
@@ -48,18 +48,18 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions uses fo
 ![Screenshot of Plan with Grid 4](../images/Plan-with-Grid-4.png)
 
 5. You can also plan using other criteria (labor category, location, skills)
-6. You can color code the plan using people utilization (showing red if a person is already booked at 100% or above for example)
+6. You can color code the plan using people utilization (e.g., showing red if a person is already booked at 100% or above)
 7. Click on Plan at the top of the screen to view the grid
 
 ### Using the Grid
 
-1. Find the task you wish to plan
-2. Enter the allocations (# of hours) by month
+1. Find the task for which you wish to plan
+2. Enter the allocations (number of hours) by month
 
-   - Month by month, person by person (ie. entering a figure in each field)
-     Consider leave requests, holidays, conferences and so on
-   - ** IMPORTANT ** Double click on every person's name who you are planning for to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
-   - Note re above: Assigning a labor category is done by task, it does not translate to all tasks, even if you choose the "People for many Tasks" option
+   - Month by month, person by person (i.e., entering a figure in each field)
+     Consider leave requests, holidays, conferences, etc.
+   - ** IMPORTANT ** Double click on every person's name to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
+   - Note regarding that above: Assigning a labor category is done by task; it does not translate to all tasks, even if you choose the "People for many Tasks" option
 
 ![Screenshot of Plan with Grid 5](../images/Plan-with-Grid-5.png)
 
@@ -80,7 +80,7 @@ You may enter multiple hours/month on the planning grid rather than one month pe
 ![Screenshot of Plan with Grid 6](../images/Plan-with-Grid-6.png)
 
 - You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
-- You can also enter the labor category here if it is the same for each person.
+- You can also enter the labor category if it is the same for each person.
 
 ![Screenshot of Plan with Grid 7](../images/Plan-with-Grid-7.png)
 
@@ -94,7 +94,7 @@ You may enter multiple hours/month on the planning grid rather than one month pe
    - You will be directed to a similar screen where you can "enable budget field for updates" and enter the hours you wish to allocate for each person for the selected month.
    - You can also enter the labor category here if it is the same for each person
 
-## Adjust projections for holidays or other time-off
+## 2/ Adjust projections for holidays or other OOO
 
 In general, resource allocations can be expected using the following rations:
 
@@ -104,13 +104,38 @@ In general, resource allocations can be expected using the following rations:
 
 From that place, then deduct - monthly - for any of the following:
 
-1. holidays
+1. Holidays
 2. OOO
 3. Any other events, e.g., summits, etc.
 
 Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared calendar and try searching "name OOO". This will allow you to isolate the forthcoming dates for the given person.
 
-## Reviewing and approving expenses
+## 3/ Reviewing and approving timesheets
+
+### Find your timesheets for review
+
+1. Click on the Unanet logo
+2. Scroll down to Approvals
+3. Look for Project Approvals
+
+### Review timesheets
+
+1. Click on the first timesheet in the list
+2. One approach to reviewing timesheets is as follows:
+- Read the top summary to learn how the time was spent
+- Compare the time reported to known data, e.g., AHCs; holidays; OOO; project meetings/ deliverables, etc.
+- Confirm that, in general, time is properly allocated
+- Then drill into project hours per day, reviewing all comments
+- Read the comments to confirm they will be audit-worth, i.e., are descriptive and professional
+- Approve the timesheet if no changes are required
+- Reject the timesheet and note any expected changes
+
+### Tips
+
+1. If you use the Approve > button, Unanet will display timesheets one after another
+
+
+## 4/ Reviewing and approving expenses
 
 ### Find your approvals
 
@@ -132,7 +157,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 
 1. Click on the magnifying glass to view all details
 1. Check the project type and expense type are correct
-1. Approve or Disapprove as you see fit - you do NOT need to check ProDev usage - We do that as part of the project approval process before the request reaches you.
+1. Approve or Disapprove as you see fit - you do NOT need to check ProDev usage; we do that as part of the project approval process before the request reaches you.
 
 ### Review the REPORT
 
@@ -146,7 +171,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
    1. Check the receipt date (should match date entered in Unanet)
    1. Check the receipt amount (should match amount entered in Unanet)
    1. Check the credit card number does not end in xxxx. If it does, then the receipt needs to be associated with our company credit card and not reimbursed. If it is the company credit card, click on "disapprove" and ask the requestor to resubmit with "x Visa" for Payment Method (on the Details page)
-   1. If there are any problems with the report, click on "disapprove" and let the requestor know why you have disapproved it
+   1. If there are any problems with the report, click on "Disapprove" and let the requestor know why 
    1. If all looks good, click on "Approve"
 
 ## Expense report and request statuses and what they mean
@@ -155,7 +180,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 
 - Requesting - user is still editing the request
 - Preapproving - user has submitted the request (remains in this status until the final manager has approved)
-- Preapproved - All approvals have been given for the request, which now becomes a report (in the "In use" status and will need to be submitted)
+- Preapproved - all approvals given for the request, which now becomes a report (in the "In use" status and will need to be submitted)
 - Denied - the expense request has been denied
 
 ### Reports
@@ -167,11 +192,11 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 - Completed - the report is fully approved
 - Extracted - the administrator has pulled the report into accounts payable to await reimbursement
 
-## Running reports
+## 5/ Running reports
 
 ### Plans vs Actuals
 
-This report will show you your project personnel planned hours and actual hours.
+This highly utilized report will show project resourcing planned and actual hours.
 This report is useful for spotting anomalies such as a terminated employee in the project plan, or a person over-utilized in a project plan, and so on.
 
 ![Screenshot of Plans vs Actuals 1](../images/Plans-vs-Actuals-1.png)
