@@ -8,9 +8,11 @@ jobs:
   mkdocs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Run mkdocs
-        uses: docker://civicactions/handbook-lint:latest
+      - uses: actions/checkout@v1
         with:
-          entrypoint: /bin/bash
-          args: mkdocs.sh
+          fetch-depth: 0
+      - name: Run mkdocs to check build.
+        uses: ./.config/
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          command: mkdocs.sh

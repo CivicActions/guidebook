@@ -1,10 +1,5 @@
 .*.swp
 .DS_Store
-.bundle/
-*.html
-.jekyll*
-.sass-cache/
-_site/
 node_modules
 output.log
 site

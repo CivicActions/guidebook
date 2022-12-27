@@ -1,3 +1,4 @@
+# These fix common "fancy" characters when pasting from word processors.
 - search: "´"
   replacement: "'"
 - search: "‘"

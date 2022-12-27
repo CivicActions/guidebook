@@ -1,0 +1,184 @@
+site_name: CivicActions Guidebook - Beta
+repo_url: https://github.com/CivicActions/handbook/
+site_url: https://handbook.civicactions.com/en/latest/
+docs_dir: ../docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    #- navigation.expand
+  favicon: img/favicon.ico
+  logo: img/ca-logo-white.svg
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - toc:
+      title: On this page
+plugins:
+  - search
+extra_css:
+  - css/extra.css
+extra_javascript:
+  #- js/extra.js
+  # Read the Docs requires JQuery for its JavaScript code to inject the flyout
+  # menu. Material for MkDocs does not come with JQuery.
+  - "https://code.jquery.com/jquery-3.6.2.min.js"
+# Navigation of the entire site is managed below, both the main menu items and their child pages.
+nav:
+  - Home: index.md
+  - About CivicActions:
+      - Mission and values: 020-about-us/mission-values.md
+      - Culture: 020-about-us/culture.md
+      - Diversity, Equity, Inclusion, and Accessibility (DEIA):
+          - DEIA at CivicActions: 050-how-we-work/diversity-equity-inclusion/purpose.md
+          - Defining DEIA: 050-how-we-work/diversity-equity-inclusion/defining-dei.md
+          - Affinity channels: 050-how-we-work/diversity-equity-inclusion/affinity-channels.md
+          - DEIA - Get involved: 050-how-we-work/diversity-equity-inclusion/deia-get-involved.md
+          - Resources: 050-how-we-work/diversity-equity-inclusion/resources.md
+      - Our structure:
+          - Departments, projects, practice areas, and pods: 050-how-we-work/organization.md
+          - Organizational structure: 020-about-us/org-structure.md
+          - Management team: 050-how-we-work/management-ops.md
+      - Background and history: 020-about-us/background-and-history.md
+      - Our annual summit: 030-policies/annual-retreat.md
+  - Employee benefits:
+      - Benefits policy (US employees): 040-employee-handbook-us/benefits-and-holidays.md
+      - Compensation (US employees): 040-employee-handbook-us/compensation.md
+      - Technology stipend policy (US employees): 040-employee-handbook-us/tech-stipend.md
+      - Benefits policy (Canadian employees): 045-employee-handbook-ca/benefits-and-holidays.md
+      - Technology stipend (Canadian employees): 045-employee-handbook-ca/tech-stipend.md
+      - Professional development: 030-policies/prodev.md
+      - Employee referral bonus program: 030-policies/employee-referral-bonus.md
+      - On-call stipends: 030-policies/on-call-stipend.md
+  - Company policies:
+      - Expenses: 030-policies/expenses.md
+      - Travel expenses and billing: 030-policies/travel-101.md
+      - Timesheets (Unanet): 050-how-we-work/tools/unanet.md
+      - Security Policy: 030-policies/security.md
+      - Employment policies (US employees):
+          - Employment: 040-employee-handbook-us/employment.md
+          - Introductory period: 040-employee-handbook-us/introductory-period.md
+          - Anti-harassment: 040-employee-handbook-us/anti-harassment-policies.md
+          - Covid 19 safety: 040-employee-handbook-us/covid19safety.md
+      - Code of conduct: 030-policies/code-of-conduct.md
+      - Workplace guidelines: 030-policies/workplace-guidelines.md
+      - Annual performance review: 030-policies/annual-review-process.md
+      - Performance management: 030-policies/performance-management.md
+      - Leaving Civicactions: 030-policies/leaving-civicactions.md
+      - Health, Safety and Security Policy: 030-policies/health-safety-security.md
+      - New hire orientation:
+          - Welcome to CivicActions!: 010-welcome-to-civicactions/welcome.md
+          - Buddy program: 010-welcome-to-civicactions/training/buddy-program.md
+          - Elevator pitch: 020-about-us/elevator-pitch.md
+          - Free and open source software (FOSS): 010-welcome-to-civicactions/training/intro-open-source.md
+          - Meetings and meeting tools: 010-welcome-to-civicactions/training/meetings-and-meeting-tools.md
+          - People planning: 010-welcome-to-civicactions/training/people-planning.md
+          - Security for everyone: 010-welcome-to-civicactions/training/security-training.md
+          - Training resources: 050-how-we-work/training-resources.md
+          - Video call best practices: 050-how-we-work/video-call-best-practices.md
+          - Virtual workplace basics: 050-how-we-work/virtual-workplace-basics.md
+  - Common practices and tools:
+      - Agile:
+          - Agile overview: 050-how-we-work/agile-overview.md
+          - Agile practice: 050-how-we-work/agile-practices/README.md
+          - Backlog refinement: 050-how-we-work/agile-practices/backlog-refinement.md
+          - Daily scrum calls: 050-how-we-work/agile-practices/daily-scrum-calls.md
+          - How to create tickets: 050-how-we-work/tools/tickets-cards.md
+          - Sprint cycle: 050-how-we-work/agile-practices/sprint-cycle.md
+          - Sprint demo: 050-how-we-work/agile-practices/sprint-demo.md
+          - Sprint planning meetings: 050-how-we-work/agile-practices/sprint-planning-meetings.md
+          - Sprint retrospectives: 050-how-we-work/agile-practices/sprint-retrospectives.md
+      - Balance scores: 050-how-we-work/balance-scores.md
+      - Gold Star Program: 050-how-we-work/gold-star-program.md
+      - Security awareness and tools:
+          - Awareness and tools: 100-security/awareness.md
+          - Setting up and using Yubikey:
+              - 100-security/yubikey/README.md
+              - Yubikey and Linux: 100-security/yubikey/linux.md
+              - Yubikey and Mac OS: 100-security/yubikey/macosx.md
+          - Drupal RMF support: 100-security/drupal-rmf-support.md
+          - Encryption: 100-security/encryption.md
+          - Incidents:
+              - Contingency plan: 100-security/contingency-plan.md
+              - Incident response checklist: 100-security/incident-response-checklist.md
+              - Incident response plan: 100-security/incident-response-plan.md
+              - Security incidents: 100-security/incidents.md
+      - Skills Base: 050-how-we-work/tools/skills-base.md
+      - Software and support:
+          - Internal technical support: 050-how-we-work/support.md
+          - Bookmarks: 050-how-we-work/bookmarks.md
+          - Email: 050-how-we-work/tools/email.md
+          - General contacts and listservs: 020-about-us/general-contacts-and-listservs.md
+          - Github: 050-how-we-work/tools/github.md
+          - Google Calendar: 050-how-we-work/tools/google-calendar.md
+          - Google Docs: 050-how-we-work/tools/google-docs.md
+          - Google Meet: 050-how-we-work/tools/google-hangouts.md
+          - Jira: 050-how-we-work/tools/jira.md
+          - Markdown: 050-how-we-work/tools/markdown.md
+          - Slack: 050-how-we-work/tools/slack.md
+          - Text editors: 050-how-we-work/tools/text-editors.md
+          - Trello: 050-how-we-work/tools/trello.md
+          - Zoom: 050-how-we-work/tools/zoom.md
+      - Telephone use: 050-how-we-work/tools/telephone.md
+  - Practice areas:
+      - About practice areas: 050-how-we-work/practice-areas/README.md
+      - Accessibility practice area: 050-how-we-work/practice-areas/accessibility-practice-area.md
+      - Design and research:
+          - Audience and outcomes guide: 110-ux/services/research/audiences-and-outcomes-guide.md
+          - Content audit guide: 110-ux/services/research/content-audit-guide.md
+          - Content modeling guide: 110-ux/services/design/content-modeling-guide.md
+          - Stakeholder interviews guide: 110-ux/services/research/stakeholder-interviews-guide.md
+          - Story mapping guide: 110-ux/services/research/story-mapping-guide.md
+          - Usability testing guide: 110-ux/services/research/usability-testing-guide.md
+          - User personas guide: 110-ux/services/research/user-personas-guide.md
+      - Engineering:
+          - Engineering calls: 060-engineering/README.md
+          - Accessibility: 060-engineering/accessibility.md
+          - Drupal practice area: 050-how-we-work/practice-areas/drupal-practice-area.md
+          - Drupal - contributed vs. custom development: 060-engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+          - Drupal developer tips for getting the most out of open source: 060-engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
+          - Git: 060-engineering/git.md
+          - Security and compliance: 060-engineering/security-compliance.md
+          - Tech Lead (TL) project role description: 060-engineering/tech-lead.md
+      - Help desk:
+          - Help desk support: 120-help-desk/helpdesk.md
+          - Project support and Agile: 120-help-desk/help-desk-agile.md
+          - Help desk working practices: 120-help-desk/working-practices.md
+      - Project management:
+          - Project manager role: 070-project-management/pm-role.md
+          - Guidelines for starting a new project: 070-project-management/starting-new-project.md
+          - Invoicing: 070-project-management/invoicing.md
+          - Onboarding a new project team member: 070-project-management/onboarding-new-project-team-member.md
+          - When your project gets a contractual Modification (MOD) or Extension: 070-project-management/mods-and-extentions.md
+          - Tracking contract expirations and renewals: 070-project-management/contract-expiration-tracking.md
+          - Tracking contractual requirements: 070-project-management/contractual-requirements.md
+          - Conflict resolution and growth mindset: 070-project-management/growth-mindset.md
+          - Leave Requests and Stepping Away: 070-project-management/leave-requests-and-stepping-away.md
+          - Having the hard conversations: 070-project-management/hard-conversations.md
+          - Listserv setup: 070-project-management/listserv-setup.md
+          - Offboarding a team member from a project: 070-project-management/project-offboarding.md
+          - Planning travel and onsite meetings: 070-project-management/planning-onsite-meetings.md
+          - Project calendar: 070-project-management/project-calendar.md
+          - Project folder structure: 070-project-management/project-folder.md
+          - Project Manager templates: 070-project-management/templates.md
+          - Project Manager training: 070-project-management/pm-training.md
+          - Project Management Unanet Tasks and Training Material: 070-project-management/pm-unanet-tasks.md
+          - Project Management Checklists: 070-project-management/project-management-checklists.md
+  - About this guidebook:
+      - How and when to contribute to the guidebook: 000-contributing/README.md
+      - Git workflow: 000-contributing/git-workflow.md
+      - GitHub actions: 000-contributing/github-actions.md
+      - Guidebook governance: 000-contributing/docs-governance.md
+      - Guidebook writing style: 000-contributing/writing-style-guide.md
+      - Markdown: 000-contributing/markdown.md
+      - License: LICENSE.md
