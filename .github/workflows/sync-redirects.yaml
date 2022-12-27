@@ -1,0 +1,40 @@
+name: Sync RTD redirects
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - redirects.yml
+      - .github/workflows/sync-redirects.yaml
+
+  pull_request:
+
+  # Manually triggered using GitHub's UI
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+
+      - name: Upgrade Python toolchain
+        run: python3 -m pip install --upgrade pip setuptools wheel
+
+      - name: Install readthedocs-cli
+        run: python3 -m pip install readthedocs-cli
+
+      - if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        id: wet-run
+        name: Sync redirects
+        run: rtd projects 'CivicActions Handbook' redirects sync -f .config/redirects.yml --wet-run
+        env:
+          RTD_TOKEN: ${{ secrets.RTD_TOKEN }}
+
+      - if: steps.wet-run.conclusion == 'skipped'
+        name: Sync redirects (DRY RUN)
+        run: rtd projects 'CivicActions Handbook' redirects sync -f .config/redirects.yml --dry-run
+        env:
+          RTD_TOKEN: ${{ secrets.RTD_TOKEN }}
