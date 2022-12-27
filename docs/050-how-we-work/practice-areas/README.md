@@ -2,7 +2,7 @@
 
 Practice areas are self-organized groups oriented around a specific practice or craft to foster learning, continuous improvement and cross-pollination of ideas and best practice across the company.
 
-Practice areas that provide client services also [work across departments](working-with-depts.md) and delivery to develop, market, sell, deliver and grow a set of related services and build the team that delivers those services.
+Practice areas that provide client services also work across departments and delivery to develop, market, sell, deliver and grow a set of related services and build the team that delivers those services.
 
 It is important to note practice areas may overlap in places, and that client projects can often be served by more than one practice area during the course of delivery. Similarly team members may work across multiple practice areas, even in a single day.
 
@@ -16,16 +16,16 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 ## Directory
 
-| Name                                            | Leads                                                                   | Slack                  | Meets                                |
-| ----------------------------------------------- | ----------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
-| [Accessibility](accessibility-practice-area.md) | Laura Flannery, Margeaux Salmon-Spring, Mike Gifford                    | #accessibility         | Twice monthly                        |
-| DevSecOps                                       | David Sumner                                                            | #devsecops             | Biweekly                             |
-| Diversity, Equity, Inclusion & Accessibility    | Rotating                                                                | #celebrating-diversity | Weekly                               |
-| [Drupal](drupal-practice-area.md)               | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Julie Kramer | #engineering-drupal    | Monthly                              |
-| Workforce Transformation                        | Chianti Lomax                                                           | #eduservices           |                                      |
-| Frontend                                        | Dan Goodwin, Eric Huffman, Iris Ibekwe                                  | #engineering-frontend  | Biweekly                             |
-| Data Science                                    | Jake Rozran                                                             | #engineering-data      |                                      |
-| Product Management                              | Liz Tupper                                                              | #productmanagement     | Biweekly                             |
-| Project Management                              | Heidi Harting-Rex                                                       | #projectmanagement     | Biweekly                             |
-| Quality Assurance                               | Eric Napier                                                             | #engineering-qa        | Biweekly                             |
-| Design                                          | Ben Leffler, Jenna Waszak, Val Runde                                    | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| Name                                            | Leads                                                                                        | Slack                  | Meets                                |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
+| [Accessibility](accessibility-practice-area.md) | Laura Flannery, Mike Gifford                                                                 | #accessibility         | Twice monthly                        |
+| DevSecOps                                       | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
+| Diversity, Equity, Inclusion & Accessibility    | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
+| [Drupal](drupal-practice-area.md)               | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
+| Workforce Transformation                        | Chianti Lomax                                                                                | #eduservices           |                                      |
+| Frontend                                        | Dan Goodwin, Eric Huffman, Iris Ibekwe                                                       | #engineering-frontend  | Biweekly                             |
+| Data Science                                    | Jake Rozran                                                                                  | #engineering-data      |                                      |
+| Product Management                              | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
+| Project Management                              | Heidi Harting-Rex                                                                            | #projectmanagement     | Biweekly                             |
+| Quality Assurance                               | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
+| Design                                          | Ben Leffler, Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
