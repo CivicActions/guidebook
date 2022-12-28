@@ -81,7 +81,7 @@ The IC keeps a log of the situation in the [`#general`](https://civicactions.sla
 
 The Incident Response Team assesses the situation and works to recover the system. See the list of [external dependencies](#external-dependencies) for procedures for recovery from problems with external services.
 
-If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#4-assess-the-incident#4-assess-the-incident) and [remediation](incident-response-plan.md#5-remediate#5-remediate) processes.
+If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#4-assess-the-incident#4-assess-the-incident) and [remediation](incident-response-plan.md#5-remediate) processes.
 
 If the IC assesses that the overall response process is likely to last longer than 3 hours, the IC should organize shifts so that each responder works on response for no longer than 3 hours at a time, including handing off their own responsibility to a new IC after 3 hours.
 
@@ -89,7 +89,7 @@ If the IC assesses that the overall response process is likely to last longer th
 
 The Incident Response Team tests and validates the system as operational.
 
-The Incident Commander declares that recovery efforts are complete and notifies all relevant people. The last step is to schedule a postmortem to discuss the event. This is the same as the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective#conducting-a-retrospective).
+The Incident Commander declares that recovery efforts are complete and notifies all relevant people. The last step is to schedule a postmortem to discuss the event. This is the same as the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective).
 
 ## External dependencies
 
