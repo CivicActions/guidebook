@@ -3,13 +3,13 @@
 Project Folders are integral to our transparency tenet at CivicActions. They also are necessary to retain a viable project record. An important part of the role of the Project Manager is the ongoing maintenance of project folders.
 
 We aim for consistency across projects as follows:
+
 - The project folder names are similar to Unanet and all other references to the project (e.g., Wrappers, Onboarding deck, etc.)
 - There are two project folders: (project name) Internal; (project name) External
 
-The structure inside the External or Internal folders are determined by the team. Having obvious separation between sub-teams or focus areas is highly encouraged. If approroached from the aspect of permissions, this task becomes more clear. 
+The structure inside the External or Internal folders are determined by the team. Having obvious separation between sub-teams or focus areas is highly encouraged. If approroached from the aspect of permissions, this task becomes more clear.
 
-Clients are allowed permissions for sub-folders within External. It is recommended to label the folders appropriately, e.g., "Shared_Scrum Notes". As a  reminder, a percentage of government clients are prohibited from using Google suite tooling, thus be aware of the situation with each client. 
-
+Clients are allowed permissions for sub-folders within External. It is recommended to label the folders appropriately, e.g., "Shared_Scrum Notes". As a reminder, a percentage of government clients are prohibited from using Google suite tooling, thus be aware of the situation with each client.
 
 ## Structure Highlights
 
@@ -27,7 +27,8 @@ Clients are allowed permissions for sub-folders within External. It is recommend
 ## Ongoing Maintenance from the Project Manager
 
 Common challenges with project folders include the following:
-- The folders can become unruly 
+
+- The folders can become unruly
 - Not all project documents are saved in the folders
 - Resourcing changes require permission adjustments
 
@@ -37,4 +38,4 @@ The Project Manager [checklist](https://handbook.civicactions.com/en/latest/070-
 
 In addition, as links are posted/ shared in JIRA, Slack, ceremonies, etc., and if the document is not in the project folder, the Project Manager is encouraged to request a transition.
 
-If a Project Manager is protecting the integrity of the project folders, confirming they are organized and comprehensive, the project team will be empopwered to own their own content. 
+If a Project Manager is protecting the integrity of the project folders, confirming they are organized and comprehensive, the project team will be empopwered to own their own content.
