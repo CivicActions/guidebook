@@ -3,6 +3,7 @@
 ## What is the difference between a contract MOD and an Extension?
 
 Contract Modifications (MOD) are required for any change to the original document, e.g. adjustments to the following:
+
 - key personnel
 - scope
 - deliverables
