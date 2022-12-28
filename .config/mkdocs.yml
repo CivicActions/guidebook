@@ -162,9 +162,11 @@ nav:
           - When your project gets a contractual Modification (MOD) or Extension: practice-areas/project-management/mods-and-extensions.md
           - Tracking contract expirations and renewals: practice-areas/project-management/contract-expiration-tracking.md
           - Tracking contractual requirements: practice-areas/project-management/contractual-requirements.md
+          - Team working agreements: practice-areas/project-management/team-working-agreements-instructions.md
           - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
-          - Time off request and approval process: practice-areas/project-management/pto-request-approval-process.md
+          - Leave requests and stepping away: practice-areas/project-management/leave-requests-and-stepping-away.md
           - Having the hard conversations: practice-areas/project-management/hard-conversations.md
+          - General guidelines for tools on project teams: practice-areas/project-management/general-tooling-guidelines-for-project-teams.md
           - Listserv setup: practice-areas/project-management/listserv-setup.md
           - Offboarding a team member from a project: practice-areas/project-management/project-offboarding.md
           - Planning travel and onsite meetings: practice-areas/project-management/planning-onsite-meetings.md
@@ -182,3 +184,4 @@ nav:
       - Guidebook writing style: about-this-guidebook/writing-style-guide.md
       - Markdown: about-this-guidebook/markdown-for-guidebook.md
       - License: LICENSE.md
+      - Change Log: CHANGELOG.md

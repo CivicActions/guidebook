@@ -29,7 +29,7 @@ When you first log in you will need to go through a short onboarding:
 
 Notes:
 
-- If you normally work in more than one of the teams listed, or have significant skills outside those of your primary team then open a [support ticket](../050-how-we-work/support.md#to-request-support#to-request-support) to request those be added to your user.
+- If you normally work in more than one of the teams listed, or have significant skills outside those of your primary team then open a [support ticket](software-and-support/support.md#to-request-support#to-request-support) to request those be added to your user.
 - If you work in an internal department select the "CivicActions" team.
 
 Next, you will need to take an initial self-assessment - this typically takes around 30 minutes, depending on the number of skills your team tracks.

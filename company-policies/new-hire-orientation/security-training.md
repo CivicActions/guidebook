@@ -40,6 +40,6 @@ CivicActions Employees and Contractors regularly refresh their understanding of 
 
 ## Incident Response
 
-All employees and contractors have reviewed the [CivicActions Incident Response](../../common-practices-tools/security/incidentsincident-response-plan.md) procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../common-practices-tools/security/incidents.md) for additional help.
+All employees and contractors have reviewed the [CivicActions Incident Response](../../common-practices-tools/security/incident-response-plan.md) procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../common-practices-tools/security/incidents.md) for additional help.
 
 _(The project specific Incident Response Teams require additional trainings not covered here.)_

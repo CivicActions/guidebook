@@ -84,7 +84,7 @@ Some practical tips for making inclusive spaces on your team:
 
 We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessibility isn't just a core part of our culture, it's also a committee.
 
-[Learn more about the Diversity, Equity, Inclusion, and Accessibility Committee](../050-how-we-work/diversity-equity-inclusion/deia-get-involved.md)
+[Learn more about the Diversity, Equity, Inclusion, and Accessibility Committee](diversity-equity-inclusion/deia-get-involved.md)
 
 ## Accessibility
 

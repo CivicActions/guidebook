@@ -10,8 +10,8 @@ The operating system and software applications on your laptop - and all computer
 
 Additionally, your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time.
 
-- [GNU/Linux specific instructions](../../100-security/yubikey/linux.md#screen-lock-when-idle-or-lid-closed-x-server#screen-lock-when-idle-or-lid-closed-x-server)
-- [Mac OS X specific instructions](../../100-security/yubikey/macosx.md#screen-lock-on-lid-close-or-idle#screen-lock-on-lid-close-or-idle)
+- [GNU/Linux specific instructions](yubikey/linux.md#screen-lock-when-idle-or-lid-closed-x-server#screen-lock-when-idle-or-lid-closed-x-server)
+- [Mac OS X specific instructions](yubikey/macosx.md#screen-lock-on-lid-close-or-idle#screen-lock-on-lid-close-or-idle)
 
 ## Password Management Tools
 
