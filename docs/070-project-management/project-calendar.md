@@ -1,10 +1,10 @@
 # Project Calendar
 
-Most of the major projects will have their own Google Calendar, which is often created by the project manager. Creating a specific calendar for a project allows easy visibility to project events for all team members, as well as the ability for team members to manage events (adding, editing, removing).
+Most of the major projects will have their own Google Calendar, which is often created by the project manager. Creating a specific calendar for a project allows easy visibility to project events for all team members, as well as the ability for team members to manage events (i.e., adding, editing, or removing).
 
 ## Calendar creation tips
 
-- Upon calendar creation, name the calendar to align with the client, unless there are concurrent projects for the client
+- Once the calendar is created, name it to align with the client, unless there are concurrent projects for the client
 - When any event for a project needs to be created or edited, it should be done to events on the project calendar instead of personal calendars
 - Settings: Auto-accept invitations > Automatically add all invitations to this calendar
 - Settings: Access permissions > Make available for CivicActions > See all event details
