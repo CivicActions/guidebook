@@ -3,22 +3,17 @@
 # Order is important. The last matching pattern has the most precedence.
 
 # These owners will be the default owners for everything in the repo.
-# * @CivicActions/civicactions-team
+* @CivicActions/civicactions-team
 
 # These will automatically assign PRs that touch files in these directories to their respective teams for review.
-00-contributing/* @CivicActions/docs
-010-welcome-to-civicactions/* @CivicActions/civicactions-team
-02-about-us/* @CivicActions/civicactions-team
-05-engineering/* @CivicActions/engineering  @CivicActions/docs
-06-project-management/* @CivicActions/pm  @CivicActions/docs
-07-sales-and-marketing/* @CivicActions/civicactions-team  @CivicActions/docs
-100-security/* @CivicActions/security  @CivicActions/docs
+about-this-guidebook/* @CivicActions/docs
+practice-areas/engineering/* @CivicActions/engineering  @CivicActions/docs
+practice-areas/project-management/* @CivicActions/pm  @CivicActions/docs
+common-practices-tools/security/* @CivicActions/security  @CivicActions/docs
 
 # Require management approval to change CODEOWNERS
 CODEOWNERS @CivicActions/management
 
 # Legal review is REQUIRED for all changes to these sections
-08-hr-admin/ @CivicActions/legal
-030-policies/ @CivicActions/legal
-040-employee-handbook-us/ @CivicActions/legal
-045-employee-handbook-ca/ @CivicActions/legal
+company-policies/* @CivicActions/legal
+employee-benefits/* @CivicActions/legal
