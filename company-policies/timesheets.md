@@ -46,7 +46,7 @@ View timeoff policy [here](https://handbook.civicactions.com/en/latest/040-emplo
 - 8 hours for a full day
 - 4 hours for a half day
 
-![Unanet Screenshot highlighting that the sick days are under time off](../images/Unanet-sick-leave.png)
+![Unanet Screenshot highlighting that the sick days are under time off](../assets/images/Unanet-sick-leave.png)
 
 ## Support
 

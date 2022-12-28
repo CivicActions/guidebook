@@ -39,4 +39,4 @@ See [Video Call Best Practices](../../company-policies/new-hire-orientation/vide
 - /unvmute - Unmutes the video of the caller.
 - /users - Displays a list of participants in the video call.
 
-![Hangouts shortcuts](../../images/hangout-shortcuts.png "Hangouts shortcuts")
+![Hangouts shortcuts](../../assets/images/hangout-shortcuts.png "Hangouts shortcuts")

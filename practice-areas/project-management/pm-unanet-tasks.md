@@ -19,12 +19,12 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 1. Contracts/Project/List
 2. Enter the project code or % and part of the code (eg. %acme)
 
-![Screenshot of Plan with Grid 1](../../images/Plan-with-Grid-1.png)
+![Screenshot of Plan with Grid 1](../../assets/images/Plan-with-Grid-1.png)
 
 3. Select your project and click on the pencil or double click anywhere on project row (except on an icon) to open Project profile
 4. From the left side menu, select People Plans/Plan with Grid
 
-![Screenshot of Plan with Grid 2](../../images/Plan-with-Grid-2.png)
+![Screenshot of Plan with Grid 2](../../assets/images/Plan-with-Grid-2.png)
 
 ### Create the Grid
 
@@ -41,11 +41,11 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 
 3. Budget in Hours or Utilization (most people select hours)
 
-![Screenshot of Plan with Grid 3](../../images/Plan-with-Grid-3.png)
+![Screenshot of Plan with Grid 3](../../assets/images/Plan-with-Grid-3.png)
 
 4. Select People to plan for by entering their last name (or the first few letters of their last name) or %, which will show a list of all people you can add to your plan, whom you may select by highlighting
 
-![Screenshot of Plan with Grid 4](../../images/Plan-with-Grid-4.png)
+![Screenshot of Plan with Grid 4](../../assets/images/Plan-with-Grid-4.png)
 
 5. You can also plan using other criteria (labor category, location, skills)
 6. You can color code the plan using people utilization (e.g., showing red if a person is already booked at 100% or above)
@@ -61,7 +61,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
    - ** IMPORTANT ** Double click on every person's name to enter the correct labor category for the project. If you don't do this, the invoice may be incorrect and you will need to alter them all for every assignment for every person month by month
    - Note regarding that above: Assigning a labor category is done by task; it does not translate to all tasks, even if you choose the "People for many Tasks" option
 
-![Screenshot of Plan with Grid 5](../../images/Plan-with-Grid-5.png)
+![Screenshot of Plan with Grid 5](../../assets/images/Plan-with-Grid-5.png)
 
 3. Click on Save
 4. If you are finished, you may click on Assign
@@ -77,12 +77,12 @@ You may enter multiple hours/month on the planning grid rather than one month pe
 
 1. For the same number of hours for every person for every period - Double click on the space to the left of the first month in the header
 
-![Screenshot of Plan with Grid 6](../../images/Plan-with-Grid-6.png)
+![Screenshot of Plan with Grid 6](../../assets/images/Plan-with-Grid-6.png)
 
 - You will be directed to the following screen where you can "enable budget field for updates" and enter the hours you wish to allocate per person per month.
 - You can also enter the labor category if it is the same for each person.
 
-![Screenshot of Plan with Grid 7](../../images/Plan-with-Grid-7.png)
+![Screenshot of Plan with Grid 7](../../assets/images/Plan-with-Grid-7.png)
 
 2. For the same number of hours for an individual for every period - Double click on the name of the person
 
@@ -142,7 +142,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 1. Click on the Unanet logo
 1. Scroll down to Approvals
 1. Look for Expense Reports and/or Requests and click on Primary Approvals to view
-1. ![Screenshot of Approving Expense 1](../../images/Approving-Expenses-1.png)
+1. ![Screenshot of Approving Expense 1](../../assets/images/Approving-Expenses-1.png)
 1. NOTE: All expense reimbursements except for ProDev < $50 should be submitted as a REQUEST first.
 1. To check this quickly:
    1. Click on the magnifying glass next to the expense report
@@ -199,13 +199,13 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 This highly utilized report will show project resourcing planned and actual hours.
 This report is useful for spotting anomalies such as a terminated employee in the project plan, or a person over-utilized in a project plan, and so on.
 
-![Screenshot of Plans vs Actuals 1](../../images/Plans-vs-Actuals-1.png)
+![Screenshot of Plans vs Actuals 1](../../assets/images/Plans-vs-Actuals-1.png)
 
 1. Reports / Dashboard
 2. Scroll down to Project Reports (Time & Expense Only)
 3. In the Periodic Reports box, select Performance
 
-![Screenshot of Plans vs Actuals 2](../../images/Plans-vs-Actuals-Report-2.png)
+![Screenshot of Plans vs Actuals 2](../../assets/images/Plans-vs-Actuals-Report-2.png)
 
 4. Make sure "Report On:" shows "All Projects I can see"
 5. Enter the project code or project type
@@ -238,7 +238,7 @@ This report will show you the planned utilization of various personnel
 2. Scroll to People Reports section
 3. In the Periodic Reports box, select "Resource Allocation"
 
-![Screenshot of Planned Utilization 1](../../images/Planned-Utilization-1.png)
+![Screenshot of Planned Utilization 1](../../assets/images/Planned-Utilization-1.png)
 
 4. Make sure REPORT ON: is set to "All People I Can See"
 5. Scroll down to REPORTING PERIOD and set to your desired view
@@ -247,7 +247,7 @@ This report will show you the planned utilization of various personnel
 
 6. In NUMBER OF PERIODS set the number of periods you wish to view
 
-![Screenshot of Planned Utilization 2](../../images/Planned-Utilization-2.png)
+![Screenshot of Planned Utilization 2](../../assets/images/Planned-Utilization-2.png)
 
 7. In COLUMN OPTIONS, uncheck "Show People Organizations"
 8. In LEAVE REQUESTS, check "Include Leave Requests"
@@ -259,7 +259,7 @@ This report will show you the planned utilization of various personnel
 9. In BOOKED % COLOR, change the middle line "For % from" to 80
    - The previous line "For % to" will automatically change to 79
 
-![Screenshot of Planned Utilization 3](../../images/Planned-Utilization-3.png)
+![Screenshot of Planned Utilization 3](../../assets/images/Planned-Utilization-3.png)
 
 10. RUN Report
 

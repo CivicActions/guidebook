@@ -48,7 +48,7 @@ For a team member whose time is split between projects, Unanet helps plan how mu
 - Only require the necessary people, make other invitees optional.
 - Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
-![Screenshot of "Find a time" tab when creating a google calendar event](../../images/CivicActions_Calendar_FindTime.png "Finding Available Meeting Time")
+![Screenshot of "Find a time" tab when creating a google calendar event](../../assets/images/CivicActions_Calendar_FindTime.png "Finding Available Meeting Time")
 
 ## Timeboxing
 
@@ -61,7 +61,7 @@ For a team member whose time is split between projects, Unanet helps plan how mu
 - Have a timer handy - either an app or a physical one on your desk
 - Acknowledge when the timebox has expired and make sure folks can stay longer if needed.
 
-![Screenshot of the clock on a Mac computer](../../images/show-seconds.png "Showing seconds")
+![Screenshot of the clock on a Mac computer](../../assets/images/show-seconds.png "Showing seconds")
 
 ## Helping the teams estimate
 

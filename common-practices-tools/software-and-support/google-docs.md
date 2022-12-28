@@ -8,6 +8,6 @@
 - When you create a document, set permissions so "anyone at CivicActions can find and access"
 - Make sure to place documents & files in appropriate project folder instead of it living at your personal My Drive
 
-![Open settings](../../images/sharing1.png "Open settings")
-![Advanced settings](../../images/sharing2.png "Advanced settings")
-![Select Link](../../images/sharing3.png "Select link")
+![Open settings](../../assets/images/sharing1.png "Open settings")
+![Advanced settings](../../assets/images/sharing2.png "Advanced settings")
+![Select Link](../../assets/images/sharing3.png "Select link")

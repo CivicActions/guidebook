@@ -29,9 +29,9 @@
 - Create a Zoom from Slack: type **/zoom** (will need to authorize)
 - Create a Google Meet from Slack: type **/hangout** (will need to authorize the slack app in Meet/Hangout too)
 - You can adjust notification preferences:
-  ![Slack Notifications](../../images/slack-notifications.png)
-- Wrap your text in single asterisks for **bold**, underscores for _italics_, `grave accents` for code, and start the line with a > sign to make it a block quote. Formatting in Slack is similar to Markdown.![Formatting in Slack](../../images/slack-formatting.png "Slack Formatting")
-- To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../images/backticks.png "Wrapping code")
+  ![Slack Notifications](../../assets/images/slack-notifications.png)
+- Wrap your text in single asterisks for **bold**, underscores for _italics_, `grave accents` for code, and start the line with a > sign to make it a block quote. Formatting in Slack is similar to Markdown.![Formatting in Slack](../../assets/images/slack-formatting.png "Slack Formatting")
+- To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../assets/images/backticks.png "Wrapping code")
 
 ## Further Reading
 
