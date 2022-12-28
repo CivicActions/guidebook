@@ -1,6 +1,7 @@
 # General Guidelines for Tools on Project Teams
 
 ## Slack
+
 - We use Slack for casual and/or working chats
 - Slack communications are often asynchronous
 - To notify someone in particular, type @name with your message
@@ -12,6 +13,7 @@
 - Use threading in Slack to keep conversations concise and clear
 
 ## Email
+
 - We prefer Slack over email - generally email is used for communicating with people who are not on Slack, for sending formal deliverables, etc.
 - We use a list (client@civicactions.com) for emails; this list includes everyone on the team (as well as some additional stakeholders and support staff)
 - We recommend keeping emails transparent to the team, e.g., anything that applies to everyone
@@ -20,6 +22,7 @@
 - The expected response time for email messages is within 24 hours
 
 ## Jira
+
 - We track all work (current and planned) in Jira or an equivalent
 - If we are discussing something that needs to be done and there isn't already a Jira ticket, we will create one
 - If we are discussing something in Slack or on a call that does relate to a ticket, we make sure the conversation is recorded in the ticket (even if it's only a copy-paste of the Slack chat)
