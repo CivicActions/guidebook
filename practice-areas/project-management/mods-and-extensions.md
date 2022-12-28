@@ -9,7 +9,7 @@ Contract Modifications (MOD) are required for any change to the original documen
 - deliverables
 - contract amount
 
-Contract Extensions generally involve retaining the contractual language yet adjusting the given dates (e.g., for <b>option terms</b> or <b>option years</b>).
+Contract Extensions generally involve retaining the contractual language yet adjusting the given dates (e.g., for option terms or option years).
 
 ## Contractual changes
 
@@ -24,6 +24,6 @@ If your project requires a MOD or Extension, it is prudent to ensure everyone ag
 - Start with a short summary document which outlines the following:
   - Why the change is required
   - The current contractual language
-  - The proposed contractual language (e.g., from <i>old paragraphs, page numbers, etc.<i> to <i>replacement language matched to old paragraphs, page numbers, etc.<i>
+  - The proposed contractual language (e.g., from old paragraphs, page numbers, etc. to replacement language matched to old paragraphs, page numbers, etc.)
 - Schedule an internal call to review
 - Work with Legal and Sales to confirm language and strategy
