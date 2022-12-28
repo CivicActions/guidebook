@@ -214,7 +214,7 @@
 
 - type: page
   from_url: 050-how-we-work/tools/unanet/
-  to_url: company-policiestimesheets/
+  to_url: company-policies/timesheets/
 
 - type: page
   from_url: 030-policies/annual-review-process/
@@ -493,13 +493,13 @@
   to_url: about-civicactions/diversity-equity-inclusion/deia-get-involved/
 
 - type: page
-  from_url: 070-project-management/pm-unanet-tasks.md
-  to_url: practice-areas/project-management/pm-unanet-tasks.md
+  from_url: 070-project-management/pm-unanet-tasks/
+  to_url: practice-areas/project-management/pm-unanet-tasks/
 
 - type: page
-  from_url: 070-project-management/project-management-checklists.md
-  to_url: practice-areas/project-management/project-management-checklists.md
+  from_url: 070-project-management/project-management-checklists/
+  to_url: practice-areas/project-management/project-management-checklists/
 
 - type: page
-  from_url: 070-project-management/growth-mindset.md
-  to_url: practice-areas/project-management/growth-mindset.md
+  from_url: 070-project-management/growth-mindset/
+  to_url: practice-areas/project-management/growth-mindset/
