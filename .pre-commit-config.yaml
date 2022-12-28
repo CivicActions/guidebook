@@ -33,14 +33,14 @@ repos:
     rev: v1.0.5
     hooks:
       - id: search-and-replace
-        files: docs
+        files: '.*\.md'
         args:
           - "--config=.config/pre-commit-search-and-replace.yaml"
   - repo: https://github.com/codespell-project/codespell
     rev: v2.2.2
     hooks:
       - id: codespell
-        files: docs
+        files: '.*\.md'
         args:
           - "--config=.config/codespellrc"
   - repo: https://github.com/pre-commit/mirrors-prettier

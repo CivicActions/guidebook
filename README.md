@@ -1,25 +1,31 @@
-# EMPLOYEE HANDBOOK
+---
+hide:
+  - navigation
+  - toc
+---
 
-This Handbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+# CivicActions Guidebook
 
-## This is not really the README you are looking for.
-
-The main handbook README is located at [docs/index.md](docs/index.md), which gets synced to readthedocs at <https://handbook.civicactions.com/en/latest/>
+[![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
 
 ## CivicActions, Inc.
 
-3527 Mt. Diablo Blvd., Unit 269
+3527 Mount Diablo Blvd., Unit 269
 Lafayette, CA 94549
 
 510.408.7510 | main
 888.714.7388 | fax
 civicactions.com
 
+### <a name="purpose"></a>Guidebook Purpose
+
+This Guidebook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
+
 ## License
 
 Copyright 2017-2022 CivicActions.
 
-This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](docs/LICENSE.md).
+This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 
 ## Acknowledgements
 
