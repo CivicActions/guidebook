@@ -8,12 +8,12 @@ set -euo pipefail
 tmp_dir=$(mktemp -d -t mkdocs-XXXXXX)
 function finish {
   # Cleanup code here
-  rm -rf .docs "${tmp_dir}"
+  rm -rf "${tmp_dir}"
   echo "cleaned up"
 }
 trap finish EXIT
 
-mkdir -p .docs
-cp -R ./* .docs
+# We leave the symlink in place, in case the user needs to run mkdocs again locally.
+ln -sfT . .docs
 /usr/bin/mkdocs build --config-file=.config/mkdocs.yml --strict --site-dir "${tmp_dir}" 2>&1 | { grep -v '^INFO' || true; }
 echo "mkdocs build successful"
