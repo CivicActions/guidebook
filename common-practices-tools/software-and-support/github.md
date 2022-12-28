@@ -19,7 +19,7 @@ Many CivicActions employees will already have a GitHub account. If you don't hav
 
 ## Setting up Git and a local repository
 
-Unless you are only ever going to be editing a few handbook pages the "easy" way (per [CONTRIBUTING.md](../../000-contributing/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
+Unless you are only ever going to be editing a few handbook pages the "easy" way (per [CONTRIBUTING.md](../../about-this-guidebook/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
 
 If you'd prefer not to use command-line tools, you may want to use GitHub Desktop: <https://desktop.github.com/>.
 
@@ -29,7 +29,7 @@ Many projects will have special requirements for local repositories, especially 
 
 We use GitHub Teams functionality for two purposes:
 
-1.  Managing access to the Handbook to all [CivicActions Team](https://github.com/orgs/CivicActions/teams/civicactions-team) members, and [managing control over subdirectories](../../000-contributing/docs-governance.md) in the Handbook by [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
+1.  Managing access to the Handbook to all [CivicActions Team](https://github.com/orgs/CivicActions/teams/civicactions-team) members, and [managing control over subdirectories](../../about-this-guidebook/guidebook-governance.md) in the Handbook by [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
 2.  Managing groups of collaborators that share the same access to more than one repo.
 
 You don't need to create a GitHub team unless that team has special access to more than one repo.

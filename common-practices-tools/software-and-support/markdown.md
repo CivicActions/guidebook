@@ -17,4 +17,4 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## Handbook
 
-The CivicActions handbook is written in markdown. You can find more information about that on this [handbook Markdown page](../../000-contributing/markdown.md).
+The CivicActions handbook is written in markdown. You can find more information about that on this [handbook Markdown page](../../about-this-guidebook/markdown-for-guidebook.md).

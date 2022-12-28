@@ -19,7 +19,7 @@ Team members should report the data in good faith and to the best of their knowl
 
 ## Getting Started
 
-To log in to Skills Base use the Google Apps icon ![Google Apps icon](../../images/gsuite.png) in the header of any CivicActions Google page then scroll down and click on the Skills Base icon. You can also access this through the [Google Workspace dashboard](https://workspace.google.com/dashboard).
+To log in to Skills Base use the Google Apps icon ![Google Apps icon](../images/gsuite.png) in the header of any CivicActions Google page then scroll down and click on the Skills Base icon. You can also access this through the [Google Workspace dashboard](https://workspace.google.com/dashboard).
 
 When you first log in you will need to go through a short onboarding:
 
@@ -29,7 +29,7 @@ When you first log in you will need to go through a short onboarding:
 
 Notes:
 
-- If you normally work in more than one of the teams listed, or have significant skills outside those of your primary team then open a [support ticket](../support.md#to-request-support) to request those be added to your user.
+- If you normally work in more than one of the teams listed, or have significant skills outside those of your primary team then open a [support ticket](../050-how-we-work/support.md#to-request-support#to-request-support) to request those be added to your user.
 - If you work in an internal department select the "CivicActions" team.
 
 Next, you will need to take an initial self-assessment - this typically takes around 30 minutes, depending on the number of skills your team tracks.

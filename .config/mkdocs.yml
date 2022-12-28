@@ -37,148 +37,148 @@ extra_javascript:
 nav:
   - Home: README.md
   - About CivicActions:
-      - Mission and values: 020-about-us/mission-values.md
-      - Culture: 020-about-us/culture.md
+      - Mission and values: about-civicactions/mission-values.md
+      - Culture: about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
-          - DEIA at CivicActions: 050-how-we-work/diversity-equity-inclusion/purpose.md
-          - Defining DEIA: 050-how-we-work/diversity-equity-inclusion/defining-dei.md
-          - Affinity channels: 050-how-we-work/diversity-equity-inclusion/affinity-channels.md
-          - DEIA - Get involved: 050-how-we-work/diversity-equity-inclusion/deia-get-involved.md
-          - Resources: 050-how-we-work/diversity-equity-inclusion/resources.md
+          - DEIA at CivicActions: about-civicactions/diversity-equity-inclusion/purpose.md
+          - Defining DEIA: about-civicactions/diversity-equity-inclusion/defining-dei.md
+          - Affinity channels: about-civicactions/diversity-equity-inclusion/affinity-channels.md
+          - DEIA - Get involved: about-civicactions/diversity-equity-inclusion/deia-get-involved.md
+          - Resources: about-civicactions/diversity-equity-inclusion/resources.md
       - Our structure:
-          - Departments, projects, practice areas, and pods: 050-how-we-work/organization.md
-          - Organizational structure: 020-about-us/org-structure.md
-          - Management team: 050-how-we-work/management-ops.md
-      - Background and history: 020-about-us/background-and-history.md
-      - Our annual summit: 030-policies/annual-retreat.md
+          - Departments, projects, practice areas, and pods: about-civicactions/our-structurehow-we-are-organized.md
+          - Organizational structure: about-civicactions/our-structureorg-structure.md
+          - Management team: about-civicactions/our-structuremanagement-ops.md
+      - Background and history: about-civicactions/background-and-history.md
+      - Our annual summit: about-civicactions/annual-summit.md
   - Employee benefits:
-      - Benefits policy (US employees): 040-employee-handbook-us/benefits-and-holidays.md
-      - Compensation (US employees): 040-employee-handbook-us/compensation.md
-      - Technology stipend policy (US employees): 040-employee-handbook-us/tech-stipend.md
-      - Benefits policy (Canadian employees): 045-employee-handbook-ca/benefits-and-holidays.md
-      - Technology stipend (Canadian employees): 045-employee-handbook-ca/tech-stipend.md
-      - Professional development: 030-policies/prodev.md
-      - Employee referral bonus program: 030-policies/employee-referral-bonus.md
-      - On-call stipends: 030-policies/on-call-stipend.md
+      - Benefits policy (US employees): employee-benefits/us-benefits-policy.md
+      - Compensation (US employees): employee-benefits/us-compensation.md
+      - Technology stipend policy (US employees): employee-benefits/us-tech-stipend.md
+      - Benefits policy (Canadian employees): employee-benefits/canada-benefits-policy.md
+      - Technology stipend (Canadian employees): employee-benefits/canada-tech-stipend.md
+      - Professional development: employee-benefits/professional-development.md
+      - Employee referral bonus program: employee-benefits/employee-referral-bonus.md
+      - On-call stipends: employee-benefits/on-call-stipend.md
   - Company policies:
-      - Expenses: 030-policies/expenses.md
-      - Travel expenses and billing: 030-policies/travel-101.md
-      - Timesheets (Unanet): 050-how-we-work/tools/unanet.md
-      - Security Policy: 030-policies/security.md
+      - Expenses: company-policies/expenses.md
+      - Travel expenses and billing: company-policies/travel-time-tracking-and-expenses.md
+      - Timesheets (Unanet): company-policies/timesheets.md
+      - Security Policy: company-policies/security.md
       - Employment policies (US employees):
-          - Employment: 040-employee-handbook-us/employment.md
-          - Introductory period: 040-employee-handbook-us/introductory-period.md
-          - Anti-harassment: 040-employee-handbook-us/anti-harassment-policies.md
-          - Covid 19 safety: 040-employee-handbook-us/covid19safety.md
-      - Code of conduct: 030-policies/code-of-conduct.md
-      - Workplace guidelines: 030-policies/workplace-guidelines.md
-      - Annual performance review: 030-policies/annual-review-process.md
-      - Performance management: 030-policies/performance-management.md
-      - Leaving Civicactions: 030-policies/leaving-civicactions.md
-      - Health, Safety and Security Policy: 030-policies/health-safety-security.md
+          - Employment: company-policies/employment/us/employment.md
+          - Introductory period: company-policies/employment/us/introductory-period.md
+          - Anti-harassment: company-policies/anti-harassment-policies.md
+          - Covid 19 safety: company-policies/covid19-safety.md
+      - Code of conduct: company-policies/code-of-conduct.md
+      - Workplace guidelines: company-policies/employment/workplace-guidelines.md
+      - Annual performance review: company-policies/annual-review-process.md
+      - Performance management: company-policies/performance-management.md
+      - Leaving Civicactions: company-policies/employment/leaving-civicactions.md
+      - Health, Safety and Security Policy: company-policies/health-safety-security.md
       - New hire orientation:
-          - Welcome to CivicActions!: 010-welcome-to-civicactions/welcome.md
-          - Buddy program: 010-welcome-to-civicactions/training/buddy-program.md
-          - Elevator pitch: 020-about-us/elevator-pitch.md
-          - Free and open source software (FOSS): 010-welcome-to-civicactions/training/intro-open-source.md
-          - Meetings and meeting tools: 010-welcome-to-civicactions/training/meetings-and-meeting-tools.md
-          - People planning: 010-welcome-to-civicactions/training/people-planning.md
-          - Security for everyone: 010-welcome-to-civicactions/training/security-training.md
-          - Training resources: 050-how-we-work/training-resources.md
-          - Video call best practices: 050-how-we-work/video-call-best-practices.md
-          - Virtual workplace basics: 050-how-we-work/virtual-workplace-basics.md
+          - Welcome to CivicActions!: company-policies/new-hire-orientation/welcome.md
+          - Buddy program: company-policies/new-hire-orientation/buddy-program.md
+          - Elevator pitch: company-policies/new-hire-orientation/elevator-pitch.md
+          - Free and open source software (FOSS): company-policies/new-hire-orientation/intro-open-source.md
+          - Meetings and meeting tools: company-policies/new-hire-orientation/meetings-and-meeting-tools.md
+          - People planning: company-policies/new-hire-orientation/people-planning.md
+          - Security for everyone: company-policies/new-hire-orientation/security-training.md
+          - Training resources: company-policies/new-hire-orientation/training-resources.md
+          - Video call best practices: company-policies/new-hire-orientation/video-call-best-practices.md
+          - Virtual workplace basics: company-policies/new-hire-orientation/virtual-workplace-basics.md
   - Common practices and tools:
       - Agile:
-          - Agile overview: 050-how-we-work/agile-overview.md
-          - Agile practice: 050-how-we-work/agile-practices/README.md
-          - Backlog refinement: 050-how-we-work/agile-practices/backlog-refinement.md
-          - Daily scrum calls: 050-how-we-work/agile-practices/daily-scrum-calls.md
-          - How to create tickets: 050-how-we-work/tools/tickets-cards.md
-          - Sprint cycle: 050-how-we-work/agile-practices/sprint-cycle.md
-          - Sprint demo: 050-how-we-work/agile-practices/sprint-demo.md
-          - Sprint planning meetings: 050-how-we-work/agile-practices/sprint-planning-meetings.md
-          - Sprint retrospectives: 050-how-we-work/agile-practices/sprint-retrospectives.md
-      - Balance scores: 050-how-we-work/balance-scores.md
-      - Gold Star Program: 050-how-we-work/gold-star-program.md
+          - Agile overview: common-practices-tools/agile/agile-overview.md
+          - Agile practice: common-practices-tools/agile/agile-practices.md
+          - Backlog refinement: common-practices-tools/agile/backlog-refinement.md
+          - Daily scrum calls: common-practices-tools/agile/daily-scrum-calls.md
+          - How to create tickets: common-practices-tools/agile/tickets-cards.md
+          - Sprint cycle: common-practices-tools/agile/sprint-cycle.md
+          - Sprint demo: common-practices-tools/agile/sprint-demo.md
+          - Sprint planning meetings: common-practices-tools/agile/sprint-planning-meetings.md
+          - Sprint retrospectives: common-practices-tools/agile/sprint-retrospectives.md
+      - Balance scores: common-practices-tools/balance-scores.md
+      - Gold Star Program: common-practices-tools/gold-star-program.md
       - Security awareness and tools:
-          - Awareness and tools: 100-security/awareness.md
+          - Awareness and tools: common-practices-tools/security/awareness.md
           - Setting up and using Yubikey:
-              - 100-security/yubikey/README.md
-              - Yubikey and Linux: 100-security/yubikey/linux.md
-              - Yubikey and Mac OS: 100-security/yubikey/macosx.md
-          - Drupal RMF support: 100-security/drupal-rmf-support.md
-          - Encryption: 100-security/encryption.md
+              - common-practices-tools/security/yubikey/README.md
+              - Yubikey and Linux: common-practices-tools/security/yubikey/linux.md
+              - Yubikey and Mac OS: common-practices-tools/security/yubikey/macosx.md
+          - Drupal RMF support: common-practices-tools/security/drupal-rmf-support.md
+          - Encryption: common-practices-tools/security/encryption.md
           - Incidents:
-              - Contingency plan: 100-security/contingency-plan.md
-              - Incident response checklist: 100-security/incident-response-checklist.md
-              - Incident response plan: 100-security/incident-response-plan.md
-              - Security incidents: 100-security/incidents.md
-      - Skills Base: 050-how-we-work/tools/skills-base.md
+              - Contingency plan: common-practices-tools/security/contingency-plan.md
+              - Incident response checklist: common-practices-tools/security/incident-response-checklist.md
+              - Incident response plan: common-practices-tools/security/incident-response-plan.md
+              - Security incidents: common-practices-tools/security/incidents.md
+      - Skills Base: common-practices-tools/skills-base.md
       - Software and support:
-          - Internal technical support: 050-how-we-work/support.md
-          - Bookmarks: 050-how-we-work/bookmarks.md
-          - Email: 050-how-we-work/tools/email.md
-          - General contacts and listservs: 020-about-us/general-contacts-and-listservs.md
-          - Github: 050-how-we-work/tools/github.md
-          - Google Calendar: 050-how-we-work/tools/google-calendar.md
-          - Google Docs: 050-how-we-work/tools/google-docs.md
-          - Google Meet: 050-how-we-work/tools/google-hangouts.md
-          - Jira: 050-how-we-work/tools/jira.md
-          - Markdown: 050-how-we-work/tools/markdown.md
-          - Slack: 050-how-we-work/tools/slack.md
-          - Text editors: 050-how-we-work/tools/text-editors.md
-          - Trello: 050-how-we-work/tools/trello.md
-          - Zoom: 050-how-we-work/tools/zoom.md
-      - Telephone use: 050-how-we-work/tools/telephone.md
+          - Internal technical support: common-practices-tools/software-and-support/support.md
+          - Bookmarks: company-policies/new-hire-orientation/bookmarks.md
+          - Email: common-practices-tools/software-and-support/email.md
+          - General contacts and listservs: common-practices-tools/software-and-support/general-contacts-and-listservs.md
+          - Github: common-practices-tools/software-and-support/github.md
+          - Google Calendar: common-practices-tools/software-and-support/google-calendar.md
+          - Google Docs: common-practices-tools/software-and-support/google-docs.md
+          - Google Meet: common-practices-tools/software-and-support/google-meet.md
+          - Jira: common-practices-tools/software-and-support/jira.md
+          - Markdown: common-practices-tools/software-and-support/markdown.md
+          - Slack: common-practices-tools/software-and-support/slack.md
+          - Text editors: common-practices-tools/software-and-support/text-editors.md
+          - Trello: common-practices-tools/software-and-support/trello.md
+          - Zoom: common-practices-tools/software-and-support/zoom.md
+      - Telephone use: common-practices-tools/telephone.md
   - Practice areas:
-      - About practice areas: 050-how-we-work/practice-areas/README.md
-      - Accessibility practice area: 050-how-we-work/practice-areas/accessibility-practice-area.md
+      - About practice areas: practice-areas/about-practice-areas.md
+      - Accessibility practice area: practice-areas/accessibility-practice-area.md
       - Design and research:
-          - Audience and outcomes guide: 110-ux/services/research/audiences-and-outcomes-guide.md
-          - Content audit guide: 110-ux/services/research/content-audit-guide.md
-          - Content modeling guide: 110-ux/services/design/content-modeling-guide.md
-          - Stakeholder interviews guide: 110-ux/services/research/stakeholder-interviews-guide.md
-          - Story mapping guide: 110-ux/services/research/story-mapping-guide.md
-          - Usability testing guide: 110-ux/services/research/usability-testing-guide.md
-          - User personas guide: 110-ux/services/research/user-personas-guide.md
+          - Audience and outcomes guide: practice-areas/design-and-research/audiences-and-outcomes-guide.md
+          - Content audit guide: practice-areas/design-and-research/content-audit-guide.md
+          - Content modeling guide: practice-areas/design-and-research/content-modeling-guide.md
+          - Stakeholder interviews guide: practice-areas/design-and-research/stakeholder-interviews-guide.md
+          - Story mapping guide: practice-areas/design-and-research/story-mapping-guide.md
+          - Usability testing guide: practice-areas/design-and-research/usability-testing-guide.md
+          - User personas guide: practice-areas/design-and-research/user-personas-guide.md
       - Engineering:
-          - Engineering calls: 060-engineering/README.md
-          - Accessibility: 060-engineering/accessibility.md
-          - Drupal practice area: 050-how-we-work/practice-areas/drupal-practice-area.md
-          - Drupal - contributed vs. custom development: 060-engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
-          - Drupal developer tips for getting the most out of open source: 060-engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
-          - Git: 060-engineering/git.md
-          - Security and compliance: 060-engineering/security-compliance.md
-          - Tech Lead (TL) project role description: 060-engineering/tech-lead.md
+          - Engineering calls: practice-areas/engineering/engineering-calls.md
+          - Accessibility: practice-areas/engineering/accessibility.md
+          - Drupal practice area: practice-areas/engineering/drupal-practice-area.md
+          - Drupal - contributed vs. custom development: practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+          - Drupal developer tips for getting the most out of open source: practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
+          - Git: practice-areas/engineering/git.md
+          - Security and compliance: practice-areas/engineering/security-compliance.md
+          - Tech Lead (TL) project role description: practice-areas/engineering/tech-lead.md
       - Help desk:
-          - Help desk support: 120-help-desk/helpdesk.md
-          - Project support and Agile: 120-help-desk/help-desk-agile.md
-          - Help desk working practices: 120-help-desk/working-practices.md
+          - Help desk support: practice-areas/help-desk/helpdesk.md
+          - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
+          - Help desk working practices: practice-areas/help-desk/working-practices.md
       - Project management:
-          - Project manager role: 070-project-management/pm-role.md
-          - Guidelines for starting a new project: 070-project-management/starting-new-project.md
-          - Invoicing: 070-project-management/invoicing.md
-          - Onboarding a new project team member: 070-project-management/onboarding-new-project-team-member.md
-          - When your project gets a contractual Modification (MOD) or Extension: 070-project-management/mods-and-extentions.md
-          - Tracking contract expirations and renewals: 070-project-management/contract-expiration-tracking.md
-          - Tracking contractual requirements: 070-project-management/contractual-requirements.md
-          - Conflict resolution and growth mindset: 070-project-management/growth-mindset.md
-          - Leave Requests and Stepping Away: 070-project-management/leave-requests-and-stepping-away.md
-          - Having the hard conversations: 070-project-management/hard-conversations.md
-          - Listserv setup: 070-project-management/listserv-setup.md
-          - Offboarding a team member from a project: 070-project-management/project-offboarding.md
-          - Planning travel and onsite meetings: 070-project-management/planning-onsite-meetings.md
-          - Project calendar: 070-project-management/project-calendar.md
-          - Project folder structure: 070-project-management/project-folder.md
-          - Project Manager templates: 070-project-management/templates.md
-          - Project Manager training: 070-project-management/pm-training.md
-          - Project Management Unanet Tasks and Training Material: 070-project-management/pm-unanet-tasks.md
-          - Project Management Checklists: 070-project-management/project-management-checklists.md
+          - Project manager role: practice-areas/project-management/pm-role.md
+          - Guidelines for starting a new project: practice-areas/project-management/starting-new-project.md
+          - Invoicing: practice-areas/project-management/invoicing.md
+          - Onboarding a new project team member: practice-areas/project-management/onboarding-new-project-team-member.md
+          - When your project gets a contractual Modification (MOD) or Extension: practice-areas/project-management/mods-and-extensions.md
+          - Tracking contract expirations and renewals: practice-areas/project-management/contract-expiration-tracking.md
+          - Tracking contractual requirements: practice-areas/project-management/contractual-requirements.md
+          - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
+          - Time off request and approval process: practice-areas/project-management/pto-request-approval-process.md
+          - Having the hard conversations: practice-areas/project-management/hard-conversations.md
+          - Listserv setup: practice-areas/project-management/listserv-setup.md
+          - Offboarding a team member from a project: practice-areas/project-management/project-offboarding.md
+          - Planning travel and onsite meetings: practice-areas/project-management/planning-onsite-meetings.md
+          - Project calendar: practice-areas/project-management/project-calendar.md
+          - Project folder structure: practice-areas/project-management/project-folder.md
+          - Project Manager templates: practice-areas/project-management/templates.md
+          - Project Manager training: practice-areas/project-management/pm-training.md
+          - Project Management Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
+          - Project Management Checklists: practice-areas/project-management/project-management-checklists.md
   - About this guidebook:
-      - How and when to contribute to the guidebook: 000-contributing/README.md
-      - Git workflow: 000-contributing/git-workflow.md
-      - GitHub actions: 000-contributing/github-actions.md
-      - Guidebook governance: 000-contributing/docs-governance.md
-      - Guidebook writing style: 000-contributing/writing-style-guide.md
-      - Markdown: 000-contributing/markdown.md
+      - How and when to contribute to the guidebook: about-this-guidebook/README.md
+      - Git workflow: about-this-guidebook/git-workflow.md
+      - GitHub actions: about-this-guidebook/github-actions.md
+      - Guidebook governance: about-this-guidebook/guidebook-governance.md
+      - Guidebook writing style: about-this-guidebook/writing-style-guide.md
+      - Markdown: about-this-guidebook/markdown-for-guidebook.md
       - License: LICENSE.md

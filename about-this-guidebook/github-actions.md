@@ -2,7 +2,7 @@
 
 GitHub Actions CI is a hosted, distributed continuous integration service used to build and test projects hosted at GitHub. Actions automatically detects when a commit has been made and pushed to a GitHub repository, and each time this happens, it will try to build the project and run tests.
 
-Every time a pull request is made to the handbook repo, or when a commit is merged, GitHub CI will run tests to ensure that commit complies with certain standards. For now, it is primarily concerned with our [markdown](markdown.md) syntax, and will "fail" if there are errors as specified in the .remarkrc.error file in the root directory of this repo.
+Every time a pull request is made to the handbook repo, or when a commit is merged, GitHub CI will run tests to ensure that commit complies with certain standards. For now, it is primarily concerned with our [markdown](markdown-for-guidebook.md) syntax, and will "fail" if there are errors as specified in the .remarkrc.error file in the root directory of this repo.
 
 ## What to do if your a build fails
 

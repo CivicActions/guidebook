@@ -12,7 +12,7 @@ These teams are listed on GitHub as [subteams](https://github.com/orgs/CivicActi
 
 | **Directory in `docs/`**                                        | **Subteam (Working group / Practice Area)**                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [`000-contributing`](../000-contributing/)                      | [Docs](https://github.com/orgs/CivicActions/teams/docs/members)                |
+| [`000-contributing`](../000-contributing)                       | [Docs](https://github.com/orgs/CivicActions/teams/docs/members)                |
 | [`010-welcome-to-civicactions`](../010-welcome-to-civicactions) | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
 | [`020-about-us`](../020-about-us)                               | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
 | [`030-policies`](../030-policies)                               | [Management](https://github.com/orgs/CivicActions/teams/management/members)    |

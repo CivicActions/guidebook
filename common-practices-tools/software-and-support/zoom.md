@@ -16,7 +16,7 @@ Paid accounts are available for those who need them regularly (once a week or so
 
 ## Video Call Best Practices
 
-See [Video Call Best Practices](../video-call-best-practices.md) for details.
+See [Video Call Best Practices](../../company-policies/new-hire-orientation/video-call-best-practices.md) for details.
 
 ## Zoom Accessibility
 

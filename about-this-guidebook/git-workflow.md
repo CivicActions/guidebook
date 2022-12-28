@@ -10,9 +10,9 @@ In this project, The "master" branch is the active branch, with the latest, appr
 
 We recommend this approach for those who are not already familiar with the Git workflow, and who do not have tools for keeping their GitHub forks up to date.
 
-You'll need a GitHub account, and to be added to the CivicActions Team ([instructions are here](../050-how-we-work/tools/github.md)).
+You'll need a GitHub account, and to be added to the CivicActions Team ([instructions are here](../common-practices-tools/software-and-support/github.md)).
 
-Go to a page, click edit, and make your changes, using [markdown](markdown.md). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
+Go to a page, click edit, and make your changes, using [markdown](markdown-for-guidebook.md). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
 When you save it ("make a commit"), there are three fields to fill out. _All of these are optional_, with default values, and in most cases it's fine to leave the defaults.
 
@@ -51,13 +51,13 @@ Resources:
 
 ## Assignment of pull requests
 
-Your PR will automatically be assigned to a team for a review, based on which part of the handbook you are editing. That automatic review assignment is explained in [docs-governance.md](docs-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
+Your PR will automatically be assigned to a team for a review, based on which part of the handbook you are editing. That automatic review assignment is explained in [guidebook-governance.md](guidebook-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
 
 ## How to review and merge pull requests
 
 Each pull request must be reviewed by at least one other CivicActions employee before it can be merged.
 
-Any CivicActions employee with GitHub account, who has been added to the CivicActions Team ([instructions are here](../050-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any CivicActions employee with GitHub account, who has been added to the CivicActions Team ([instructions are here](../common-practices-tools/software-and-support/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 

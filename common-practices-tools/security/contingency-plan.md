@@ -39,7 +39,7 @@ This Contingency Plan provides baseline guidance for the CivicActions Team when 
 - 30 minutes 0900 - 2100 Eastern Time Monday through Friday (standard U.S. business hours)
 - 90 minutes at other times
 
-Scenarios where that could happen include unexpected downtime of key services, system data loss, or improper privilege escalation. In the case of a security incident, the team uses the [Security Incident Response Plan](incident-response-plan.md) as well.
+Scenarios where that could happen include unexpected downtime of key services, system data loss, or improper privilege escalation. In the case of a security incident, the team uses the [Security Incident Response Plan](incidentsincidentsincident-response-plan.md) as well.
 
 Some clients will create and maintain a Contingency Plan defining procedures specific to their system. In such a case, the client-specific Contingency Plan takes precedence.
 
@@ -63,7 +63,7 @@ Team contact information is available in the Google Drive:
 
 The first Incident Response Team member who notices or reports a potential contingency-plan-level problem becomes the **Incident Commander** (IC) until recovery efforts are complete or the Incident Commander role is explicitly reassigned.
 
-If the problem is identified as part of a [security incident response situation](incident-response-plan.md) (or becomes a security incident response situation), the same Incident Commander (IC) should handle the overall situation, since these response processes must be coordinated.
+If the problem is identified as part of a [security incident response situation](incidentsincidentsincident-response-plan.md) (or becomes a security incident response situation), the same Incident Commander (IC) should handle the overall situation, since these response processes must be coordinated.
 
 The IC first notifies and coordinates with the people who are authorized to decide that the system is in a contingency plan situation:
 
@@ -75,13 +75,13 @@ The IC first notifies and coordinates with the people who are authorized to deci
   - Product Owner
   - Users, when applicable
 
-The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
+The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incidentsincidents../../100-security/incident-response-plan.md#3-initiate-the-response#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
 
 ### Recovery
 
 The Incident Response Team assesses the situation and works to recover the system. See the list of [external dependencies](#external-dependencies) for procedures for recovery from problems with external services.
 
-If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#4-assess-the-incident) and [remediation](incident-response-plan.md#5-remediate) processes.
+If this is also a security incident, the IC also follows the [security incident assessment](incidentsincidents../../100-security/incident-response-plan.md#4-assess-the-incident#4-assess-the-incident) and [remediation](incidentsincidents../../100-security/incident-response-plan.md#5-remediate#5-remediate) processes.
 
 If the IC assesses that the overall response process is likely to last longer than 3 hours, the IC should organize shifts so that each responder works on response for no longer than 3 hours at a time, including handing off their own responsibility to a new IC after 3 hours.
 
@@ -89,7 +89,7 @@ If the IC assesses that the overall response process is likely to last longer th
 
 The Incident Response Team tests and validates the system as operational.
 
-The Incident Commander declares that recovery efforts are complete and notifies all relevant people. The last step is to schedule a postmortem to discuss the event. This is the same as the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective).
+The Incident Commander declares that recovery efforts are complete and notifies all relevant people. The last step is to schedule a postmortem to discuss the event. This is the same as the [security incident retrospective process](incidentsincidents../../100-security/incident-response-plan.md#conducting-a-retrospective#conducting-a-retrospective).
 
 ## External dependencies
 

@@ -1,17 +1,17 @@
 # Security Awareness and Tools
 
-This is an appendix to the [CivicActions Security Policy](../030-policies/security.md) containing details that can and should be updated regularly as new technologies or patterns of use develop, with a goal of providing team members the best tools with which to maintain the security of company confidential and personal information.
+This is an appendix to the [CivicActions Security Policy](../../company-policies/security.md) containing details that can and should be updated regularly as new technologies or patterns of use develop, with a goal of providing team members the best tools with which to maintain the security of company confidential and personal information.
 
 _This is currently - and probably always will be - a work in progress. Pull Requests welcome._
 
 ## Securing your Laptop
 
-The operating system and software applications on your laptop - and all computers, phones, tablets, etc. in your house - should be kept up to date with new versions and security patches that ensure it presents a minimal attack surface to potential adversaries. (This is mentioned in the [Security Policy](../030-policies/security.md) but is worth repeating.)
+The operating system and software applications on your laptop - and all computers, phones, tablets, etc. in your house - should be kept up to date with new versions and security patches that ensure it presents a minimal attack surface to potential adversaries. (This is mentioned in the [Security Policy](../../company-policies/security.md) but is worth repeating.)
 
 Additionally, your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time.
 
-- [GNU/Linux specific instructions](./yubikey/linux.md#screen-lock-when-idle-or-lid-closed-x-server)
-- [Mac OS X specific instructions](./yubikey/macosx.md#screen-lock-on-lid-close-or-idle)
+- [GNU/Linux specific instructions](../../100-security/yubikey/linux.md#screen-lock-when-idle-or-lid-closed-x-server#screen-lock-when-idle-or-lid-closed-x-server)
+- [Mac OS X specific instructions](../../100-security/yubikey/macosx.md#screen-lock-on-lid-close-or-idle#screen-lock-on-lid-close-or-idle)
 
 ## Password Management Tools
 
@@ -186,4 +186,4 @@ More information and resources:
 
 CivicActions believes that your privacy is a right, and that private communications can be beneficial to business. Here's some tips on how FOSS can help:
 
-- [Protecting Your Privacy with Encryption](./encryption.md)
+- [Protecting Your Privacy with Encryption](encryption.md)

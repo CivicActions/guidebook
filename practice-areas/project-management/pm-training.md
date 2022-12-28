@@ -48,7 +48,7 @@ For a team member whose time is split between projects, Unanet helps plan how mu
 - Only require the necessary people, make other invitees optional.
 - Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
-![Screenshot of "Find a time" tab when creating a google calendar event](../images/CivicActions_Calendar_FindTime.png "Finding Available Meeting Time")
+![Screenshot of "Find a time" tab when creating a google calendar event](../../images/CivicActions_Calendar_FindTime.png "Finding Available Meeting Time")
 
 ## Timeboxing
 
@@ -61,7 +61,7 @@ For a team member whose time is split between projects, Unanet helps plan how mu
 - Have a timer handy - either an app or a physical one on your desk
 - Acknowledge when the timebox has expired and make sure folks can stay longer if needed.
 
-![Screenshot of the clock on a Mac computer](../images/show-seconds.png "Showing seconds")
+![Screenshot of the clock on a Mac computer](../../images/show-seconds.png "Showing seconds")
 
 ## Helping the teams estimate
 
@@ -92,9 +92,9 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 ## PM Tools
 
 - [Unanet](https://civicactions.unanet.biz)
-- [Jira](../050-how-we-work/tools/jira.md)
-- [Trello](../050-how-we-work/tools/trello.md)
-- [GitHub](../050-how-we-work/tools/github.md)
+- [Jira](../../common-practices-tools/software-and-support/jira.md)
+- [Trello](../../common-practices-tools/software-and-support/trello.md)
+- [GitHub](../../common-practices-tools/software-and-support/github.md)
 - Burndown charts
-- [Google Docs/Folders](../050-how-we-work/tools/google-docs.md)
-- [Slack](../050-how-we-work/tools/slack.md) (client-facing and internal channels)
+- [Google Docs/Folders](../../common-practices-tools/software-and-support/google-docs.md)
+- [Slack](../../common-practices-tools/software-and-support/slack.md) (client-facing and internal channels)

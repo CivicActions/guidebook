@@ -20,7 +20,7 @@ While Zoom is our default video meeting service, there are a few use cases for u
 
 ## Video Call Best Practices
 
-See [Video Call Best Practices](../video-call-best-practices.md) for details.
+See [Video Call Best Practices](../../company-policies/new-hire-orientation/video-call-best-practices.md) for details.
 
 ## Google Meet Accessibility
 

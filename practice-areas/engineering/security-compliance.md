@@ -2,11 +2,11 @@
 
 ## Security Policy
 
-All engineers understand and abide by the [CivicActions Employee/Contractor Security Policy](../030-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../010-welcome-to-civicactions/training/security-training.md).
+All engineers understand and abide by the [CivicActions Employee/Contractor Security Policy](../../company-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../../company-policies/new-hire-orientation/security-training.md).
 
 In particular:
 
-- We practice [Server & Site Security](../030-policies/security.md#server--site-security)
+- We practice [Server & Site Security](../../company-policies/security.md#server--site-security)
   - using only sanitized databases
   - taking care to not install restricted access files on development or personal instances outside the project defined security accreditation boundary
   - and scrubbing unneeded data from our development systems

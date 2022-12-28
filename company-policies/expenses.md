@@ -10,7 +10,7 @@ CivicActions will timely reimburse approved business-related out-of-pocket expen
 ## Request approval for an expense
 
 <!-- prettier-ignore -->
-_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](prodev.md#your-prodev-budget), which do not require approval.
+_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](../030-policies/prodev.md#your-prodev-budget#your-prodev-budget), which do not require approval.
 
 ## To request approval in Unanet
 
@@ -48,4 +48,4 @@ IMPORTANT NOTE: when your expense Request is approved, Unanet automatically chan
 
 ### Travel expenses
 
-See [Travel 101](travel-101.md) for more details on travel expenses, whether for billable or non-billable work.
+See [Travel 101](travel-time-tracking-and-expenses.md) for more details on travel expenses, whether for billable or non-billable work.

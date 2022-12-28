@@ -12,7 +12,7 @@ Our weekly AHC includes everyone across CivicActions, and it's how the team diss
 
 ### AHC Overview
 
-- We use Zoom for this - see [more about Zoom](../../050-how-we-work/tools/zoom.md)
+- We use Zoom for this - see [more about Zoom](../../common-practices-tools/software-and-support/zoom.md)
 - Everyone on team is encouraged to join
 - Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 - Meetings occur frequently as listed below
@@ -41,12 +41,12 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 
 ## Project Specific Meetings
 
-- [Daily Scrum Call](../../050-how-we-work/agile-practices/daily-scrum-calls.md)
-- [Sprint Planning Meeting](../../050-how-we-work/agile-practices/sprint-planning-meetings.md)
-- [Backlog Refinement](../../050-how-we-work/agile-practices/backlog-refinement.md)
-- [Sprint Demo](../../050-how-we-work/agile-practices/sprint-demo.md)
-- [Sprint Retrospective](../../050-how-we-work/agile-practices/sprint-retrospectives.md)
+- [Daily Scrum Call](../../common-practices-tools/agile/daily-scrum-calls.md)
+- [Sprint Planning Meeting](../../common-practices-tools/agile/sprint-planning-meetings.md)
+- [Backlog Refinement](../../common-practices-tools/agile/backlog-refinement.md)
+- [Sprint Demo](../../common-practices-tools/agile/sprint-demo.md)
+- [Sprint Retrospective](../../common-practices-tools/agile/sprint-retrospectives.md)
 
 ## Practice Area Meetings
 
-These meetings happen at regular intervals, and you will receive invitations for the ones most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../050-how-we-work/practice-areas/README.md).
+These meetings happen at regular intervals, and you will receive invitations for the ones most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../practice-areas/about-practice-areas.md).

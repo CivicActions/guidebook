@@ -10,8 +10,8 @@ There are topics in this document that require more detail on how we implement p
 
 ### Learn more about CivicActions
 
-- [Mission and Values](../020-about-us/mission-values.md)
-- [Background and History](../020-about-us/background-and-history.md)
+- [Mission and Values](../../about-civicactions/mission-values.md)
+- [Background and History](../../about-civicactions/background-and-history.md)
 
 ## Onboarding Process
 
@@ -22,7 +22,7 @@ Welcome aboard! As part of the new employee onboarding process, we created an on
 ### General
 
 - [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
-- [Bookmarks](../050-how-we-work/bookmarks.md) (websites and tools we use regularly)
+- [Bookmarks](bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources
 

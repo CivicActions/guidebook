@@ -1,6 +1,6 @@
 # CivicActions Security Incident Response Procedure Checklist
 
-For more details on any part of the checklist, see the [Security Incident Response Plan](incident-response-plan.md).
+For more details on any part of the checklist, see the [Security Incident Response Plan](incidentsincident-response-plan.md).
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ No one's life is in danger.
 
 ## 2. Start documenting
 
-Begin documenting all steps and findings. Documentation makes handoffs and responder onboarding easier. The Slack channel [#general](https://civicactions.slack.com/messages/general/), or a Project-specific Slack channel if applicable, is recommended because it is most widely accessible, but other [communication channels](incident-response-plan.md#communication-channels) may be used.
+Begin documenting all steps and findings. Documentation makes handoffs and responder onboarding easier. The Slack channel [#general](https://civicactions.slack.com/messages/general/), or a Project-specific Slack channel if applicable, is recommended because it is most widely accessible, but other [communication channels](incidents../../100-security/../../100-security/../../100-security/incident-response-plan.md#communication-channels#communication-channels#communication-channels#communication-channels) may be used.
 
 ## 3. Initiate the response
 
@@ -41,7 +41,7 @@ B. Respond accordingly:
 
 - Potential incident
 
-  1.  Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
+  1.  Issue a [broadcast notification](incidents../../100-security/../../100-security/../../100-security/incident-response-plan.md#communication-channels#communication-channels#communication-channels#communication-channels) via one or more of the following:
 
       - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
       - Email to [security@civicactions.com](mailto:security@civicactions.com).
@@ -50,15 +50,15 @@ B. Respond accordingly:
   2.  For an incident requiring more than 30 minutes to resolve:
 
       - Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
-      - Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
+      - Designate an [**Incident Commander**](incidents../../100-security/../../100-security/incident-response-plan.md#incident-commander#incident-commander#incident-commander) and [hand off the IC duties](incidents../../100-security/../../100-security/../../100-security/../../100-security/incident-response-plan.md#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony).
 
-  More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
+  More information on [incident response roles and responsibilities](incidents../../100-security/incident-response-plan.md#roles-and-responsibilities#roles-and-responsibilities):
 
-        - [Responder](incident-response-plan.md#responder)
-        - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
-        - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
+        - [Responder](incidents../../100-security/incident-response-plan.md#responder#responder)
+        - [Incident Commander (IC)](incidents../../100-security/../../100-security/incident-response-plan.md#incident-commander#incident-commander#incident-commander)
+        - [Communications Officer (CO)](incidents../../100-security/incident-response-plan.md#communications-officer#communications-officer)
 
-  Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
+  Use the [_Explicit Handoff Ceremony_](incidents../../100-security/../../100-security/../../100-security/../../100-security/incident-response-plan.md#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony) when transferring/changing roles.
 
 - False alarm
 
@@ -72,20 +72,20 @@ A. Confirm the incident.
 
 1. Gather information, and document your findings.
 
-   - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+   - Was the event triggered by an [external dependency](../../100-security/contingency-plan.md#external-dependencies#external-dependencies)?
    - Is a system failure causing the disruption?
 
 2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
 
-B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.md#incident-severities). (Project incidents are generally "Low severity".)
+B. Assess the severity. Use the [rubric in the IR guide](incidents../../100-security/incident-response-plan.md#incident-severities#incident-severities). (Project incidents are generally "Low severity".)
 
 C. Assess whether to activate the [contingency plan](contingency-plan.md). Consider whether Disaster Recovery is required.
 
-_Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles._
+_Reminder: Use the [Explicit Handoff Ceremony](incidents../../100-security/../../100-security/../../100-security/../../100-security/incident-response-plan.md#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony) when transferring/changing roles._
 
 ### Incident Commander responsibilities
 
-- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#4-assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
+- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incidents../../100-security/incident-response-plan.md#4-assess-the-incident#4-assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
 - For an issue with potential Project impact, ensure that a JIRA ticket or Gitlab issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ## 5. Remediate
@@ -103,11 +103,11 @@ _Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md#explici
 
 ### Incident Commander responsibilities
 
-- Maintain current information in Slack, shared Google Docs files, the ticket/issue (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
+- Maintain current information in Slack, shared Google Docs files, the ticket/issue (if applicable), or other [communication channels](incidents../../100-security/../../100-security/../../100-security/incident-response-plan.md#communication-channels#communication-channels#communication-channels#communication-channels). Be sure to include:
   - Project team leads and members
   - Remediation items and their assignees
 - Establish and document work shifts for an incident longer than 3 hours.
-- Maintain communications with stakeholders, or designate a _Communications Officer_ via [explicit handoff](incident-response-plan.md#explicit-handoff-ceremony).
+- Maintain communications with stakeholders, or designate a _Communications Officer_ via [explicit handoff](incidents../../100-security/../../100-security/../../100-security/../../100-security/incident-response-plan.md#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony#explicit-handoff-ceremony).
 - Share _sitreps_ on a regular basis:
   - High severity: hourly
   - Medium severity: 2x daily
@@ -123,7 +123,7 @@ B. Update the ticket/issue (if applicable) and set the status to one of the foll
 - Confirmed incident: _Ready for QA_
 - False alarm: _Done_
 
-C. Schedule an [IR Team retrospective](incident-response-plan.md#conducting-a-retrospective). Optional for false alarms.
+C. Schedule an [IR Team retrospective](incidents../../100-security/incident-response-plan.md#conducting-a-retrospective#conducting-a-retrospective). Optional for false alarms.
 
 D. Share the final _sitrep_ with stakeholders.
 

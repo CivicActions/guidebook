@@ -138,15 +138,15 @@
 
 - type: page
   from_url: 100-security/incident-response-checklist/
-  to_url: common-practices-tools/security/incidentsincident-response-checklist/
+  to_url: common-practices-tools/security/incident-response-checklist/
 
 - type: page
   from_url: 100-security/incident-response-plan/
-  to_url: common-practices-tools/security/incidentsincident-response-plan/
+  to_url: common-practices-tools/security/incident-response-plan/
 
 - type: page
   from_url: 100-security/incidents/
-  to_url: common-practices-tools/security/incidents
+  to_url: common-practices-tools/security/incidents/
 
 - type: page
   from_url: 100-security/yubikey/README/
@@ -218,7 +218,7 @@
 
 - type: page
   from_url: 030-policies/annual-review-process/
-  to_url: company-policies/annual-reserve-process
+  to_url: company-policies/annual-review-process/
 
 - type: page
   from_url: 030-policies/security/
@@ -350,7 +350,7 @@
 
 - type: page
   from_url: 050-how-we-work/practice-areas/accessibility-practice-area/
-  to_url: practice-areas/accessibility-practice-area
+  to_url: practice-areas/accessibility-practice-area/
 
 - type: page
   from_url: 110-ux/services/research/audiences-and-outcomes-guide/
