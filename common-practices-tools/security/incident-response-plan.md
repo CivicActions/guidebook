@@ -48,7 +48,7 @@ This document describes the process that the CivicActions Incident Response Team
 - roles and responsibilities during and after incidents
 - overview of the steps to follow for resolution
 
-_During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow. For most non-project-related incidents, see the [Security Incidents](https://handbook.civicactions.com/en/latest/100-security/incidents/) page._
+_During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the IR Team to follow. For most non-project-related incidents, see the [Security Incidents](incidents.md) page._
 
 ## Roles and Responsibilities
 
@@ -143,7 +143,7 @@ At this stage, the _First Responder_ is usually working alone, and is also the _
 
 A. Allocate 5 minutes and determine whether this event is a potential incident or false alarm. Consider any potential Project impact.
 
-An incident begins when someone becomes aware of a disruption in expected normal system operations. An incident is defined broadly, following [_NIST SP 800-61: Computer Security Incident Handling Guide_](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final), as "a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices". This definition encompasses any scenario that might threaten the security of system resources and data. For more information, see the CivicActions handbook: [What is an incident?](incidents.md#what-is-an-incident)
+An incident begins when someone becomes aware of a disruption in expected normal system operations. An incident is defined broadly, following [_NIST SP 800-61: Computer Security Incident Handling Guide_](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final), as "a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices". This definition encompasses any scenario that might threaten the security of system resources and data. For more information, see the CivicActions guidebook: [What is an incident?](incidents.md#what-is-an-incident)
 
 B. Respond accordingly:
 

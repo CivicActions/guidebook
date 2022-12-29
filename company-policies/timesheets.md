@@ -37,9 +37,9 @@ Billable expenses are when a cost can be passed back through to the client. This
 
 We track vacation, leave and sick time, and leave for employees in Unanet. There is oversight on this, but ultimately you are responsible for this accuracy.
 
-View instructions [here](https://docs.google.com/presentation/d/1IEl3c8pOAYz5KNM4tVDemjvx5O-5m5WF21r4saANsFw/edit#slide=id.gce3d6a447a_0_89)
-
-View timeoff policy [here](https://handbook.civicactions.com/en/latest/040-employee-handbook-us/benefits-and-holidays/#written-documentation-of-time-off)
+- [Instructions](https://docs.google.com/presentation/d/1IEl3c8pOAYz5KNM4tVDemjvx5O-5m5WF21r4saANsFw/edit#slide=id.gce3d6a447a_0_89)
+- [Timeoff policy (US)](../employee-benefits/us-benefits-policy.md#written-documentation-of-time-off)
+- [Timeoff policy (Canada)](../employee-benefits/canada-benefits-policy.md)
 
 **Time:**
 

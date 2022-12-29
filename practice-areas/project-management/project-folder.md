@@ -32,7 +32,7 @@ Common challenges with project folders include the following:
 - Not all project documents are saved in the folders
 - Resourcing changes require permission adjustments
 
-The Project Manager [checklist](https://handbook.civicactions.com/en/latest/070-project-management/project-management-checklists/) includes folder maintenance. Project Managers are encouraged, at least once per month, to review all project folders to complete the following:
+The Project Manager [checklist](project-management-checklists.md) includes folder maintenance. Project Managers are encouraged, at least once per month, to review all project folders to complete the following:
 -Shifting unused or unnecessary documents to an Archive folder
 -Reviewing permissions
 

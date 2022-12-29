@@ -1,6 +1,6 @@
-# How and when to contribute to the handbook
+# How and when to contribute to the guidebook
 
-This handbook is written by and for all employees of CivicActions. Everyone is encouraged to contribute to continuously improve it.
+This guidebook is written by and for all employees of CivicActions. Everyone is encouraged to contribute to continuously improve it.
 
 The most common incentive to create or edit documentation is to "scratch an itch" that's felt when we come across a lack of information, or lack of standards around a practice. If you find a hole in the documentation, you're probably the best person to take a stab at filling it.
 
@@ -13,7 +13,7 @@ We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel i
 Better than doing nothing at all:
 
 - [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a documentation suggestion, or
-- Create an [issue in GitHub](https://github.com/CivicActions/handbook/issues/new).
+- Create an [issue in GitHub](https://github.com/CivicActions/guidebook/issues/new).
 - Chat about it in [#docs](https://civicactions.slack.com/messages/docs/).
 
 ## Writing documentation

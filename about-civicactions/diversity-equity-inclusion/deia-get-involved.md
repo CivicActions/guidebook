@@ -24,7 +24,7 @@ Strategy and Leadership:
 
 - Owning/maintaining the practice area strategic plan, including mission, vision, and goals
 - Helping identify and prioritize current initiatives
-- Documenting practice area work and content (Handbook, DEIA practice area folder, DEIA resource inventory)
+- Documenting practice area work and content (Guidebook, DEIA practice area folder, DEIA resource inventory)
 - Socializing/communicating DEIA work to the rest of the company
 
 Project management
