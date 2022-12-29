@@ -23,8 +23,8 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 We are using <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readability, language and grammar issues.
 
-- The [remarkrc.problem file](https://github.com/CivicActions/handbook/blob/master/lint/config/remarkrc.problem) shows a list of all the rules being enforced.
-- The [remarkrc.suggestion file](https://github.com/CivicActions/handbook/blob/master/lint/config/remarkrc.suggestion) shows a list of all rules used to give suggestions.
+- The [remarkrc.problem file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.problem) shows a list of all the rules being enforced.
+- The [remarkrc.suggestion file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.suggestion) shows a list of all rules used to give suggestions.
 
 This linter is run by [GitHub Actions](github-actions.md) with each pull request and code merge, and will automatically post a pull request review indicating problems and suggestions. You can also access the log of problems and suggestions from the GitHub Actions check details link.
 

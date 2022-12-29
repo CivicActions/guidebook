@@ -10,7 +10,7 @@ We encourage each team at CivicActions (aka Working Group, Practice Area, Guild,
 
 These teams are listed on GitHub as [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) of the main [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team). If you want to join one of those teams, you can go to the team page and "Request to join". A maintainer of that team will receive a notification and can approve you. You can see the maintainers from the team page, feel free to bug them for an approval.
 
-The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS) file in the top level of this repo maps the governance of subdirectories to their respective GitHub teams and CivicActions practice areas, and automatically assigns pull requests to that team for review, when a PR is submitted that.
+The [CODEOWNERS](https://github.com/civicactions/guidebook/blob/master/CODEOWNERS) file in the top level of this repo maps the governance of subdirectories to their respective GitHub teams and CivicActions practice areas, and automatically assigns pull requests to that team for review, when a PR is submitted that.
 
 ## GitHub team management
 

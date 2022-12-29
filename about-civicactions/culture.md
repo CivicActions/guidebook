@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this handbook.
+CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this guidebook.
 
 The CivicActions culture is one of openness and authenticity. We are transparent in our communications and intentions. We strive to create an environment where people are comfortable to show emotion and be our true selves. We are people first, who want to work in a diverse environment that strives to make the world better and who also want to care for ourselves and each other. We are balanced by knowing and honoring the priorities in our lives -- at work, at home, and in our mental and spiritual well-being. As a remote firm we value promoting and fostering this culture so that it is cohesive and that each team member feels included.
 

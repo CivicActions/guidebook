@@ -174,7 +174,7 @@ Web administrator account holders (Drupal, CiviCRM or other) must also:
 
 Developers and themers working on the site codebase (and committing code to Git) must also:
 
-- Ensure their own code and development practices follow accepted secure coding standards as described in the Handbook under [Engineering > Security and Compliance](../practice-areas/engineering/security-compliance.md).
+- Ensure their own code and development practices follow accepted secure coding standards as described in the Guidebook under [Engineering > Security and Compliance](../practice-areas/engineering/security-compliance.md).
 - Ensure the standard dev-qa-live process is always followed, such that all changes that may affect site security can be thoroughly tested before being made live.
 - Ensure that external developers (client or 3rd party) working on the site codebase are either:
   - A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.

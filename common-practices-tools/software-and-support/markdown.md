@@ -15,6 +15,6 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 - [Jira markdown cheatsheet](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 - [Slack markdown cheatsheet](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
 
-## Handbook
+## Guidebook
 
-The CivicActions handbook is written in markdown. You can find more information about that on this [handbook Markdown page](../../about-this-guidebook/markdown-for-guidebook.md).
+The CivicActions guidebook is written in markdown. You can find more information about that on this [guidebook Markdown page](../../about-this-guidebook/markdown-for-guidebook.md).

@@ -2,9 +2,9 @@
 
 Git is a powerful version control tool that you can learn. At its core is the idea of cloning code, making changes, and merging those changes back in. In our case, those changes get merged back in after a "pull request" containing those changes gets made, reviewed, and accepted.
 
-Git is confusing at first, but our handbook is a great place to learn Git because we use a relatively simple Git workflow, compared to many engineering projects.
+Git is confusing at first, but our guidebook is a great place to learn Git because we use a relatively simple Git workflow, compared to many engineering projects.
 
-In this project, The "master" branch is the active branch, with the latest, approved changes, published at [Read The Docs](https://handbook.civicactions.com/en/latest/README/). If you use Workflow 1, you'll be editing the branch directly, but
+In this project, The "master" branch is the active branch, with the latest, approved changes, published at [Read The Docs](https://guidebook.civicactions.com/en/latest/). If you use Workflow 1, you'll be editing the branch directly, but
 
 ## The easy way, via the GitHub UI on the master branch
 
@@ -28,13 +28,13 @@ After you commit, you will be asked if you want to create a new pull request wit
 
 Most of the time you don't need to fill anything out, just click "Create pull request".
 
-Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/handbook/tree/[your-branch-name]>. You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/guidebook/tree/[your-branch-name]>. You can also find this branch from the guidebook homepage by clicking on [branches](https://github.com/CivicActions/guidebook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.
 
-## The more advanced way: fork the handbook
+## The more advanced way: fork the guidebook
 
-**NB: Currently, pull requests submitted from forks of the handbook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the CivicActions/handbook repository and submit a PR from there.**
+**NB: Currently, pull requests submitted from forks of the guidebook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the CivicActions/guidebook repository and submit a PR from there.**
 
 If you're familiar with the Git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
@@ -51,7 +51,7 @@ Resources:
 
 ## Assignment of pull requests
 
-Your PR will automatically be assigned to a team for a review, based on which part of the handbook you are editing. That automatic review assignment is explained in [guidebook-governance.md](guidebook-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
+Your PR will automatically be assigned to a team for a review, based on which part of the guidebook you are editing. That automatic review assignment is explained in [guidebook-governance.md](guidebook-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
 
 ## How to review and merge pull requests
 
@@ -65,7 +65,7 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 ### Step-by-step instructions for reviewing, approving, and merging PRs:
 
-1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Handbook repo page.
+1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Guidebook repo page.
 
 ![PR workflow screenshot 1](../assets/images/01-PR-pull-requests-tab.png)
 
