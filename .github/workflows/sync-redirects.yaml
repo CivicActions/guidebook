@@ -1,15 +1,13 @@
 name: Sync RTD redirects
 
 on:
+  pull_request:
   push:
     branches:
       - master
     paths:
       - .config/redirects.yml
       - .github/workflows/sync-redirects.yaml
-
-  pull_request:
-
   # Manually triggered using GitHub's UI
   workflow_dispatch:
 
