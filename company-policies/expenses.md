@@ -10,7 +10,7 @@ CivicActions will timely reimburse approved business-related out-of-pocket expen
 ## Request approval for an expense
 
 <!-- prettier-ignore -->
-_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](../employee-benefits/professional-development.md#your-prodev-budget#your-prodev-budget), which do not require approval.
+_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](../employee-benefits/professional-development.md#your-prodev-budget), which do not require approval.
 
 ## To request approval in Unanet
 

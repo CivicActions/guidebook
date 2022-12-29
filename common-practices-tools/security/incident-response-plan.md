@@ -195,7 +195,7 @@ A. Confirm the incident.
 
 1.  Gather information, and document your findings.
 
-    - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies#external-dependencies)?
+    - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
     - Is a system failure causing the disruption?
 
 2.  Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
