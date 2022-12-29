@@ -6,7 +6,7 @@ repos:
       - id: remark
         name: remark
         language: docker_image
-        entry: civicactions/handbook-lint:latest remark.sh
+        entry: civicactions/guidebook-lint:latest remark.sh
         always_run: true
         pass_filenames: false
         verbose: true
@@ -15,7 +15,7 @@ repos:
       - id: mkdocs
         name: mkdocs
         language: docker_image
-        entry: civicactions/handbook-lint:latest mkdocs.sh
+        entry: civicactions/guidebook-lint:latest mkdocs.sh
         always_run: true
         pass_filenames: false
         verbose: true

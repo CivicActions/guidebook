@@ -1,7 +1,8 @@
 site_name: CivicActions Guidebook - Beta
-repo_url: https://github.com/CivicActions/handbook/
-site_url: https://handbook.civicactions.com/en/latest/
+repo_url: https://github.com/CivicActions/guidebook/
+site_url: https://guidebook.civicactions.com/en/latest/
 docs_dir: "../.docs"
+edit_uri: edit/master/
 theme:
   name: material
   features:
@@ -101,7 +102,7 @@ nav:
       - Balance scores: common-practices-tools/balance-scores.md
       - Gold Star Program: common-practices-tools/gold-star-program.md
       - Security awareness and tools:
-          - Awareness and tools: common-practices-tools/security/awareness.md
+          - Security awareness: common-practices-tools/security/awareness.md
           - Setting up and using Yubikey:
               - common-practices-tools/security/yubikey/README.md
               - Yubikey and Linux: common-practices-tools/security/yubikey/linux.md

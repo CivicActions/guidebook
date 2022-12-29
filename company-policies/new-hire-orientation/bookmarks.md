@@ -4,7 +4,7 @@ Links to websites we use regularly.
 
 ## CivicActions
 
-- [Handbook](https://github.com/CivicActions/handbook)
+- [Guidebook](https://github.com/CivicActions/guidebook)
 - [Website](https://civicactions.com/)
 
 ## Social Media

@@ -6,7 +6,7 @@ hide:
 
 # CivicActions Guidebook
 
-[![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://guidebook.civicactions.com/en/latest/?badge=latest)
 
 ## CivicActions, Inc.
 

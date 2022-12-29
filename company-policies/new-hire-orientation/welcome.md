@@ -6,7 +6,7 @@ We're honored to welcome you to our company. You have joined an organization tha
 
 CivicActions operates transparently on a fundamental level. We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities.
 
-There are topics in this document that require more detail on how we implement policies. This Handbook is likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships and processes. Issues are addressed on a case-by-case basis. You will find CivicActions a great place to work.
+There are topics in this document that require more detail on how we implement policies. This Guidebook is likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships and processes. Issues are addressed on a case-by-case basis. You will find CivicActions a great place to work.
 
 ### Learn more about CivicActions
 
@@ -21,7 +21,7 @@ Welcome aboard! As part of the new employee onboarding process, we created an on
 
 ### General
 
-- [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
+- [Civicactions Guidebook in GitHub](https://github.com/CivicActions/guidebook/blob/master/README.md)
 - [Bookmarks](bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources

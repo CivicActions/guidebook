@@ -30,6 +30,5 @@ We implement Section 508 standards and WCAG compliant websites so that people wi
 ## Resources
 
 - [CivicActions Accessibility Site](https://accessibility.civicactions.com): Please visit and bookmark, it contains a wealth of information useful to you.
-- [CivicActions Handbook: Useful Accessibility Extensions to Install](https://handbook.civicactions.com/en/latest/050-how-we-work/bookmarks/#useful-accessibility-extensions-to-install)
 - [Drupal Accessibility Guidelines](https://drupal.org/node/1637990)
 - [WCAG](http://www.w3.org/WAI/intro/wcag)

@@ -50,6 +50,6 @@ Affinity channel moderators serve as the main point of contact for team members 
 - Be sure to give your channel a description, and add a channel topic so people understand who it is for.
 - Decide whether to make your channel private.
 - Designate a point person moderator for your channel and add them to the channel topic. Be sure that moderator's understand their obligations as a channel moderator. If a person is not comfortable fulfilling all of the responsibilities of a moderator they should not take on that role.
-- Do a GitHub pull request to get your channel listed on the affinity channel handbook directory page; or if preferred, ask Alaine to add your new channel to the handbook page.
+- Do a GitHub pull request to get your channel listed on the affinity channel guidebook directory page; or if preferred, ask Alaine to add your new channel to the guidebook page.
 - Announce your new channel in #general so others can join.
 - If you decide that the group you want to create is not going to be open to allies, then it's not an official company affinity group and won't be included in the directory.

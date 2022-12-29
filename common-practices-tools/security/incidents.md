@@ -46,7 +46,7 @@ If you find a suspicious email in your Spam folder, ignore it. The CivicActions 
 
 ## Reporting an incident
 
-Report any potential incident as soon as possible. Time is critical so that the Security team can initiate our [Incident Response Plan](https://handbook.civicactions.com/en/latest/100-security/incident-response-plan/) (if needed).
+Report any potential incident as soon as possible. Time is critical so that the Security team can initiate our [Incident Response Plan](incident-response-plan.md) (if needed).
 
 ### To report a security incident
 
