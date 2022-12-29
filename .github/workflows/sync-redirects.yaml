@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - redirects.yml
+      - .config/redirects.yml
       - .github/workflows/sync-redirects.yaml
 
   pull_request:
