@@ -2,7 +2,7 @@
 
 ## Tone
 
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should be welcoming, personable, and free from jargon.
+This will be fleshed out in future iterations. For now, keep in mind that content appearing in the guidebook should be welcoming, personable, and free from jargon.
 
 ## How to capitalize titles and headings
 
