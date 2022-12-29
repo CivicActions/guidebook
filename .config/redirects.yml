@@ -1,5 +1,61 @@
 # Authoritative list of redirects we have configured in RTD.
 ---
+# Redirect the original path structure to the second generation one:
+
+- type: exact
+  from_url: /en/latest/00-contributing/$rest
+  to_url: /en/latest/000-contributing/
+
+- type: exact
+  from_url: /en/latest/01-welcome-to-civicactions/$rest
+  to_url: /en/latest/010-welcome-to-civicactions/
+
+- type: exact
+  from_url: /en/latest/02-about-us/$rest
+  to_url: /en/latest/020-about-us/
+
+- type: exact
+  from_url: /en/latest/03-policies/$rest
+  to_url: /en/latest/030-policies/
+
+- type: exact
+  from_url: /en/latest/04-how-we-work/$rest
+  to_url: /en/latest/050-how-we-work/
+
+- type: exact
+  from_url: /en/latest/05-engineering/$rest
+  to_url: /en/latest/060-engineering/
+
+- type: exact
+  from_url: /en/latest/06-project-management/$rest
+  to_url: /en/latest/070-project-management/
+
+- type: exact
+  from_url: /en/latest/07-sales-and-marketing/$rest
+  to_url: /en/latest/080-sales-and-marketing/
+
+- type: exact
+  from_url: /en/latest/08-hr-admin/$rest
+  to_url: /en/latest/090-hr-admin/
+
+- type: exact
+  from_url: /en/latest/09-security/$rest
+  to_url: /en/latest/100-security/
+
+- type: exact
+  from_url: /en/latest/10-ux/$rest
+  to_url: /en/latest/110-ux/
+
+- type: exact
+  from_url: /en/latest/11-help-desk/$rest
+  to_url: /en/latest/120-help-desk/
+
+# Redirects from the second generation to the third:
+
+- type: page
+  from_url: /README/
+  to_url: /
+
 - type: page
   from_url: /020-about-us/background-and-history/
   to_url: /about-civicactions/background-and-history/
@@ -62,7 +118,7 @@
 
 - type: page
   from_url: /000-contributing/README/
-  to_url: /about-this-guidebook/README/
+  to_url: /about-this-guidebook/
 
 - type: page
   from_url: /000-contributing/markdown/
@@ -150,7 +206,7 @@
 
 - type: page
   from_url: /100-security/yubikey/README/
-  to_url: /common-practices-tools/security/yubikey/README/
+  to_url: /common-practices-tools/security/yubikey/
 
 - type: page
   from_url: /100-security/yubikey/linux/
@@ -503,3 +559,83 @@
 - type: page
   from_url: /070-project-management/growth-mindset/
   to_url: /practice-areas/project-management/growth-mindset/
+
+- type: page
+  from_url: /03-policies/anti-harassment-policies/
+  to_url: /company-policies/anti-harassment-policies/
+
+- type: page
+  from_url: /03-policies/compensation/
+  to_url: /employee-benefits/us-compensation/
+
+- type: page
+  from_url: /03-policies/employment/
+  to_url: /company-policies/employment/us/employment/
+
+- type: page
+  from_url: /030-policies/anti-harassment-policies/
+  to_url: /company-policies/anti-harassment-policies/
+
+- type: page
+  from_url: /04-how-we-work/agile-practices/.template/
+  to_url: /practice-areas/project-management/templates/
+
+- type: page
+  from_url: /04-how-we-work/agile-practices/template/
+  to_url: /practice-areas/project-management/templates/
+
+- type: page
+  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Defining-DEI/
+  to_url: /about-civicactions/diversity-equity-inclusion/defining-dei/
+
+- type: page
+  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/
+  to_url: /about-civicactions/diversity-equity-inclusion/deia-get-involved/
+
+- type: page
+  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Purpose/
+  to_url: /about-civicactions/diversity-equity-inclusion/purpose/
+
+- type: page
+  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Resources/
+  to_url: /about-civicactions/diversity-equity-inclusion/resources/
+
+- type: page
+  from_url: /04-how-we-work/tools/harvest-forecast/
+  to_url: /company-policies/timesheets/
+
+- type: page
+  from_url: /04-how-we-work/tools/harvest/
+  to_url: /company-policies/timesheets/
+
+- type: page
+  from_url: /04-how-we-work/tools/harvest/
+  to_url: /company-policies/timesheets/
+
+- type: page
+  from_url: /050-how-we-work/tools/harvest-forecast/
+  to_url: /company-policies/timesheets/
+
+- type: page
+  from_url: /050-how-we-work/tools/harvest/
+  to_url: /company-policies/timesheets/
+
+- type: page
+  from_url: /06-project-management/
+  to_url: /practice-areas/project-management/
+
+- type: page
+  from_url: /06-project-management/offboarding-contractor-from-project/
+  to_url: /practice-areas/project-management/project-offboarding/
+
+- type: page
+  from_url: /06-project-management/pto-request-approval-process/
+  to_url: /practice-areas/project-management/leave-requests-and-stepping-away/
+
+- type: page
+  from_url: /070-project-management/pto-request-approval-process/
+  to_url: /practice-areas/project-management/leave-requests-and-stepping-away/
+
+- type: page
+  from_url: /10-ux/services/design/content-modeling-guide/
+  to_url: /practice-areas/design-and-research/content-modeling-guide/
