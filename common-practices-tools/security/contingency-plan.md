@@ -75,7 +75,7 @@ The IC first notifies and coordinates with the people who are authorized to deci
   - Product Owner
   - Users, when applicable
 
-The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
+The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
 
 ### Recovery
 
