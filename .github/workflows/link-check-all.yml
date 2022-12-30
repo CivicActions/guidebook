@@ -1,4 +1,4 @@
-name: Check All Markdown links
+name: Checking all links site-wide
 
 on:
   # Automatic check weekly

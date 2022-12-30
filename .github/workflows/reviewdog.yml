@@ -1,4 +1,4 @@
-name: reviewdog
+name: Checking Markdown formatting and providing language suggestions
 
 on:
   pull_request:

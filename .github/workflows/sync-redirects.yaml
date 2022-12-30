@@ -1,4 +1,4 @@
-name: Sync RTD redirects
+name: Updating redirects
 
 on:
   pull_request:

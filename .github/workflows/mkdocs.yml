@@ -1,4 +1,4 @@
-name: mkdocs
+name: Checking site build
 
 on:
   pull_request:

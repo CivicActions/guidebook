@@ -1,4 +1,4 @@
-name: codespell
+name: Checking for common typos
 
 on:
   pull_request:

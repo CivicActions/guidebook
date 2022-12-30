@@ -1,4 +1,4 @@
-name: Read the Docs Pull Request Preview
+name: Adding link to preview site
 on:
   pull_request:
 
