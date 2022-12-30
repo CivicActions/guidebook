@@ -25,9 +25,6 @@
       "pattern": "^https://www.lastpass.com/.*"
     },
     {
-      "pattern": "^https://github.com/CivicActions/guidebook/tree/%5Byour-branch-name%5D$"
-    },
-    {
       "pattern": "^https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/$"
     },
     {

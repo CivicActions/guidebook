@@ -28,7 +28,7 @@ After you commit, you will be asked if you want to create a new pull request wit
 
 Most of the time you don't need to fill anything out, just click "Create pull request".
 
-Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/guidebook/tree/[your-branch-name]>. You can also find this branch from the guidebook homepage by clicking on [branches](https://github.com/CivicActions/guidebook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg `https://github.com/CivicActions/guidebook/tree/[your-branch-name]`. You can also find this branch from the guidebook homepage by clicking on [branches](https://github.com/CivicActions/guidebook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.
 

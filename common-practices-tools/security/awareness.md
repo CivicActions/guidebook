@@ -52,7 +52,7 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 #### LastPass Authenticator
 
-- This provides tight integration with some apps, see: <https://lastpass.com/auth/>
+- This provides tight integration with some apps, see: <https://www.lastpass.com/solutions/authentication>
 - For more info, see: <https://support.logmeininc.com/lastpass/help/lastpass-authenticator-lp030014>
 
 #### Authy
