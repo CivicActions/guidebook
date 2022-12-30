@@ -7,8 +7,8 @@ jobs:
   codespell:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: codespell-project/actions-codespell@master
         with:
           path: docs
-          config: .config/codespellrc
+          ignore_words_file: .config/codespell-ignore
