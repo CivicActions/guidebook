@@ -17,7 +17,9 @@ export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md')
 
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
+  # We limit to the first 100 suggestions, to avoid errors in case of large edits.
   remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
+    head -n 100 |
     reviewdog -f=remark-lint \
       -name="remark-lint-suggestions" \
       -reporter="github-pr-check" \
