@@ -1,11 +1,11 @@
 name: Check All Markdown links
 
 on:
-  push:
-    branches:
-      - master
+  # Automatic check weekly
   schedule:
     - cron: "0 9 * * 1"
+  # Manually triggered using GitHub's UI
+  workflow_dispatch:
 
 jobs:
   markdown-link-check:
@@ -15,3 +15,8 @@ jobs:
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           config-file: ".config/markdown.links.config.json"
+      - name: Send GitHub Action trigger data to Slack workflow
+        id: slack
+        uses: slackapi/slack-github-action@v1.23.0
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
