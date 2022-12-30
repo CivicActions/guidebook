@@ -71,7 +71,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
    - You will have an opportunity to notify different people about the plan you have created
    - Select the plans you wish to save by clicking on the "Assign" box at the beginning of each plan (or the one above to "assign all")
 
-### Tips
+### Planning tips
 
 You may enter multiple hours/month on the planning grid rather than one month per person at a time. You can do this multiple ways.
 
@@ -131,7 +131,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 - Approve the timesheet if no changes are required
 - Reject the timesheet and note any expected changes
 
-### Tips
+### Reviewing tips
 
 1. If you use the Approve > button, Unanet will display timesheets one after another
 

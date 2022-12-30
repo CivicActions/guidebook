@@ -98,7 +98,7 @@ For these YubiKeys, you may need to install and configure some software that "pe
 
 _See also: <https://wiki.archlinux.org/index.php/yubikey>_
 
-```
+```bash
 pacaur -S perl-net-ldap-server    # this is a prerequisite
 pacaur -S yubikey-neo-manager-git
 ```
@@ -107,7 +107,7 @@ pacaur -S yubikey-neo-manager-git
 
 _See also: <https://fedoraproject.org/wiki/Using_Yubikeys_with_Fedora>_
 
-```
+```bash
 dnf copr enable jjelen/yubikey-neo-manager
 dnf copr enable spartacus06/yubikey-utils
 dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
@@ -117,7 +117,7 @@ dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
 
 _See also: <https://askubuntu.com/questions/720314/how-to-install-yubikey-personalization-tool-on-ubuntu>_
 
-```
+```bash
 sudo add-apt-repository ppa:yubico/stable
 sudo apt-get update
 sudo apt-get install yubikey-neo-manager yubikey-personalization yubikey-personalization-gui
@@ -133,11 +133,11 @@ This allows you to use your YubiKey with Google TFA (new fangled U2F), as well a
 
 #### GNU/Linux command line
 
-```
-$ neoman
-# Enable OTP, U2F, CCID checkboxes if needed, follow instructions to add and remove key.
+```bash
+neoman
+# Enable OTP, U2F, CCID checkboxes if needed, follow instructions to add and remove key
 
-​$ ykpersonalize -2 -ochal-resp -ochal-hmac -ohmac-lt64 -oserial-api-visible
+ykpersonalize -2 -ochal-resp -ochal-hmac -ohmac-lt64 -oserial-api-visible
 ```
 
 #### Mac OSX YubiKey tool

@@ -1,10 +1,10 @@
 # Audiences and Outcomes Guide
 
-## What it is:
+## What it is
 
 A workshop conducted with stakeholders early on to identify, describe, and begin prioritizing audiences and outcomes for a digital project.
 
-## How to do it:
+## How to do it
 
 - Gather the most important stakeholders - people who have a sense of the overall strategy of the organization of agency; ideally some frontline people, and some board members - a variety of people who understand the goals and know the different audiences
 - Overall goal is to get people talking; should be open-ended
@@ -15,12 +15,12 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 - Look at the bigger picture rather than just the website itself
 - Spend 1-2 hours
 
-## Why to do it:
+## Why to do it
 
 - Website audiences are comprised of a variety of types of individuals, from external viewers to internal content creators and/or editors, who may have different needs and objectives when engaging with the site. For each audience, it's important that we gain insight into our users and their goals, so we can create a successful website experience.
 - Building out an understanding of audiences is best done collaboratively (in-person if possible), with "executive" types and "front line" types. Product owners vary greatly -- you may get one that already has all this understanding, but chances are within government and NGOs, they do not.
 
-## Sample Questions:
+## Sample Questions
 
 - AUDIENCES
 
@@ -36,11 +36,11 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
   - What drives your business, and how does your audience help achieve positive results?
   - What metrics do you want to keep track of?
 
-## Recommended Reading:
+## Recommended Reading
 
 - [A List Apart: "Audiences, Outcomes, and Determining User Needs" (Feb 28, 2012)](http://alistapart.com/article/audiences-outcomes-and-determining-user-needs)
 
-## Examples:
+## Examples
 
 ![CFRA example](../../assets/images/crfa-a-and-o.jpg "CFRA Example")
 ![Lexicon example](../../assets/images/lexicon-a-and-o.jpg "Lexicon Example")

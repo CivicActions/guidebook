@@ -18,7 +18,7 @@ Any contractual changes require input from the CivicActions Legal team.
 
 If your project requires a MOD or Extension, it is prudent to ensure everyone agrees about <i>why</i> the change is being made. Pull in your Project Management colleagues for input, as well as CivicActions leaders, i.e., Sales.
 
-## Common steps for a MOD or Extension:
+## Common steps for a MOD or Extension
 
 - Start with a short summary document which outlines the following:
   1/ Why the change is required

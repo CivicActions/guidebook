@@ -5,9 +5,7 @@ Added wording to Code of Conduct to include in-person events.
 
 August 16, 2016
 
-```
 Two Sections Added:
-```
 
 Code of Conduct has been added to the Conduct and Behavior Section
 Conflict of Interest has been added to the Required Stuff Section

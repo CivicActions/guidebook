@@ -60,7 +60,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ## PM role in retrospectives
 
-### Primary Responsibilities
+### Primary retrospective responsibilities
 
 - Scheduling the retrospective
 - Facilitating the retrospective
@@ -91,7 +91,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 This meeting helps the team prepare tasks for the next Sprint Planning Meeting. Ideally the whole team partakes, but the Technical Lead, Product Owner, and Project Manager must attend for the meeting to be well balanced and effective.
 
-### Primary Responsibilities
+### Primary backlog refindement responsibilities
 
 - Collaborate with the PO prior to the meeting and establish what the meeting should accomplish
 - At the beginning of the meeting, state the goal and timebox (typically 1.5 hours)

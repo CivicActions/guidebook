@@ -51,7 +51,7 @@ Some projects may use a field on Jira tickets to track percent complete or numbe
 
 Most tickets will benefit from careful estimates of how much work/time is involved. Project managers and engineers will decide this during Backlog Refinement and/or Sprint Planning.
 
-## Other resources, if you are new to Jira:
+## Other resources, if you are new to Jira
 
 - [Jira & Agile Project Management Video](http://youtu.be/NrHpXvDXVrw) (0:40 min)
 - [Jira in a Nutshell Video](http://youtu.be/xrCJv0fTyR8) (0:04 min)

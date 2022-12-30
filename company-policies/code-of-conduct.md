@@ -3,7 +3,7 @@ status: Final
 updated: October 30, 2020
 ---
 
-# Code of Conduct
+# CivicActions Code of Conduct
 
 ## General Guidelines
 

@@ -28,10 +28,10 @@ Exceptions to the "idle timeout lock" can be made if you are on your home networ
 
 Assuming `~/bin/` is in your `$PATH`, and you want to see if a file is on a Windows server, create executable file `~/bin/out-lock`:
 
-```
+```bash
 #!/bin/sh
 MOUNT="$HOME/mountain"
-# Checks if server is mounted.
+# Checks if server is mounted
 if [ ! -d "$MOUNT" ]
 then
   SERVER_IP="192.168.1.1"
@@ -54,7 +54,7 @@ fi
 <!-- prettier-ignore -->
 The "cron" or launchctl file located at $HOME/Library/LaunchAgents/com.dan.outlock.plist might look like this to run every 15 minutes:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

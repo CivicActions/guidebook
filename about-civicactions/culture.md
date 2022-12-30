@@ -106,6 +106,8 @@ Check out our [Accessibility Practice Area](../practice-areas/accessibility-prac
 
 ## Common Questions
 
+<!--lint disable maximum-heading-length-->
+
 ### Q: What are some keys to success at CivicActions?
 
 A: The most successful team members at CivicActions embody the culture and values. They have high emotional intelligence, are active listeners, are introspective and reflective, embrace failure, and do not tolerate a blame culture. It's also helpful if you have "self-starter" tendencies and enjoy taking initiative -- while also being a great team player.
@@ -138,7 +140,7 @@ A: It can be frustrating when a client doesn't model values of openness, care, o
 
 A: Yes, you can ping your manager directly about it. Depending on the issue though, it may subsequently be discussed openly. If it's something related to development, your peers may have made the exact same mistake and have the solution you're looking for. If it's project budget related, we may want to present it to the client immediately along with a plan of action on what steps we suggest taking next. The reason most people feel uncomfortable with sharing their mistakes is that they come from environments where failure isn't acceptable. That attitude is neither realistic nor helpful -- so at CivicActions we learn from failure and from each other.
 
-### Q: On a project team, who is accountable for what? I want someone to be held responsible.
+### Q: On a project team, who is accountable for what? I want someone to be held responsible
 
 A: In short, we're all responsible for the success of the project. Commitments are made individually during our daily standups and sprint plannings. Certain roles may have certain responsibilities, but the make-up of a team is more indicative of who will be responsible for what based on the skills between team members. If there is something specific that is making you uncomfortable or if there is someone specific that you feel should be accountable for something, that should be brought up. A project manager can be very helpful in identifying and remedying issues -- but that doesn't mean it is their sole responsibility to do so. We also use Team Working Agreements which can be helpful in ensuring team members know who is responsible for what.
 
@@ -165,6 +167,8 @@ If someone tells you that content you shared is offensive you should remove the 
 
 We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion. If you are or know of someone who is subject to behavior in violation of our [Policy Against Proscribed Harassment and Discrimination](../company-policies/anti-harassment-policies.md) you can follow the [reporting procedures](../company-policies/anti-harassment-policies.md#reporting-and-investigating-proscribed-harassment) in that policy.
 
-### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn't welcome here.
+### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn't welcome here?
 
 A: A technique that seems to work well is to say "we don't do that here." This usually gets the person to realize that what they were saying was inappropriate and unwelcome and doesn't put you in a position to have to explain anything. It's simple and to the point (and easy to remember!) If you're not comfortable addressing it directly you can go to PeopleOps or your manager for support.
+
+<!--lint enable maximum-heading-length-->

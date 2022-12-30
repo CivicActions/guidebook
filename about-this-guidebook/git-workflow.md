@@ -63,7 +63,7 @@ For example: if something looks like it's related to how Marketing works, ask a 
 
 If you're not sure if you should merge something, ask for a second opinion in [#docs](https://civicactions.slack.com/messages/docs/) first.
 
-### Step-by-step instructions for reviewing, approving, and merging PRs:
+### Step-by-step instructions for reviewing, approving, and merging PRs
 
 1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Guidebook repo page.
 

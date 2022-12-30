@@ -136,9 +136,9 @@ In a continuous deployment project these tags can be created automatically, or s
 
 Here is a recommended Git configuration block that it is recommended to add to your `.
 
-```
+```gitconfig
 ##
-## These are standard CivicActions git settings for developers.
+## These are standard CivicActions git settings for developers
 ##
 [core]
   # This is for MacOS or Linux. For Windows set to `true`.
