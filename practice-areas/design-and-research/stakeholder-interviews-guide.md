@@ -61,6 +61,6 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 
 - [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/), from _Boxes and Arrows_
 - [Build empathy with stakeholder interviews, part 1: Preparation](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/), by Andrew Maier from 18F
-- [Build empathy with stakeholder interviews, part 2: Conversation](https://18f.gsa.gov/2016/07/22/building-emphathy-with-stakeholder-interviews-part-2-conversation/), by Andrew Maier from 18F
+- [Build empathy with stakeholder interviews, part 2: Conversation](https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/), by Andrew Maier from 18F
 
 ## Examples:

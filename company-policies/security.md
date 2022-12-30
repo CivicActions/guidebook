@@ -166,7 +166,7 @@ Usage of CivicActions developer accounts should be as follows:
 
 Web administrator account holders (Drupal, CiviCRM or other) must also:
 
-- Be familiar with how to maintain configuration security as described in Drupal's [securing your site](http://drupal.org/security/secure-configuration) page.
+- Be familiar with how to maintain configuration security as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
 - Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
 - Test the site to ensure settings are correct after changing settings affecting content/data access control.
 - Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
@@ -180,7 +180,7 @@ Developers and themers working on the site codebase (and committing code to Git)
   - A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.
   - OR: The client confirms understanding that we have neither assessed their skills nor are we reviewing their code. This scenario is best avoided, but is sometimes necessary if the site is being transitioned to another developer.
 - Review all contributed code they have not previously used for basic quality - this is not a formal security audit in most cases, but rather checking the usage stats, issue queue, skimming the module code for readability and adherence to good practices etc. Code that is actively used and maintained and follows best practices is less likely to have serious security issues.
-- Check for security advisories ([drupal.org/security](http://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
+- Check for security advisories ([drupal.org/security](https://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
 - Understand common attack vectors and the best practices for preventing them, including:
   - SQL injection, prevented by proper query construction and placeholder usage.
   - XSS (cross site scripting) attacks, prevented by ensuring user data is always sanitized as appropriate on output.

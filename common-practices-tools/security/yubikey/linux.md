@@ -113,7 +113,7 @@ auth      required  pam_yubico.so   mode=challenge-response
 
 For additional security, you may want to immediately lock the screen when the YubiKey is removed.
 
-This locks the laptop immediately when any YubiKey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/YubiKey>
+This locks the laptop immediately when any YubiKey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/Yubikey#Automatic_Screen_Locking_.28i3lock.2C_slock.2C_etc..29>
 
 As your login user, create executable file `~/bin/ykgone`:
 

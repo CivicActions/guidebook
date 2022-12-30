@@ -105,7 +105,7 @@ pacaur -S yubikey-neo-manager-git
 
 #### Fedora
 
-_See also: <https://fedoraproject.org/wiki/Using_YubiKeys_with_Fedora>_
+_See also: <https://fedoraproject.org/wiki/Using_Yubikeys_with_Fedora>_
 
 ```
 dnf copr enable jjelen/yubikey-neo-manager
@@ -125,9 +125,7 @@ sudo apt-get install yubikey-neo-manager yubikey-personalization yubikey-persona
 
 #### Mac OS X
 
-Download and install the [YubiKey Personalization Tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12) from the Mac App Store at [https://itunes.apple.com/us/app/yubikey-personalization-tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12)
-
-Please Note the YubiKey Personalization Tool is only available in USA App Store. If you are outside the US, you can download [directly from Yubico](https://www.yubico.com/products/services-software/download/yubikey-personalization-tools/).
+Download and install the [YubiKey Personalization Tool](https://www.yubico.com/products/services-software/download/yubikey-personalization-tools/).
 
 ### Personalize your YubiKey
 

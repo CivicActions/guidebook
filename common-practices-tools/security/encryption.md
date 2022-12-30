@@ -116,7 +116,7 @@ After some time for propagation (give it a few hours to a day) you can look up y
 ### More GnuPG information
 
 - [GnuPG home](https://www.gnupg.org/)
-- [GnuPG Mini How-To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
+- [GnuPG Mini How-To](https://www.gnupg.org/howtos/en/GPGMiniHowto.html)
 - [(Ubuntu) OpenPGP Key Signing Party](https://wiki.ubuntu.com/KeySigningParty)
 - [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps)
 
@@ -178,7 +178,7 @@ We recommend [Signal.org](https://signal.org/), which is free. We like that thei
 
 - [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
 - [Privacy Friendly Search](https://info.ecosia.org/privacy)
-- [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+- [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
 - [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
 - [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
 - [Tails - the amnesic incognito live system](https://tails.boum.org/)

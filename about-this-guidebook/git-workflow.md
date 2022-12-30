@@ -44,10 +44,10 @@ You can use any other number of tools, including text editors (such as [Atom](ht
 
 Resources:
 
-- [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
-- [Working with Forks](https://help.github.com/articles/working-with-forks/)
-- [Getting Started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
-- [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
+- [Fork a Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [Working with Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
+- [Getting Started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop)
+- [Contributing to Projects with GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop)
 
 ## Assignment of pull requests
 

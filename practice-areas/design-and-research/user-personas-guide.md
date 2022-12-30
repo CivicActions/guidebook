@@ -20,7 +20,7 @@ Personas add a layer of real-world consideration to project conversations and ca
 
 ## Recommended Reading:
 
-- Jeff Gothelf, [_Lean UX_](https://www.jeffgothelf.com/lean-ux-book/), chapter 3
+- Jeff Gothelf, [_Lean UX_](https://leanuxbook.com/), chapter 3
 - [Usability.gov, "Personas"](https://www.usability.gov/how-to-and-tools/methods/personas.html)
 - [A List Apart: "Resurrecting Dead Personas" (July 26, 2016)](http://alistapart.com/article/resurrecting-dead-personas)
 

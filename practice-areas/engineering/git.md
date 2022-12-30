@@ -7,7 +7,7 @@ As you probably already know, Git is a source code versioning system that lets y
 Here are some references to review if you are unfamiliar with it.
 
 - [Pro Git book](https://git-scm.com/)
-- [Github resources](https://help.github.com/articles/git-and-github-learning-resources/)
+- [Github resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Getting Git Right](https://www.atlassian.com/git/)
 - [Version Control with Git book](http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)
 
@@ -98,7 +98,7 @@ _Note: your project may include other git workflows. Please review your project 
 Compared to other documented workflows:
 
 - [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - similar, although we prefer tags over environment branches
-- [GitHub Flow](https://guides.github.com/introduction/flow/) - similar, although we prefer rebase/fast-foward merges and don't deploy feature branches into production (but to review environments instead)
+- [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - similar, although we prefer rebase/fast-foward merges and don't deploy feature branches into production (but to review environments instead)
 - [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) - not very similar - ours is much simpler, avoids long lived branches and repeated merges
 
 ## Versioning releases

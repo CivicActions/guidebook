@@ -15,11 +15,11 @@ Many CivicActions employees will already have a GitHub account. If you don't hav
     - As always, please use a unique, secure password.
 2.  Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team) and any relevant [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
 3.  Find out the details of the repositories you'll be working with.
-4.  Good work! Now [set up two-factor authentication](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/).
+4.  Good work! Now [set up two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
 
 ## Setting up Git and a local repository
 
-Unless you are only ever going to be editing a few guidebook pages the "easy" way (per [CONTRIBUTING.md](../../about-this-guidebook/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
+Unless you are only ever going to be editing a few guidebook pages the "easy" way (per [CONTRIBUTING.md](../../about-this-guidebook/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://docs.github.com/en/get-started/quickstart/set-up-git> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
 
 If you'd prefer not to use command-line tools, you may want to use GitHub Desktop: <https://desktop.github.com/>.
 

@@ -44,7 +44,7 @@ We strongly encourage all CivicActioners to look for opportunities to give back 
 
 ### Update your drupal.org profile
 
-- Go to [http://drupal.org/](http://drupal.org/).
+- Go to <https://drupal.org/>.
 - Log into your drupal.org account (create one if you do not have one).
 - Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
 - Align your role with CivicActions in the "[Contributor roles](https://www.drupal.org/community/contributor-guide/find-your-role)" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support".

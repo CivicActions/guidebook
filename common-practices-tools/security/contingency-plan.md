@@ -167,8 +167,7 @@ Status](https://status.acquia.com/) and [AWS status](http://status.aws.amazon.co
 
 - **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security>
 - **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor>
-- **Acquia Availability:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
-- **Acquia Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability/backups>
+- **Acquia Availability & Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
 
 Acquia Cloud takes hourly snapshots of EBS volumes that are saved to Amazon S3 providing
 geographically distributed data centers.
