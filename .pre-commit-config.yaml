@@ -19,6 +19,15 @@ repos:
         always_run: true
         pass_filenames: false
         verbose: true
+  - repo: local
+    hooks:
+      - id: link-check
+        name: link-check
+        language: docker_image
+        entry: civicactions/guidebook-lint:latest markdown-link-check -c .config/markdown.links.config.json
+        always_run: true
+        pass_filenames: true
+        verbose: true
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0
     hooks:
@@ -49,4 +58,4 @@ repos:
       - id: prettier
 ci:
   # We skip checks that have their own actions or external dependencies.
-  skip: [remark, codespell, mkdocs]
+  skip: [remark, codespell, mkdocs, link-check]

@@ -1,0 +1,37 @@
+{
+  "NOTE: ignorePatterns should only used for exceptions like authenticated URLs, or where we really intentionally need an absolute link": "",
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/settings/two_factor_authentication/configure"
+    },
+    {
+      "pattern": "^https://docs.google.com/.*"
+    },
+    {
+      "pattern": "^https://github.com/CivicActions/guidebook/tree/%5Byour-branch-name%5D"
+    },
+    {
+      "pattern": "^http://ci.civicactions.net/"
+    },
+    {
+      "pattern": "^https://app.skills-base.com/.*"
+    },
+    {
+      "pattern": "^https://docs.google.com/.*"
+    },
+    {
+      "pattern": "^https://guidebook.civicactions.com/en/latest/[?]badge=latest"
+    }
+  ],
+  "NOTE: replacementPatterns is used to 'break' absolute links to the guidebook site or repo to avoid these being accidentally added. Internal links should always use relative links to the .md file instead (except for the few exceptions listed above)": "",
+  "replacementPatterns": [
+    {
+      "pattern": "guidebook.civicactions.com",
+      "replacement": "use-relative-links-to-md-files-only.guidebook.civicactions.com"
+    },
+    {
+      "pattern": "github.com/CivicActions/guidebook/tree/",
+      "replacement": "use-relative-links-to-md-files-only.github.com/CivicActions/guidebook/tree/"
+    }
+  ]
+}

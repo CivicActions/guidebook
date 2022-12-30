@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "markdown-link-check": "^3.10.3",
     "remark-cli": "^10.0.1",
     "remark-comment-config": "^7.0.1",
     "remark-frontmatter": "^4.0.1",
