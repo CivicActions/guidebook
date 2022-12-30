@@ -1,6 +1,7 @@
 {
   "ignorePatterns": [
     {
+      "NOTE: Authenticated sites below": "",
       "pattern": "^https://github.com/settings/two_factor_authentication/configure$"
     },
     {
@@ -19,12 +20,23 @@
       "pattern": "^https://www.linkedin.com/company/civicactions/$"
     },
     {
+      "NOTE: Sites with captcha protection below": "",
       "pattern": "^https://.*drupal.org/.*"
     },
     {
       "pattern": "^https://www.lastpass.com/.*"
     },
     {
+      "pattern": "^https://support.yubico.com/.*"
+    },
+    {
+      "pattern": "^https://.*.zendesk.com/.*"
+    },
+    {
+      "pattern": "^https://support.zoom.us/.*"
+    },
+    {
+      "NOTE: Intentional absolute self links below": "",
       "pattern": "^https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/$"
     },
     {
@@ -34,6 +46,7 @@
       "pattern": "^https://guidebook.civicactions.com/en/latest/$"
     }
   ],
+  "NOTE: We replace absolute links with a use-relative-links-to-md-files-only since these are (nearly) always mistakes and should link to the relative .md file instead": "",
   "replacementPatterns": [
     {
       "pattern": "guidebook.civicactions.com",

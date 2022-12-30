@@ -8,7 +8,7 @@ _Please help make this page more useful by adding links you found useful (descri
 
 See:
 
-- <https://www.yubico.com/start/mac-os/>
+- <https://support.yubico.com/hc/en-us/articles/360013790219-Getting-Started-with-the-YubiKey-on-macOS>
 - <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
 - <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
 
