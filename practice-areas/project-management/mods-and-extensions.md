@@ -3,12 +3,13 @@
 ## What is the difference between a contract MOD and an Extension?
 
 Contract Modifications (MOD) are required for any change to the original document, e.g. adjustments to the following:
--key personnel
--scope
--deliverables
--contract amount
 
-Contract Extensions generally involve retaining the contractual language yet adjusting the given dates, e.g., for <b>option terms</b> or <b>option years</b>.
+- key personnel
+- scope
+- deliverables
+- contract amount
+
+Contract Extensions generally involve retaining the contractual language yet adjusting the given dates (e.g., for option terms or option years).
 
 ## Contractual changes
 
@@ -21,14 +22,8 @@ If your project requires a MOD or Extension, it is prudent to ensure everyone ag
 ## Common steps for a MOD or Extension
 
 - Start with a short summary document which outlines the following:
-  1/ Why the change is required
-  2/ The current contractual language
-  3/ The proopsed contractual language
-  e.g.,
-  FROM
-  (old paragraphs, page numbers, etc.)
-  TO
-  (replacement language matched to old paragraphs, page numbers, etc.)
-
+  - Why the change is required
+  - The current contractual language
+  - The proposed contractual language (e.g., from old paragraphs, page numbers, etc. to replacement language matched to old paragraphs, page numbers, etc.)
 - Schedule an internal call to review
 - Work with Legal and Sales to confirm language and strategy
