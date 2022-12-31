@@ -18,7 +18,7 @@ Trello is very easy to use, and a robust feature set whose intuitive UI means th
 - "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
 - Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the "?" shortcut to bring up that page any time
 
-## The Basics (Naming Conventions and the general idea).
+## The Basics (Naming Conventions and the general idea)
 
 Trello has "boards" where work is tracked, using the metaphor of a whiteboard with columns taped with masking tape, and index card or sticky notes.
 
@@ -55,7 +55,7 @@ A full list of powerups is available at <https://trello.com/power-ups>
 - [Card Color Titles for Trello](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim?hl=en) reminds you what the colored labels actually mean. This is particularly import if someone has gone all crazy with labels. Generally, it's good to keep the number of labels under 8. But the card color titles are still useful–especially because the label colors may mean something different on each board.
 - [Boards for Trello](https://chrome.google.com/webstore/detail/t-boards/eknhddnoflchkcccjgdddmnimjggiona) adds a browser button to access any boards quickly. Personally, i prefer using my browser autocomplete feature (Ctrl-L to access your address bar, then T then Tab will turn your address autocomplete into a Trello search tool, with the most accessed Trello links first per your browser history.
 
-## Slack add-ons.
+## Slack add-ons
 
 The Trello integration for Slack is a great add-on for providing clickable summaries of Trello cards within Slack conversations. Use it! It needs to be added/configured for each Slack channel, by typing `/trello link [URL of Trello board]`. To use it, just copy/paste the URL of a card into a Slack channel. Type `/trello help` in Slack to get some other ideas, or check out [Trello's help page for Slack](http://help.trello.com/article/1049-slack-app)
 

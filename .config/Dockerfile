@@ -1,6 +1,6 @@
 # This installs reviewdoc, mkdocs and remark for convenient usage in pre-commit hooks and Github actions.
 
-FROM node:16-alpine
+FROM node:18-alpine
 
 ENV REVIEWDOG_VERSION=v0.13.1
 

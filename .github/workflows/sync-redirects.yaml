@@ -1,15 +1,13 @@
-name: Sync RTD redirects
+name: Updating redirects
 
 on:
+  pull_request:
   push:
     branches:
       - master
     paths:
       - .config/redirects.yml
       - .github/workflows/sync-redirects.yaml
-
-  pull_request:
-
   # Manually triggered using GitHub's UI
   workflow_dispatch:
 
@@ -18,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v3
+      - uses: actions/setup-python@v4
 
       - name: Upgrade Python toolchain
         run: python3 -m pip install --upgrade pip setuptools wheel

@@ -19,7 +19,7 @@ A password manager will enable you to have unique, strong passwords for every se
 
 ### LastPass
 
-- The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
+- The [LastPass](https://www.lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
   - We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
   - Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
 - LastPass is required for members of the CivicActions System Admins and DevSecOps Team.
@@ -52,7 +52,7 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 #### LastPass Authenticator
 
-- This provides tight integration with some apps, see: <https://lastpass.com/auth/>
+- This provides tight integration with some apps, see: <https://www.lastpass.com/solutions/authentication>
 - For more info, see: <https://support.logmeininc.com/lastpass/help/lastpass-authenticator-lp030014>
 
 #### Authy
@@ -72,7 +72,7 @@ While YubiKey is the easiest to use on a daily basis, if you lose it you could g
 
 - LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
 - Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
-- GitHub (especially for your [CivicActions account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
+- GitHub (especially for your [CivicActions account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa)
 - GitLab: See [your profile](https://git.civicactions.net/profile/account)
 - iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
 - Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)

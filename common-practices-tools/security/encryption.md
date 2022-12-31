@@ -33,8 +33,8 @@ _Command line forms are shown here: Mac, Windows and even GNU/Linux have GUIs av
 
 After installing GnuPG, you'll need to [generate a new key pair](https://www.apache.org/dev/openpgp.html#key-gen-generate-key):
 
-```
-$ gpg --gen-key
+```bash
+gpg --gen-key
 ```
 
 Choose:
@@ -49,8 +49,8 @@ The generated key is actually a _key pair_: a _public_ key that you can give to 
 
 For quick help on the command line, do:
 
-```
-$ gpg --help
+```bash
+gpg --help
 ```
 
 Note that the email integrations below do not require the command line; you just have to have created your key pair and shared your public key. But we show a few more commands first.
@@ -59,44 +59,44 @@ Note that the email integrations below do not require the command line; you just
 
 First, you have to look up your friend's public key on a key server:
 
-```
-$ gpg --keyserver pool.sks-keyservers.net --search-keys 'fen labalme'
+```bash
+gpg --keyserver pool.sks-keyservers.net --search-keys 'fen labalme'
 ```
 
 This will list all the keys that match "fen labalme". You could call Fen (or look at his business card on which he included his key id) and see that (1) is the correct key, and anyway, the others two are (revoked), (expired) or just plain ancient. Entering the number "1" will import that key into your public keyring so that you can use it in the future. Look up some other co-workers or friends - if you're not sure of the key don't import it without verifying _at least_ the last eight hex digits of the key id with them directly.
 
 Now you can encrypt a file so only your friend (in this case, Fen) can read it (the optional `--armor` argument creates an easy-to-cut-and-paste version of the encrypted document):
 
-```
-$ gpg --armor --output doc.asc --encrypt --recipient fen@civicactions.com doc
+```bash
+gpg --armor --output doc.asc --encrypt --recipient fen@civicactions.com doc
 ```
 
 You can go a step further and _sign_ the encrypted file by adding the `--sign` argument:
 
-```
-$ gpg --armor --output signed.asc --encrypt --sign --recipient fen@civicactions.com doc
+```bash
+gpg --armor --output signed.asc --encrypt --sign --recipient fen@civicactions.com doc
 ```
 
 ### Decrypting a file encrypted with your public key
 
 To decrypt a file, simply do:
 
-```
-$ gpg --decrypt signed.asc --output newfile
+```bash
+gpg --decrypt signed.asc --output newfile
 ```
 
 ### Upload your public key to GPG key servers
 
 You'll want to upload your public key to a keyserver so others can send you encrypted files. To [send your key to a keyserver](https://debian-administration.org/article/451/Submitting_your_GPG_key_to_a_keyserver), you need to know your key ID. You can print the information on all keys you have the private key for by running
 
-```
-$ gpg --list-secret-keys
+```bash
+gpg --list-secret-keys
 ```
 
 This will generate output like the following:
 
-```
-$ gpg --list-secret-keys
+```bash
+gpg --list-secret-keys
 /home/fen/.gnupg/pubring.kbx
 ----------------------------
 sec   rsa4096/446DB63655C12656 2016-03-23 [SC]
@@ -107,8 +107,8 @@ ssb   rsa4096/F5176136558CF34A 2016-03-23 [E]
 
 You can see the key ID, `446DB63655C12656`, on the first line describing the key after the text `sec rsa4096/` (where `sec` is short for "secret" and `rsa4096` describes the key type and length). Now you can send your public key to the key servers with this command (using, of course, your key id):
 
-```
-$ gpg --send-keys 446DB63655C12656
+```bash
+gpg --send-keys 446DB63655C12656
 ```
 
 After some time for propagation (give it a few hours to a day) you can look up your public key by entering your email address or key id into a key search engine like [pgp.mit.edu](http://pgp.mit.edu/)
@@ -116,7 +116,7 @@ After some time for propagation (give it a few hours to a day) you can look up y
 ### More GnuPG information
 
 - [GnuPG home](https://www.gnupg.org/)
-- [GnuPG Mini How-To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
+- [GnuPG Mini How-To](https://www.gnupg.org/howtos/en/GPGMiniHowto.html)
 - [(Ubuntu) OpenPGP Key Signing Party](https://wiki.ubuntu.com/KeySigningParty)
 - [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps)
 
@@ -178,7 +178,7 @@ We recommend [Signal.org](https://signal.org/), which is free. We like that thei
 
 - [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
 - [Privacy Friendly Search](https://info.ecosia.org/privacy)
-- [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+- [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
 - [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
 - [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
 - [Tails - the amnesic incognito live system](https://tails.boum.org/)

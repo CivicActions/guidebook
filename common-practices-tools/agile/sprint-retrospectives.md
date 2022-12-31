@@ -1,19 +1,19 @@
 # Sprint Retrospectives
 
-## What it is:
+## What it is
 
 The Sprint Retrospective is the final meeting of a sprint cycle where the team reflects on the successes and failures of the concluded sprint and discusses ways to improve the next sprint.
 
-## Why do it:
+## Why do it
 
 The purpose of the retrospective is to deliberately apply the concepts of iterative learning and continuous improvement to the processes being used in the sprint. At CivicActions, the retrospective is also a place to express appreciation for team members and to celebrate successes and high points that occurred during the sprint.
 
-## Who should participate:
+## Who should participate
 
 The meeting participants should be any members of the project team who delivered work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at CivicActions). Others may attend to observe but should not participate.
 Depending on the project dynamics, you may choose to have an internal retrospective where the client is not present. This may help create a more candid environment; however, you should keep in mind that retrospectives with the client are an important component of long-term relationship building.
 
-## How to do it:
+## How to do it
 
 The Scrum Master facilitates the sprint retrospective meeting and may employ a variety of approaches in order to generate discussion. The time box for a sprint retrospective is typically 60 to 90 minutes. The standard retrospective meeting can be reduced down to these main objectives:
 
@@ -32,14 +32,14 @@ Regardless of the format you choose, at the conclusion of the retrospective the 
 
 Once the team's list of commitments has been finalized, place them in a Google doc that tracks retrospective action items from one sprint to the next. Pin the document to your project's Slack channel for quick reference. You may also wish to revisit this list at your next [Sprint Planning Meeting](sprint-planning-meetings.md).
 
-## Pointers:
+## Pointers
 
 At the beginning of the retrospective, read the Prime Directive to the team in order to frame the ensuing conversation appropriately. It states:
 
 **"Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand. At the end of a project everyone knows so much more. Naturally we will discover decisions and actions we wish we could do over. This is wisdom to be celebrated, not judgement used to embarrass. "**
 \---Norm Kerth, Project Retrospectives: A Handbook for Team Review
 
-## Additional Resources:
+## Additional Resources
 
 [Scrum Training Series Video](http://scrumtrainingseries.com/SprintRetrospectiveMeeting/SprintRetrospectiveMeeting.htm)
 

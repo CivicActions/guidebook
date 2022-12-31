@@ -28,7 +28,7 @@ After you commit, you will be asked if you want to create a new pull request wit
 
 Most of the time you don't need to fill anything out, just click "Create pull request".
 
-Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/guidebook/tree/[your-branch-name]>. You can also find this branch from the guidebook homepage by clicking on [branches](https://github.com/CivicActions/guidebook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg `https://github.com/CivicActions/guidebook/tree/[your-branch-name]`. You can also find this branch from the guidebook homepage by clicking on [branches](https://github.com/CivicActions/guidebook/branches). Then, edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.
 
@@ -44,10 +44,10 @@ You can use any other number of tools, including text editors (such as [Atom](ht
 
 Resources:
 
-- [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
-- [Working with Forks](https://help.github.com/articles/working-with-forks/)
-- [Getting Started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
-- [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
+- [Fork a Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [Working with Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
+- [Getting Started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop)
+- [Contributing to Projects with GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop)
 
 ## Assignment of pull requests
 
@@ -63,7 +63,7 @@ For example: if something looks like it's related to how Marketing works, ask a 
 
 If you're not sure if you should merge something, ask for a second opinion in [#docs](https://civicactions.slack.com/messages/docs/) first.
 
-### Step-by-step instructions for reviewing, approving, and merging PRs:
+### Step-by-step instructions for reviewing, approving, and merging PRs
 
 1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Guidebook repo page.
 

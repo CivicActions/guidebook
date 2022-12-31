@@ -2,7 +2,7 @@
 
 CivicActions gathers together in person once a year at our annual retreat. The location of the retreat varies each year, but we aim to make the location accessible so as many team members as possible can join.
 
-Read about our [2018 Summit in Boulder](https://medium.com/civicactions/mountain-time-civicactions-synchronizes-at-the-2018-retreat-dcdcc15a2771) and our [2019 Summit in Portland](https://medium.com/civicactions/how-our-distributed-team-makes-up-for-a-year-apart-c68503192d26)!
+Read about our [2019 Summit in Portland](https://medium.com/civicactions/how-our-distributed-team-makes-up-for-a-year-apart-c68503192d26)!
 
 ## Retreat expenses
 

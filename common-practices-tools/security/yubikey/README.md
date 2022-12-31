@@ -29,7 +29,7 @@ This requires a YubiKey token (cover the button for approximately one second) on
 
 - My Vault -> Account Settings -> Multifactor Options
   - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
-  - YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) ($12/year)
+  - YubiKey (an easier option) is available when using [LastPass Premium](https://www.lastpass.com/yubico/) ($12/year)
     - Select the YubiKey option.
     - Insert the YubiKey device into a USB port on your computer.
     - Focus your cursor on the "YubiKey #1" field.
@@ -98,16 +98,16 @@ For these YubiKeys, you may need to install and configure some software that "pe
 
 _See also: <https://wiki.archlinux.org/index.php/yubikey>_
 
-```
+```bash
 pacaur -S perl-net-ldap-server    # this is a prerequisite
 pacaur -S yubikey-neo-manager-git
 ```
 
 #### Fedora
 
-_See also: <https://fedoraproject.org/wiki/Using_YubiKeys_with_Fedora>_
+_See also: <https://fedoraproject.org/wiki/Using_Yubikeys_with_Fedora>_
 
-```
+```bash
 dnf copr enable jjelen/yubikey-neo-manager
 dnf copr enable spartacus06/yubikey-utils
 dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
@@ -117,7 +117,7 @@ dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
 
 _See also: <https://askubuntu.com/questions/720314/how-to-install-yubikey-personalization-tool-on-ubuntu>_
 
-```
+```bash
 sudo add-apt-repository ppa:yubico/stable
 sudo apt-get update
 sudo apt-get install yubikey-neo-manager yubikey-personalization yubikey-personalization-gui
@@ -125,9 +125,7 @@ sudo apt-get install yubikey-neo-manager yubikey-personalization yubikey-persona
 
 #### Mac OS X
 
-Download and install the [YubiKey Personalization Tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12) from the Mac App Store at [https://itunes.apple.com/us/app/yubikey-personalization-tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12)
-
-Please Note the YubiKey Personalization Tool is only available in USA App Store. If you are outside the US, you can download [directly from Yubico](https://www.yubico.com/products/services-software/download/yubikey-personalization-tools/).
+Download and install the [YubiKey Personalization Tool](https://www.yubico.com/products/services-software/download/yubikey-personalization-tools/).
 
 ### Personalize your YubiKey
 
@@ -135,11 +133,11 @@ This allows you to use your YubiKey with Google TFA (new fangled U2F), as well a
 
 #### GNU/Linux command line
 
-```
-$ neoman
-# Enable OTP, U2F, CCID checkboxes if needed, follow instructions to add and remove key.
+```bash
+neoman
+# Enable OTP, U2F, CCID checkboxes if needed, follow instructions to add and remove key
 
-​$ ykpersonalize -2 -ochal-resp -ochal-hmac -ohmac-lt64 -oserial-api-visible
+ykpersonalize -2 -ochal-resp -ochal-hmac -ohmac-lt64 -oserial-api-visible
 ```
 
 #### Mac OSX YubiKey tool

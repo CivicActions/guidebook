@@ -1,10 +1,10 @@
 # Story Mapping Guide
 
-## What it is:
+## What it is
 
 Story mapping is a way to tell stories and break them down into parts. It is a practice for talking about who does what, and why. It's a way to focus discussions around who will use the product and what they'll do with it later, after delivery. A story map can be used for planning development strategy and releases.
 
-## Why to do it:
+## Why to do it
 
 "Story mapping keeps us focused on users and their experience, and the result is a better conversation, and ultimately a better product." (Jeff Patton)
 
@@ -14,7 +14,7 @@ Story mapping is a way to tell stories and break them down into parts. It is a p
 - A story map can be used to prioritize based on outcomes, and to look at things holistically.
 - A story map can be used to formulate a release strategy that focuses on specific users and outcomes.
 
-## How to do it:
+## How to do it
 
 If you have never participated in a story mapping practice before, we recommend that you watch the video and/or read the book linked under Recommended Reading below before you dive in.
 
@@ -30,16 +30,16 @@ Simply put, a story mapping practice is a series of conversations:
 - UI details
 - technical details
 
-## Recommended Reading:
+## Recommended Reading
 
 - Book: [_User Story Mapping_](http://shop.oreilly.com/product/0636920033851.do), by Jeff Patton
 
 - Video: [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM) (1 hour 56 minutes; a formal talk Jeff gave in Germany, covering the same content as his book)
 
-## Challenges and Tips for Distributed Teams:
+## Challenges and Tips for Distributed Teams
 
 We currently use [Storiesonboard](https://civicactions.storiesonboard.com/) for remote story mapping.
 
-## Examples:
+## Examples
 
 ![Story Map example](../../assets/images/story-mapping.jpg)

@@ -143,6 +143,8 @@ The Assistant Technical Lead project role is the first step for an engineer to g
 
 ## FAQs
 
+<!--lint disable maximum-heading-length-->
+
 ### Is a TL an individual on the project or a project role?
 
 This is a project role, which means that:
@@ -183,3 +185,5 @@ Yes. Ultimately this project role (an individual or multiple team members) is gi
 - [Tech Lead Reading List](https://docs.google.com/spreadsheets/d/1QfK1-7IOqb7_N5451Y0FNiwvDlxirETVnl71sB_DUXE/edit#gid=0).
 - [Tech Lead Call Agendas, Resources, and Notes](https://docs.google.com/document/d/1abRkMOuB9Kb2n8jlzjJnEClPCbAGOtZ6xclo6UlLiag/edit#heading=h.bsicsupyvxmj).
 - [Onboarding a New Project Team Member](../project-management/onboarding-new-project-team-member.md#onboarding-a-new-project-team-member).
+
+<!--lint enable maximum-heading-length-->

@@ -8,8 +8,9 @@ hide:
 
 [![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://guidebook.civicactions.com/en/latest/?badge=latest)
 
-## CivicActions, Inc.
+## Contact Information
 
+CivicActions, Inc.
 3527 Mount Diablo Blvd., Unit 269
 Lafayette, CA 94549
 
