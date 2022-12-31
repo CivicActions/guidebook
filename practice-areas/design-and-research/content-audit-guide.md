@@ -1,10 +1,10 @@
 # Content Audit Guide
 
-## What it is:
+## What it is
 
 A content audit is the activity of checking all of the content on an existing website, and compiling it into a big list (usually in a spreadsheet). There are two kinds of audits: _quantitative inventories_ and _qualitative assessments_. The inventory answers the question "What content is there?" and the assessment answers the question "Is it any good?"
 
-## How to do it:
+## How to do it
 
 - Quantitative inventory: For each piece of content, an inventory generally lists a:
   - title,
@@ -21,7 +21,7 @@ A content audit is the activity of checking all of the content on an existing we
 
 See Recommended Reading below for more detailed information about possible approaches.
 
-## Why to do it:
+## Why to do it
 
 A content audit is the best way to fully comprehend all existing content and to accurately access current content woes and assets.
 
@@ -32,7 +32,7 @@ Specifically, a content audit and analysis helps us understand:
 - What is the tone, voice and branding for the agency?
 - What is the lifecycle history of content?
 
-## Recommended Reading:
+## Recommended Reading
 
 - Donna Spencer, [_UX Mastery_, "How to conduct a content audit" (October 16, 2014)](https://uxmastery.com/how-to-conduct-a-content-audit/)
 - [_boxes and arrows_, "Content Analysis Heuristics" (March 12, 2007)](http://boxesandarrows.com/content-analysis-heuristics/)
@@ -40,7 +40,7 @@ Specifically, a content audit and analysis helps us understand:
 - Kristina Halvorson, [_Content Strategy for the Web_](https://www.contentstrategy.com/content-strategy-for-the-web), chapter 5
 - Erin Kissane, [_The Elements of Content Strategy_](https://abookapart.com/products/the-elements-of-content-strategy), chapter 3, "Tools and Techniques"
 
-## Examples:
+## Examples
 
 - A [quantitative inventory](https://drive.google.com/file/d/0BycOAkkCLHdWczJMTFBmV0x1ZzQ/view) (generated automatically with this [auditing tool](https://github.com/fmizzell/auditing)) for the redesign of dnfsb.gov
 - Rethink Media [content audit spreadsheet](https://docs.google.com/spreadsheets/d/1Eb5cZ9r7rhXvTEuaL3ybWhVoI8DpM6aX7GPV85Edyus/edit#gid=0)

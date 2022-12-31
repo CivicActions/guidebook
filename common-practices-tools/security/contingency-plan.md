@@ -75,13 +75,13 @@ The IC first notifies and coordinates with the people who are authorized to deci
   - Product Owner
   - Users, when applicable
 
-The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
+The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
 
 ### Recovery
 
 The Incident Response Team assesses the situation and works to recover the system. See the list of [external dependencies](#external-dependencies) for procedures for recovery from problems with external services.
 
-If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#4-assess-the-incident#4-assess-the-incident) and [remediation](incident-response-plan.md#5-remediate) processes.
+If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#4-assess-the-incident) and [remediation](incident-response-plan.md#5-remediate) processes.
 
 If the IC assesses that the overall response process is likely to last longer than 3 hours, the IC should organize shifts so that each responder works on response for no longer than 3 hours at a time, including handing off their own responsibility to a new IC after 3 hours.
 
@@ -167,8 +167,7 @@ Status](https://status.acquia.com/) and [AWS status](http://status.aws.amazon.co
 
 - **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security>
 - **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor>
-- **Acquia Availability:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
-- **Acquia Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability/backups>
+- **Acquia Availability & Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
 
 Acquia Cloud takes hourly snapshots of EBS volumes that are saved to Amazon S3 providing
 geographically distributed data centers.

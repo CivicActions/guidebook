@@ -2,7 +2,7 @@
 
 ## Creative Commons Attribution 4.0 International Public License
 
-```
+```text
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and

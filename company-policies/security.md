@@ -53,7 +53,7 @@ It is each person's responsibility to ensure they understand and follow the data
 
 Broadly, dealing with confidential information involves - to the maximum extent feasible - limiting the number of places (physical and logical) where it is stored, and secondly ensuring that each of those places is as secure as reasonably possible, to prevent unauthorized access.
 
-Users are responsible for carefully tracking any confidential information stored on personal devices (including backup/offline storage). Periodically during and after each project, confidential information stored on personal devices should be reviewed, and anything that is no longer needed should be deleted (after being archived to a CivicActions service, if needed). Users should ensure files are actually deleted (and not stored in a recycle/trash area), ideally running [a secure delete on the files](../common-practices-tools/security/awareness.md#securely-delete-files-and-wipe-disks#securely-delete-files-and-wipe-disks), which is available out of the box on OS X and GNU/Linux based systems. Note that if a personal device is used in the performance of some of our contracts, you may be required to provide a copy of stored information or the device itself (such as the disk drive containing the information) if requested by CivicActions or the client. As always, if you have questions, talk to your project manager or the legal team.
+Users are responsible for carefully tracking any confidential information stored on personal devices (including backup/offline storage). Periodically during and after each project, confidential information stored on personal devices should be reviewed, and anything that is no longer needed should be deleted (after being archived to a CivicActions service, if needed). Users should ensure files are actually deleted (and not stored in a recycle/trash area), ideally running [a secure delete on the files](../common-practices-tools/security/awareness.md#securely-delete-files-and-wipe-disks), which is available out of the box on OS X and GNU/Linux based systems. Note that if a personal device is used in the performance of some of our contracts, you may be required to provide a copy of stored information or the device itself (such as the disk drive containing the information) if requested by CivicActions or the client. As always, if you have questions, talk to your project manager or the legal team.
 
 There are also a number of security concerns with non-confidential information. Even though we don't need to protect it from viewing, it is critical that any copies in active use are protected from unauthorized changes.
 
@@ -166,7 +166,7 @@ Usage of CivicActions developer accounts should be as follows:
 
 Web administrator account holders (Drupal, CiviCRM or other) must also:
 
-- Be familiar with how to maintain configuration security as described in Drupal's [securing your site](http://drupal.org/security/secure-configuration) page.
+- Be familiar with how to maintain configuration security as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
 - Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
 - Test the site to ensure settings are correct after changing settings affecting content/data access control.
 - Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
@@ -180,7 +180,7 @@ Developers and themers working on the site codebase (and committing code to Git)
   - A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.
   - OR: The client confirms understanding that we have neither assessed their skills nor are we reviewing their code. This scenario is best avoided, but is sometimes necessary if the site is being transitioned to another developer.
 - Review all contributed code they have not previously used for basic quality - this is not a formal security audit in most cases, but rather checking the usage stats, issue queue, skimming the module code for readability and adherence to good practices etc. Code that is actively used and maintained and follows best practices is less likely to have serious security issues.
-- Check for security advisories ([drupal.org/security](http://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
+- Check for security advisories ([drupal.org/security](https://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
 - Understand common attack vectors and the best practices for preventing them, including:
   - SQL injection, prevented by proper query construction and placeholder usage.
   - XSS (cross site scripting) attacks, prevented by ensuring user data is always sanitized as appropriate on output.

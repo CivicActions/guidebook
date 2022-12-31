@@ -1,0 +1,28 @@
+name: Checking all markdown and links site-wide
+
+on:
+  # Automatic check weekly
+  schedule:
+    - cron: "0 9 * * 1"
+  # Manually triggered using GitHub's UI
+  workflow_dispatch:
+
+jobs:
+  check-all:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check all links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: ".config/markdown.links.config.json"
+      - name: Run remark-lint on all files
+        uses: ./.config/
+        with:
+          command: remark-all.sh
+      - name: Send GitHub Action trigger data to Slack workflow
+        id: slack
+        uses: slackapi/slack-github-action@v1.23.0
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}

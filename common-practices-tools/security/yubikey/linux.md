@@ -18,13 +18,13 @@ If your system is already set up to sleep after a timeout and suspend when you c
 
 Start xss-lock when you start your window manager, passing it the name of the screen locker you want to use. So you could put this in your ~/.xinitrc file:
 
-```
+```bash
 xss-lock -- i3lock -n -c 000000
 ```
 
 Or if running the i3 windor manager, put this in your ~/.i3/config file:
 
-```
+```bash
 exec --no-startup-id xss-lock -- i3lock -n -c 000000
 ```
 
@@ -34,16 +34,16 @@ This uses [xsecurelock](https://github.com/google/xsecurelock) (recommended scre
 
 Install packages as needed (`dunst` and `libnotify` optional -- you may already have a notification system):
 
-#### Arch
+#### Arch xautolock setup
 
-```
-$ pacaur -S xsecurelock-git xautolock dunst libnotify
+```bash
+pacaur -S xsecurelock-git xautolock dunst libnotify
 ```
 
 Next make sure dunst (if using for notifications) and xautolock (if using) are started on X login.
 For example, you can adapt the following to start when your window manager starts, e.g., add to `~/.xinitrc`:
 
-```
+```bash
 dunst &
 xautolock -time 10 -corners -000 -locker "/usr/bin/xsecurelock auth_pam_x11 saver_blank" -killtime 30 -killer "systemctl suspend" -notify 30 -notifier "notify-send -- 'Locking screen in 30 seconds'" &
 ```
@@ -54,12 +54,12 @@ Exceptions to the "idle timeout lock" can be made if you are on your home networ
 
 Assuming `~/bin/` is in your `$PATH`, create executable file `~/bin/out-lock` and replace `xsecurelock` or `i3lock` above with `~/bin/out-lock`:
 
-```
+```bash
 #!/bin/sh
-# Not home (you will need to adjust to some reliable/secure test for your home network).
-# In this case, an internal NAT addressable file home.txt has the given sha256sum value.
+# Not home (you will need to adjust to some reliable/secure test for your home network)
+# In this case, an internal NAT addressable file home.txt has the given sha256sum value
 # if ! curl -s "http://192.168.1.99/home.txt" | sha256sum | grep 6094dd1d56b9d8638bc0e8e630683787151b81320d81568d97ec8daecb370bca > /dev/null; then
-# Less secure, but likely good enough for most cases, check the MAC address of your router:
+# Less secure, but likely good enough for most cases, check the MAC address of your router
 if ! arp 192.168.1.1 | grep 48:5d:36:4c:d5:51 &> /dev/null; then
   # Not already locked.
   if ! pidof xsecurelock > /dev/null; then
@@ -79,17 +79,17 @@ This is required of CivicActions "privileged users" such as System Administrator
 
 In order to connect your YubiKey to the screen locking software on your computer, you need to
 
-#### Arch
+#### Arch yubico-pam setup
 
-```
-$ pacaur -S yubico-pam
+```bash
+pacaur -S yubico-pam
 ```
 
 #### Fedora
 
 #### Ubuntu/Xubuntu
 
-```
+```bash
 sudo apt-get install libpam-yubico
 ```
 
@@ -99,13 +99,13 @@ PAM is the Pluggable Authentication Module used by GNU/Linux and Mac OS X to man
 
 See [Yubico GitHub](https://github.com/Yubico/yubico-pam/blob/b0e243835e61418bfa760e57c3d313b2e9452e87/doc/Authentication_Using_Challenge-Response.adoc) page for complete documentation.
 
-```
-$ ykpamcfg -2 -v
+```bash
+ykpamcfg -2 -v
 ```
 
 Ubuntu autoconfiguration during installation of `libpam-yubico` may already have placed a line like the following in either `/etc/pam.d/common-auth` or `/etc/pam.d/system-auth`. If not using Ubuntu (or the line is not there), edit `/etc/pam.d/system-auth` (will need to `sudo`) and add the following line at the top of the file:
 
-```
+```bash
 auth      required  pam_yubico.so   mode=challenge-response
 ```
 
@@ -113,11 +113,11 @@ auth      required  pam_yubico.so   mode=challenge-response
 
 For additional security, you may want to immediately lock the screen when the YubiKey is removed.
 
-This locks the laptop immediately when any YubiKey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/YubiKey>
+This locks the laptop immediately when any YubiKey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/Yubikey#Automatic_Screen_Locking_.28i3lock.2C_slock.2C_etc..29>
 
 As your login user, create executable file `~/bin/ykgone`:
 
-```
+```bash
 #!/bin/bash
 USER=$(stat -c "%U" "$0")
 if usb-devices | fgrep Vendor=1050; then
@@ -132,6 +132,6 @@ fi
 
 Next, create (with sudo) a device notification file `/etc/udev/rules.d/90-yubikey.rules`:
 
-```
+```bash
 ACTION=="remove", ATTRS{idVendor}=="1050", RUN+="/home/$USER/bin/ykgone"
 ```

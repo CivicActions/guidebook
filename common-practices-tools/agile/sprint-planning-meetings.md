@@ -1,16 +1,16 @@
 # Sprint Planning Meetings
 
-## What it is:
+## What it is
 
 The Sprint Planning Meeting (SPM) is a working session where the entire project team prepares for an upcoming sprint by examining, clarifying, and discussing candidate stories and tasks in the product backlog, breaking complex stories into smaller actionable tasks, quantifying levels of effort to complete candidate tasks, and agreeing to a set of tasks and a sprint goal that can be accomplished in the upcoming sprint.
 
 At the end of a Sprint Planning Meeting, the project team should have a shared understanding of the set of work that they are expecting to accomplish during the sprint. This set of work is referred to as the sprint backlog.
 
-## Who should participate:
+## Who should participate
 
 The sprint planning meeting should be attended by the Product Owner, members of the project team, and facilitated by the Scrum Master. Others may attend to observe, but should not participate.
 
-## How to do it:
+## How to do it
 
 For best Sprint Planning results, it is recommended that you have a [Backlog Refinement Session](backlog-refinement.md) before the Sprint Planning Meeting. This will prepare the backlog for more informed team discussions and will shorten the length of the SPM. It is highly recommended to start there.
 
@@ -33,11 +33,11 @@ A Sprint Planning Meeting usually includes the following:
 
 At the end of the Sprint Planning meeting, the team should arrive at a consensus about the size and composition of the sprint backlog, and should commit to completing the work during the sprint. Once this has occurred, sprint work may begin!
 
-## Why to do it:
+## Why to do it
 
 The Sprint Planning Meeting is arguably the most important meeting of a sprint cycle. It is the meeting where the team gets in sync, where the overall direction is set for the sprint, and where the specific work is quantified and committed to by the project team. Without the Sprint Planning Meeting, the sprint can not progress in an organized way.
 
-## Additional Resources:
+## Additional Resources
 
 - [Scrum Training Series Video](http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm)
 - [A Sprint Planning Cheat Sheet](http://www.leadingagile.com/2012/08/simple-cheat-sheet-to-sprint-planning-meeting/)

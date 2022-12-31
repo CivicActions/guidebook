@@ -1,0 +1,73 @@
+{
+  "ignorePatterns": [
+    {
+      "NOTE: Authenticated sites below": "",
+      "pattern": "^https://github.com/settings/two_factor_authentication/configure$"
+    },
+    {
+      "pattern": "^https://docs.google.com/.*"
+    },
+    {
+      "pattern": "^http://ci.civicactions.net/$"
+    },
+    {
+      "pattern": "^https://app.skills-base.com/.*"
+    },
+    {
+      "pattern": "^https://docs.google.com/.*"
+    },
+    {
+      "pattern": "^https://www.linkedin.com/company/civicactions/$"
+    },
+    {
+      "NOTE: Sites with captcha protection below": "",
+      "pattern": "^https://.*drupal.org/.*"
+    },
+    {
+      "pattern": "^https://www.lastpass.com/.*"
+    },
+    {
+      "pattern": "^https://support.yubico.com/.*"
+    },
+    {
+      "pattern": "^https://.*.zendesk.com/.*"
+    },
+    {
+      "pattern": "^https://support.zoom.us/.*"
+    },
+    {
+      "NOTE: Intentional absolute self links below": "",
+      "pattern": "^https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/$"
+    },
+    {
+      "pattern": "^https://guidebook.civicactions.com/en/latest/[?]badge=latest$"
+    },
+    {
+      "pattern": "^https://guidebook.civicactions.com/en/latest/$"
+    }
+  ],
+  "NOTE: We replace absolute links with a use-relative-links-to-md-files-only since these are (nearly) always mistakes and should link to the relative .md file instead": "",
+  "replacementPatterns": [
+    {
+      "pattern": "guidebook.civicactions.com",
+      "replacement": "use-relative-links-to-md-files-only.guidebook.civicactions.com"
+    },
+    {
+      "pattern": "github.com/CivicActions/guidebook/tree/",
+      "replacement": "use-relative-links-to-md-files-only.github.com/CivicActions/guidebook/tree/"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://github.com/",
+        "https://guides.github.com/",
+        "https://help.github.com/",
+        "https://docs.github.com/"
+      ],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ]
+}

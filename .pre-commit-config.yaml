@@ -19,6 +19,16 @@ repos:
         always_run: true
         pass_filenames: false
         verbose: true
+  - repo: local
+    hooks:
+      - id: link-check
+        name: link-check
+        language: docker_image
+        entry: --entrypoint node civicactions/guidebook-lint:latest /usr/src/node_modules/.bin/markdown-link-check -q -c .config/markdown.links.config.json --
+        types: [markdown]
+        always_run: true
+        pass_filenames: true
+        verbose: true
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0
     hooks:
@@ -33,20 +43,20 @@ repos:
     rev: v1.0.5
     hooks:
       - id: search-and-replace
-        files: '.*\.md'
+        types: [markdown]
         args:
           - "--config=.config/pre-commit-search-and-replace.yaml"
   - repo: https://github.com/codespell-project/codespell
     rev: v2.2.2
     hooks:
       - id: codespell
-        files: '.*\.md'
+        types: [markdown]
         args:
-          - "--config=.config/codespellrc"
+          - "--ignore-words=.config/codespell-ignore"
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: v3.0.0-alpha.4
     hooks:
       - id: prettier
 ci:
   # We skip checks that have their own actions or external dependencies.
-  skip: [remark, codespell, mkdocs]
+  skip: [remark, codespell, mkdocs, link-check]
