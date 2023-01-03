@@ -1,12 +1,10 @@
 # The Project Manager Role
 
-Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove team impediments so that the best development, serving all users, is delivered.
+Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove impediments so that the best development, serving all users, is delivered.
 
-## The difference between PM and ScrumMaster roles
+## The difference between the Project Management and ScrumMaster roles
 
-At CivicActions the PM and the ScrumMaster are the same (although it is conceivable that we would ask a non-PM to be a ScrumMaster).
-
-There are aspects of the ScrumMaster role that relieve some traditional PM responsibilities. For example, on a scrum team, the team should be self-managing. Less impetus is put on the PM to manage team members, however we still ask the PM to recognize risk, velocity, and big picture management. The PM also manages budgets, plans for resourcing, and handles top level communications. The PM however is not a gatekeeper and the scrum team has access to all client communications, documents and a direct relationship with the PO.
+There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA roles leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc. Given that the main objective, however, is a self-sustaining team, neither is a gatekeeper and the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
 
 ## PM role in scrum calls
 
