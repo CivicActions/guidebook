@@ -1,6 +1,6 @@
 # The Project Manager Role
 
-Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove impediments so that the best development, serving all users, is delivered.
+Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove impediments so that our development benefits the public. 
 
 ## The difference between the Project Management and ScrumMaster roles
 
@@ -31,8 +31,8 @@ This pages serves to define the Project Manager role in agile ceremonies.
 ### What is a Review?
 
 - A great ceremony to provide an informal demo from the Dev Team - the entire Dev Team, including UX, Design, Developers, DevOps - to show their work
-- The work does not require completion
-- Instead, it is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups in real time
+- The work may still be in progress, and that is fine
+- It is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups in real time
 
 ### Responsibilities
 
@@ -60,16 +60,16 @@ Retrospectives are imperative for a trusting, self-sustaining and innovative tea
 ### Resources
 
 - Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
-- Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
+- And this one also: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
 ## Refinement
 
-Refinement calls are an important manner for the DevTeam to connect directly with Product Owners and stakeholders. Having them on a regular, consistent cadence builds trust and also alleviates confusion as people will often save their agenda items/ ideas for the call.
+Refinement calls are an important manner for the DevTeam to connect directly with Product Owners and stakeholders. Having them on a regular, consistent cadence builds trust and also alleviates confusion as people will often save their agenda items/ questions/ ideas for the call.
 
 ### Responsibilities
 
 - Coordinating with the Product Manager, share suggetions with the Product Owner and Dev Team prior, including a list of tickets and from whom answers will be most appropriate
-- Share your screen to look at the backlog together
+- Share your screen to review the backlog
 - Start with any security-related tickets
 - Confirm that all tickets include a user story; story points; technical details; any dependencies and also acceptance criteria
 - Ensure the Product Owner and DevTeam have identified the highest priority tasks for both the forthcoming sprint and also the quarter/ PI
@@ -78,7 +78,7 @@ NOTE: A helpful video example: <https://youtu.be/b_WeHcZcx1w>
 
 ### Sprint Planning
 
-Sprint Planning is often overlooked, yet is an excellent moment to confirm Dev Team velociy expectations, call out any dependencies or blockers, plus garner acceptance from the team for the work.
+Sprint Planning is an excellent moment to confirm Dev Team velociy expectations, call out any dependencies or blockers, plus garner acceptance from the team for the work.
 
 ### Responsibilities
 
