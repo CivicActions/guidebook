@@ -24,7 +24,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 ## License
 
-Copyright 2017-2022 CivicActions.
+Copyright 2017-2023 CivicActions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 
