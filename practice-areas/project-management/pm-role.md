@@ -1,5 +1,7 @@
 # The Project Manager Role
 
+Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove team impediments so that the best development, serving all users, is delivered. 
+
 ## The difference between PM and ScrumMaster roles
 
 At CivicActions the PM and the ScrumMaster are the same (although it is conceivable that we would ask a non-PM to be a ScrumMaster).
