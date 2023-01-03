@@ -4,28 +4,29 @@ Project Managers envelop the unique opportunity to hold a project on task and bu
 
 ## The difference between the Project Management and ScrumMaster roles
 
-There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA roles leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc. Given that the main objective, however, is a self-sustaining team, neither is a gatekeeper and the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
+There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc. 
 
-## PM role in scrum calls
+Given that the main objective, however, is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
+
+This pages serves to define the Project Manager role in agile ceremonies.
+
+## Scrum
 
 ### Primary Responsibilities
 
-- Scrum notes (taking & sending)
-- Timebox monitoring (15 minute call)
-- Sticking to the scrum process (avoid discussions mid-checkin)
-- Keeping the team on task
+- Taking and distributing notes (if the team supports this method)([scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit))
+- Timebox monitoring for the 15-minute call
+- Sticking to the scrum process, or holding the team accountable to after meeting topics
+- Keeping the team abreast on all important events, e.g., deployments, due dates, blockers, etc.
 
 ### Other tasks
 
-- Getting everyone on the call, pinging them and making sure people are prompt
-- For team members that are consistently late or disruptive - The PM should remind them privately of the processes and expectations
-- Keeping the team focused and on topic (this may mean the PM may have to interrupt them if they start going down the path of discussion instead of a check-in)
-- Being ready to jump in case people forget who hasn't gone (although letting them sweat for a second is good too in them realizing they should pay attention better)
-- Helping folks remember the structure of the call (if the PM senses they haven't grasped it quite yet). This should be done quickly - 20 seconds max. "As a reminder please state your balance score, what you worked on yesterday, what you're doing today and if you have any blockers or after meetings to request."
-- Then at the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
-- PM sends out the scrum notes to the client mailing list (using the [scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit).)
+- Paying attention to balance scores
+- Reminding the team about expectations for forthcoming ceremonies, e.g., the Review
+- Tackling all impediments raised
+- Sending meeting invites as requires
 
-## PM role in sprint demos
+## Sprint Review/ Demo
 
 ### What is a sprint demo?
 
