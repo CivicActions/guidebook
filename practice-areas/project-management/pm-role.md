@@ -4,11 +4,12 @@ Project Managers envelop the unique opportunity to hold a project on task and bu
 
 ## The difference between the Project Management and ScrumMaster roles
 
-There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc.
+There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc. 
 
 Given that the main objective, however, is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
 
 This pages serves to define the Project Manager role in agile ceremonies.
+
 
 ## Scrum
 
@@ -26,6 +27,7 @@ This pages serves to define the Project Manager role in agile ceremonies.
 - Tackling all impediments raised
 - Sending meeting invites as requires
 
+
 ## Sprint Review/ Demo
 
 ### What is a Review?
@@ -34,9 +36,10 @@ This pages serves to define the Project Manager role in agile ceremonies.
 - The work does not require completion
 - Instead, it is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups
 
+
 ### Responsibilities
 
-- The Project Manager role is as facilitator
+- The Project Manager role is as facilitator 
 - Recording the call, if possible, is positive
 - Support the team by providing details about the Review prior, e.g., who is showing which tickets. Be sure to include the ordering; a simple table works well
 - Always give your team preparation time, reinforcing the need to speak to user value
@@ -44,57 +47,54 @@ This pages serves to define the Project Manager role in agile ceremonies.
 - Notes, especially in real time and made transparent, are encouraged
 - Any subsequent actions, i.e., new tickets, discovery calls, etc., are under the purview of the Project Manager
 
+
 ## Retrospective
 
-### Primary retrospective responsibilities
+Retrospectives are imperative for a trust, self-sustaining, innovative team. They work best at the end of every sprint. They are used also at the end of a project or major initiative. 
 
-- Scheduling the retrospective
-- Facilitating the retrospective
-- Keeping to the timeboxes
-- Ensuring all voices are heard & participate
-- Documenting the outcomes and adding the outcomes of the retrospective to the #retrospecting Slack channel
-- Helping the team keep & meet their commitments
+### Responsibilities
 
-### Overview
-
-- The retrospective meeting happens at the end of every sprint. We will discuss what went well, what could be improved, what we learned, what perplexed us, acknowledge who we're appreciative for, etc.
-- How we structure the retrospectives may vary from sprint to sprint.
-- We should come to a consensus on actions items that we will commit to trying in the next sprint - in order to help us improve.
-- The PO may or may not be included in the retrospective, but some of our major take-aways should be shared with them if they do not attend.
-- When a project launches/closes, holding a final overall retrospective should be considered.
-
-### Best Practices
-
-- Have a retrospective EVERY sprint. Even if you keep it short, have the call.
-- Keep track of what the team wants to do differently next time and with the help of the team implement these changes.
+- Scheduling
+- Facilitating
+- Keeping to the timebox
+- Ensuring all voices are heard 
+- Documenting the outcomes 
+- Helping the team keep and meet their commitments
 
 ### Resources
 
 - Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
 - Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
-## PM role in Backlog Refinement
 
-This meeting helps the team prepare tasks for the next Sprint Planning Meeting. Ideally the whole team partakes, but the Technical Lead, Product Owner, and Project Manager must attend for the meeting to be well balanced and effective.
+## Refinement
 
-### Primary backlog refindement responsibilities
+Refinement calls are an important manner for the DevTeam to connect directly with Product Owners and stakeholders. Having them on a regular, consistent cadence builds trust and also saves confusion as people will often save their agenda items/ ideas for the call. 
 
-- Collaborate with the PO prior to the meeting and establish what the meeting should accomplish
-- At the beginning of the meeting, state the goal and timebox (typically 1.5 hours)
-- Share your screen, while looking at the backlog together
-- Guide the team in doing the following during a Backlog Refinement session:
-- Write user stories using the template "As a \[user type] I want to \[achieve some goal] so that \[some reason]."
-- Break down user stories that are too big (epics)
-- Improve user stories that are poorly written
-- Estimate backlog items with story points
-- Prioritize new tasks into the best spot in the backlog
-- Add acceptance criteria
-- Look deeper into the backlog to do longer-range technical planning
-- Ensure the PO and team have identified the top 10-20 highest priority tasks and they are listed in the backlog
+### Responsibilities
+
+- Coordinating with the Product Manager, share suggetions with the Product Owner and Dev Team prior, including from whom answers will be most appropriate
+- Share your screen to look at the backlog together
+- Confirm that all tickets include a user story; story points; technical details; any dependencies and also acceptance criteria
+- Ensure the Product Owner and DevTeam have identified the highest priority tasks for both the forthcoming sprint and also the quarter/ PI
 
 Here is a helpful video example: <https://youtu.be/b_WeHcZcx1w>
 
-## PM role in any process or planning meeting
+
+### Sprint Planning
+
+Sprint Planning is often overlooked, yet is an excellent moment to confirm Dev Team velociy expectations, call out any dependencies or blockers, plus garner acceptance from the team for the work. 
+
+### Responsibilities
+
+- Coordinating with the Product Manager, share tickets prior to the call
+- Confirm the work load per Dev Team member
+- Allow an open space for questions and concerns
+- Ask the team and Product Owner to call our any risk
+- Verify that assignments, per Dev Team member, are on target
+
+
+### Any other meetings
 
 Occasionally the development team needs to meet to plan or process things together. Some examples of these types of meetings may be:
 
