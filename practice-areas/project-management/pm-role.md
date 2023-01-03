@@ -4,7 +4,7 @@ Project Managers envelop the unique opportunity to hold a project on task and bu
 
 ## The difference between the Project Management and ScrumMaster roles
 
-There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc.
+There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc. 
 
 Given that the main objective, however, is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
 
@@ -28,38 +28,25 @@ This pages serves to define the Project Manager role in agile ceremonies.
 
 ## Sprint Review/ Demo
 
-### What is a sprint demo?
+### What is a Review?
 
-- The sprint review & demo will provide an informal once-per-sprint time slot for the team (UX, Design, Dev) to show their work as it stands at the end of sprint.
-- Some of the work demo'd may not be completed, but we will show what we have so far. This is a live demonstration of work (yes, still in progress). It is not a report.
-- We will invite the PO to this meeting, as well. The PO will help the team decide which work is done and what needs to be returned to the backlog (perhaps with a new ticket).
-- The purpose of the demo is to help us stay transparent on our progress, keep us honest to our work commitments, show the rest of the team the work we did, and provide a space for the PO to approve or request changes to the work on the spot.
+- A great ceremony to provide an informal demo from the Dev Team (everyone, including UX, Design, Developers, DevOps) to show their work
+- The work does not require completion
+- Instead, it is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups
 
----
 
 ### Responsibilities
 
-- During a sprint demo, the PM's major role is as facilitator.
-- Always give your team preparation time for the demo - they need to remember the tickets they worked on and refresh themselves on what to present.
-- The PM should always start the meeting; explaining the agenda, its purpose, the timebox, and any processes the team should follow.
-- The PM should be taking notes as team members demos their work. Notes should include things like questions and answers on a task demoed, work that is incomplete or not functioning, and any outstanding work needed to complete a task.
-- The PM should document these notes somewhere the team can reference them. Suggestion: add the notes for each task to the ticket itself and call attention to the responsible team member.
-- The PM could also consider adding a comment to a ticket that was demoed but had no questions or changes. Suggestion: indicate the date the ticket was demoed and that it was approved with no revisions necessary.
-- The PM should help the team members understand the changes that need to happen based on the feedback from the demo.
-- The PO should not be called on to demo anything, but they should be called on to approve or for any comments for each task demoed.
-- The PM should keep track of the timeboxes.
-- The PM should close the demo/review meeting by letting the team know where they can find the notes for their tasks demo'd and what the next steps are for the team and in the sprint.
+- The Project Manager role is as facilitator 
+- Recording the call, if possible, is positive
+- Support the team by providing details about the Review prior, e.g., who is showing which tickets. Be sure to include the ordering; a simple table works well
+- Always give your team preparation time, reinforcing the need to speak to user value
+- The Project Manager starts the call and explains the agenda, purpose, timebox, and any processes changes from the last call
+- Notes, especially in real time and made transparent, are encouraged
+- Any subsequent actions, i.e., new tickets, discovery calls, etc., are under the purview of the Project Manager
 
-### Processes suggestions
 
-- Timebox the demo to 1.5-2 hours, and divide that time by the number of team members. This is generally the amount of time each person can take to present their work. Remember to leave time for Q&A and the PM intro.
-- The PM should state to the team how much time they each have to present (this can be stated the day before as well as at the beginning of the demo).
-- The PM should ask for a volunteer to start and then ask that first volunteer to verbally pick the next person to demo.
-- The PM can suggest the order of engineers go first, then UX, then design.
-- Questions should be asked after each person demos their work so topics are fresh.
-- Consider recording the meeting/demo.
-
-## PM role in retrospectives
+## Retrospective
 
 ### Primary retrospective responsibilities
 
