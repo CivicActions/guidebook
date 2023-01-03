@@ -1,4 +1,4 @@
-# Project Manager Templates
+# Templates
 
 ## Purpose
 
