@@ -1,6 +1,6 @@
 # The Project Manager Role
 
-Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove impediments so that our development benefits the public. 
+Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove impediments so that our development benefits the public.
 
 ## The difference between the Project Management and ScrumMaster roles
 
