@@ -4,7 +4,7 @@ Project Managers envelop the unique opportunity to hold a project on task and bu
 
 ## The difference between the Project Management and ScrumMaster roles
 
-There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc. 
+There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions leading the decision. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc.
 
 Given that the main objective, however, is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
 
@@ -34,17 +34,15 @@ This pages serves to define the Project Manager role in agile ceremonies.
 - The work does not require completion
 - Instead, it is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups
 
-
 ### Responsibilities
 
-- The Project Manager role is as facilitator 
+- The Project Manager role is as facilitator
 - Recording the call, if possible, is positive
 - Support the team by providing details about the Review prior, e.g., who is showing which tickets. Be sure to include the ordering; a simple table works well
 - Always give your team preparation time, reinforcing the need to speak to user value
 - The Project Manager starts the call and explains the agenda, purpose, timebox, and any processes changes from the last call
 - Notes, especially in real time and made transparent, are encouraged
 - Any subsequent actions, i.e., new tickets, discovery calls, etc., are under the purview of the Project Manager
-
 
 ## Retrospective
 
