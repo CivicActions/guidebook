@@ -2,9 +2,9 @@
 
 Project Managers envelop the unique opportunity to hold a project on task and budget - which is paramount - yet also to include accessibility best practices at every stage; be a role model for effective communication; support and enable innovation; and also remove impediments so that our development benefits the public.
 
-## The difference between the Project Management and ScrumMaster roles
+## The difference between the Project Management and Scrum Master roles
 
-There is a lot of overlap between Project Managers and ScrumMasters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions and budget defining the resourcing model. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc.
+There is a lot of overlap between Project Managers and Scrum Masters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions and budget defining the resourcing model. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, verifying all project deliverables, strategy, etc.
 
 Given that the main objective, however, is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
 
