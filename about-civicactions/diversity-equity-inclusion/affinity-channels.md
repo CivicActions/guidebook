@@ -18,8 +18,9 @@ List of all affinity channels and who the moderator is for each channel are belo
 
 Regional Groups:
 
-- `#ca-bayarea` (open): For team members located in the Bay Area or traveling to the Bay for work.
-- `#ca-dc` (open): For team members located in DC or traveling to DC for work.
+- `#ca-bayarea` (open): For team members located in the Bay Area.
+- `#ca-canada-chatter` (open): For team members located in Canada.
+- `#ca-dc` (open): For team members located in DC.
 - `#ca-florida` (open): For team members located in Florida.
 - `#ca-mi` (open): For team memebers located in Michigan.
 - `#ca-nc` (open): For team members located in North Carolina.
