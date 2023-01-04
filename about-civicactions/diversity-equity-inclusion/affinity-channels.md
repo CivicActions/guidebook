@@ -18,14 +18,16 @@ List of all affinity channels and who the moderator is for each channel are belo
 
 Regional Groups:
 
-- `#ca-bayarea` (open): For team members located in the Bay Area or traveling to the Bay for work
-- `#ca-co` (open): For team members located in Colorado
-- `#ca-dc` (open): For team members located in DC or traveling to DC for work
-- `#ca-florida` (open): For team members located in Florida
-- `#ca-new-england` (open): For team members located in the New England area
-- `#ca-or` (open): For team members located in Oregon
-- `#canada` (private, Kev): For employees located in Canada and allies; mostly operational, PEO Canada
-- `#sacramento-things` (open): For team members located in the Sacramento area or traveling to Sacramento for work
+- `#ca-bayarea` (open): For team members located in the Bay Area.
+- `#ca-canada-chatter` (open): For team members located in Canada.
+- `#ca-dc` (open): For team members located in DC.
+- `#ca-florida` (open): For team members located in Florida.
+- `#ca-mi` (open): For team memebers located in Michigan.
+- `#ca-nc` (open): For team members located in North Carolina.
+- `#ca-new-england` (open): For team members located in the New England area.
+- `#ca-pnw` (open): For team members located in the Pacific North West.
+- `#ca-rockymountains` (open): For team members located in the Rocky Mountains.
+- `#ca-tx` (open): For team members located in Texas.
 
 ## Who can join an affinity channel
 
