@@ -19,6 +19,9 @@ List of some affinity channels:
 - `#parenting` (open): Parents and caregivers of children share joy and resources. Parents and their allies are welcome.
 - `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and their allies are welcome.
 - `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Members of the community including allies are welcome!
+
+Regional Groups:
+
 - `#ca-california` (open): For team members located in California.
 - `#ca-canada-chatter` (open): For team members located in Canada.
 - `#ca-dc` (open): For team members located in DC.
