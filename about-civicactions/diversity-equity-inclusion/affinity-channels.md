@@ -15,6 +15,7 @@ Team Members who are interested may form additional unofficial private or public
 ## Affinity channels directory
 
 List of some affinity channels:
+
 - `#parenting` (open): Parents and caregivers of children share joy and resources. Parents and their allies are welcome.
 - `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and their allies are welcome.
 - `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Members of the community including allies are welcome!
