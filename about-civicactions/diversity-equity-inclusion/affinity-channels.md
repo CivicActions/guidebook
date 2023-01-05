@@ -23,10 +23,10 @@ Regional Groups:
 - `#ca-dc` (open): For team members located in DC.
 - `#ca-florida` (open): For team members located in Florida.
 - `#ca-mi` (open): For team members located in Michigan.
-- `#ca-nc` (open): For team members located in North Carolina.
 - `#ca-new-england` (open): For team members located in the New England area.
 - `#ca-pnw` (open): For team members located in the Pacific Northwest area.
 - `#ca-rockymountains` (open): For team members located in the Rocky Mountains area.
+- `#ca-thesouth` (open): For team members located in the South.
 - `#ca-tx` (open): For team members located in Texas.
 
 ## Who can join an affinity channel
