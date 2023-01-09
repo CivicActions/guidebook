@@ -4,13 +4,17 @@
 
 Affinity channels are intentional spaces for people who share a common identity or affinity (and their allies) to build community and have conversations that are harder to protect in a general space. For example, the `#ca-womxn` affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming, and their allies.
 
+### Regional affinity channels
+
+Regional affinity channels can be used by folks in the region, visitors to the region, and general interest to organize meetups, discuss regional activities, and so on. We also use those regional channels to connect with folks who need support or need to communicate when there are certain events that occur (e.g. we checked in on folks in #ca-florida when storms went through the state).
+
 ### Unofficial Affinity Channels
 
 Team Members who are interested may form additional unofficial private or public affinity slack channels other than the ones listed on this page. CivicActions recognizes team members' interest in forming private conversations around a variety of topics to discuss with fellow team members in addition to their assigned work. Team members are encouraged to speak with their fellow team members to build spaces for building relationships with other team members with common interests. If you do not see an affinity channel, several team-member-organized affinity channels already exist. Many of them are private slack channels and access is controlled by the employees in the channel. You can find them by asking your team members about them. If it doesn't exist, asking other team members is a good way to start a conversation about forming one.
 
 ## Affinity channels directory
 
-List of all affinity channels and who the moderator is for each channel are below.
+List of some affinity channels:
 
 - `#parenting` (open): Parents and caregivers of children share joy and resources. Parents and their allies are welcome.
 - `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and their allies are welcome.
@@ -18,15 +22,15 @@ List of all affinity channels and who the moderator is for each channel are belo
 
 Regional Groups:
 
-- `#ca-bayarea` (open): For team members located in the Bay Area.
+- `#ca-california` (open): For team members located in California.
 - `#ca-canada-chatter` (open): For team members located in Canada.
 - `#ca-dc` (open): For team members located in DC.
 - `#ca-florida` (open): For team members located in Florida.
-- `#ca-mi` (open): For team memebers located in Michigan.
-- `#ca-nc` (open): For team members located in North Carolina.
+- `#ca-mi` (open): For team members located in Michigan.
 - `#ca-new-england` (open): For team members located in the New England area.
-- `#ca-pnw` (open): For team members located in the Pacific North West.
-- `#ca-rockymountains` (open): For team members located in the Rocky Mountains.
+- `#ca-pnw` (open): For team members located in the Pacific Northwest area.
+- `#ca-rockymountains` (open): For team members located in the Rocky Mountains area.
+- `#ca-thesouth` (open): For team members located in the South.
 - `#ca-tx` (open): For team members located in Texas.
 
 ## Who can join an affinity channel
