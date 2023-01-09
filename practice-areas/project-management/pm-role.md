@@ -1,6 +1,7 @@
 # The Project Manager Role
 
 Project Managers envelop the unique opportunity to hold a project on task and budget, which is paramount, yet also to include:
+
 - accessibility best practices at every stage;
 - be a role model for effective communication;
 - support and enable innovation;
@@ -35,14 +36,14 @@ This pages serves to define the Project Manager role in Agile ceremonies.
 ### What is a Review?
 
 - A great ceremony to provide an informal demo from the Project Team (the entire Dev Team, including UX, Design, Developers, DevOps) to show their work
-- The work may still be in progress 
+- The work may still be in progress
 - It is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups in real time
 
 **Responsibilities**
 
 - The Project Manager's role is to be a facilitator
 - Recording the call, if possible, is positive
-- Support the team by providing details about the Review prior (e.g., who is showing which tickets). 
+- Support the team by providing details about the Review prior (e.g., who is showing which tickets).
 - Always give your team preparation time, reinforcing the need to speak to user value
 - The Project Manager starts the call and explains the agenda, purpose, timebox, and any processes changes from the last call
 - Notes, especially those made transparent, are encouraged
