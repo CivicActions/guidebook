@@ -113,7 +113,7 @@ If GitLab becomes unavailable, systems will continue to operate in their current
 
 ### StatusCake
 
-- **Service:** <https://app.statuscake.com/>
+- **Service:** <https://status.statuscake.com/>
 - **Status:** <https://twitter.com/StatusCakeTeam>
 
 If there is a disruption in the StatusCake service, the Incident Response team will be notified by email.
