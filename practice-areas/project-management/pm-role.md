@@ -1,154 +1,136 @@
 # The Project Manager Role
 
-## The difference between PM and ScrumMaster roles
+Project Managers envelop the unique opportunity to hold a project on task and budget, which is paramount, yet also to include:
 
-At CivicActions the PM and the ScrumMaster are the same (although it is conceivable that we would ask a non-PM to be a ScrumMaster).
+- accessibility best practices at every stage;
+- be a role model for effective communication;
+- support and enable innovation;
+- and also remove impediments so that our development benefits the public.
 
-There are aspects of the ScrumMaster role that relieve some traditional PM responsibilities. For example, on a scrum team, the team should be self-managing. Less impetus is put on the PM to manage team members, however we still ask the PM to recognize risk, velocity, and big picture management. The PM also manages budgets, plans for resourcing, and handles top level communications. The PM however is not a gatekeeper and the scrum team has access to all client communications, documents and a direct relationship with the PO.
+## The difference between the Project Manager and Scrum Master roles
 
-## PM role in scrum calls
+There is a lot of overlap between Project Managers and Scrum Masters, especially as agile is intrinsic to our work. Often the role selected ties directly to the contract, with GSA definitions and budget defining the resourcing model. Both roles serve to manage all ceremonies and to support the DevTeam. The main difference is that Project Managers also undertake budeting, reporting, risk, resourcing, confirming QASP metrics are met, and verifying all project deliverables, strategy, etc.
+
+Given that the main objective is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
+
+This pages serves to define the Project Manager role in Agile ceremonies.
+
+## Scrum
 
 ### Primary Responsibilities
 
-- Scrum notes (taking & sending)
-- Timebox monitoring (15 minute call)
-- Sticking to the scrum process (avoid discussions mid-checkin)
-- Keeping the team on task
+- Taking and distributing notes (if the team supports this method)([scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit))
+- Timebox monitoring for team calls
+- Sticking to the scrum process, or holding the team accountable to after-meeting topics
+- Keeping the team abreast on all important events (e.g., deployments, due dates, blockers, etc.)
 
 ### Other tasks
 
-- Getting everyone on the call, pinging them and making sure people are prompt
-- For team members that are consistently late or disruptive - The PM should remind them privately of the processes and expectations
-- Keeping the team focused and on topic (this may mean the PM may have to interrupt them if they start going down the path of discussion instead of a check-in)
-- Being ready to jump in case people forget who hasn't gone (although letting them sweat for a second is good too in them realizing they should pay attention better)
-- Helping folks remember the structure of the call (if the PM senses they haven't grasped it quite yet). This should be done quickly - 20 seconds max. "As a reminder please state your balance score, what you worked on yesterday, what you're doing today and if you have any blockers or after meetings to request."
-- Then at the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
-- PM sends out the scrum notes to the client mailing list (using the [scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit).)
+- Paying attention to balance scores
+- Reminding the team about expectations for forthcoming ceremonies (e.g., the Review)
+- Tackling all impediments raised
+- Sending meeting invites as required
 
-## PM role in sprint demos
+## Sprint Review/ Demo
 
-### What is a sprint demo?
+### What is a Review?
 
-- The sprint review & demo will provide an informal once-per-sprint time slot for the team (UX, Design, Dev) to show their work as it stands at the end of sprint.
-- Some of the work demo'd may not be completed, but we will show what we have so far. This is a live demonstration of work (yes, still in progress). It is not a report.
-- We will invite the PO to this meeting, as well. The PO will help the team decide which work is done and what needs to be returned to the backlog (perhaps with a new ticket).
-- The purpose of the demo is to help us stay transparent on our progress, keep us honest to our work commitments, show the rest of the team the work we did, and provide a space for the PO to approve or request changes to the work on the spot.
+- A great ceremony to provide an informal demo from the Project Team (the entire Dev Team, including UX, Design, Developers, DevOps) to show their work
+- The work may still be in progress
+- It is an opportunity to focus on user value and to garner feedback from the Product Owner and all stakeholder groups in real time
 
----
+**Responsibilities**
 
-### Responsibilities
+- The Project Manager's role is to be a facilitator
+- Recording the call, if possible, is positive
+- Support the team by providing details about the Review prior (e.g., who is showing which tickets).
+- Always give your team preparation time, reinforcing the need to speak to user value
+- The Project Manager starts the call and explains the agenda, purpose, timebox, and any processes changes from the last call
+- Notes, especially those made transparent, are encouraged
+- Any subsequent actions (i.e., new tickets, discovery calls, etc.) are under the purview of the Project Manager
 
-- During a sprint demo, the PM's major role is as facilitator.
-- Always give your team preparation time for the demo - they need to remember the tickets they worked on and refresh themselves on what to present.
-- The PM should always start the meeting; explaining the agenda, its purpose, the timebox, and any processes the team should follow.
-- The PM should be taking notes as team members demos their work. Notes should include things like questions and answers on a task demoed, work that is incomplete or not functioning, and any outstanding work needed to complete a task.
-- The PM should document these notes somewhere the team can reference them. Suggestion: add the notes for each task to the ticket itself and call attention to the responsible team member.
-- The PM could also consider adding a comment to a ticket that was demoed but had no questions or changes. Suggestion: indicate the date the ticket was demoed and that it was approved with no revisions necessary.
-- The PM should help the team members understand the changes that need to happen based on the feedback from the demo.
-- The PO should not be called on to demo anything, but they should be called on to approve or for any comments for each task demoed.
-- The PM should keep track of the timeboxes.
-- The PM should close the demo/review meeting by letting the team know where they can find the notes for their tasks demo'd and what the next steps are for the team and in the sprint.
+## Retrospective
 
-### Processes suggestions
+Retrospectives are imperative for a trusting, self-sustaining and innovative team. They work best at the end of every sprint. They are used also at the end of a project or major initiative.
 
-- Timebox the demo to 1.5-2 hours, and divide that time by the number of team members. This is generally the amount of time each person can take to present their work. Remember to leave time for Q&A and the PM intro.
-- The PM should state to the team how much time they each have to present (this can be stated the day before as well as at the beginning of the demo).
-- The PM should ask for a volunteer to start and then ask that first volunteer to verbally pick the next person to demo.
-- The PM can suggest the order of engineers go first, then UX, then design.
-- Questions should be asked after each person demos their work so topics are fresh.
-- Consider recording the meeting/demo.
+**Responsibilities**
 
-## PM role in retrospectives
-
-### Primary retrospective responsibilities
-
-- Scheduling the retrospective
-- Facilitating the retrospective
-- Keeping to the timeboxes
-- Ensuring all voices are heard & participate
-- Documenting the outcomes and adding the outcomes of the retrospective to the #retrospecting Slack channel
-- Helping the team keep & meet their commitments
-
-### Overview
-
-- The retrospective meeting happens at the end of every sprint. We will discuss what went well, what could be improved, what we learned, what perplexed us, acknowledge who we're appreciative for, etc.
-- How we structure the retrospectives may vary from sprint to sprint.
-- We should come to a consensus on actions items that we will commit to trying in the next sprint - in order to help us improve.
-- The PO may or may not be included in the retrospective, but some of our major take-aways should be shared with them if they do not attend.
-- When a project launches/closes, holding a final overall retrospective should be considered.
-
-### Best Practices
-
-- Have a retrospective EVERY sprint. Even if you keep it short, have the call.
-- Keep track of what the team wants to do differently next time and with the help of the team implement these changes.
+- Scheduling
+- Facilitating
+- Keeping to the timebox
+- Ensuring all voices are heard
+- Documenting the outcomes
+- Helping the team keep and meet their commitments
 
 ### Resources
 
 - Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
-- Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
+- And this one also: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
-## PM role in Backlog Refinement
+## Refinement
 
-This meeting helps the team prepare tasks for the next Sprint Planning Meeting. Ideally the whole team partakes, but the Technical Lead, Product Owner, and Project Manager must attend for the meeting to be well balanced and effective.
+Refinement calls are an important manner for the DevTeam to connect directly with Product Owners and stakeholders. Having them on a regular, consistent cadence builds trust and also alleviates confusion as people will often save their agenda items/ questions/ ideas for the call.
 
-### Primary backlog refindement responsibilities
+**Responsibilities**
 
-- Collaborate with the PO prior to the meeting and establish what the meeting should accomplish
-- At the beginning of the meeting, state the goal and timebox (typically 1.5 hours)
-- Share your screen, while looking at the backlog together
-- Guide the team in doing the following during a Backlog Refinement session:
-- Write user stories using the template "As a \[user type] I want to \[achieve some goal] so that \[some reason]."
-- Break down user stories that are too big (epics)
-- Improve user stories that are poorly written
-- Estimate backlog items with story points
-- Prioritize new tasks into the best spot in the backlog
-- Add acceptance criteria
-- Look deeper into the backlog to do longer-range technical planning
-- Ensure the PO and team have identified the top 10-20 highest priority tasks and they are listed in the backlog
+- Coordinating with the Product Manager, share suggetions with the Product Owner and DevTeam prior, including a list of tickets and from whom answers will be most appropriate
+- Share your screen to review the backlog
+- Start with any security-related tickets
+- Confirm that all tickets include a user story, story points, technical details, any dependencies and also acceptance criteria
+- Ensure the Product Owner and DevTeam have identified the highest priority tasks for both the forthcoming sprint and also the quarter/PI
 
-Here is a helpful video example: <https://youtu.be/b_WeHcZcx1w>
+NOTE: A helpful video example: <https://youtu.be/b_WeHcZcx1w>
 
-## PM role in any process or planning meeting
+### Sprint Planning
 
-Occasionally the development team needs to meet to plan or process things together. Some examples of these types of meetings may be:
+Sprint Planning is an excellent moment to confirm DevTeam velociy expectations, call out any dependencies or blockers, plus garner acceptance from the team for the work.
 
-- Setting working agreements
-- Changing workflows for code review, merge requests, QA, etc.
-- Direction to take with decisions from a retrospective
-- Adjusting how the team works together
-- Discussing a failing test that team needs to figure out
-- Deciding on automated testing processes
-- Assessing user testing feedback
-- Demos and their outcomes
+**Responsibilities**
 
-During these types of meetings the PM should do the following:
+- Coordinating with the Product Manager, share tickets prior to the call
+- Confirm the work load per DevTeam member
+- Allow an open space for questions and concerns
+- Ask the team and Product Owner to call out any risk
+- Verify that assignments, per DevTeam member, are on target
+- Verify that Product Owner priorities are met
+- Reinforce the goal of the sprint
 
-- Schedule the meeting & send out the invite
-- Timebox the meeting appropriately and ensure the team sticks to the timebox
-- Make sure the appropriate team members are in the meeting (and marking others as optional if not critical)
-- Summarize the purpose and goal of the meeting (both on the invite and state it at the start of the meeting)
-- Ensure the team stays on topic to meet the goal and get the outcome needed
-- Document the meeting notes and share with the appropriate mailing list
-- Clearly outline next steps and action items for the team
-- Ensure there is ownership for each action item & the team knows the due dates if applicable
-- Create any tickets or documents necessary (even if it is just a stub ticket or document template)
-- Follow up on the action items the team agreed to & help them stay accountable to their commitments
+## Any other meetings
 
-## Summary of PM responsibilities
+Other ways that the Project Manager supports the team includes, yet is not limited to, the following:
 
-- Note taking for every meeting
-- Sending notes and deliverables to PO
-- Scheduling meetings
-- Keeping the team on task/topic
-- Paying attention to timeboxes
-- Being on time (and first to arrive) to meetings
-- Starting/introducing meetings
-- Approving the initial time off requests from their team members
-- Updating Harvest Forecast for resourcing
-- Documenting outcomes from demos on tickets
-- Status reporting (schedule, budget)
-- Updating the delivery projections for the month
-- Onboarding new team members to the dev team
-- Coordinating contractors on the project
-- Often participating in QA
-- Ensuring the team sticks to the scrum format for standups
+- Setting Team Working Agreements (TWAs)
+- Reviewing QASP metrics
+- Confirming all deliverables are being met, including those of DevOps
+- Talking about workflow
+- Decisions from a Retrospective
+- Assessing UAT
+- etc.
+
+During these types of meetings the Project Manager again serves as facilitator:
+
+- Scheduling
+- Confirming all participants have a voice
+- Respecting the team's time by staying within the timebox
+- Making the meeting notes transparent
+- Supporting the team with reminders on deadlnes, big picture connections, etc.
+- Ensure there is ownership for each action item
+- Create any tickets or documents necessary
+
+## Summary of Project Manager responsibilities
+
+- To build a self-sustaining team that delivers best-of-class work and also has fun
+- To enable the team to develop applications that support all users
+- To document absolutely everything
+- To handle pragmatics (e.g., scheduling, notes, etc.)
+- Approving OOO requests
+- Status and deliverable reporting (schedule, budget)
+- Verifying QASP metrics
+- Onboarding new team members
+- Coordinating contractors
+- Participating in QA
+- Creating a conducive space for innovation
+- Modeling healthy communication patterns
+- Modeling healthy work / life balance
+- Asking questions from the user perspective and including, on all calls, the voice of the user
+- Empowering the team
