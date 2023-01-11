@@ -26,10 +26,12 @@ Wrap up the past quarter:
 1. Adjust onboarding decks with any new project resources
 2. Adjust the All Projects deck with any changes
 3. Adjust the Slack index
+4. Update the On Call Roster
+5. Review and confirm accuracy on the [Services and Tools tracker](https://docs.google.com/spreadsheets/d/1yy7xSeTmTBCCaG5B-oJI3dwMN3r7tFPQ-lw79zOAdFE/edit#gid=1290653154) 
 
 Now prepare for the new quarter:
 
-3. Review project Wrappers (Legal and Project Management)
+6. Review project Wrappers (Legal and Project Management)
 
    - Review contractual dates and details
    - Review QASP
@@ -37,4 +39,4 @@ Now prepare for the new quarter:
    - Verify alignment with DevOps around deliverables
    - Confirm scope has not changed
 
-4. Review Team Working Agreements
+7. Review Team Working Agreements
