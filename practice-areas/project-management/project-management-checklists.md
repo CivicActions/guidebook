@@ -27,7 +27,7 @@ Wrap up the past quarter:
 2. Adjust the All Projects deck with any changes
 3. Adjust the Slack index
 4. Update the On Call Roster
-5. Review and confirm accuracy on the [Services and Tools tracker](https://docs.google.com/spreadsheets/d/1yy7xSeTmTBCCaG5B-oJI3dwMN3r7tFPQ-lw79zOAdFE/edit#gid=1290653154) 
+5. Review and confirm accuracy on the [Services and Tools tracker](https://docs.google.com/spreadsheets/d/1yy7xSeTmTBCCaG5B-oJI3dwMN3r7tFPQ-lw79zOAdFE/edit#gid=1290653154)
 
 Now prepare for the new quarter:
 
