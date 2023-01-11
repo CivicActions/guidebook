@@ -8,7 +8,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes
-    #- navigation.expand
+    - navigation.footer
   favicon: assets/images/favicon.ico
   logo: assets/images/ca-logo-white.svg
   palette:
