@@ -2,20 +2,20 @@
 
 ## Research methods
 
-- [Audiences and outcomes](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/audiences-and-outcomes-guide/)
-- [Stakeholder interviews](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/stakeholder-interviews-guide/)
-- [Content audit](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/content-audit-guide/)
-- [User personas](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/user-personas-guide/)
-- [Story mapping](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/story-mapping-guide/)
+- [Audiences and outcomes](audiences-and-outcomes-guide.md)
+- [Stakeholder interviews](stakeholder-interviews-guide.md)
+- [Content audit](content-audit-guide.md)
+- [User personas](user-personas-guide.md)
+- [Story mapping](story-mapping-guide.md)
 - Journey mapping
 - Story conversations
 - Use cases and user scenarios
-- [Usability testing](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/usability-testing-guide/)
+- [Usability testing](usability-testing-guide.md)
 - Comparative analysis
 
 ## Design methods
 
-- [Content modeling](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/content-modeling-guide/)
+- [Content modeling](content-modeling-guide.md)
 - Content templates
 - Content type definitions
 - Architecture (IA) sketches
@@ -25,7 +25,7 @@
 
 ## Validation methods
 
-- [Usability testing](https://handbook.civicactions.com/en/latest/practice-areas/design-and-research/usability-testing-guide/)
+- [Usability testing](usability-testing-guide.md)
 - Surveys
 - Card sorting
 - A/B Testing
