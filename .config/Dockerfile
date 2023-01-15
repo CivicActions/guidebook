@@ -31,7 +31,6 @@ ENV PATH="/usr/src/node_modules/.bin:${PATH}"
 
 COPY scripts/*.sh /usr/bin/
 WORKDIR /src
-RUN git config --global --add safe.directory .
 
 ENTRYPOINT ["/bin/bash"]
 CMD []

@@ -15,5 +15,6 @@ trap finish EXIT
 
 # We leave the symlink in place, in case the user needs to run mkdocs again locally.
 ln -sfT . .docs
+git config --global --add safe.directory .
 /usr/bin/mkdocs build --config-file=.config/mkdocs.yml --strict --site-dir "${tmp_dir}" 2>&1 | { grep -v '^INFO' || true; }
 echo "mkdocs build successful"
