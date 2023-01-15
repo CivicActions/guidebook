@@ -21,6 +21,7 @@ RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/in
 # Install mkdocs and dependencies.
 COPY requirements.txt /usr/src/
 RUN pip3 install -r /usr/src/requirements.txt
+RUN git config --global --add safe.directory .docs
 
 # Install remark and dependencies.
 COPY remark/* /usr/src/
