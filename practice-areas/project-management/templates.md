@@ -58,7 +58,6 @@ A few templates that support Project Managers for OOO planning and returning.
 
 [Returning Project Manager/ Handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
 
-
 ## Privledged Users
 
 To maintain the integrity of all Production systems, this template is an efficiant way to track access rights for quarterly reviews.
