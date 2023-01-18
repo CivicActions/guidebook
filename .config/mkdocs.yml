@@ -5,6 +5,8 @@ docs_dir: "../.docs"
 edit_uri: edit/master/
 theme:
   name: material
+  custom_dir: theme_overrides
+  language: custom
   features:
     - navigation.tabs
     - navigation.indexes
