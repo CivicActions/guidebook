@@ -5,10 +5,12 @@ docs_dir: "../.docs"
 edit_uri: edit/master/
 theme:
   name: material
+  custom_dir: theme_overrides
+  language: custom
   features:
     - navigation.tabs
     - navigation.indexes
-    #- navigation.expand
+    - navigation.footer
   favicon: assets/images/favicon.ico
   logo: assets/images/ca-logo-white.svg
   palette:
@@ -27,6 +29,7 @@ markdown_extensions:
       title: On this page
 plugins:
   - search
+  - git-revision-date-localized
 extra_css:
   - assets/css/extra.css
 extra_javascript:
@@ -135,6 +138,7 @@ nav:
       - About practice areas: practice-areas/about-practice-areas.md
       - Accessibility practice area: practice-areas/accessibility-practice-area.md
       - Design and research:
+          - practice-areas/design-and-research/design-research-methods.md
           - Audience and outcomes guide: practice-areas/design-and-research/audiences-and-outcomes-guide.md
           - Content audit guide: practice-areas/design-and-research/content-audit-guide.md
           - Content modeling guide: practice-areas/design-and-research/content-modeling-guide.md
