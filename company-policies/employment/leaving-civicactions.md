@@ -14,7 +14,7 @@ If CivicActions sees a problem with an employee's performance, or there is other
 
 ## Return of Company Property
 
-Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation. 
+Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation.
 
 ## Continuation of Benefits
 
