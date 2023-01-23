@@ -5,6 +5,8 @@ docs_dir: "../.docs"
 edit_uri: edit/master/
 theme:
   name: material
+  custom_dir: theme_overrides
+  language: custom
   features:
     - navigation.tabs
     - navigation.indexes
@@ -27,6 +29,7 @@ markdown_extensions:
       title: On this page
 plugins:
   - search
+  - git-revision-date-localized
 extra_css:
   - assets/css/extra.css
 extra_javascript:
