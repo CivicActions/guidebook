@@ -20,7 +20,7 @@ Learn about the various kinds of diversity represented on the CivicActions team.
 
 What is equity, and how can our organization support a more equitable tech industry? Check out the presentation introducing the equity workshop at the 2019 retreat.
 
-**[Code of conduct](https://guidebook.civicactions.com/en/latest/company-policies/code-of-conduct/)
+\*\*[Code of conduct](https://guidebook.civicactions.com/en/latest/company-policies/code-of-conduct/)
 
 We want to foster an open, inclusive, and diverse culture with the freedom to be ourselves. With that in mind we also want to ensure that everyone here is treated fairly and also feels safe and welcome.
 
