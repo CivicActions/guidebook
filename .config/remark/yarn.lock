@@ -2428,10 +2428,10 @@ retext-intensify@^6.2.0:
     unist-util-position "^4.0.0"
     weasels "^2.0.0"
 
-retext-profanities@^7.2.0:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-7.2.1.tgz#8c98ab1766d0f547203a715aa76f390b6e08a065"
-  integrity sha512-VJ+opSjhmFKJnHvvqpM6/5Jxiizys9teNmQpdQgZTeUTddAGALq418/hjyvCvI1c2IGgya8pVA5pZ1b8+RMfyQ==
+retext-profanities@^7.2.2:
+  version "7.2.2"
+  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-7.2.2.tgz#59e8e86439c02228f164bc3faf83b371c75ce83f"
+  integrity sha512-nwrR987v3m7+JQ8wyK8oE+adqS1aYUyHyf+k6omflI/8PL9Slbp/39YieTJJvrmR0udBe2iV7aURXW5/3Uj12w==
   dependencies:
     "@types/nlcst" "^1.0.0"
     cuss "^2.0.0"
