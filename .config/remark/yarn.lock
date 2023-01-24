@@ -2387,10 +2387,10 @@ retext-equality@^6.6.0:
     unist-util-visit "^4.0.0"
     vfile "^5.0.0"
 
-retext-indefinite-article@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/retext-indefinite-article/-/retext-indefinite-article-4.1.0.tgz#1a23efe1d3daaa81dcbf1e189b9f50c926436b35"
-  integrity sha512-vu1nJWFUVPU+TrE7eaxS6aJ9kA7+4qcsehgUx42EehcmGlWl+ilmOUKN3vnnG1JKIEmWcumB/Lg3W4whxN0YtQ==
+retext-indefinite-article@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/retext-indefinite-article/-/retext-indefinite-article-4.2.0.tgz#83803086b29d940bd66a431fc2d0ad05b0b7d678"
+  integrity sha512-qAAqK7tR+aX3kFIHlgO3zojLC9XmcIA96f68ooj8yhVN1iTDbrs0xHnGaBYc/9WCI2F4iyJUH8qZ2CBY2uTxAQ==
   dependencies:
     "@types/nlcst" "^1.0.0"
     format "^0.2.0"
