@@ -2496,10 +2496,10 @@ retext-simplify@^7.2.0:
     unified "^10.0.0"
     unist-util-position "^4.0.0"
 
-retext-spell@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-5.1.0.tgz#cd86003f42cc76a8a749ac7a5cb7da9b3d3a5093"
-  integrity sha512-igBEOmzOnemIWBUUfgfCOpIx9yCKP/VEclcCLwLTy2Y0ix6yPAuApFGXj78s0/zQ9vZ6CWtGEcFCrfKjEdoT0g==
+retext-spell@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-5.3.0.tgz#c5b579d4d1abd4d7603f6cdc2d3f5a2d702e1133"
+  integrity sha512-b4LLp5S7ScmE+qJ2gu7FKfJICcfIK/UYIn1L84gJNRjDJyVIXWgdqQ7kgoqduP1mH3fFiKz3YVyNS4hD3XTlWw==
   dependencies:
     "@types/nlcst" "^1.0.0"
     nlcst-is-literal "^2.0.0"
