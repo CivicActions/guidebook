@@ -182,11 +182,12 @@ nav:
           - Project Management Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
           - Project Management Checklists: practice-areas/project-management/project-management-checklists.md
   - About this guidebook:
-      - How and when to contribute to the guidebook: about-this-guidebook/README.md
-      - Git workflow: about-this-guidebook/git-workflow.md
-      - GitHub actions: about-this-guidebook/github-actions.md
-      - Guidebook governance: about-this-guidebook/guidebook-governance.md
+      - About this guidebook: about-this-guidebook/README.md
+      - Why this guidebook is open: why-guidebook-is-open.md
+      - Editing the guidebook using Git: about-this-guidebook/editing-the-guidebook.md
+      - Reviewing pull requests: reviewing-pull-requests.md
+      - Automatic checking: about-this-guidebook/automatic-checking.md
+      - Governance: about-this-guidebook/guidebook-governance.md
       - Guidebook writing style: about-this-guidebook/writing-style-guide.md
       - Markdown: about-this-guidebook/markdown-for-guidebook.md
       - License: LICENSE.md
-      - Change Log: CHANGELOG.md
