@@ -1,21 +1,33 @@
-# How and when to contribute to the guidebook
+# About this guidebook
 
 This guidebook is written by and for all employees of CivicActions. Everyone is encouraged to contribute to continuously improve it.
 
-The most common incentive to create or edit documentation is to "scratch an itch" that's felt when we come across a lack of information, or lack of standards around a practice. If you find a hole in the documentation, you're probably the best person to take a stab at filling it.
+A common reason to create or edit documentation is to "scratch an itch" that's felt when we come across a lack of information or spot an error.  We invite you to act on that impulse when you can. You can also ask a practice lead if you are not sure. This way we keep the guidebook working as a valuable resource for new hires as well as veteran team members.
 
-We also have [a Trello board](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) to manage the documentation backlog. Feel free to pick something off the backlog to work on.
+<!-- once font awesome installed, will replace favicon.ico with @fa-solid fa-lock in following paragraph -->
+
+We have [a Trello board](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) ![Access to the guidebook Trello board is limited to CivicActions employees.](../assets/images/favicon.ico) to manage the guidebook backlog. Feel free to pick something off the backlog to work on (unless it’s already been assigned to someone).
 
 We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel in Slack to communicate.
 
-## Minimal Viable Contribution
+## Steps for a successful contribution
 
-Better than doing nothing at all:
+When making a contribution to the guidebook:
 
-- [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a documentation suggestion, or
-- Create an [issue in GitHub](https://github.com/CivicActions/guidebook/issues/new).
-- Chat about it in [#docs](https://civicactions.slack.com/messages/docs/).
+1. If you have an idea for improving the guidebook but don’t have time to research and/or write new content, you can [open a new Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) @fa-solid fa-lock with a suggestion for the backlog. 
 
-## Writing documentation
+2. You can chat about your suggestion in #docs in Slack and ask for help if you’re not sure how to resolve any issues.
 
-You should read the rest of this section if you intend to contribute beyond a Trello ticket, issue, or chatting in the #docs channel.
+3. Take 10 minutes to review:
+   - The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
+   - How to do [Markdown](markdown-for-guidebook.md).
+   - How to [edit content using Git](editing-using-git.md)
+   - Who [approves pull requests](guidebook-governance.md) (PRs) when you make changes
+   
+4. Create a new page or edit an existing one in GitHub.
+
+5. Make any needed changes to the guidebook navigation.
+
+6. Have someone review your page and code.
+
+7. Merge the code to make it available publicly.
