@@ -15,7 +15,7 @@ New employees receive an email invite to join the CivicActions account. If you m
 
 ### Editing an existing page
 
-- Go to the guidebook repository (also known as the repo): https://github.com/CivicActions/guidebook
+- Go to the guidebook repository (also known as the repo): https://github.com/CivicActions/guidebook.
 - Open one of these folders:
   - about-CivicActions
   - employee-benefits
@@ -23,14 +23,14 @@ New employees receive an email invite to join the CivicActions account. If you m
   - common-practices-tools
   - practice-areas
   - about-this-guidebook
-- Click on the page you want to edit
-- Click the pencil icon to edit
-- Make your changes using markdown 
-- Click the **Preview tab** to make sure everything looks right
+- Click on the page you want to edit.
+- Click the pencil icon to edit.
+- Make your changes using markdown.
+- Click the **Preview tab** to make sure everything looks right.
 
 ### Creating a new page
 
-- Go to the guidebook repository (also known as the repo): https://github.com/CivicActions/guidebook 
+- Go to the guidebook repository (also known as the repo): https://github.com/CivicActions/guidebook. 
 - Open one of these existing folders in the repo (do not create a new folder):
   - about-CivicActions
   - employee-benefits
@@ -38,17 +38,17 @@ New employees receive an email invite to join the CivicActions account. If you m
   - common-practices-tools
   - practice-areas
   - about-this-guidebook
-- Click Add file > Create new file
+- Click Add file > Create new file.
 
 Alt tag: Screenshot of GitHub directory with dropdown menu with two items: Create new file and Upload file.
 
-- Name your file, ending with the extension .md
+- Name your file, ending with the extension .md.
 
 <!-- image file to come -->
 Alt tag: Screenshot of new GitHub file field where you enter the name of the new file.
 
 - Add your content.
-- Click the **Preview** tab to make sure everything looks right
+- Click the **Preview** tab to make sure everything looks right.
 
 ## Step 3: Save your changes
 
@@ -102,14 +102,14 @@ If you need help fixing errors, message the [#docs](https://civicactions.slack.c
 
 If you are adding new content or changing the title (H1) of an existing page, you will need to update the settings file containing the navigation labels. If you are not sure where to place your content in the navigation, start a conversation in [#docs](https://civicactions.slack.com/messages/docs/) in Slack.
 
-- Go to the guidebook repo: https://github.com/CivicActions/guidebook 
-- Click the .config folder to open
-- Click the mkdocs.yml file to open
-- Click the pencil icon to edit the file
+- Go to the guidebook repo: https://github.com/CivicActions/guidebook. 
+- Click the .config folder to open.
+- Click the mkdocs.yml file to open.
+- Click the pencil icon to edit the file.
 - Scroll down to the navigation section (“nav:”) and locate either:
   - the line you want to change, or 
-  - where you will insert a new line to add the navigation label for your new content
-   - If you are adding a new page, use the format: [navigation label]: file name (with .md)
+  - where you will insert a new line to add the navigation label for your new content.
+   - If you are adding a new page, use the format: [navigation label]: file name (with .md).
 - Save your commit and create the pull request. Note the PR number of the content PR in the description field so the reviewer can see the changes in the content.
 - 
 The PR will be reviewed by a team member before being merged.
