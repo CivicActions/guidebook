@@ -1,8 +1,8 @@
 # Governance
 
-Any team member with a GitHub account can make [pull requests](git-workflow.md) to change any part of the guidebook.
+Any team member with a GitHub account can make [pull requests](editing-the-guidebook.md) to change any part of the guidebook.
 
-Ideally, pull requests should be assigned to team members who are subject matter experts. For example, changes to the LICENSE.md file were assigned to a lawyer (who happens to be a copyleft and FLOSS expert). If you're not sure who to assign the PR too, you might want to ask in the [#docs] channel(https://civicactions.slack.com/messages/docs/) in Slack.
+Ideally, pull requests should be assigned to team members who are subject matter experts. For example, changes to the [license file](../LICENSE.md) were assigned to a lawyer (who happens to be a copyleft and FLOSS expert). If you're not sure who to assign the PR too, you might want to ask in the [#docs] channel(https://civicactions.slack.com/messages/docs/) in Slack.
 
 ## Governance driven by practice area and working groups
 
