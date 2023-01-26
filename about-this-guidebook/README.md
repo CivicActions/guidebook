@@ -12,9 +12,9 @@ We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel i
 
 When making a contribution to the guidebook:
 
-1. If you have an idea for improving the guidebook but don’t have time to research and/or write new content, you can [open a new Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) @fa-solid fa-lock with a suggestion for the backlog. 
+1. If you have an idea for improving the guidebook but don’t have time to research and/or write new content, you can open a new [Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion for the backlog. 
 
-2. You can chat about your suggestion in #docs in Slack and ask for help if you’re not sure how to resolve any issues.
+2. You can chat about your suggestion in [#docs](https://civicactions.slack.com/messages/docs/) in Slack and ask for help if you’re not sure how to resolve any issues.
 
 3. Take 10 minutes to review:
    - The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
