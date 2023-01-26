@@ -8,7 +8,7 @@ Content appearing in the guidebook should be welcoming, personable, and free fro
 
 ## Person
 
-Write in second person as though you’re speaking to the reader. Exceptions are made to this rule when a policy must refer to CivicActions team members in the third person.
+Write in second person as though you're speaking to the reader. Exceptions are made to this rule when a policy must refer to CivicActions team members in the third person.
 
 ## How to capitalize titles and headings
 
@@ -26,4 +26,4 @@ The [GitHub Actions build](github-actions.md) outputs a list of suggestions to i
 
 ## Specific terms
 
-- Specify Free/Libre Open Source Software, which can be shortened to FLOSS. Do not use just “open source software”. See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.
+- Specify Free/Libre Open Source Software, which can be shortened to FLOSS. Do not use just "open source software". See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.
