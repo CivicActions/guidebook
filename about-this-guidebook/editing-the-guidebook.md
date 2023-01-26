@@ -54,7 +54,7 @@ New employees receive an email invite to join the CivicActions account. If you m
 
 When you are ready to save your changes (known in Gitspeak as "make a commit"), you'll see three fields at the bottom of the editing screen. All of these fields are optional, with default values. In most cases it's fine to leave the defaults.
 
-- The commit title: By default this is something like "Update [filename]". You can leave this as is. If you want to be more precise, keep it short.
+- The commit title: By default this is something like "Update (filename)". You can leave this as is. If you want to be more precise, keep it short.
 - Extended description: Explain your changes, if you wish.
 - The branch name: By default this will be a new branch.
 
@@ -64,9 +64,9 @@ After you commit, you will be asked if you want to create a new pull request wit
 - Extended description: This also draws from your last commit.
 - The right sidebar: You can assign your pull request to someone on the team (someone you think may want to review your edits).
 
-When you save your changes, Git will create a new branch for your change using the default format [username]-patch-1. This branch is a copy of the entire guidebook. Any changes you make in this new branch do not affect the master branch for the guidebook. Your changes take effect when the branch is merged (Step 7).
+When you save your changes, Git will create a new branch for your change using the default format (username)-patch-1. This branch is a copy of the entire guidebook. Any changes you make in this new branch do not affect the master branch for the guidebook. Your changes take effect when the branch is merged (Step 7).
 
-If you want to change the new branch name to something more meaningful, such as [username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.
+If you want to change the new branch name to something more meaningful, such as (username)-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.
 
 ![Screenshot of GitHub fields for entering a comment and selecting a branch.](../assets/images/3-Propose-changes.png)
 
@@ -107,7 +107,7 @@ If you are adding new content or changing the title (H1) of an existing page, yo
 - Scroll down to the navigation section ("nav:") and locate either:
   - the line you want to change, or
   - where you will insert a new line to add the navigation label for your new content.
-  - If you are adding a new page, use the format: [navigation label]: file name (with .md).
+  - If you are adding a new page, use the format: navigation label: file name (with .md).
 - Save your commit and create the pull request. Note the PR number of the content PR in the description field so the reviewer can see the changes in the content.
 
 The PR will be reviewed by a team member before being merged.
