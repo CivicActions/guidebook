@@ -26,7 +26,7 @@ We use <http://remark.js.org/> for additional linting/checking our markdown synt
 - The [remarkrc.problem file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.problem) shows a list of all the rules being enforced.
 - The [remarkrc.suggestion file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.suggestion) shows a list of all rules used to give suggestions.
 
-This linter is run by [GitHub Actions](github-actions.md) with each pull request and code merge, and will automatically post a pull request review indicating problems and suggestions. You can also access the log of problems and suggestions from the GitHub Actions check details link.
+This linter is run by [GitHub Actions](automatic-checking.md) with each pull request and code merge, and will automatically post a pull request review indicating problems and suggestions. You can also access the log of problems and suggestions from the GitHub Actions check details link.
 
 Finally, the mkdocs command may identify broken links or other issues in the pull request.
 
