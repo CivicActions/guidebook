@@ -20,7 +20,7 @@ When making a contribution to the guidebook:
 
    - The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
    - How to do [Markdown](markdown-for-guidebook.md).
-   - How to [edit content using Git](editing-using-git.md)
+   - How to [edit content using Git](editing-the-guidebook.md)
    - Who [approves pull requests](guidebook-governance.md) (PRs) when you make changes
 
 4. Create a new page or edit an existing one in GitHub.
