@@ -40,12 +40,11 @@ New employees receive an email invite to join the CivicActions account. If you m
   - about-this-guidebook
 - Click Add file > Create new file.
 
-Alt tag: Screenshot of GitHub directory with dropdown menu with two items: Create new file and Upload file.
+![Screenshot of GitHub directory with dropdown menu with two items: Create new file and Upload file.](../assets/images/1-Create-new-file.png)
 
 - Name your file, ending with the extension .md.
 
-<!-- image file to come -->
-Alt tag: Screenshot of new GitHub file field where you enter the name of the new file.
+![Screenshot of new GitHub file field where you enter the name of the new file.](../assets/images/2-Name-file.png)
 
 - Add your content.
 - Click the **Preview** tab to make sure everything looks right.
@@ -68,8 +67,7 @@ When you save your changes, Git will create a new branch for your change using t
 
 If you want to change the new branch name to something more meaningful, such as [username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.
 
-<!-- image file to come -->
-Alt tag: Screenshot of GitHub fields for entering a comment and selecting a branch. 
+![Screenshot of GitHub fields for entering a comment and selecting a branch.](../assets/images/3-Propose-changes.png)
 
 Click **Propose changes**. You’ve just made a commit.
 
@@ -85,8 +83,7 @@ If you are only changing **one** page, click **Create pull request**. If you are
 
 Find the branch you already created in the [branches list](https://github.com/CivicActions/guidebook/branches) and click on it. Your branch will now appear at the top of the editing screen. 
  
-<!-- image file to come -->
-Alt Tag: Screenshot of GitHub dropdown menu listing available branches of the repository.
+![Screenshot of GitHub dropdown menu listing available branches of the repository.](../assets/images/4-Find-branch.png)
 
 Find and edit another file (or the same file you just edited) and commit it. This time, GitHub will know that you want to commit to the same branch as you created during your first commit.
 
@@ -111,7 +108,7 @@ If you are adding new content or changing the title (H1) of an existing page, yo
   - where you will insert a new line to add the navigation label for your new content.
    - If you are adding a new page, use the format: [navigation label]: file name (with .md).
 - Save your commit and create the pull request. Note the PR number of the content PR in the description field so the reviewer can see the changes in the content.
-- 
+ 
 The PR will be reviewed by a team member before being merged.
 
 ## Step 7: merge your pull request
@@ -119,11 +116,9 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 Click **Squash and merge**.
 
-<!-- image file to come -->
-Alt tag: Screenshot of GitHub indicating that changes have been approved, all checks have passed, and the branch has no conflicts with the base branch.
-Click Confirm squash and merge.
-
-<!-- image file to come -->Alt tag: Screenshot of GitHub button to confirm the pull request and merge it with the base branch.
+![Screenshot of GitHub indicating that changes have been approved, all checks have passed, and the branch has no conflicts with the base branch.](../assets/images/5-Squash-merge.png)
+ 
+Click **Confirm squash and merge**.
 
 The changes in the PR are now visible via the public URL. You’re done!
 
