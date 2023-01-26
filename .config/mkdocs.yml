@@ -183,9 +183,9 @@ nav:
           - Project Management Checklists: practice-areas/project-management/project-management-checklists.md
   - About this guidebook:
       - About this guidebook: about-this-guidebook/README.md
-      - Why this guidebook is open: why-guidebook-is-open.md
+      - Why this guidebook is open: about-this-guidebook/why-guidebook-is-open.md
       - Editing the guidebook using Git: about-this-guidebook/editing-the-guidebook.md
-      - Reviewing pull requests: reviewing-pull-requests.md
+      - Reviewing pull requests: about-this-guidebook/reviewing-pull-requests.md
       - Automatic checking: about-this-guidebook/automatic-checking.md
       - Governance: about-this-guidebook/guidebook-governance.md
       - Guidebook writing style: about-this-guidebook/writing-style-guide.md
