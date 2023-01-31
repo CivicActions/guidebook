@@ -28,6 +28,10 @@ theme:
 markdown_extensions:
   - toc:
       title: On this page
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 plugins:
   - search
   - git-revision-date-localized
