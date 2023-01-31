@@ -11,6 +11,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.footer
+    - content.action.edit
   favicon: assets/images/favicon.ico
   logo: assets/images/ca-logo-white.svg
   palette:
