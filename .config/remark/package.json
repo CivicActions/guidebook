@@ -3,7 +3,7 @@
   "dependencies": {
     "markdown-link-check": "^3.10.3",
     "prettier": "^2.8.1",
-    "remark-cli": "^10.0.1",
+    "remark-cli": "^11.0.0",
     "remark-comment-config": "^7.0.1",
     "remark-frontmatter": "^4.0.1",
     "remark-lint": "^9.1.1",
