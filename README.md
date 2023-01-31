@@ -13,10 +13,9 @@ hide:
 This Guidebook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
 
 ## Common Topics
+
 <div class="grid cards" markdown>
-  
-  
-  
+
 </div>
 
 ## Contact Information
