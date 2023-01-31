@@ -18,10 +18,10 @@ When making a contribution to the guidebook:
 
 3. Take 10 minutes to review:
 
-    1. The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
-    2. How to do [Markdown](markdown-for-guidebook.md).
-    3. How to [edit content using Git](editing-the-guidebook.md)
-    4. Who [approves pull requests](guidebook-governance.md) (PRs) when you make changes
+   1. The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
+   2. How to do [Markdown](markdown-for-guidebook.md).
+   3. How to [edit content using Git](editing-the-guidebook.md)
+   4. Who [approves pull requests](guidebook-governance.md) (PRs) when you make changes
 
 4. Create a new page or edit an existing one in GitHub.
 
