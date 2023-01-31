@@ -5,7 +5,9 @@ updated: April 20, 2018
 
 # Expenses
 
-CivicActions will timely reimburse approved business-related out-of-pocket expenses as long as you submit a receipt.
+CivicActions will reimburse approved, business-related, and out-of-pocket expenses within 30 days, as long as you submit a receipt.
+
+If you are an employee based in Canada, refer to the pinned Slack instructions for submitting an expense in the [#ca-canada-employees channel](https://civicactions.slack.com/messages/ca-canada-employees/) in Slack.
 
 ## Request approval for an expense
 
