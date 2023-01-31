@@ -26,7 +26,7 @@ In addition to the $1,200 annual budget, each team member is encouraged to use a
 | 2019 | 1668                           | 56                            | 29.8                                          |
 
 _\*Snapshot from February 12, 2020._
-  
+
 </details>
 
 ## Your Prodev budget
