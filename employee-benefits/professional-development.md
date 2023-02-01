@@ -15,7 +15,7 @@ CivicActions recognizes the importance of individual professional development fo
 In addition to the $1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
 <!-- prettier-ignore-end -->
 
-<details><summary>Historical Prodev Hours Spent:</summary>
+<details markdown><summary>Historical Prodev Hours Spent:</summary>
 
 | Year | Company-wide Prodev Hours Used | # People Billing Prodev Hours | Average Prodev Hours Used Per Person Annually |
 | ---- | ------------------------------ | ----------------------------- | --------------------------------------------- |
