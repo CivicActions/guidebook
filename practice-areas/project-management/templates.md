@@ -86,7 +86,7 @@ A great resource for opening project and product management duties to the full t
 
 This template is used as a guide for Project Managers to track all project risks.
 
-[Risk Ledger Template](https://docs.google.com/a/civicactions.net/document/d/1qu5Os-hVrEtdfsIhuXi5F8ugpfOkAFiumW5R2wBMID0/edit?usp=sharing)
+[Risk Ledger Template](https://docs.google.com/spreadsheets/d/1sOfCcARTNAaP0PfyMY9iBiThONGbzKZrzn4adrmpVAw/edit#gid=0)
 
 ## Team Working Agreement
 

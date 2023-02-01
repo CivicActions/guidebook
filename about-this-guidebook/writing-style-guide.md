@@ -1,8 +1,14 @@
 # Writing style
 
+We come from different disciplines and levels of familiarity with Agile or technical subjects. Consider your audience when writing content, including how much or little they know about your topic. Writing in plain language with shorter, simpler words and bulleted lists instead of long sentences helps everyone. At the same time, be sure to use specific terms known to those in the same discipline.
+
 ## Tone
 
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the guidebook should be welcoming, personable, and free from jargon.
+Content appearing in the guidebook should be welcoming, personable, and free from jargon or acronyms.
+
+## Person
+
+Write in second person as though you're speaking to the reader. Exceptions are made to this rule when a policy must refer to CivicActions team members in the third person.
 
 ## How to capitalize titles and headings
 
@@ -14,10 +20,10 @@ Examples
 - Engineer's role in client relationships
 - Accessibility: Everyone has a role
 
-## Suggestions
+## Automated suggestions for improvement
 
-The [GitHub Actions build](github-actions.md) outputs a list of suggestions to improve the readability, language, and grammar of the file(s) your pull requests touches. You are encouraged to review and incorporate these.
+The [GitHub Actions build](automatic-checking.md) outputs a list of suggestions to improve the readability, language, and grammar of the file(s) your pull requests touches. You are encouraged to review and use any suggestions that make the content easier to read and understand.
 
 ## Specific terms
 
-- Never refer to "Open Source" Software without specifying it Free/Libre Open Source Software, which can be shortened to FLOSS. See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.
+- Specify Free/Libre Open Source Software, which can be shortened to FLOSS. Do not use just "open source software". See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.

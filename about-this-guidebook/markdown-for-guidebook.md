@@ -1,10 +1,10 @@
 # Markdown
 
-The documentation is written in markdown.
+The guidebook is written in markdown.
 
 ## The Commonmark spec
 
-Markdown has always been a pretty loose-goosey syntax, but because our documentation is published at Readthedocs, we've adopted the [Commonmark](http://commonmark.org/) spec, which is somewhat more strict than the markdown parsers you may be used to using in various web apps like Jira, or Trello. For this reason, it's probably worth upping your Markdown game, even if you've been using it for years. The linter (more on that below) will complain if you use the wrong syntax, and your edits will not be merge-able.
+We use the [Commonmark](http://commonmark.org/) spec, which is somewhat more strict than the markdown parsers. For this reason, it's probably worth upping your Markdown game, even if you've been using it for years. The Markdown checking tool will complain if you use the wrong syntax, and your edits will not be merge-able.
 
 There's a great tutorial [on the Commonmark website](http://commonmark.org/help/tutorial/).
 
@@ -19,16 +19,16 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 - Many common Markdown formatting issues will be automatically corrected after you submit your Pull Request by the FOSS [Restyler](https://restyled.io/).
 - This applies the FOSS tool [Prettier](https://prettier.io/) using the default configuration, which is our canonical standard.
 
-## Markdown linter
+## Markdown checking (linter)
 
-We are using <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readability, language and grammar issues.
+We use <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readability, language and grammar issues.
 
 - The [remarkrc.problem file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.problem) shows a list of all the rules being enforced.
 - The [remarkrc.suggestion file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.suggestion) shows a list of all rules used to give suggestions.
 
-This linter is run by [GitHub Actions](github-actions.md) with each pull request and code merge, and will automatically post a pull request review indicating problems and suggestions. You can also access the log of problems and suggestions from the GitHub Actions check details link.
+This linter is run by [GitHub Actions](automatic-checking.md) with each pull request and code merge, and will automatically post a pull request review indicating problems and suggestions. You can also access the log of problems and suggestions from the GitHub Actions check details link.
 
-Finally, the mkdocs command (which is what Readthedocs) uses to build the web version of the documentation is run - this may identify broken links or other issues in your pull request.
+Finally, the mkdocs command may identify broken links or other issues in the pull request.
 
 ### Running the linter and format auto-correct locally
 
