@@ -1,4 +1,4 @@
-# Annual Review Process
+# Annual performance review
 
 CivicActions uses Culture Amp to administer annual reviews. Culture Amp offers asynchronous, scalable review processes, including self reflection, peer feedback, and manager feedback.
 
