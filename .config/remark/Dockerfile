@@ -18,9 +18,9 @@ RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/in
 # Install remark and dependencies.
 COPY * /usr/src/
 RUN yarn install --production --non-interactive --cwd /usr/src && \
-  yarn cache clean --force --cwd /usr/src \
-  mkdir /src \
-  git config --global --add safe.directory /src
+  yarn cache clean --force --cwd /usr/src && \
+  mkdir /src && \
+  git config --system --add safe.directory /src
 ENV PATH="/usr/src/node_modules/.bin:${PATH}"
 
 COPY *.sh /usr/bin/
