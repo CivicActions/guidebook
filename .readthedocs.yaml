@@ -11,6 +11,14 @@ build:
   tools:
     python: "3.9"
   jobs:
+    post_create_environment:
+      # Install poetry
+      # https://python-poetry.org/docs/#installing-manually
+      - pip install poetry
+      # Tell poetry to not use a virtual environment
+      - poetry config virtualenvs.create false
+    post_install:
+      - poetry -C .config/mkdocs/ install
     pre_build:
       - mkdir .docs
       - mv ./* .docs
@@ -18,8 +26,3 @@ build:
 
 mkdocs:
   configuration: .config/mkdocs.yml
-
-# Optionally declare the Python requirements required to build your docs
-python:
-  install:
-    - requirements: .config/requirements.txt
