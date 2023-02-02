@@ -17,4 +17,4 @@ jobs:
         with:
           version: 1.3.2
       - name: Run mkdocs to check build.
-        run: ./config/mkdocs/mkdocs.sh
+        run: ./.config/mkdocs/mkdocs.sh
