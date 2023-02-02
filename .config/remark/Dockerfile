@@ -19,7 +19,8 @@ RUN wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/in
 COPY * /usr/src/
 RUN yarn install --production --non-interactive --cwd /usr/src && \
   yarn cache clean --force --cwd /usr/src \
-  mkdir /src
+  mkdir /src \
+  git config --global --add safe.directory /src
 ENV PATH="/usr/src/node_modules/.bin:${PATH}"
 
 COPY *.sh /usr/bin/
