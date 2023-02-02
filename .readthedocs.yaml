@@ -18,13 +18,14 @@ build:
       # Tell poetry to not use a virtual environment
       - poetry config virtualenvs.create false
     post_install:
+      # Configure git authentication
       - git config --global credential.helper store
       - echo "https://${GH_TOKEN}:@github.com" > $HOME/.git-credentials
+      # Install packages
       - poetry -C .config/mkdocs/ install
     pre_build:
-      - mkdir .docs
-      - mv ./* .docs
-      - mv ./.git .docs/.
+      # Symlink all files to a .docs directory so we can build outside the root
+      - ln -sfT . .docs
 
 mkdocs:
   configuration: .config/mkdocs.yml
