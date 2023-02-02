@@ -5,10 +5,13 @@ docs_dir: "../.docs"
 edit_uri: edit/master/
 theme:
   name: material
+  custom_dir: theme_overrides
+  language: custom
   features:
     - navigation.tabs
     - navigation.indexes
-    #- navigation.expand
+    - navigation.footer
+    - content.action.edit
   favicon: assets/images/favicon.ico
   logo: assets/images/ca-logo-white.svg
   palette:
@@ -27,6 +30,7 @@ markdown_extensions:
       title: On this page
 plugins:
   - search
+  - git-revision-date-localized
 extra_css:
   - assets/css/extra.css
 extra_javascript:
@@ -135,6 +139,7 @@ nav:
       - About practice areas: practice-areas/about-practice-areas.md
       - Accessibility practice area: practice-areas/accessibility-practice-area.md
       - Design and research:
+          - practice-areas/design-and-research/design-research-methods.md
           - Audience and outcomes guide: practice-areas/design-and-research/audiences-and-outcomes-guide.md
           - Content audit guide: practice-areas/design-and-research/content-audit-guide.md
           - Content modeling guide: practice-areas/design-and-research/content-modeling-guide.md
@@ -178,11 +183,12 @@ nav:
           - Training: practice-areas/project-management/pm-training.md
           - Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
   - About this guidebook:
-      - How and when to contribute to the guidebook: about-this-guidebook/README.md
-      - Git workflow: about-this-guidebook/git-workflow.md
-      - GitHub actions: about-this-guidebook/github-actions.md
-      - Guidebook governance: about-this-guidebook/guidebook-governance.md
+      - About this guidebook: about-this-guidebook/README.md
+      - Why this guidebook is open: about-this-guidebook/why-guidebook-is-open.md
+      - Editing the guidebook using Git: about-this-guidebook/editing-the-guidebook.md
+      - Reviewing pull requests: about-this-guidebook/reviewing-pull-requests.md
+      - Automatic checking: about-this-guidebook/automatic-checking.md
+      - Governance: about-this-guidebook/guidebook-governance.md
       - Guidebook writing style: about-this-guidebook/writing-style-guide.md
       - Markdown: about-this-guidebook/markdown-for-guidebook.md
       - License: LICENSE.md
-      - Change Log: CHANGELOG.md

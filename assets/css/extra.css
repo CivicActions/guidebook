@@ -17,3 +17,13 @@ font-size of other elements in the theme.
 .rst-versions {
   font-size: 0.777778rem;
 }
+.rst-versions a {
+  color: #39b1ff !important;
+}
+.rst-versions .rst-other-versions {
+  color: #a9a9a9 !important;
+}
+/* Hiding the GitHub view and edit links from the menu. */
+.rst-other-versions dl:nth-child(3) {
+  display: none;
+}
