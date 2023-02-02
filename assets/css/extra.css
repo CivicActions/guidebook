@@ -25,7 +25,7 @@ font-size of other elements in the theme.
 }
 
 /* adding a larger type option for lead text */
-.leadtext{
+.leadtext {
   font-size: 1.25rem;
   line-height: 1.5;
 }
