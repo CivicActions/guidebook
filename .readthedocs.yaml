@@ -18,7 +18,7 @@ build:
       # Tell poetry to not use a virtual environment
       - poetry config virtualenvs.create false
     post_install:
-      - git config credential.helper store
+      - git config --global credential.helper store
       - echo "https://${GH_TOKEN}:@github.com" > $HOME/.git-credentials
       - poetry -C .config/mkdocs/ install
     pre_build:
