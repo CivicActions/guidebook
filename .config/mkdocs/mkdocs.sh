@@ -30,7 +30,9 @@ cd "$(git rev-parse --show-toplevel)"
 
 # Symlink all files to a .docs directory so we can build outside the root.
 # We leave the symlink in place, in case the user needs to run mkdocs again locally.
-ln -sfT . .docs
+if [ ! -e .docs ]; then
+  ln -s . .docs
+fi
 
 # Install packages.
 poetry -C .config/mkdocs/ --quiet install
