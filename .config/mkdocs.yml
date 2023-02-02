@@ -104,6 +104,7 @@ nav:
           - Sprint planning meetings: common-practices-tools/agile/sprint-planning-meetings.md
           - Sprint retrospectives: common-practices-tools/agile/sprint-retrospectives.md
       - Balance scores: common-practices-tools/balance-scores.md
+      - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Gold Star Program: common-practices-tools/gold-star-program.md
       - Security awareness and tools:
           - Security awareness: common-practices-tools/security/awareness.md
