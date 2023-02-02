@@ -43,6 +43,11 @@ fi
 # Install packages.
 poetry -C .config/mkdocs/ --quiet install
 
-# Exclude info log messages for more concise output.
-poetry -C .config/mkdocs/ run mkdocs build --config-file=.config/mkdocs.yml --strict --site-dir "${tmp_dir}" 2>&1 | { grep -v '^INFO' || true; }
-echo "mkdocs build successful" 1>&2
+# If a "serve" argument present then run the dev server, otherwise just do a test build.
+if [[ "${1:-}" == "serve" ]]; then
+  poetry -C .config/mkdocs/ run mkdocs $@ --config-file=.config/mkdocs.yml
+else
+  # Exclude info log messages for more concise output.
+  poetry -C .config/mkdocs/ run mkdocs build --config-file=.config/mkdocs.yml --strict --site-dir "${tmp_dir}" 2>&1 | { grep -v '^INFO' || true; }
+  echo "mkdocs build successful" 1>&2
+fi
