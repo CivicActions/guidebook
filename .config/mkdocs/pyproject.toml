@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mkdocs-build"
+version = "0.1.0"
+description = ""
+authors = ["CivicActions Docs Team"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.0.6-insiders-4.28.1"}
+mkdocs-git-revision-date-localized-plugin = "^1.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
