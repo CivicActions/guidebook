@@ -29,6 +29,10 @@ theme:
 markdown_extensions:
   - toc:
       title: On this page
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 plugins:
   - search
   - git-revision-date-localized
@@ -105,6 +109,7 @@ nav:
           - Sprint planning meetings: common-practices-tools/agile/sprint-planning-meetings.md
           - Sprint retrospectives: common-practices-tools/agile/sprint-retrospectives.md
       - Balance scores: common-practices-tools/balance-scores.md
+      - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Gold Star Program: common-practices-tools/gold-star-program.md
       - Security awareness and tools:
           - Security awareness: common-practices-tools/security/awareness.md
@@ -162,27 +167,27 @@ nav:
           - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
           - Help desk working practices: practice-areas/help-desk/working-practices.md
       - Project management:
-          - Project manager role: practice-areas/project-management/pm-role.md
-          - Guidelines for starting a new project: practice-areas/project-management/starting-new-project.md
-          - Invoicing: practice-areas/project-management/invoicing.md
-          - Onboarding a new project team member: practice-areas/project-management/onboarding-new-project-team-member.md
-          - When your project gets a contractual Modification (MOD) or Extension: practice-areas/project-management/mods-and-extensions.md
-          - Tracking contract expirations and renewals: practice-areas/project-management/contract-expiration-tracking.md
-          - Tracking contractual requirements: practice-areas/project-management/contractual-requirements.md
-          - Team working agreements: practice-areas/project-management/team-working-agreements-instructions.md
+          - Checklists: practice-areas/project-management/project-management-checklists.md
           - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
-          - Leave requests and stepping away: practice-areas/project-management/leave-requests-and-stepping-away.md
+          - Contract expirations and renewals: practice-areas/project-management/contract-expiration-tracking.md
+          - Contractual Modification (MOD) or Extension: practice-areas/project-management/mods-and-extensions.md
+          - Contractual requirements: practice-areas/project-management/contractual-requirements.md
+          - Folder structure: practice-areas/project-management/project-folder.md
+          - Guidelines for project tools: practice-areas/project-management/general-tooling-guidelines-for-project-teams.md
           - Having the hard conversations: practice-areas/project-management/hard-conversations.md
-          - General guidelines for tools on project teams: practice-areas/project-management/general-tooling-guidelines-for-project-teams.md
+          - Invoicing: practice-areas/project-management/invoicing.md
+          - Leave requests and stepping away: practice-areas/project-management/leave-requests-and-stepping-away.md
           - Listserv setup: practice-areas/project-management/listserv-setup.md
-          - Offboarding a team member from a project: practice-areas/project-management/project-offboarding.md
-          - Planning travel and onsite meetings: practice-areas/project-management/planning-onsite-meetings.md
+          - Offboarding: practice-areas/project-management/project-offboarding.md
+          - Onboarding: practice-areas/project-management/onboarding-new-project-team-member.md
+          - Planning travel and onsites: practice-areas/project-management/planning-onsite-meetings.md
           - Project calendar: practice-areas/project-management/project-calendar.md
-          - Project folder structure: practice-areas/project-management/project-folder.md
-          - Project Manager templates: practice-areas/project-management/templates.md
-          - Project Manager training: practice-areas/project-management/pm-training.md
-          - Project Management Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
-          - Project Management Checklists: practice-areas/project-management/project-management-checklists.md
+          - Project Manager role: practice-areas/project-management/pm-role.md
+          - Starting a new project: practice-areas/project-management/starting-new-project.md
+          - Team Working Agreements: practice-areas/project-management/team-working-agreements-instructions.md
+          - Templates: practice-areas/project-management/templates.md
+          - Training: practice-areas/project-management/pm-training.md
+          - Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
   - About this guidebook:
       - About this guidebook: about-this-guidebook/README.md
       - Why this guidebook is open: about-this-guidebook/why-guidebook-is-open.md
