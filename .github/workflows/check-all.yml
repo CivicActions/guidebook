@@ -17,7 +17,7 @@ jobs:
         with:
           config-file: ".config/markdown.links.config.json"
       - name: Run remark-lint on all files
-        uses: ./.config/
+        uses: ./.config/remark/
         with:
           command: remark-all.sh
       - name: Send GitHub Action trigger data to Slack workflow
