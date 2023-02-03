@@ -1,5 +1,4 @@
 ---
-status: Up-to-date
 updated: April 20, 2018
 ---
 
