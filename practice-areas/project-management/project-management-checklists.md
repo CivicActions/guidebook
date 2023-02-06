@@ -18,7 +18,7 @@ Now prepare for the new month:
 7. Update any project-related scheduling (if needed)
 8. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
    Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
-8. Clean up project folders
+9. Clean up project folders
 
 ## Quarterly Checklists (to be completed by the fifth business day of each quarter)
 
