@@ -7,14 +7,14 @@ The Project Management practice area suggests leveraging the following checklist
 Wrap up the past month:
 
 1. Complete monthly contractual deliverables (monthly reporting, etc.), making sure they are in the shared folder
-2. Run the "plan vs actual" report for the last month and in order to verify reporting accuracy [See Unanet instructions](https://guidebook.civicactions.com/en/latest/practice-areas/project-management/project-management-checklists/)
+2. Run the "plan vs actual" report for the last month and in order to verify reporting accuracy [See Unanet](pm-unanet-tasks.md)
 
 Now prepare for the new month:
 
-3. Remind your team about our [Out of Office (OOO) procedure](https://guidebook.civicactions.com/en/latest/practice-areas/project-management/leave-requests-and-stepping-away/)
-4. Update [Unanet](https://guidebook.civicactions.com/en/latest/practice-areas/project-management/project-management-checklists/) with Plans (subtracting any OOO or company holidays) for all project resources
+3. Remind your team about our [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
+4. Update Unanet with Plans (subtracting any OOO or company holidays) for all project resources
 5. Assign Plans
-6. Verify Utilization for your team [See Unanet instructions](https://guidebook.civicactions.com/en/latest/practice-areas/project-management/project-management-checklists/)
+6. Verify Utilization for your team 
 7. Update any project-related scheduling (if needed)
 8. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
    Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
