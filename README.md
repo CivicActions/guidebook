@@ -20,7 +20,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
   ***
 
-  Find out when CivicActions is closed. 
+  Find out when CivicActions is closed.
 
   [:octicons-arrow-right-24: US holidays](#)
   [:octicons-arrow-right-24: Canadian holidays](#)
@@ -41,11 +41,8 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
   How to get reimbursed for business expenses
 
   [:octicons-arrow-right-24: Out-of-pocket expenses](#)
-  
+
 </div>
-
-
-
 
 ## Contact Information
 
