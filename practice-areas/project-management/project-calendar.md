@@ -1,6 +1,6 @@
 # Project Calendar
 
-Most larger projects have their own Google Calendar, which is often created by the Project Manager. This allows easy visibility - and editing capacity - to project events for all team members.
+Most larger projects have their own Google Calendar, which is often created by the Project Manager. This allows for easy visibility - and editing capacity - to project events for all team members.
 
 ## Calendar creation tips
 
