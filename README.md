@@ -14,7 +14,45 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 ## Common Topics
 
-<div class="grid cards" markdown>
+<div class="grid cards" markdown>-   :fontawesome-calendar:{ .lg .middle } __Dates for US and Canadian holidays__    ---CivicActions is considered closed on specific holidays in the US and Canada. 
+    [:octicons-arrow-right-24: US holidays](#)   [:octicons-arrow-right-24: Canadian holidays](#)-   :fontawesome-laptop-mobile:{ .lg .middle } __Using your technology stipend__    ---    Learn more about your technology stipend policies.    [:octicons-arrow-right-24: United States](#)
+    [:octicons-arrow-right-24: Canada](#)-   :fontawesome-credit-card:{ .lg .middle } __Requesting and submitting expenses__   ---    How to receive timely reimbursement for approved business-related expenses. 
+    [:octicons-arrow-right-24: Out-of-pocket expenses](#)</div>
+     
+     <div class="grid cards" markdown>
+
+-   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+
+    ---
+
+    Install [`mkdocs-material`](#) with [`pip`](#) and get up
+    and running in minutes
+
+    [:octicons-arrow-right-24: Getting started](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Customization](#)
+
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
 
 </div>
 
