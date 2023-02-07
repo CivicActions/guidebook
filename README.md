@@ -16,55 +16,36 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 <div class="grid cards" markdown>
 
-- :material-clock-fast:{ .lg .middle } **Set up in 5 minutes**
+- :material-clock-fast:{ .lg .middle } **Holidays**
 
   ***
 
-  Install [`mkdocs-material`](#) with [`pip`](#) and get up
-  and running in minutes
+  Find out when CivicActions is closed. 
 
-  [:octicons-arrow-right-24: Getting started](#)
+  [:octicons-arrow-right-24: US holidays](#)
+  [:octicons-arrow-right-24: Canadian holidays](#)
 
-- :fontawesome-brands-markdown:{ .lg .middle } **It's just Markdown**
-
-  ***
-
-  Focus on your content and generate a responsive and searchable static site
-
-  [:octicons-arrow-right-24: Reference](#)
-
-- :material-format-font:{ .lg .middle } **Made to measure**
+- :fontawesome-brands-markdown:{ .lg .middle } **Technology stipend**
 
   ***
 
-  Change the colors, fonts, language, icons, logo and more with a few lines
+  Employees get annual funds for technology expenses
 
-  [:octicons-arrow-right-24: Customization](#)
+  [:octicons-arrow-right-24: US tech stipend](#)
+  [:octicons-arrow-right-24: Canadian tech stipend](#)
 
-- :material-scale-balance:{ .lg .middle } **Open Source, MIT**
+- :material-format-font:{ .lg .middle } **Expense requests**
 
   ***
 
-  Material for MkDocs is licensed under MIT and available on [GitHub]
+  How to get reimbursed for business expenses
 
-  [:octicons-arrow-right-24: License](#)
-
+  [:octicons-arrow-right-24: Out-of-pocket expenses](#)
+  
 </div>
 
-<div class="grid" markdown>
 
-:fontawesome-brands-html5: **HTML** for content and structure
-{ .card }
 
-:fontawesome-brands-js: **JavaScript** for interactivity
-{ .card }
-
-:fontawesome-brands-css3: **CSS** for text running out of boxes
-{ .card }
-
-> :fontawesome-brands-internet-explorer: **Internet Explorer** ... huh?
-
-</div>
 
 ## Contact Information
 
