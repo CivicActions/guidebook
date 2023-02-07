@@ -53,16 +53,16 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 <div class="grid" markdown>
 
-:fontawesome-brands-html5: __HTML__ for content and structure
+:fontawesome-brands-html5: **HTML** for content and structure
 { .card }
 
-:fontawesome-brands-js: __JavaScript__ for interactivity
+:fontawesome-brands-js: **JavaScript** for interactivity
 { .card }
 
-:fontawesome-brands-css3: __CSS__ for text running out of boxes
+:fontawesome-brands-css3: **CSS** for text running out of boxes
 { .card }
 
-> :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+> :fontawesome-brands-internet-explorer: **Internet Explorer** ... huh?
 
 </div>
 
