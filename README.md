@@ -16,14 +16,14 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 <div class="grid cards" markdown>
 
- :material-clock-fast:{ .lg .middle } **Holidays**
+:material-clock-fast:{ .lg .middle } **Holidays**
 
-  ***
+---
 
-  Find out when CivicActions is closed.
+Find out when CivicActions is closed.
 
-  [:octicons-arrow-right-24: US holidays](#)
-  [:octicons-arrow-right-24: Canadian holidays](#)
+[:octicons-arrow-right-24: US holidays](#)
+[:octicons-arrow-right-24: Canadian holidays](#)
 
 - :fontawesome-brands-markdown:{ .lg .middle } **Technology stipend**
 
