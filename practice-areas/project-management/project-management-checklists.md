@@ -14,7 +14,7 @@ Now prepare for the new month:
 3. Remind your team about our [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
 4. Update Unanet with Plans (subtracting any OOO or company holidays) for all project resources
 5. Assign Plans
-6. Verify Utilization for your team 
+6. Verify Utilization for your team
 7. Update any project-related scheduling (if needed)
 8. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
    Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
