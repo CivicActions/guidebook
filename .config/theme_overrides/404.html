@@ -21,18 +21,13 @@
 
 <!-- Content -->
 {% block content %}
+
 <h1>404</h1>
 <h2>We looked, but couldn’t quite find that page.</h2>
 
 <div class="leadtext">
   The page you are looking for has been removed, is temporarily unavailable or
-  does not exist. Maybe try the address again, or head to the homepage <a
-      href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}"
-      title="{{ config.site_name | e }}"
-      class="md-header__button md-logo"
-      aria-label="{{ config.site_name }}"
-      data-md-component="logo"
-    >
+  does not exist. Maybe try the address again, or head to the homepage
 </div>
 
 
