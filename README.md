@@ -16,7 +16,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 <div class="grid cards" markdown>
 
-- :material-clock-fast:{ .lg .middle } **Holidays**
+ :material-clock-fast:{ .lg .middle } **Holidays**
 
   ***
 
