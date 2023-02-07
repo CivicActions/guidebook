@@ -44,7 +44,6 @@ Find out when CivicActions is closed.
 
 </div>
 
-
 ## Contact Information
 
 CivicActions, Inc.
