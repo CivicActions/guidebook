@@ -36,7 +36,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
     [:octicons-arrow-right-24: US tech stipend](employee-benefits/us-tech-stipend.md)
     [:octicons-arrow-right-24: Canadian tech stipend](employee-benefits/canada-tech-stipend.md)
 
-- :fontawesome-credit-card:{ .lg .middle } **Expense requests**
+- :<i class="fa-regular fa-credit-card"></i>:{ .lg .middle } **Expense requests**
 
     ***
 
