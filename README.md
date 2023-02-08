@@ -27,7 +27,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
     [:octicons-arrow-right-24: US holidays](employee-benefits/us-benefits-policy.md#holidays)
     [:octicons-arrow-right-24: Canadian holidays](employee-benefits/canada-benefits-policy.md#holidays)
 
-- :fontawesome-solid-computer:{ .lg .middle } **Technology stipend**
+- :fontawesome-solid-laptop:{ .lg .middle } **Technology stipend**
 
     ***
 
