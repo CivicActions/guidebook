@@ -1,6 +1,6 @@
 # Onboarding a New Project Team Member
 
-Onboarding a new team member is a great opportunity for the Project Manager to confirm all project materials are in good standing. Some suggestions are as follows:
+Onboarding a new team member - to a project team - is a great opportunity for the Project Manager to confirm all project materials are in good standing. Some suggestions are as follows:
 
 - The Project Manager will update the project Onboarding Deck/Brief, adding the new colleague, plus verifying all details are accurate
 - The Project Manager will coordinate with People Ops about the official start date, expecting that the first fours days, at least, will be devoted to company onboarding (whether CivicActions or a partner)
