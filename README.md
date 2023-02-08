@@ -14,35 +14,39 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 ## Common Topics
 
+<!-- prettier-ignore-start -->
+
 <div class="grid cards" markdown>
 
 - :material-clock-fast:{ .lg .middle } **Holidays**
 
----
+    ***
 
-Find out when CivicActions is closed.
+    Find out when CivicActions is closed.
 
-[:octicons-arrow-right-24: US holidays](#)
-[:octicons-arrow-right-24: Canadian holidays](#)
+    [:octicons-arrow-right-24: US holidays](employee-benefits/us-benefits-policy.md#holidays)
+    [:octicons-arrow-right-24: Canadian holidays](employee-benefits/canada-benefits-policy.md#holidays)
 
 - :fontawesome-brands-markdown:{ .lg .middle } **Technology stipend**
 
-  ***
+    ***
 
-  Employees get annual funds for technology expenses
+    Employees get annual funds for technology expenses
 
-  [:octicons-arrow-right-24: US tech stipend](#)
-  [:octicons-arrow-right-24: Canadian tech stipend](#)
+    [:octicons-arrow-right-24: US tech stipend](employee-benefits/us-tech-stipend.md)
+    [:octicons-arrow-right-24: Canadian tech stipend](employee-benefits/canada-tech-stipend.md)
 
 - :material-format-font:{ .lg .middle } **Expense requests**
 
-  ***
+    ***
 
-  How to get reimbursed for business expenses
+    How to get reimbursed for business expenses
 
-  [:octicons-arrow-right-24: Out-of-pocket expenses](#)
+    [:octicons-arrow-right-24: Out-of-pocket expenses](company-policies/expenses.md)
 
 </div>
+
+<!-- prettier-ignore-end -->
 
 ## Contact Information
 
