@@ -26,8 +26,9 @@ font-size of other elements in the theme.
 
 /* adding a larger type option for lead text */
 .leadtext {
-  font-size: 1.25rem;
+  font-size: 1.50rem;
   line-height: 1.5;
+  color: #a23737;
 }
 
 /* Hiding the GitHub view and edit links from the menu. */
