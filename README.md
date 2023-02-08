@@ -18,7 +18,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 <div class="grid cards" markdown>
 
-- :material-clock-fast:{ .lg .middle } **Holidays**
+- :fontawesome-calendar:{ .lg .middle } **Holidays**
 
     ***
 
@@ -27,7 +27,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
     [:octicons-arrow-right-24: US holidays](employee-benefits/us-benefits-policy.md#holidays)
     [:octicons-arrow-right-24: Canadian holidays](employee-benefits/canada-benefits-policy.md#holidays)
 
-- :fontawesome-brands-markdown:{ .lg .middle } **Technology stipend**
+- :fontawesome-computer:{ .lg .middle } **Technology stipend**
 
     ***
 
@@ -36,7 +36,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
     [:octicons-arrow-right-24: US tech stipend](employee-benefits/us-tech-stipend.md)
     [:octicons-arrow-right-24: Canadian tech stipend](employee-benefits/canada-tech-stipend.md)
 
-- :material-format-font:{ .lg .middle } **Expense requests**
+- :fontawesome-credit-card:{ .lg .middle } **Expense requests**
 
     ***
 
