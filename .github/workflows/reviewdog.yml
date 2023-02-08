@@ -12,7 +12,6 @@ jobs:
           fetch-depth: 0
       - name: Run remark-lint with reviewdog for documentation projects.
         uses: ./.config/remark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          entryPoint: remark.sh
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          command: remark.sh
