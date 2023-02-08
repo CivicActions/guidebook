@@ -22,7 +22,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
     ***
 
-    Find out when CivicActions is closed.
+    Find out when CivicActions is closed
 
     [:octicons-arrow-right-24: US holidays](employee-benefits/us-benefits-policy.md#holidays)
     [:octicons-arrow-right-24: Canadian holidays](employee-benefits/canada-benefits-policy.md#holidays)
@@ -31,7 +31,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
     ***
 
-    Employees get annual funds for technology expenses
+    Employees get annual funds for technology
 
     [:octicons-arrow-right-24: US tech stipend](employee-benefits/us-tech-stipend.md)
     [:octicons-arrow-right-24: Canadian tech stipend](employee-benefits/canada-tech-stipend.md)
