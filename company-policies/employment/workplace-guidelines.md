@@ -1,3 +1,7 @@
+---
+updated: May 9, 2017
+---
+
 # Workplace guidelines
 
 ## Hours of work

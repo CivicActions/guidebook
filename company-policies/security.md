@@ -2,7 +2,7 @@
 version: 1.1.4
 ---
 
-# CivicActions Security Policy
+# CivicActions Information Security Policy
 
 CivicActions has established the following policy to safeguard the security, confidentiality, availability and integrity of CivicActions data, as well as that of our personnel, clients and client website users. All CivicActions employees and contractors are expected to accept and abide by this policy. This policy will be reviewed and updated from time to time. If you have questions or comments about this policy please contact your supervisor. We invite your feedback.
 
@@ -123,7 +123,7 @@ All passwords at CivicActions must follow this policy, including passwords used 
 - Personal accounts on any CivicActions internal or client site or service.
 - CivicActions accounts on 3rd party vendor sites.
 
-### Password Managers and Two Factor Authentication
+### Password managers and two-factor authentication
 
 CivicActions requires unique, strong passwords for every service that you log into. For this reason, CivicActions requires use of a password manager and recommends LastPass as it is currently the most full-featured password manager. Note that LastPass is required for use by IT staff and management.
 
@@ -133,7 +133,7 @@ CivicActions supplies all employees with a YubiKey as a handy _second factor_ fo
 
 Please see the [Security Awareness and Tools](../common-practices-tools/security/awareness.md) document for details on these subjects and more.
 
-### Some Password Exceptions
+### Some password exceptions
 
 - On occasion, "starter" passwords for new accounts on web sites may be transmitted/stored in clear text, on condition that the recipient immediately logs in and sets a new strong password. Both the starter and new passwords must adhere to the strong password policy. If possible it is preferable to use a "one time" login link, or transmit "starter" passwords with GnuPG or via phone, email, SMS, Slack, etc. When transmitting a password electronically in clear text, do not include the username or website URL in the same message or thread.
 - The MySQL password is stored in clear text form on the instance for usage by the application (e.g. Drupal) and deployment/testing scripts (e.g. drush).
@@ -145,7 +145,7 @@ Please see the [Security Awareness and Tools](../common-practices-tools/security
 - If you suspect a password has been compromised (for example, it was accidentally typed into an unencrypted chat session), change the password immediately yourself if possible, or inform IT right away, so that the password can be changed by a sysadmin.
   - This includes the case when a client sends a name/password pair in the clear in an email.
 
-### Private Keys
+### Private keys
 
 - SSH public/private key pairs are used to access CivicActions servers.
 - GnuPG (PGP compatible) public/private key pairs may be used to transmit and store credentials to CivicActions client sites and internal services.
@@ -155,7 +155,7 @@ Please see the [Security Awareness and Tools](../common-practices-tools/security
 - Keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
 - Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
 
-## Server & Site Security
+## Server and site security
 
 Web administrator access to websites, working on source code, and access to servers (SSH/shell, file system, database), carries a high-level of responsibility and trust. You are expected to be familiar with and follow our best practices and processes, as well as maintain your skills and know your own limits.
 
@@ -220,7 +220,7 @@ IT team system administrators working on CivicActions servers must also:
 - Ensure offsite backups are transferred and stored only in encrypted form.
 - Ensure the Hurricane Electric and RimuHosting access list (that controls remote hands and physical server access) is maintained.
 
-## Security Awareness and Tools
+## Security awareness and tools
 
 We maintain a [Security Awareness and Tools](../common-practices-tools/security/awareness.md) document that dives deeper into some additional topics, including:
 
