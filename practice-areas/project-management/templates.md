@@ -1,4 +1,4 @@
-# Project Manager Templates
+# Templates
 
 ## Purpose
 
@@ -52,7 +52,9 @@ Used as a guide for Project Managers when facilitating daily scrum calls; the te
 
 A few templates that support Project Managers for OOO planning and returning.
 
-[Coverage Plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
+[Project Manager Coverage Plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
+
+[All resources Coverage Plan](https://docs.google.com/document/d/1a57seEpxigzb09zk45XimaC8RI9XPHuuvEl-i8iPX2I/edit#heading=h.3uhyu8z8uyfi)
 
 [Returning Project Manager/ Handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
 
@@ -84,7 +86,7 @@ A great resource for opening project and product management duties to the full t
 
 This template is used as a guide for Project Managers to track all project risks.
 
-[Risk Ledger Template](https://docs.google.com/a/civicactions.net/document/d/1qu5Os-hVrEtdfsIhuXi5F8ugpfOkAFiumW5R2wBMID0/edit?usp=sharing)
+[Risk Ledger Template](https://docs.google.com/spreadsheets/d/1sOfCcARTNAaP0PfyMY9iBiThONGbzKZrzn4adrmpVAw/edit#gid=0)
 
 ## Team Working Agreement
 
