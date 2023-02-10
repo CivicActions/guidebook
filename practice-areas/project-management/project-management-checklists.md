@@ -6,18 +6,19 @@ The Project Management practice area suggests leveraging the following checklist
 
 Wrap up the past month:
 
-1. Complete monthly contractual deliverables (monthly reporting, etc.)
-2. Run the "plan vs actual" report for the last month and in order to verify reporting accuracy
+1. Complete monthly contractual deliverables (monthly reporting, etc.), making sure they are in the shared folder
+2. Run the "plan vs actual" report for the last month and in order to verify reporting accuracy [See Unanet](pm-unanet-tasks.md)
 
 Now prepare for the new month:
 
-3. Remind your team about our Out of Office (OOO) procedure
+3. Remind your team about our [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
 4. Update Unanet with Plans (subtracting any OOO or company holidays) for all project resources
 5. Assign Plans
-6. Update any project-related scheduling (if needed)
-7. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
+6. Verify Utilization for your team
+7. Update any project-related scheduling (if needed)
+8. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
    Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
-8. Clean up project folders
+9. Clean up project folders
 
 ## Quarterly Checklists (to be completed by the fifth business day of each quarter)
 
@@ -26,15 +27,17 @@ Wrap up the past quarter:
 1. Adjust onboarding decks with any new project resources
 2. Adjust the All Projects deck with any changes
 3. Adjust the Slack index
+4. Update the On Call Roster
+5. Review and confirm accuracy on the [Services and Tools tracker](https://docs.google.com/spreadsheets/d/1yy7xSeTmTBCCaG5B-oJI3dwMN3r7tFPQ-lw79zOAdFE/edit#gid=1290653154)
 
 Now prepare for the new quarter:
 
-3. Review project Wrappers (Legal and Project Management)
+6. Review project Wrappers (Legal and Project Management)
 
-   - Review contractual dates and details
-   - Review QASP
-   - Confirm deliverables are being met
-   - Verify alignment with DevOps around deliverables
-   - Confirm scope has not changed
+    - Review contractual dates and details
+    - Review QASP
+    - Confirm deliverables are being met
+    - Verify alignment with DevOps around deliverables
+    - Confirm scope has not changed
 
-4. Review Team Working Agreements
+7. Review Team Working Agreements
