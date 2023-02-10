@@ -15,10 +15,10 @@ When making a contribution to the guidebook:
 1. If you have an idea for improving the guidebook but don't have time to research and/or write new content, you can open a new [Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion for the backlog.
 2. You can chat about your suggestion in [#docs](https://civicactions.slack.com/messages/docs/) in Slack and ask for help if you're not sure how to resolve any issues.
 3. Take 10 minutes to review:
-   1. The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
-   2. How to do [Markdown](markdown-for-guidebook.md).
-   3. How to [edit content using Git](editing-the-guidebook.md)
-   4. Who [approves pull requests](guidebook-governance.md) (PRs) when you make changes
+    1. The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
+    2. How to do [Markdown](markdown-for-guidebook.md).
+    3. How to [edit content using Git](editing-the-guidebook.md)
+    4. Who [approves pull requests](guidebook-governance.md) (PRs) when you make changes
 4. Create a new page or edit an existing one in GitHub.
 5. Make any needed changes to the guidebook navigation.
 6. Have someone review your page and code.

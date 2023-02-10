@@ -34,10 +34,10 @@ Now prepare for the new quarter:
 
 6. Review project Wrappers (Legal and Project Management)
 
-   - Review contractual dates and details
-   - Review QASP
-   - Confirm deliverables are being met
-   - Verify alignment with DevOps around deliverables
-   - Confirm scope has not changed
+    - Review contractual dates and details
+    - Review QASP
+    - Confirm deliverables are being met
+    - Verify alignment with DevOps around deliverables
+    - Confirm scope has not changed
 
 7. Review Team Working Agreements
