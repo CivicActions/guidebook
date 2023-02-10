@@ -4,9 +4,9 @@ At CivicActions, we talk about people planning, not resource planning. People pl
 
 When discussing staffing for a new project, we consider:
 
-- Does the skill set match?
-- What does Forecast look like?
-- Is the person willing and interested in the project?
+-   Does the skill set match?
+-   What does Forecast look like?
+-   Is the person willing and interested in the project?
 
 ## Slack people-planning channel
 

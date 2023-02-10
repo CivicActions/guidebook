@@ -7,29 +7,13 @@ People are encouraged to apply to become part of the DEIA Working Group. We stri
 ## Join the Conversation
 
 **#celebrating-diversity**
-This Slack channel is for folks who want to share resources or start conversations about DEIA topics. We also encourage everyone to introduce DEIA-related conversations where they are likely to reach the widest and most relevant audience. For example,
-do you have an interesting article about diversity in recruiting for user research? Consider posting #ux, or even #general.
-
-## Contribute to a DEIA initiative
-
-Anyone at CivicActions who is interested can join work on a DEIA initiative. To get started, ask someone in the #celebrating-diversity channel to add you to the weekly DEIA Working Group call. There is a lot of work to be done, so feel free to reach out to the Working Group if you think of an initiative that fits your interests and capacity.
+This Slack channel is for folks who want to share resources or start conversations about DEIA topics. We also encourage everyone to introduce DEIA-related conversations where they are likely to reach the widest and most relevant audience. For example, do you have an interesting article about diversity in recruiting for user research? Consider posting #design or #hiring-open
 
 ## Get support
 
-Not everyone is at the same level of familiarity or comfort with DEIA topics, and that's okay. Fortunately our HR team is in a good position to handle many questions that come up. Team members who have questions or concerns about DEIA topics, but aren't comfortable bringing them to a large group conversation or public channel can reach out to a member of the DEIA Working Group for support. Folks can reach out to any of the DEIA Working Group members pinned in the pinned post in #celebrating-diversity.
+Not everyone is at the same level of familiarity or comfort with DEIA topics, and that's okay. Fortunately our PeopleOps team is in a good position to handle many questions that come up. Team members who have questions or concerns about DEIA topics, but aren't comfortable bringing them to a large group conversation or public channel can reach out to a member of the PeopleOps team.
 
-### DEIA Work Group responsibilities
+### DEIA Committee responsibilities
 
-Strategy and Leadership:
-
-- Owning/maintaining the practice area strategic plan, including mission, vision, and goals
-- Helping identify and prioritize current initiatives
-- Documenting practice area work and content (Guidebook, DEIA practice area folder, DEIA resource inventory)
-- Socializing/communicating DEIA work to the rest of the company
-
-Project management
-
-- Helping Working Group members maintain momentum on initiatives
-- Resourcing / soliciting hours for DEIA initiatives
-- Establishing call agenda
-- Prioritizing initiatives
+-   Receive and understand DEIA survey brief, areas of focus, goals, initiatives and how we are progressing towards our goals.
+-   Partner with the People Department and provide feedback and additional insights that could help us attain our DEIA goals and/or initiatives.
