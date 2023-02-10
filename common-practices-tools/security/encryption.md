@@ -5,20 +5,22 @@ The following offers a brief overview of a few FOSS encryption tools that you ca
 > This is important. If we only use encryption when we're working with important data, then encryption signals that data's importance. If only dissidents use encryption in a country, that country's authorities have an easy way of identifying them. But if everyone uses it all of the time, encryption ceases to be a signal. No one can distinguish simple chatting from deeply private conversation. The government can't tell the dissidents from the rest of the population. Every time you use encryption, you're protecting someone who needs to use it to stay alive.
 > _[Why We Encrypt](https://www.schneier.com/blog/archives/2015/06/why_we_encrypt.html)_ by Bruce Schneier
 
-This document is light in content but the links contain added documentation that may be helpful. An hour or two of your time should be enough to set up your GnuPG key pair and encrypted email communications.
+This document is light in content but the links contain added documentation that may be helpful.
 
-If you'd like some background on how encryption works, start by reading [An Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp), a [Surveillance Self-Defense](https://ssd.eff.org/en) (also an excellent read) tutorial from your friends at the [Electronic Frontier Foundation](https://www.eff.org/) \[[Donate!](https://supporters.eff.org/donate/)]
+For some background on how encryption can protect your privacy, see [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work), a [Surveillance Self-Defense](https://ssd.eff.org/en) (also an excellent read) tutorial from your friends at the [Electronic Frontier Foundation](https://www.eff.org/) \[[Donate!](https://supporters.eff.org/donate/)]
 
-Finally, keep an eye out for anti-encryption bills such as [Burr-Feinstein](https://www.techdirt.com/articles/20160527/08343534565/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon.shtml) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://www.google.com/webhp#q=anti-encryption+bill)) and be prepared to take action when it resurfaces to protect your rights to privacy and security.
+Finally, keep an eye out for anti-encryption bills such as [Burr-Feinstein](https://www.techdirt.com/articles/20160527/08343534565/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon.shtml) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://duckduckgo.com/?q=anti-encryption%2Bbill&ia=web)) and be prepared to take action when they resurface to protect your rights to privacy and security.
 
 Thank you!
 
-## Brief Introduction to GnuPG
+## Privacy Enabling Tools
 
-The [GNU Privacy Guard](https://www.gnupg.org/) (GnuPG) is a complete and free implementation of the [OpenPGP standard](https://www.ietf.org/rfc/rfc4880.txt) (also known as PGP).
+- The [GNU Privacy Guard](https://www.gnupg.org/) (GnuPG) is a complete and free implementation of the [OpenPGP standard](https://www.ietf.org/rfc/rfc4880.txt) also known as Pretty Good Privacy (PGP).
+   - GnuPG allows you to encrypt and sign your data and communications
 
-The current recommended version is GnuPG 2.x
+### Google Workspace
 
+<<<<<<< HEAD
 -   Mac OS X installers:
     -   [GnuPG for OSX](https://sourceforge.net/p/gpgosx/docu/Download/) _(more recent)_
     -   [GPG Suite](https://gpgtools.org/) _(integrates into Apple Mail)_
@@ -156,12 +158,17 @@ See [GPGTools](https://gpgtools.org/) _(not yet fully integrated with Sierra)_
 -   [Why You Should Encrypt Your Email](https://www.lifewire.com/you-should-encrypt-your-email-2486679) (LifeWire)
 
 #### ProtonMail
+=======
+Documents transferred within the CivicActions.com GSuite including Gmail and Gdrive are encrypted with Transport Layer Security (TLS) which provides sufficient security for our unclassified usage. Emailing or transferring documents outsideCommunications from within the CivicActons GSuite to other services, say client email addresses, are not guaranteed to be secure.
+
+### ProtonMail
+>>>>>>> c0d1db0 (remove most of the GPG email section)
 
 [ProtonMail](https://protonmail.com/) is a free and secure email service that provides arguably better security than GPG encrypted email sent via (say) Gmail as it not only encrypts but the service does not harvest/index/resell metadata, such as who is emailing whom and when. For the best results, both sides must be using ProtonMail.
 
-## Private Browsing
+### Private Browsing
 
-Using [Tor](https://www.torproject.org/), the [CivicActions VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) (for CivicActions business) or a paid VPN (such as [PIA](https://www.privateinternetaccess.com/) and there are others; be sure to choose an exit node that is not in the U.S.) is the best route, but the two simple and free services below will have little impact on your browsing experience and can go a long way to minimizing the data others collect about you:
+Using [Tor](https://www.torproject.org/), the [CivicActions VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) (for CivicActions business) or a commercial VPN (for personal use) is the best route, but the two simple and free services below will have little impact on your browsing experience and can go a long way to minimizing the data others collect about you:
 
 We recommend using both of these browser add-ons.
 
@@ -170,17 +177,16 @@ We recommend using both of these browser add-ons.
 
 For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) or [Ecosia](https://www.ecosia.org/) as they protects privacy and avoids the filter bubble.
 
-## Private Messaging and Calling
+### Private Messaging and Calling
 
 We recommend [Signal.org](https://signal.org/), which is free. We like that their primary "forward secrecy" algorithm, along with the rest of their code, is GPL licensed on [GitHub](https://github.com/signalapp/).
 
 ## More Links
 
--   [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
--   [Privacy Friendly Search](https://info.ecosia.org/privacy)
--   [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
--   [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
--   [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
--   [Tails - the amnesic incognito live system](https://tails.boum.org/)
--   [Bitcoin](https://bitcoin.org/) and [Zcash](https://z.cash/) - Private digital cash (advanced)
--   [Hardware that respects your freedom](https://www.fsf.org/resources/hw/endorsement/respects-your-freedom) (Free Software Foundation)
+- [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
+- [Privacy Friendly Search](https://info.ecosia.org/privacy)
+- [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+- [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
+- [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
+- [Tails - the amnesic incognito live system](https://tails.boum.org/)
+- [Hardware that respects your freedom](https://www.fsf.org/resources/hw/endorsement/respects-your-freedom) (Free Software Foundation)
