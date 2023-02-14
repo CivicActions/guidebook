@@ -40,10 +40,10 @@ We recommend [Signal.org](https://signal.org/), which is free (and open source).
 
 ## More Links
 
-- [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
-- [Privacy Friendly Search](https://info.ecosia.org/privacy) and more
-- [5 Quick And Easy Ways To Encrypt Your Life Safely In Less Than An Hour](https://www.lifehack.org/562648/5-quick-and-easy-way-encrypt-your-life-safely) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
-- [The ultimate guide to privacy on Android](https://www.computerworld.com/article/3545530/ultimate-guide-to-privacy-on-android.html)
-- [16 Practical Privacy Tips for Your iPhone](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)
-- [Tails - the amnesic incognito live system](https://tails.boum.org/)
-- [Hardware that respects your freedom](https://ryf.fsf.org/) (Free Software Foundation)
+-   [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
+-   [Privacy Friendly Search](https://info.ecosia.org/privacy) and more
+-   [5 Quick And Easy Ways To Encrypt Your Life Safely In Less Than An Hour](https://www.lifehack.org/562648/5-quick-and-easy-way-encrypt-your-life-safely) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+-   [The ultimate guide to privacy on Android](https://www.computerworld.com/article/3545530/ultimate-guide-to-privacy-on-android.html)
+-   [16 Practical Privacy Tips for Your iPhone](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)
+-   [Tails - the amnesic incognito live system](https://tails.boum.org/)
+-   [Hardware that respects your freedom](https://ryf.fsf.org/) (Free Software Foundation)
