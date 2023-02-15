@@ -64,8 +64,6 @@ Reminder about [Out of Office (OOO) procedure](leave-requests-and-stepping-away.
 
 [All resources Coverage Plan](https://docs.google.com/document/d/12bydtX5Dj6C_L-o5O_Tj2OsdbjgSzzhnIr66zssiyyg/edit#)
 
-
-
 ## Privledged Users
 
 To maintain the integrity of all Production systems, this template is an efficiant way to track access rights for quarterly reviews.
