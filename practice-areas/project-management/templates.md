@@ -50,13 +50,21 @@ Used as a guide for Project Managers when facilitating daily scrum calls; the te
 
 ## OOO Coverage
 
-A few templates that support Project Managers for OOO planning and returning.
+A few templates that support Project Managers and team members for OOO planning and returning.
+
+### Project Managers
 
 [Project Manager Coverage Plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
 
-[All resources Coverage Plan](https://docs.google.com/document/d/1a57seEpxigzb09zk45XimaC8RI9XPHuuvEl-i8iPX2I/edit#heading=h.3uhyu8z8uyfi)
-
 [Returning Project Manager/ Handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
+
+### Team Members
+
+Reminder about [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
+
+[All resources Coverage Plan](https://docs.google.com/document/d/12bydtX5Dj6C_L-o5O_Tj2OsdbjgSzzhnIr66zssiyyg/edit#)
+
+
 
 ## Privledged Users
 
