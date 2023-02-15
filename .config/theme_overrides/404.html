@@ -28,7 +28,7 @@
 
 <h2>
   The page you are looking for has been removed, is temporarily unavailable or
-  does not exist. Maybe try the address again, or head to the  
+  does not exist. Maybe try the address again, or head to the
   <a
     href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}"
     title="{{ config.site_name | e }}"
@@ -36,8 +36,8 @@
     aria-label="{{ config.site_name }}"
     data-md-component="logo"
   >
-    {% include "partials/logo.html" %}
-  homepage.</a>
+    {% include "partials/logo.html" %} homepage.</a
+  >
 </h2>
 
 {% endblock %}
