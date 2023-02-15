@@ -28,7 +28,7 @@
 
 <h2>
   The page you are looking for has been removed, is temporarily unavailable or
-  does not exist. Maybe try the address again, or head to the homepage.
+  does not exist. Maybe try the address again, or head to the  
   <a
     href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}"
     title="{{ config.site_name | e }}"
@@ -37,7 +37,7 @@
     data-md-component="logo"
   >
     {% include "partials/logo.html" %}
-  </a>
+  homepage.</a>
 </h2>
 
 {% endblock %}
