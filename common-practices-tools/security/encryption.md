@@ -30,8 +30,7 @@ We recommend using both of these browser add-ons that enhance privacy without en
 -   [Privacy Badger](https://www.eff.org/privacybadger) blocks most ads and cookie collectors. Open source and free.
 -   [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
 
-For search, we recommend changin
-g your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) or [Ecosia](https://www.ecosia.org/) as they protects privacy and avoid the filter bubble.
+For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) or [Ecosia](https://www.ecosia.org/) as they protects privacy and avoid the filter bubble.
 
 For strong security and privacy, consider [Tor](https://www.torproject.org/), the [CivicActions VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) (for CivicActions business) or a commercial VPN (for personal use) is the best route, but the services above will have less impact on your browsing experience and can go a long way to minimizing the data others collect about you.
 
