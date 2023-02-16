@@ -29,7 +29,7 @@ font-size of other elements in the theme.
   font-size: 3rem;
   line-height: 1.5;
   color: #a23737;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 /* Hiding the GitHub view and edit links from the menu. */
