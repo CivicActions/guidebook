@@ -12,4 +12,4 @@ Expense reports must be submitted via from your Unanet Homepage under [Expense -
 
 ### Travel expenses
 
-Review [travel expenses and billing](travel-time-tracking-and-expenses.md) for more details on travel expenses, whether for billable or non-billable work.
+Review [travel expenses and billing](travel-time-tracking-and-expenses.md) for more details for billable or non-billable work.
