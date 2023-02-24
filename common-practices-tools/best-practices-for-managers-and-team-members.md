@@ -22,7 +22,7 @@ The following are suggestions for activities that can be helpful for managers, t
 
 -   You should discuss project roles with your manager and how project interactions occur (you can refer to the project team working agreement).
 -   Share concerns about the project and brainstorm ways to resolve them.
--   Focus on more than just the project in 1:1s. Discuss your prodev, goals, energy gains/drains, work-life balance, etc.
+-   Focus on more than the project in 1:1s. Discuss your prodev, goals, energy gains/drains, work-life balance, etc.
 -   Share how you would like your career to grow and what support you would like to receive.
 
 ## Team member not on the same project
