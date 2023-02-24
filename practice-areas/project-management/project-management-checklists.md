@@ -41,3 +41,4 @@ Now prepare for the new quarter:
     - Confirm scope has not changed
 
 7. Review Team Working Agreements
+8. Confirm, if it applies to your project, that the [On-Call Stipend sheet](https://docs.google.com/spreadsheets/d/11jAuW7K08V5m4wyRNkddC2f_AsAtFrTXDbpUdXu272E/edit#gid=1946523395) is updated
