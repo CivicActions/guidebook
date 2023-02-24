@@ -13,7 +13,7 @@ Contract Extensions generally involve retaining the contractual language yet adj
 
 ## Contractual changes
 
-Any contractual changes require input from the CivicActions Legal team. If the changes are purely financial, then please raise awareness with Legal. If the changes involve roles, resourcing, etc., then Legal must be involved from the inception. 
+Any contractual changes require input from the CivicActions Legal team. If the changes are purely financial, then please raise awareness with Legal. If the changes involve roles, resourcing, etc., then Legal must be involved from the inception.
 
 ## Mods and Extensions are a good time to re-evaluate
 
@@ -30,11 +30,4 @@ If your project requires a MOD or Extension, it is prudent to ensure everyone ag
 
 ## Other things to consider
 
-Any type of contractual change is a good time to review resourcing, especially as it spans a given time period. Plan ahead for potential career advancements for your team, arranging how coverage will be replace when promotions occur. 
-
-
-
-
-
-
-
+Any type of contractual change is a good time to review resourcing, especially as it spans a given time period. Plan ahead for potential career advancements for your team, arranging how coverage will be replace when promotions occur.
