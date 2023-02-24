@@ -30,4 +30,4 @@ If your project requires a MOD or Extension, it is prudent to ensure everyone ag
 
 ## Other things to consider
 
-Any type of contractual change is a good time to review resourcing, especially as it spans a given time period. Plan ahead for potential career advancements for your team, arranging how coverage will be replace when promotions occur.
+Any type of contractual change is a good time to review resourcing, especially as it spans a time period. Think ahead for potential career advancements for your team, planning how resources will be replaced if promotions occur. This allows you to be prepared and thus make people planning requests more swifty to avoid resourcing gaps. 
