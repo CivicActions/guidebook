@@ -4,7 +4,6 @@ updated: February 23, 2023
 
 # Expenses
 
-
 Employees are requested to submit expense reports within five (5) business days after returning from a business trip or after incurring the expense(s). Expense reports submitted more than 30 days late may not be processed and paid without approval from the CFO. Outstanding expense reports are justification for CivicActions to withhold travel advances for subsequent trips.
 
 If you are an employee based in Canada, refer to the pinned Slack instructions for submitting an expense in the [#ca-canada-employees channel](https://civicactions.slack.com/messages/ca-canada-employees/) in Slack.
