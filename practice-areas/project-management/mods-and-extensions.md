@@ -1,8 +1,8 @@
-# When your project has a contractual Modification (MOD) or Extension
+# When your project has a contractual Modification (Mod) or Extension
 
-## What is the difference between a contract MOD and an Extension?
+## What is the difference between a contract Mod and an Extension?
 
-Contract Modifications (MOD) are required for any change to the original document, e.g. adjustments to the following:
+Contract Modifications (Mod) are required for any change to the original document, e.g. adjustments to the following:
 
 -   key personnel
 -   scope
@@ -13,13 +13,13 @@ Contract Extensions generally involve retaining the contractual language yet adj
 
 ## Contractual changes
 
-Any contractual changes require input from the CivicActions Legal team.
+Any contractual changes require input from the CivicActions Legal team. If the changes are purely financial, then please raise awareness with Legal. If the changes involve roles, resourcing, etc., then Legal must be involved from the inception. 
 
-## MODs and Extensions are a good time to re-evaluate
+## Mods and Extensions are a good time to re-evaluate
 
 If your project requires a MOD or Extension, it is prudent to ensure everyone agrees about <i>why</i> the change is being made. Pull in your Project Management colleagues for input, as well as CivicActions leaders, i.e., Sales.
 
-## Common steps for a MOD or Extension
+## Common steps for a Mod or Extension
 
 -   Start with a short summary document which outlines the following:
     -   Why the change is required
@@ -27,3 +27,14 @@ If your project requires a MOD or Extension, it is prudent to ensure everyone ag
     -   The proposed contractual language (e.g., from old paragraphs, page numbers, etc. to replacement language matched to old paragraphs, page numbers, etc.)
 -   Schedule an internal call to review
 -   Work with Legal and Sales to confirm language and strategy
+
+## Other things to consider
+
+Any type of contractual change is a good time to review resourcing, especially as it spans a given time period. Plan ahead for potential career advancements for your team, arranging how coverage will be replace when promotions occur. 
+
+
+
+
+
+
+
