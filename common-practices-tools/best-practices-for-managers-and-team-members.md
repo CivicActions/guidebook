@@ -14,7 +14,7 @@ The following are suggestions for activities that can be helpful for managers, t
 
 -   Organize a regular 1:1 or slack check-in with the project tech, lead/team tech lead, or project manager to discuss and share feedback about a team member. Try a cadence of at least every two/three months.
 -   Ask for feedback from leads, project managers, and other team members about a member's performance, areas for improvement, and so on. Share those with the team members in a supportive manner.
--  If the client permits, find a way to attend sprint demos/iteration reviews to see a team member's presentation. Ask, as needed, project and product managers about sprint demos/iteration reviews and if they have any specific feedback. Where government background checks are required to work on a project, be prepared for permission not to be granted.
+-   If the client permits, find a way to attend sprint demos/iteration reviews to see a team member's presentation. Ask, as needed, project and product managers about sprint demos/iteration reviews and if they have any specific feedback. Where government background checks are required to work on a project, be prepared for permission not to be granted.
 -   Look for appreciation for the team member and note it down for future reference. It would help if you shared/discussed this appreciation with the team members.
 -   Discuss project concerns with leads/project managers to figure out ways in which you can support the project or the team member.
 
