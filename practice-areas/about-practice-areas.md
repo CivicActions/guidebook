@@ -19,7 +19,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Name                                            | Leads                                                                                        | Slack                  | Meets                                |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
 | [Accessibility](accessibility-practice-area.md) | Laura Flannery, Mike Gifford                                                                 | #accessibility         | Twice monthly                        |
-| Data Science                                    |                                                                                              | #engineering-data      |                                      |
+| Data Science                                    |                                                                                              | #datascience           |                                      |
 | Design                                          | Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                             | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
 | DevSecOps                                       | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | Diversity, Equity, Inclusion & Accessibility    | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
