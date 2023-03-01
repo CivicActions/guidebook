@@ -19,13 +19,14 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Name                                            | Leads                                                                                        | Slack                  | Meets                                |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
 | [Accessibility](accessibility-practice-area.md) | Laura Flannery, Mike Gifford                                                                 | #accessibility         | Twice monthly                        |
+| Data Science                                    |                                                                                   | #engineering-data      |                                      |
+| Design                                          | Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
 | DevSecOps                                       | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | Diversity, Equity, Inclusion & Accessibility    | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
 | [Drupal](engineering/drupal-practice-area.md)   | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
-| Workforce Transformation                        | Chianti Lomax                                                                                | #eduservices           |                                      |
 | Frontend                                        | Dan Goodwin, Eric Huffman, Iris Ibekwe                                                       | #engineering-frontend  | Biweekly                             |
-| Data Science                                    | Jake Rozran                                                                                  | #engineering-data      |                                      |
 | Product Management                              | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
 | Project Management                              | Heidi Harting-Rex                                                                            | #projectmanagement     | Biweekly                             |
 | Quality Assurance                               | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
-| Design                                          | Ben Leffler, Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| Tech Lead                                       | | #engineering-techlead | Monthly |
+| Workforce Transformation                        | Chianti Lomax                                                                                | #eduservices           |                                      |
