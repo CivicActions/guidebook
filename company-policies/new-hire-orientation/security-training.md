@@ -7,7 +7,7 @@ As a requirement for employment, every employee must review and acknowledge the 
 -   [Acceptable Use Policy](../security.md#acceptable-use-policy)
 -   [Access Policy](../security.md#access-policy)
 -   [Password Policy](../security.md#password-policy)
--   [Server & Site Security](../security.md#server--site-security)
+-   [Server & Site Security](../security.md#server-and-site-security)
 
 <!-- TODO: include link to digital document signing -->
 

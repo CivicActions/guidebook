@@ -1,4 +1,4 @@
-site_name: CivicActions Guidebook - Beta
+site_name: CivicActions Guidebook
 repo_url: https://github.com/CivicActions/guidebook/
 site_url: https://guidebook.civicactions.com/en/latest/
 docs_dir: "../.docs"
@@ -110,6 +110,7 @@ nav:
           - Sprint planning meetings: common-practices-tools/agile/sprint-planning-meetings.md
           - Sprint retrospectives: common-practices-tools/agile/sprint-retrospectives.md
       - Balance scores: common-practices-tools/balance-scores.md
+      - Best practices for managers and team members: common-practices-tools/best-practices-for-managers-and-team-members.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Gold Star Program: common-practices-tools/gold-star-program.md
       - Security awareness and tools:
@@ -130,7 +131,6 @@ nav:
           - Internal technical support: common-practices-tools/software-and-support/support.md
           - Bookmarks: company-policies/new-hire-orientation/bookmarks.md
           - Email: common-practices-tools/software-and-support/email.md
-          - General contacts and listservs: common-practices-tools/software-and-support/general-contacts-and-listservs.md
           - Github: common-practices-tools/software-and-support/github.md
           - Google Calendar: common-practices-tools/software-and-support/google-calendar.md
           - Google Docs: common-practices-tools/software-and-support/google-docs.md
