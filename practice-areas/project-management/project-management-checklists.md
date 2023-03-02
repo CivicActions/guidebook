@@ -6,7 +6,7 @@ The Project Management practice area suggests leveraging the following checklist
 
 Wrap up the past month:
 
-1. Complete monthly contractual deliverables (monthly reporting, etc.), making sure they are in the shared folder. Monthly reporting is due to the client by no later than the 10th of the month. Early delivery, however, is highly encouraged. 
+1. Complete monthly contractual deliverables (monthly reporting, etc.), making sure they are in the shared folder. Monthly reporting is due to the client by no later than the 10th of the month. Early delivery, however, is highly encouraged.
 2. Run the "plan vs actual" report for the last month and in order to verify reporting accuracy [See Unanet](pm-unanet-tasks.md)
 
 Now prepare for the new month:
