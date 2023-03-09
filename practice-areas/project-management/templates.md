@@ -122,7 +122,7 @@ This template is used as a guide for Project Managers to track all project risks
 
 ## Team Working Agreement
 
-A new template, still being polished, that allows for teams to unite around their core tenets. See [instructions for Project Managers](https://guidebook.civicactions.com/en/latest/practice-areas/project-management/team-working-agreements-instructions/).
+A new template, still being polished, that allows for teams to unite around their core tenets. See [instructions for Project Managers](team-working-agreements-instructions.md).
 
 [Team Working Agreement](https://docs.google.com/document/d/1Wkx-o0Me0dqbYv-dqt6IQcvoq5M-3v--HNQPSfzDe1M/edit#heading=h.2fgd0t58pes3)
 
