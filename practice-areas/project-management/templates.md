@@ -88,6 +88,12 @@ A great resource for opening project and product management duties to the full t
 
 [Project and Product Management Hacks for Designers](https://docs.google.com/presentation/d/1iNm4p0KZjxst5S35DRQ1v7UyNM2dz0p6OVtDGowuA80/edit#slide=id.g11625fcf513_0_96)
 
+## Quarterly High Level Accomplishmnents
+
+Another great template from Program Management, shared with the Project Management practice area. The objective is to tie into bi-weekly and monthly reporting, consolidating total value delivered to the client.
+
+[Quarterly High Level Accomplishments](https://docs.google.com/document/d/1LdVPprGckT9XPc5EDQt-fKsR_3xK9cRba2NLf2rk5TE/edit)
+
 ## Risk Ledger
 
 This template is used as a guide for Project Managers to track all project risks.
