@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Templates are a great way to become efficient at communicating project status. They also allow us, as a practice area, to deliver consistency across projects and using CivicActions branding standards. The templates provided are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM). 
+Templates are a great way to become efficient at communicating project status. They also allow us, as a practice area, to deliver consistency across projects and using CivicActions branding standards. The templates provided are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM).
 
 ## Budget Tracking
 
@@ -28,7 +28,7 @@ If the project requires an Integrated Project Plan (IPP), this template is a goo
 
 ## CPARS Response
 
-A template shared from the Program Management Team. This document is often a joint effort between Program and Project Management. 
+A template shared from the Program Management Team. This document is often a joint effort between Program and Project Management.
 
 [CPARS Response](https://docs.google.com/document/d/1qMmFuAFopc8bTdAlr1n-LAL7TE8sYONPnjVG8EX6I9s/edit#)
 
@@ -40,13 +40,13 @@ Decision tracking supports project management by documenting all major pivot poi
 
 ## Incident Response
 
-A template that provides details for any Production outage or unexpected event. 
+A template that provides details for any Production outage or unexpected event.
 
 [Incident Response](https://docs.google.com/document/d/1JhTZNH6g-fNqkuT5p2Yi1W2Kr2N_0tL1XWTFqepoR0I/edit#)
 
 [Incident Response Instructions](https://docs.google.com/document/d/1BC_TxS3SfQg0LK54hXpaRrPCW4QBFsF7wPmKnXNkvUQ/edit)
 
-## Kickoff Agenda 
+## Kickoff Agenda
 
 This template is used as a guide for project managers when beginning a project. The agenda provides a list of key points the Project Manager can address during to ensure there are clear expectations of all participating parties.
 
@@ -64,12 +64,13 @@ Used as a guide for Project Managers when facilitating daily scrum calls; the te
 
 [Meeting Notes template](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
 
-## Monthly (or Weekly, Bi-Weekly, etc.) Reporting 
+## Monthly (or Weekly, Bi-Weekly, etc.) Reporting
 
 Used as a core template for most project deliverables. Content will vary, yet reference the styling and current branding. For more details about styling best practices:
-- [Typograhy](https://civicactions-style-guide.readthedocs.io/en/latest/brand/typography/)
-- [Logo](https://civicactions-style-guide.readthedocs.io/en/latest/brand/logo/)
-- [Colors](https://civicactions-style-guide.readthedocs.io/en/latest/brand/colors/)
+
+-   [Typograhy](https://civicactions-style-guide.readthedocs.io/en/latest/brand/typography/)
+-   [Logo](https://civicactions-style-guide.readthedocs.io/en/latest/brand/logo/)
+-   [Colors](https://civicactions-style-guide.readthedocs.io/en/latest/brand/colors/)
 
 [Monthly Status Report](https://docs.google.com/document/d/1CwouwFIhRpSpBXFfrtJ-S7J5_K7pm7XkQH_t1Jxar1o/edit)
 
