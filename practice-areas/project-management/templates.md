@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Templates are a great way to become efficient at communicating project status. They also allow us, as a practice area, to deliver consistency across projects. The templates below are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM). Given the ongoing improvements of our team, this page is dynamic.
+Templates are a great way to become efficient at communicating project status. They also allow us, as a practice area, to deliver consistency across projects and using CivicActions branding standards. The templates provided are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM). 
 
 ## Budget Tracking
 
@@ -10,7 +10,9 @@ The following templates can be helpful for budget tracking to include in weekly 
 
 [Burndown Template](https://docs.google.com/spreadsheets/d/16fvmQ6Rfg0YeTuSFWU_j81a73PMQtPd8kBONyjVZCDw/edit#gid=0)
 
-[Budget Tracking Document](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
+[Budget Tracking Document, V1](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
+
+[Budget Tracker, V2](https://docs.google.com/spreadsheets/d/1KZQPrs2iyv16YVrI6nOuxKQsE739KsRODlZxFJVSo8Y/edit#gid=422466964)
 
 ## Client Change Request
 
@@ -24,13 +26,27 @@ If the project requires an Integrated Project Plan (IPP), this template is a goo
 
 [Client Integrated Project Plan Template](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
 
+## CPARS Response
+
+A template shared from the Program Management Team. This document is often a joint effort between Program and Project Management. 
+
+[CPARS Response](https://docs.google.com/document/d/1qMmFuAFopc8bTdAlr1n-LAL7TE8sYONPnjVG8EX6I9s/edit#)
+
 ## Decision Log
 
 Decision tracking supports project management by documenting all major pivot points.
 
 [Decision Log](https://docs.google.com/spreadsheets/d/1d2ye6y7A7O0boKpgzZdvkNffUp5LEP0CXTWCh1dNMD0/edit#gid=0)
 
-## Kickoff Agenda
+## Incident Response
+
+A template that provides details for any Production outage or unexpected event. 
+
+[Incident Response](https://docs.google.com/document/d/1JhTZNH6g-fNqkuT5p2Yi1W2Kr2N_0tL1XWTFqepoR0I/edit#)
+
+[Incident Response Instructions](https://docs.google.com/document/d/1BC_TxS3SfQg0LK54hXpaRrPCW4QBFsF7wPmKnXNkvUQ/edit)
+
+## Kickoff Agenda 
 
 This template is used as a guide for project managers when beginning a project. The agenda provides a list of key points the Project Manager can address during to ensure there are clear expectations of all participating parties.
 
@@ -47,6 +63,15 @@ A newer template, this deck serves as a starting place for the key topics to inc
 Used as a guide for Project Managers when facilitating daily scrum calls; the team can decide the desired format.
 
 [Meeting Notes template](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
+
+## Monthly (or Weekly, Bi-Weekly, etc.) Reporting 
+
+Used as a core template for most project deliverables. Content will vary, yet reference the styling and current branding. For more details about styling best practices:
+- [Typograhy](https://civicactions-style-guide.readthedocs.io/en/latest/brand/typography/)
+- [Logo](https://civicactions-style-guide.readthedocs.io/en/latest/brand/logo/)
+- [Colors](https://civicactions-style-guide.readthedocs.io/en/latest/brand/colors/)
+
+[Monthly Status Report](https://docs.google.com/document/d/1CwouwFIhRpSpBXFfrtJ-S7J5_K7pm7XkQH_t1Jxar1o/edit)
 
 ## OOO Coverage
 
@@ -96,7 +121,7 @@ This template is used as a guide for Project Managers to track all project risks
 
 ## Team Working Agreement
 
-A new template, still being polished, that allows for teams to unite around their core tenets. See (link) for instructions for Project Managers.
+A new template, still being polished, that allows for teams to unite around their core tenets. See [instructions for Project Managers](https://guidebook.civicactions.com/en/latest/practice-areas/project-management/team-working-agreements-instructions/).
 
 [Team Working Agreement](https://docs.google.com/document/d/1Wkx-o0Me0dqbYv-dqt6IQcvoq5M-3v--HNQPSfzDe1M/edit#heading=h.2fgd0t58pes3)
 
@@ -122,4 +147,4 @@ The companion to the Legal Wrapper, with all details needed for the Project Mana
 
 Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. It is transparent for all of CivicActions.
 
-[Project Management Wrapper](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#heading=h.2fgd0t58pes3)
+[Project Management Wrapper](https://docs.google.com/document/d/1X6ZkPu2zeGx9NaFUGvOEIK0s20x7LD2tRzOG9QgpuBc/edit#heading=h.2fgd0t58pes3)
