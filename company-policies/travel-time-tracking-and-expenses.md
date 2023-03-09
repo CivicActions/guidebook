@@ -16,11 +16,11 @@ CivicActions will reimburse employees at the IRS "business standard mileage rate
 
 ## Meals
 
-Meals shall normally be reimbursed when overnight stay is required at the GSA [per diem rate](https://www.gsa.gov/travel/plan-book/per-diem-rates).
+Meals shall normally be reimbursed when overnight stay is required at the GSA [per diem rate](https://www.gsa.gov/travel/plan-book/per-diem-rates-update).
 
 ## Hotel
 
-Lodging expenses that are required for travel should be approved in advance, according to the CivicActions [expense policy](expenses.md). At the GSA [per diem rate](https://www.gsa.gov/travel/plan-book/per-diem-rates), lodging will generally be approved.
+Lodging expenses that are required for travel should be approved in advance, according to the CivicActions [expense policy](expenses.md). At the GSA [per diem rate](https://www.gsa.gov/travel/plan-book/per-diem-rates-update), lodging will generally be approved.
 
 ## If you have questions
 
