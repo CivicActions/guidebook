@@ -6,7 +6,7 @@ Templates allow us, as a practice area, to deliver consistency across projects. 
 
 ## Budget tracking
 
-Budget is commonly a part of weekly or monthly reporting. A few options are included: 
+Budget is commonly a part of weekly or monthly reporting. A few options are included:
 
 [Burndown](https://docs.google.com/spreadsheets/d/16fvmQ6Rfg0YeTuSFWU_j81a73PMQtPd8kBONyjVZCDw/edit#gid=0)
 
@@ -20,19 +20,19 @@ Some project contracts require formal change requests when modifying key personn
 
 ## Client Integrated Project Plan (IPP)
 
-If an Integrated Project Plan (IPP) is required, this template is a good starting point for learning. 
+If an Integrated Project Plan (IPP) is required, this template is a good starting point for learning.
 
 [Client Integrated Project Plan](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
 
 ## Decision log
 
-A Decision log is required on all projects, with this simple template as an example. 
+A Decision log is required on all projects, with this simple template as an example.
 
 [Decision log](https://docs.google.com/spreadsheets/d/1d2ye6y7A7O0boKpgzZdvkNffUp5LEP0CXTWCh1dNMD0/edit#gid=0)
 
 ## Kickoff agenda
 
-This template is used as a preliminary guide when beginning a project. Key points are provided to ensure clear expectations - for all participating parties - are addressed. 
+This template is used as a preliminary guide when beginning a project. Key points are provided to ensure clear expectations - for all participating parties - are addressed.
 
 [Kickoff agenda](https://docs.google.com/a/civicactions.net/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit?usp=sharing)
 
@@ -102,7 +102,7 @@ Another useful template from Program Management, shared with the practice area. 
 
 ## Risk ledger
 
-This template is used as a guide for Project Managers to track all project risks. This log is also required on all projects. 
+This template is used as a guide for Project Managers to track all project risks. This log is also required on all projects.
 
 [Risk ledger](https://docs.google.com/spreadsheets/d/1sOfCcARTNAaP0PfyMY9iBiThONGbzKZrzn4adrmpVAw/edit#gid=0)
 
@@ -116,7 +116,7 @@ A template that allows teams to unite around their core tenets. See [instruction
 
 ## Weekly status report
 
-This template is used as a guide for Project Managers to send weekly status updates to their Product Owner / client. 
+This template is used as a guide for Project Managers to send weekly status updates to their Product Owner / client.
 
 [Weekly status report](https://docs.google.com/a/civicactions.net/document/d/1ZFOjwys-jz8WCrqzBatCYB5_4e9v3W1kBR5yFo8NJgc/edit?usp=sharing)
 
