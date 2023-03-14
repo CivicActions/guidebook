@@ -110,7 +110,7 @@ This template is used as a guide for Project Managers to track all project risks
 
 A template that allows teams to unite around their core tenets. See [instructions for Project Managers](team-working-agreements-instructions.md).
 
-[Team Working Agreement](https://docs.google.com/document/d/1Wkx-o0Me0dqbYv-dqt6IQcvoq5M-3v--HNQPSfzDe1M/edit#heading=h.2fgd0t58pes3)
+[Team Working Agreement](https://docs.google.com/document/d/1mkkquegcOKgjXxk177MxCp2KRUL_Rw1iL_U3K2g1P7M/edit#)
 
 [Elected priorities](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit)
 
