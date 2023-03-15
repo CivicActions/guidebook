@@ -30,5 +30,5 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 #### Benefits
 
--   [Health, Dental and Vision Insurance - TriNet](https://login.trinet.com)
+-   [Health, Dental and Vision Insurance - TriNet](https://identity.trinet.com/)
 -   [401K - TPA](https://www.retirementaccountlogin.net/turningpoint/)
