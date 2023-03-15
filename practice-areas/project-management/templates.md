@@ -131,6 +131,6 @@ Once completed, the Legal Wrapper is owned by our Legal team, retained in their 
 
 The companion to the Legal Wrapper, with all details needed for the Project Manager. This is also updated quarterly to confirm current contact details are accurate.
 
-Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. It is transparent for all of CivicActions - unless prohibited by contractual specifications - via the [Shared Folder shortcuts](https://drive.google.com/drive/folders/1ov5TOCOsnvynIDxtFPdcDkNC9qwB6c2K). 
+Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. It is transparent for all of CivicActions - unless prohibited by contractual specifications - via the [Shared Folder shortcuts](https://drive.google.com/drive/folders/1ov5TOCOsnvynIDxtFPdcDkNC9qwB6c2K).
 
 [Project Management Wrapper](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#heading=h.2fgd0t58pes3)
