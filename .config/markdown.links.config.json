@@ -39,6 +39,9 @@
       "pattern": "^https://support.zoom.us/.*"
     },
     {
+      "pattern": "^https://identity.trinet.com/.*"
+    },
+    {
       "NOTE: Intentional absolute self links below": "",
       "pattern": "^https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/$"
     },
