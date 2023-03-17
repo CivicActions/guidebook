@@ -163,10 +163,6 @@ nav:
           - Git: practice-areas/engineering/git.md
           - Security and compliance: practice-areas/engineering/security-compliance.md
           - Tech Lead (TL) project role description: practice-areas/engineering/tech-lead.md
-      - Help desk:
-          - Help desk support: practice-areas/help-desk/helpdesk.md
-          - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
-          - Help desk working practices: practice-areas/help-desk/working-practices.md
       - Project management:
           - Checklists: practice-areas/project-management/project-management-checklists.md
           - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
@@ -176,6 +172,7 @@ nav:
           - Folder structure: practice-areas/project-management/project-folder.md
           - Guidelines for project tools: practice-areas/project-management/general-tooling-guidelines-for-project-teams.md
           - Having the hard conversations: practice-areas/project-management/hard-conversations.md
+          - Innovation: practice-areas/project-management/innovation.md
           - Invoicing: practice-areas/project-management/invoicing.md
           - Leave requests and stepping away: practice-areas/project-management/leave-requests-and-stepping-away.md
           - Listserv setup: practice-areas/project-management/listserv-setup.md
@@ -189,6 +186,10 @@ nav:
           - Templates: practice-areas/project-management/templates.md
           - Training: practice-areas/project-management/pm-training.md
           - Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
+      - Project Support:
+          - Overview: practice-areas/help-desk/helpdesk.md
+          - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
+          - Support working practices: practice-areas/help-desk/working-practices.md
   - About this guidebook:
       - About this guidebook: about-this-guidebook/README.md
       - Why this guidebook is open: about-this-guidebook/why-guidebook-is-open.md
