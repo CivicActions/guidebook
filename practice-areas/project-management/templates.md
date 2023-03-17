@@ -12,6 +12,8 @@ Budget is commonly a part of weekly or monthly reporting. A few options are incl
 
 [Budget tracking](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
 
+[Budget tracking, V2](https://docs.google.com/spreadsheets/d/1KZQPrs2iyv16YVrI6nOuxKQsE739KsRODlZxFJVSo8Y/edit#gid=422466964)
+
 ## Client change request
 
 Some project contracts require formal change requests when modifying key personnel, deliverables, budget, etc. This template helps to initiate change with the contracting officer representative (COR).
@@ -24,11 +26,25 @@ If an Integrated Project Plan (IPP) is required, this template is a good startin
 
 [Client Integrated Project Plan](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
 
+## CPARS
+
+Thanks to Program Management, and working in conjunction with them and Sales, this CPARS response template allows CivicActions the ability to deliver scoring feedback/ requests for improvement.
+
+[CPARS response](https://docs.google.com/document/d/1qMmFuAFopc8bTdAlr1n-LAL7TE8sYONPnjVG8EX6I9s/edit)
+
 ## Decision log
 
 A Decision log is required on all projects, with this template as an example.
 
 [Decision log](https://docs.google.com/spreadsheets/d/1d2ye6y7A7O0boKpgzZdvkNffUp5LEP0CXTWCh1dNMD0/edit#gid=0)
+
+## Incident Response (aka Remediation Brief)
+
+If any issue occurs on a Production environment, especially anything that is in conflict with established SLAs, then an Incident Response is advised.
+
+[Incident Response instructions for Project Managers](https://docs.google.com/document/d/1BC_TxS3SfQg0LK54hXpaRrPCW4QBFsF7wPmKnXNkvUQ/edit)
+
+[Incident Response template](https://docs.google.com/document/d/1JhTZNH6g-fNqkuT5p2Yi1W2Kr2N_0tL1XWTFqepoR0I/edit)
 
 ## Kickoff agenda
 
@@ -47,6 +63,12 @@ This deck serves as a starting place for all key topics on any Kickoff call.
 Used as a guide for Project Managers when facilitating daily scrum calls; the team can decide the desired format.
 
 [Meeting notes](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
+
+## Mod/ Pricing justification
+
+Another template requiring close collaboration with Program Management and Sales (and often Legal), this template serves to document, prior to a new Option Year, any forecasted funding gaps.
+
+[Mod/ Pricing justification](https://docs.google.com/document/d/1Dlg2fVL9OEsllQvLt42Wetmq3_2oI35GdKM1mIN3gVo/edit)
 
 ## Monthly status report
 
