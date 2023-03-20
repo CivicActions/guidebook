@@ -29,8 +29,10 @@ When you first log in you will need to go through a short onboarding:
 
 Notes:
 
--   If you normally work in more than one of the teams listed, or have significant skills outside those of your primary team then open a [support ticket](software-and-support/support.md#to-request-support) to request those be added to your user.
+-   If you have specific additional skills you can add these (after the initial self-assessment) by navigating to [your skills tab](https://app.skills-base.com/people/view#skills) and clicking "Add a skill".
+-   If you normally work in more than one of the teams listed then open a [support ticket](software-and-support/support.md#to-request-support) to request those be added to your user.
 -   If you work in an internal department select the "CivicActions" team.
+-   Skills Base does support supervisor assessments, but we are not currently using that functionality.
 
 Next, you will need to take an initial self-assessment - this typically takes around 30 minutes, depending on the number of skills your team tracks.
 
@@ -70,16 +72,73 @@ For each qualification:
 -   Enter the status, start and end date (if applicable)
 -   If you already have qualifications listed, take a moment to review each one as well as adding any new ones
 
-## Using Skills Base data
-
--   Your summary includes several ways of looking your own skills and qualifications to identify areas of strength and potential growth
--   There is a similar page for your team - team leads can also set a skills target you can use to identify areas to focus on - there are also some team specific reports available in the drop down
--   You can use the directories to browse by locations, people, qualifications, skills and other teams
--   If you are looking for a person with a particular set of skills/qualifications the people finder tool lets you drill down with multiple criteria
--   Reports lets you run the team reports across the whole company as well as export data for even more fun analysis
-
 ## Updating your skills and qualifications
 
 -   Add or update qualifications whenever you get new ones (keeping in mind the categories above) or let one lapse
 -   Team members will get an e-mail reminder to update their self assessment annually - please keep them up to date!
 -   You can update more frequently though, if you want to track progress towards your goals
+
+## Using Skills Base information
+
+### For individuals
+
+-   Open "My summary" or navigate to a team member via the "People" menu
+-   You can see qualifications, top skill cantegories and individual skills, top interests and people with similar skills
+-   You can also see "Keen to improve" which lists skills with low skill but high interest
+-   Use the tabs to dig deeper as well as look at changes in skills over time
+
+### By skill category or skill
+
+-   Navigate to the skill category or specific skill of interest using the search function or using the Skills directory and drilling down
+    -   In the directory, right click on the skill category or skill and select "View" to open the page
+-   On this page you can see who is most skilled, most interested and most keen to improve (see above)
+-   On skill category pages you can also see the skills within the category that have the highest skill and interest levels
+
+## For teams
+
+-   Navigate to the team of interest by clicking "My team", using the search function or using the Teams directory and drilling down (right click and select "View")
+-   On this page you can see who is most skilled, most interested, which skills associated with the team that have the highest skill and interest levels
+-   You can also see the top qualifications for this team and which self assessments are due
+
+### Setting team targets
+
+This enables a team to set targets for each skill. Team members can then see how their own skill levels compare to this target and which skills they may want to focus on.
+
+-   From the team page, open the "Targets" tab
+-   Click the "Set targets now" button
+-   Follow the prompts
+
+It is recommended to use a collaborative process to set targets that includes other members of the team. It is not necessary to set a target for every skill or competency, the team can limit it to only skills they feel are important for everyone to hold.
+
+### Team reports
+
+You can access team reports via the "Reports" dropdown:
+
+-   Heat matrix (by skill or interest levels) is a great way of looking at the strengths an opportunities/gaps for the team as a whole.
+-   Capability matrix shows how many people in the team have reported a specific skill level.
+-   You can also export data to analyse using external tools.
+
+## Finding people with a particular set of skills
+
+The easiest way to do this is using the "People finder" in the sidebar. You can drill down on multiple skills and interests at the same time.
+
+## Other needs?
+
+There is a custom report builder that can be used to answer many other queries we might have - open a [support ticket](software-and-support/support.md#to-request-support) and describe what you are looking for!
+
+## Managing the skills catalog
+
+One person from each team can be designated the Skills manager for that team. It is possible to designate additional managers, but recommended that only 1 person at a time actually update the skills catalog.
+
+Note that changes to the skills catalog should generally be made through a consultative process that includes several people from that team.
+
+The goal is for skills in the catalog to be collectively exhaustive and mutually exclusive.
+
+Note that the categories of skills [do not correspond 1-1 with teams](https://support.skills-base.com/kb/articles/11000025153-skill-categories), as there are various skills that multiple teams share. Consider the skills categories as a more general taxonomy, bearing in mind that teams can select from multiple categories across the tree.
+
+In some cases, there may be some cross-over or duplication of skills between 2 teams. In this case, both teams will need to work together to identify how to refactor the catalog to ensure it is logical and avoids duplicate skills or overlap. The IT dept can help facilitate these changes as needed.
+
+-   Open a [support ticket](software-and-support/support.md#to-request-support) to request access to manage skills.
+-   Request training from IT if you haven't done this before.
+-   Spend time becoming familiar with the catalog as a whole and search for similar skills before adding new ones.
+-   Add descriptions to each skill wherever possible.
