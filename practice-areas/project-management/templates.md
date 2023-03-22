@@ -2,124 +2,157 @@
 
 ## Purpose
 
-Templates are a great way to become efficient at communicating project status. They also allow us, as a practice area, to deliver consistency across projects. The templates below are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM). Given the ongoing improvements of our team, this page is dynamic.
+Templates allow us, as a practice area, to deliver consistency across projects. Those included are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM). Given the ongoing improvements of our team, this page is dynamic.
 
-## Budget Tracking
+## Budget tracking
 
-The following templates can be helpful for budget tracking to include in weekly status reporting.
+Budget is commonly a part of weekly or monthly reporting. A few options are included:
 
-[Burndown Template](https://docs.google.com/spreadsheets/d/16fvmQ6Rfg0YeTuSFWU_j81a73PMQtPd8kBONyjVZCDw/edit#gid=0)
+[Burndown](https://docs.google.com/spreadsheets/d/16fvmQ6Rfg0YeTuSFWU_j81a73PMQtPd8kBONyjVZCDw/edit#gid=0)
 
-[Budget Tracking Document](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
+[Budget tracking](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
 
-## Client Change Request
+[Budget tracking, V2](https://docs.google.com/spreadsheets/d/1KZQPrs2iyv16YVrI6nOuxKQsE739KsRODlZxFJVSo8Y/edit#gid=422466964)
 
-Some project contracts require formal change requests when modifying key personnel, deliverables, budget, etc. This document can serve for initiating change with the contracting officer representative (COR).
+## Client change request
 
-[Client Change Request Template](https://docs.google.com/a/civicactions.net/document/d/1575TtYmZEu0vpsKlAXwXTFYc1HPhb0L5_ACiG1DL1jU/edit?usp=sharing)
+Some project contracts require formal change requests when modifying key personnel, deliverables, budget, etc. This template helps to initiate change with the contracting officer representative (COR).
 
-## Client Integrated Project Plan
+[Client change request](https://docs.google.com/a/civicactions.net/document/d/1575TtYmZEu0vpsKlAXwXTFYc1HPhb0L5_ACiG1DL1jU/edit?usp=sharing)
 
-If the project requires an Integrated Project Plan (IPP), this template is a good starting point. This is not a large fixed plan, instead a living document as we learn more about the project. It will be important that the Project Manager updates this plan as more is discovered.
+## Client Integrated Project Plan (IPP)
 
-[Client Integrated Project Plan Template](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
+If an Integrated Project Plan (IPP) is required, this template is a good starting point for learning.
 
-## Decision Log
+[Client Integrated Project Plan](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
 
-Decision tracking supports project management by documenting all major pivot points.
+## CPARS
 
-[Decision Log](https://docs.google.com/spreadsheets/d/1d2ye6y7A7O0boKpgzZdvkNffUp5LEP0CXTWCh1dNMD0/edit#gid=0)
+Thanks to Program Management, and working in conjunction with them and Sales, this CPARS response template allows CivicActions the ability to deliver scoring feedback/ requests for improvement.
 
-## Kickoff Agenda
+[CPARS response](https://docs.google.com/document/d/1qMmFuAFopc8bTdAlr1n-LAL7TE8sYONPnjVG8EX6I9s/edit)
 
-This template is used as a guide for project managers when beginning a project. The agenda provides a list of key points the Project Manager can address during to ensure there are clear expectations of all participating parties.
+## Decision log
 
-[Kickoff Meeting Agenda Template](https://docs.google.com/a/civicactions.net/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit?usp=sharing)
+A Decision log is required on all projects, with this template as an example.
 
-## Kickoff Deck
+[Decision log](https://docs.google.com/spreadsheets/d/1d2ye6y7A7O0boKpgzZdvkNffUp5LEP0CXTWCh1dNMD0/edit#gid=0)
 
-A newer template, this deck serves as a starting place for the key topics to include on any Kickoff call.
+## Incident Response (aka Remediation Brief)
 
-[Kickoff Deck](https://docs.google.com/presentation/d/18ZN9EP34qLrsWjE7WhsfyRH54DTV3jOA3rRWzXY7bKM/edit)
+If any issue occurs on a Production environment, especially anything that is in conflict with established SLAs, then an Incident Response is advised.
 
-## Meeting Notes
+[Incident Response instructions for Project Managers](https://docs.google.com/document/d/1BC_TxS3SfQg0LK54hXpaRrPCW4QBFsF7wPmKnXNkvUQ/edit)
+
+[Incident Response template](https://docs.google.com/document/d/1JhTZNH6g-fNqkuT5p2Yi1W2Kr2N_0tL1XWTFqepoR0I/edit)
+
+## Kickoff agenda
+
+This template is used as a preliminary guide when beginning a project. Key points are provided to ensure clear expectations - for all participating parties - are addressed.
+
+[Kickoff agenda](https://docs.google.com/a/civicactions.net/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit?usp=sharing)
+
+## Kickoff deck
+
+This deck serves as a starting place for all key topics on any Kickoff call.
+
+[Kickoff deck](https://docs.google.com/presentation/d/18ZN9EP34qLrsWjE7WhsfyRH54DTV3jOA3rRWzXY7bKM/edit)
+
+## Meeting notes
 
 Used as a guide for Project Managers when facilitating daily scrum calls; the team can decide the desired format.
 
-[Meeting Notes template](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
+[Meeting notes](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
 
-## OOO Coverage
+## Mod/ Pricing justification
+
+Another template requiring close collaboration with Program Management and Sales (and often Legal), this template serves to document, prior to a new Option Year, any forecasted funding gaps.
+
+[Mod/ Pricing justification](https://docs.google.com/document/d/1Dlg2fVL9OEsllQvLt42Wetmq3_2oI35GdKM1mIN3gVo/edit)
+
+## Monthly status report
+
+A guiding document to build Monthly status reports (aka MSRs) within CivicActions branding.
+
+[Monthly status report](https://docs.google.com/document/d/1CwouwFIhRpSpBXFfrtJ-S7J5_K7pm7XkQH_t1Jxar1o/edit)
+
+## Out of Office (OOO) coverage
 
 A few templates that support Project Managers and team members for OOO planning and returning.
 
 ### Project Managers
 
-[Project Manager Coverage Plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
+[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
 
-[Returning Project Manager/ Handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
+[Returning Project Manager/ handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
 
-### Team Members
+### Team members
 
 Reminder about [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
 
-[All resources Coverage Plan](https://docs.google.com/document/d/12bydtX5Dj6C_L-o5O_Tj2OsdbjgSzzhnIr66zssiyyg/edit#)
+[All resources coverage plan](https://docs.google.com/document/d/12bydtX5Dj6C_L-o5O_Tj2OsdbjgSzzhnIr66zssiyyg/edit#)
 
-## Privledged Users
+## Production users
 
 To maintain the integrity of all Production systems, this template is an efficiant way to track access rights for quarterly reviews.
 
-[Project Privledged Users](https://docs.google.com/spreadsheets/d/1RJDY64ZLhUYnX3kM7QrfEJaCUW_VLflXLJ9VZgGn6ZI/edit#gid=0)
+[Production users](https://docs.google.com/spreadsheets/d/1RJDY64ZLhUYnX3kM7QrfEJaCUW_VLflXLJ9VZgGn6ZI/edit#gid=0)
 
-## Project Brief (aka Onboarding Deck)
+## Project brief (aka Onboarding deck)
 
 All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of provide an overarching view of the projecs.
 
-[Project Brief](https://docs.google.com/presentation/d/1Vk7DKxe5Sop6T3JhudOcLGCffH8XJXDiX8WtBbH3Te0/edit#slide=id.gd85224ffcd_0_0)
+[Project brief](https://docs.google.com/presentation/d/1Vk7DKxe5Sop6T3JhudOcLGCffH8XJXDiX8WtBbH3Te0/edit#slide=id.gd85224ffcd_0_0)
 
-## Project Contacts
+## Project contacts
 
-This template is useful for projects that have a large stakeholder team or when the project team has a partner team.
+This template is useful for projects that have a large stakeholder team or when the project team has a partner.
 
-[Project Contacts Template](https://docs.google.com/spreadsheets/d/14dgvmMI4cmIGzLOldfRaPHh65j4BKu03v9hRWxEtA1A/edit?usp=drive_web&ouid=103893616702532363241)
+[Project contacts](https://docs.google.com/spreadsheets/d/14dgvmMI4cmIGzLOldfRaPHh65j4BKu03v9hRWxEtA1A/edit?usp=drive_web&ouid=103893616702532363241)
 
-## Project and Product Management Hacks for Designers
+## Project and Product Management hacks for designers
 
-A great resource for opening project and product management duties to the full team, and especially for our design colleagues.
+A great resource that explains project and product management duties to the team and the wider CivicActions community.
 
-[Project and Product Management Hacks for Designers](https://docs.google.com/presentation/d/1iNm4p0KZjxst5S35DRQ1v7UyNM2dz0p6OVtDGowuA80/edit#slide=id.g11625fcf513_0_96)
+[Project and Product Management hacks](https://docs.google.com/presentation/d/1iNm4p0KZjxst5S35DRQ1v7UyNM2dz0p6OVtDGowuA80/edit#slide=id.g11625fcf513_0_96)
 
-## Risk Ledger
+## Quarterly high level accomplishmnents
 
-This template is used as a guide for Project Managers to track all project risks.
+Another useful template from Program Management, shared with the practice area. The objective is to tie into bi-weekly and monthly reporting, consolidating total value delivered to the client.
 
-[Risk Ledger Template](https://docs.google.com/spreadsheets/d/1sOfCcARTNAaP0PfyMY9iBiThONGbzKZrzn4adrmpVAw/edit#gid=0)
+[Quarterly high level accomplishments](https://docs.google.com/document/d/1LdVPprGckT9XPc5EDQt-fKsR_3xK9cRba2NLf2rk5TE/edit)
+
+## Risk ledger
+
+This template is used as a guide for Project Managers to track all project risks. This log is also required on all projects.
+
+[Risk ledger](https://docs.google.com/spreadsheets/d/1sOfCcARTNAaP0PfyMY9iBiThONGbzKZrzn4adrmpVAw/edit#gid=0)
 
 ## Team Working Agreement
 
-A new template, still being polished, that allows for teams to unite around their core tenets. See (link) for instructions for Project Managers.
+A template that allows teams to unite around their core tenets. See [instructions for Project Managers](team-working-agreements-instructions.md).
 
-[Team Working Agreement](https://docs.google.com/document/d/1Wkx-o0Me0dqbYv-dqt6IQcvoq5M-3v--HNQPSfzDe1M/edit#heading=h.2fgd0t58pes3)
+[Team Working Agreement](https://docs.google.com/document/d/1mkkquegcOKgjXxk177MxCp2KRUL_Rw1iL_U3K2g1P7M/edit#)
 
-[Elected Priorities](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit)
+[Elected priorities](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit)
 
-## Weekly Status Report
+## Weekly status report
 
-This template is used as a guide for Project Managers to send weekly status updates to their Product Owner / client. We want our clients to have access to this type of important reporting easily and often. This status report provides the client with critical budget updates, lists new risks, outlines any major decisions, provides a summary of the work that week, etc. If a project calls for a monthly status report (MSR), these weekly reports should provide all the information to construct the MSR.
+This template is used as a guide for Project Managers to send weekly status updates to their Product Owner / client.
 
-[Weekly Status Report Template](https://docs.google.com/a/civicactions.net/document/d/1ZFOjwys-jz8WCrqzBatCYB5_4e9v3W1kBR5yFo8NJgc/edit?usp=sharing)
+[Weekly status report](https://docs.google.com/a/civicactions.net/document/d/1ZFOjwys-jz8WCrqzBatCYB5_4e9v3W1kBR5yFo8NJgc/edit?usp=sharing)
 
 ## Wrapper/ Legal
 
 A template required for each project and managed by our Legal team. This is updated quarterly to confirm alignment with all current contract details.
-
-Once completed, the Legal Wrapper is owned by our Legal team, retained in their folders, and is read-only. It is transparent, however, for all of CivicActions.
+Once completed, the Legal Wrapper is owned by our Legal team, retained in their folders, and is read-only. It is transparent, however, for all of CivicActions via the [Client Contract Index](https://docs.google.com/spreadsheets/d/1vEcmuGy2ZZEBIAWYxKvqpaUvEIj1iVzamPduMnHqQ1A/edit#gid=775617810).
 
 [Legal Wrapper](https://docs.google.com/document/d/1BTkjJ2N8iPPsuxjb3cLfaqe30nfVQHSgs8cuWaFKalw/edit)
 
 ## Wrapper/ Project Management
 
-The companion to the Legal Wrapper, with all details needed for the Project Manager. This is also updated quarterly to confirm all current contact details are accurate.
+The companion to the Legal Wrapper, with all details needed for the Project Manager. This is also updated quarterly to confirm current contact details are accurate.
 
-Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. It is transparent for all of CivicActions.
+Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. The Wrappers are transparent for all of CivicActions, unless prohibited by contractual specifications, via the [Shared Folder shortcuts](https://drive.google.com/drive/folders/1ov5TOCOsnvynIDxtFPdcDkNC9qwB6c2K).
 
 [Project Management Wrapper](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#heading=h.2fgd0t58pes3)
