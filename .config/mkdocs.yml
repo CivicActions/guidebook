@@ -1,4 +1,4 @@
-site_name: CivicActions Guidebook - Beta
+site_name: CivicActions Guidebook
 repo_url: https://github.com/CivicActions/guidebook/
 site_url: https://guidebook.civicactions.com/en/latest/
 docs_dir: "../.docs"
@@ -110,6 +110,7 @@ nav:
           - Sprint planning meetings: common-practices-tools/agile/sprint-planning-meetings.md
           - Sprint retrospectives: common-practices-tools/agile/sprint-retrospectives.md
       - Balance scores: common-practices-tools/balance-scores.md
+      - Best practices for managers and team members: common-practices-tools/best-practices-for-managers-and-team-members.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Gold Star Program: common-practices-tools/gold-star-program.md
       - Security awareness and tools:
@@ -130,7 +131,6 @@ nav:
           - Internal technical support: common-practices-tools/software-and-support/support.md
           - Bookmarks: company-policies/new-hire-orientation/bookmarks.md
           - Email: common-practices-tools/software-and-support/email.md
-          - General contacts and listservs: common-practices-tools/software-and-support/general-contacts-and-listservs.md
           - Github: common-practices-tools/software-and-support/github.md
           - Google Calendar: common-practices-tools/software-and-support/google-calendar.md
           - Google Docs: common-practices-tools/software-and-support/google-docs.md
@@ -163,10 +163,6 @@ nav:
           - Git: practice-areas/engineering/git.md
           - Security and compliance: practice-areas/engineering/security-compliance.md
           - Tech Lead (TL) project role description: practice-areas/engineering/tech-lead.md
-      - Help desk:
-          - Help desk support: practice-areas/help-desk/helpdesk.md
-          - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
-          - Help desk working practices: practice-areas/help-desk/working-practices.md
       - Project management:
           - Checklists: practice-areas/project-management/project-management-checklists.md
           - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
@@ -176,6 +172,7 @@ nav:
           - Folder structure: practice-areas/project-management/project-folder.md
           - Guidelines for project tools: practice-areas/project-management/general-tooling-guidelines-for-project-teams.md
           - Having the hard conversations: practice-areas/project-management/hard-conversations.md
+          - Innovation: practice-areas/project-management/innovation.md
           - Invoicing: practice-areas/project-management/invoicing.md
           - Leave requests and stepping away: practice-areas/project-management/leave-requests-and-stepping-away.md
           - Listserv setup: practice-areas/project-management/listserv-setup.md
@@ -189,6 +186,10 @@ nav:
           - Templates: practice-areas/project-management/templates.md
           - Training: practice-areas/project-management/pm-training.md
           - Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
+      - Project Support:
+          - Overview: practice-areas/help-desk/helpdesk.md
+          - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
+          - Support working practices: practice-areas/help-desk/working-practices.md
   - About this guidebook:
       - About this guidebook: about-this-guidebook/README.md
       - Why this guidebook is open: about-this-guidebook/why-guidebook-is-open.md
