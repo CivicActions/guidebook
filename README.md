@@ -6,8 +6,6 @@ hide:
 
 # CivicActions Guidebook
 
-<!--[![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://guidebook.civicactions.com/en/latest/?badge=latest) -->
-
 ## <a name="purpose"></a>Guidebook Purpose
 
 This Guidebook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
