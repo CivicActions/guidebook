@@ -1,18 +1,18 @@
 # Accessibility: How To
 
-## Resources for learning how to test the accessibility of our applications 
+## Resources for learning how to test the accessibility of our applications
 
 The following resources are noted in priority order:
 
 1/ [Wave](https://wave.webaim.org/)
 
-How to install: 
+How to install:
 
 How to use:
 
 2/ [Accessibility Insights](https://accessibilityinsights.io/)
 
-How to install: 
+How to install:
 
 How to use:
 
