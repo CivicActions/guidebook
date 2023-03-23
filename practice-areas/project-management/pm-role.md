@@ -13,7 +13,7 @@ There is a lot of overlap between Project Managers and Scrum Masters, especially
 
 Given that the main objective is a self-sustaining team, neither role is a gatekeeper and instead the Dev Team has access to all client communications, documents and a direct relationship with the Product Owner.
 
-This pages serves to define the Project Manager role in Agile ceremonies.
+This pages serves to define the Project Manager role in Agile ceremonies. [Also see this helpful document with tips from project leads.](https://docs.google.com/document/d/1QIUZC7qJJt9A0XWxb-kDAfVBI4Bf9GoqrZbPRnUQ9fA/edit#heading=h.qho48irft1kw)
 
 ## Scrum
 
