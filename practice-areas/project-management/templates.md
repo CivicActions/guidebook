@@ -6,7 +6,7 @@ Templates allow us, as a practice area, to deliver consistency across projects. 
 
 ## Budget impact
 
-If a project requires additional resourcing, i.e., for a work surge or else to support CivicActions as a whole, then we have a simple template for awareness.
+If a project requires additional resourcing, i.e., for a work surge or else to support CivicActions as a whole, then we have a template for awareness.
 
 How? Use Slack, the project Core channel, and this framework, requesting alignment and opening it for questions:
 
