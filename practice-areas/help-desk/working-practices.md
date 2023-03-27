@@ -50,7 +50,6 @@ CivicActions Support
 
 The simple act of sending a response that acknowledges a question helps create a mutually beneficial partnership, and tells the user that they're not alone.
 
-
 ### Following Up
 
 We **always follow up**. We check and re-check our ticket queues frequently. If a person hasn't yet responded, we reach back out, and make sure all is well at least twice before closing the ticket. There may be times when this is inappropriate (spam doesn't need a response, and someone angrily unsubscribing from a website may want to be done with the interaction as quickly as possible), but in most cases we reach out to make sure an interaction is complete.
