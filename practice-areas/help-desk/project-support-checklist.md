@@ -27,7 +27,15 @@ Next define the workflow for support, including all associated tasks. Document -
 
 Most production sites carry contractual expectations regarding uptime, or Service Level Agreements. They are critical to maintain system integrity. Every team member needs to understand SLA response times. Often a matrix view is an efficient method, e.g.,
 
-<img alt="SLA grid" src="../../../assets/images/SLA_grid.png" />
+| IMPACT                                   | 1 (highest severity)   | 2                                         | 3 (lowest severity)                                     |
+|------------------------------------------|------------------------|-------------------------------------------|---------------------------------------------------------|
+| How widespread is the issue?             | Every page of the site | Half of the site, or high traffic pages | Small part of one page on the site or low traffic pages |
+| How many people is this issue impacting? | Every user of the site | All public users or data publishers       | A low number of users                                   |
+| Is is stopping anyone from working?      | Yes, completely     | Yes, somewhat                           | No                                                      |
+| Is work efficiency impacted              | Yes                    | Yes                                       | No                                                      |
+| Is there a work-around?                  | No                     | No                                        | Possibly, yes                                         |
+| By when is a fix required?               | Immediately            | ASAP                                      | Soon 
+
 
 Often support responses are broken by severity levels, i.e., P1, P2, etc. Confirm that all team members understand this information plus the workflow when recording/ tracking them.
 
