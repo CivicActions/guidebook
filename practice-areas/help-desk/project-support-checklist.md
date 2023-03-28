@@ -76,7 +76,7 @@ Often support responses are broken by severity levels, i.e., P1, P2, etc. Confir
 
 ## 5/ If possible, automate your tooling
 
--   Automate as many support related processes as possible.
+-   Automate as many support related processes as possible
 -   Automate manual or low-lift tasks in order to free up effort for more complex tasks
 -   Look for apps, plugins, and integrations that can improve support efficiency
 -   Check for existing resources or documentation that can be refined and made available for broader use
