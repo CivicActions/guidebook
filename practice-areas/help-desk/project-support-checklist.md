@@ -5,7 +5,7 @@
 -   What does support or O&M mean for your team?
 -   What is included in your service?
 
-Make these a part of your core operating tenets and include it in your project [TWA](../practice-areas/project-management/team-working-agreements-instructions.md). Make sure everyone on the project understands this definition.
+Make these a part of your core operating tenets and include it in your project [TWA](../project-management/team-working-agreements-instructions.md). Make sure everyone on the project understands this definition.
 
 ## 2/ Define roles and responsibilities for support providers
 
@@ -27,14 +27,50 @@ Next define the workflow for support, including all associated tasks. Document -
 
 Most production sites carry contractual expectations regarding uptime, or Service Level Agreements. They are critical to maintain system integrity. Every team member needs to understand SLA response times. Often a matrix view is an efficient method, e.g.,
 
-| IMPACT                                   | 1 (highest severity)   | 2                                       | 3 (lowest severity)                                     |
-| ---------------------------------------- | ---------------------- | --------------------------------------- | ------------------------------------------------------- |
-| How widespread is the issue?             | Every page of the site | Half of the site, or high traffic pages | Small part of one page on the site or low traffic pages |
-| How many people is this issue impacting? | Every user of the site | All public users or data publishers     | A low number of users                                   |
-| Is is stopping anyone from working?      | Yes, completely        | Yes, somewhat                           | No                                                      |
-| Is work efficiency impacted              | Yes                    | Yes                                     | No                                                      |
-| Is there a work-around?                  | No                     | No                                      | Possibly, yes                                           |
-| By when is a fix required?               | Immediately            | ASAP                                    | Soon                                                    |
+<table>
+    <tr>
+        <th>IMPACT</th>
+        <th>1 (highest severity)</th>
+        <th>2</td>
+        <th>3 (lowest severity)</th>
+    </tr>
+    <tr>
+        <th>How widespread is the issue?</th>
+        <td>Every page of the site</td>
+        <td>Half of the site, or high traffic pages</td>
+        <td>Small part of one page on the site or low traffic pages</td>
+    </tr>
+    <tr>
+        <th>How many people is this issue impacting?</th>
+        <td>Every user of the site</td>
+        <td>All public users or data publishers</td>
+        <td>A low number of users</td>
+    </tr>
+    <tr>
+        <th>Is it stopping anyone from working?</th>
+        <td>Yes, completely</td>
+        <td>Yes, somewhat</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <th>Is work efficiency impacted</th>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <th>Is there a work-around?</th>
+        <td>No</td>
+        <td>No</td>
+        <td>Possibly, yes</td>
+    </tr>
+    <tr>
+        <th>By when is a fix required?</th>
+        <td>Immediately</td>
+        <td>ASAP</td>
+        <td>Soon</td>
+    </tr>
+</table>
 
 Often support responses are broken by severity levels, i.e., P1, P2, etc. Confirm that all team members understand this information plus the workflow when recording/ tracking them.
 
