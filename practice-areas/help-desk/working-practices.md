@@ -38,17 +38,15 @@ Often when someone asks a question about a web application, responding quickly m
 
 The first step toward helping users feel attended-to is to **always reply promptly**. Any reply is better than no reply. Users and clients like to know that we've read their correspondence, and that we're looking into the issue. We don't have to know everything in order to begin an interaction, and we don't even have to be specific about next steps; often our first response may be as simple as:
 
-> Hi (name),
->
-> Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
->
-> Let me know if I can help with anything else in the meantime!
->
-> Thanks,
->
-> (My name)
->
-> CivicActions Support
+Hi (name),
+
+Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
+
+Let me know if I can help with anything else in the meantime!
+
+Thanks,
+(My name)
+CivicActions Support
 
 The simple act of sending a response that acknowledges a question helps create a mutually beneficial partnership, and tells the user that they're not alone.
 
@@ -58,7 +56,7 @@ We **always follow up**. We check and re-check our ticket queues frequently. If 
 
 ### Resolution Time
 
-We do our best to **solve problems quickly**. We can't always do this; sometimes problems require lengthy engineering engagements, or simply can't be done, or _shouldn't_ be done. But when possible, we come to an actual solution quickly and let the user know. If our resolution doesn't solve the original request, we'll explain why and what's being done instead.
+We do our best to **solve problems quickly**. We can't always do this; sometimes problems require lengthy engineering engagements, or they can't be done, or shouldn't be done. But when possible, we come to an actual solution quickly and let the user know. If our resolution doesn't solve the original request, we'll explain why and what's being done instead.
 
 If a given support interaction requires engineering time or work that's outside support staff's capacity (for instance, if it means opening an engineering work ticket, or requesting approval or information from a stakeholder), we'll inform the user of the next steps, make sure they know everything they need to know, and communicate with other people involved to make sure those next steps can and will be taken, before our support interaction can be considered complete.
 
