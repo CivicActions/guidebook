@@ -21,7 +21,7 @@ Next define the workflow for support, including all associated tasks. Document -
 -   Create documentation for support processes as well as solutions for support related issues
 -   Documentation can include canned answers, knowledge base, frequently asked questions, common problems, etc.
 -   FAQs and knowledge base articles can often be turned into a self-service support portal for end users and stakeholders
--   Documentation should be stored in a central location accessible to all team members.
+-   Documentation should be stored in a central location accessible to all team members
 
 ## 4/ Know your Service Level Agreements (SLAs)
 
