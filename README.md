@@ -6,7 +6,45 @@ hide:
 
 # CivicActions Guidebook
 
-[![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://guidebook.civicactions.com/en/latest/?badge=latest)
+## <a name="purpose"></a>Guidebook Purpose
+
+This Guidebook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
+
+## Common Topics
+
+<!-- prettier-ignore-start -->
+
+<div class="grid cards" markdown>
+
+- :fontawesome-regular-calendar:{ .lg .middle } **Holidays**
+
+    ***
+
+    Find out when CivicActions is closed
+
+    [:octicons-arrow-right-24: US holidays](employee-benefits/us-benefits-policy.md#holidays)
+    [:octicons-arrow-right-24: Canadian holidays](employee-benefits/canada-benefits-policy.md#holidays)
+
+- :fontawesome-solid-laptop:{ .lg .middle } **Technology stipend**
+
+    ***
+
+    Employees get annual funds for technology
+
+    [:octicons-arrow-right-24: US tech stipend](employee-benefits/us-tech-stipend.md)
+    [:octicons-arrow-right-24: Canadian tech stipend](employee-benefits/canada-tech-stipend.md)
+
+- :fontawesome-regular-credit-card:{ .lg .middle } **Expense requests**
+
+    ***
+
+    How to get reimbursed for business expenses
+
+    [:octicons-arrow-right-24: Out-of-pocket expenses](company-policies/expenses.md)
+
+</div>
+
+<!-- prettier-ignore-end -->
 
 ## Contact Information
 
@@ -17,10 +55,6 @@ Lafayette, CA 94549
 510.408.7510 | main
 888.714.7388 | fax
 civicactions.com
-
-### <a name="purpose"></a>Guidebook Purpose
-
-This Guidebook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
 
 ## License
 
