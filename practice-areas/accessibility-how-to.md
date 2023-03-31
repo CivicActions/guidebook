@@ -6,7 +6,7 @@ It is worth looking over the [resources on testing on Drupal.org](https://www.dr
 
 1/ [Accessibility Insights](https://accessibilityinsights.io/) (FastPass)
 
-Microsoft's open source Accessibility Insights offers both the automated testing with axe and guided keyboard only testing within their FastPass. This is roughly equivalent to using WebAim's proprietary [Wave](https://wave.webaim.org/) toolbar with \[Keyboard-only testing\](https://webaim.org/techniques/keyboard/). The main advantage of Accessibility Insights is that it provides assets which make it easier to include in JIRA to replicate the results.
+Microsoft's open source Accessibility Insights offers both the automated testing with axe and guided keyboard only testing within their FastPass. This is roughly equivalent to using WebAim's proprietary [Wave](https://wave.webaim.org/) toolbar with [Keyboard-only testing](https://webaim.org/techniques/keyboard/). The main advantage of Accessibility Insights is that it provides assets which make it easier to include in JIRA to replicate the results.
 
 How to install: [Install Accessibility Insights for the Web](https://accessibilityinsights.io/downloads/) in Edge/Chrome browser.
 
