@@ -186,10 +186,11 @@ nav:
           - Templates: practice-areas/project-management/templates.md
           - Training: practice-areas/project-management/pm-training.md
           - Unanet Tasks and Training Material: practice-areas/project-management/pm-unanet-tasks.md
-      - Project Support:
+      - Project support:
           - Overview: practice-areas/help-desk/helpdesk.md
           - Project support and Agile: practice-areas/help-desk/help-desk-agile.md
-          - Support working practices: practice-areas/help-desk/working-practices.md
+          - Support best practices: practice-areas/help-desk/working-practices.md
+          - Support checklist: practice-areas/help-desk/project-support-checklist.md
   - About this guidebook:
       - About this guidebook: about-this-guidebook/README.md
       - Why this guidebook is open: about-this-guidebook/why-guidebook-is-open.md
