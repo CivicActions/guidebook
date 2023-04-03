@@ -31,9 +31,11 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 #### Benefits
 
 **US employees**
+
 -   Health, dental and vision insurance - [TriNet](https://identity.trinet.com/)
 -   401K - [TPA](https://www.retirementaccountlogin.net/turningpoint/)
 
 **Canadian employees**
+
 -   Health, dental and vision insurance - [Canada Life](https://my.canadalife.com/climsMyLogin)
 -   RRSP - [Canada Life](https://my.canadalife.com/climsMyLogin)
