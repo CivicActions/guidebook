@@ -100,8 +100,8 @@ nav:
   - Practice areas:
       - About practice areas: practice-areas/about-practice-areas.md
       - Accessibility:
-          - Overview: practice-areas/accessibility-practice-area.md
-          - Testing Guide: practice-areas/accessibility-how-to.md
+          - Overview: practice-areas/accessibility/accessibility-practice-area.md
+          - Testing Guide: practice-areas/accessibility/accessibility-how-to.md
       - Design and research:
           - practice-areas/design-and-research/design-research-methods.md
           - Audience and outcomes guide: practice-areas/design-and-research/audiences-and-outcomes-guide.md
