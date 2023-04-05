@@ -141,11 +141,11 @@ In certain instances, People & Operations can input time on a Team Member's beha
 
 All CivicActions' Team Members are expected to record all vacation, holiday, or other leave into the timekeeping system.
 
-**_Paid Time Off_**
+#### Paid Time Off
 
 Paid time off (PTO) is managed in accordance with the PTO policy. Leave eligibility is handled by the People Department. The tracking and review of PTO is performed by Managers and the People Department.
 
-**_Holiday_**
+#### Holiday
 
 Eligible Team Members are entitled to Holiday pay and associated Office Closing pay as defined in the Benefits policy. Team Members are expected to record all applicable Holiday time to the corresponding Holiday project charge code, within the timekeeping system. The Accounting Department reviews the holiday code usage on a semi-monthly basis, to ensure proper usage of the code.
 
