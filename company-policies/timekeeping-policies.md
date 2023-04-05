@@ -45,3 +45,24 @@ Any cost that is allocable to a project but may not be billable due to certain c
 ### 2.8	Reasonableness
 A cost is reasonable if, in its nature and amount, it does not exceed that which would be incurred by a prudent person in the conduct of competitive business.
 
+## 3—Timekeeping Guiding Principles & Team Member Procedures 
+### 3.1 Guiding Principles
+It is the policy of CivicActions to ensure accurate timekeeping and subsequent invoicing of all labor costs to its customers, either directly or indirectly. The procedures provided in this Policy, are to provide a formal process for recording labor associated with Direct and Indirect cost objectives. It is the responsibility of CivicActions’ Leadership and all Team Members, to abide by and promote the following principles. Which serve as guiding principles throughout this Policy:
+- Promote an environment of accurate and compliant timekeeping practices
+- Establish, appropriate, relevant, and compliant timekeeping policies and procedures, which are maintained
+- Maintain accurate and timely timesheets, for all CivicActions’ Team Members, to support accurate and compliant invoicing to all CivicActions’ customers
+- All CivicActions’ Team Members are trained upon hire with annual refresher trainings regarding accurate timekeeping practices and policies
+- All CivicActions’ Team Members are responsible for submitting accurate, compliant, and reasonable timesheets
+- CivicActions’ Project Managers and Managers must review all time / timesheets, for completeness, accuracy, and reasonableness
+- Appropriate segregation of duties exists between those individuals who are responsible for administrative timekeeping management and the processing of payroll
+### 3.2 Timekeeping Requirements
+It is expected that all CivicActions’ Team Members will comply and follow the referenced timekeeping requirements:
+- All timekeeping entries have an audit trail to include the CivicActions’ Team Member name, date, and time. Audit trail should exist at a minimum for the following: initial time entry, Team Member signature (which is completed through data entry by logged in Team Members), supervisory approval, evidence of corrections if applicable
+- All time must be accurately recorded in a timely manner. This includes properly recording hours worked to applicable / appropriate final cost objectives (i.e., Direct or Indirect)
+- All CivicActions’ Team Members must account for and record all hours worked for every day worked
+- All CivicActions’ Team Members must input and save their hours for each day, no later than 10:00 am local time, the following business day being reported
+- On the last business day of the pay period, CivicActions’ Team Members must submit their timesheet, no later than 10:00 am local time, the following business day of the last day of the pay period
+- Manager’s must review and approve their CivicActions’ Team Member timesheet(s), no later than 5:00 pm local time, the following business day of the last day of the pay period, once the CivicActions’ Team Member has signed off on their timesheet
+- All CivicActions’ Team Members are responsible for entering and submitting their own timesheets. No other Team Member shall enter time for another CivicActions’ Team Member, unless under special circumstances discussed in section 4.3 Timekeeping Special Circumstances
+- The forward booking of time is strictly prohibited, except for when a Team Member is taking leave.  If an Team Member is taking leave, they are allowed to enter time ahead of the time taken off
+- Any Direct or Indirect labor which is considered unallowable, is recorded as such, to the appropriate unallowable project
