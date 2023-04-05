@@ -23,3 +23,25 @@ Failure to comply with the Policy can result in Company criminal and civil penal
 This Policy is available to all CivicActions’ Team Members. It is the responsibility of all CivicActions’ Leadership to implement and enforce compliance with the Policy. Each applicable Team Member must be aware of and abide by the policies in the Policy, and exercise sound business judgment in the application of these policies.
 The CivicActions’ Leadership and Accounting Department are responsible for the establishment, review, and approval of the Policy, as well as the review and approval of subsequent changes.
 The CivicActions’ Leadership and the Accounting Department will review and update the policies annually and on an as needed basis, so that they align with current CivicActions’ practices and procedures and government requirements.
+
+### * * Missing Table * *
+
+## 2— Key Definitions
+### 2.1	Costs
+Costs are any labor and expenses incurred by CivicActions, in the course of normal business. These costs must be recorded to the appropriate account based on the cost objective / contract that is receiving the benefit. CivicActions has accounting and timekeeping systems which allows for the proper segregation and accumulation of cost by specific pools or projects for Government reporting purposes. 
+### 2.2	Direct Cost
+Direct costs are costs that are incurred for the benefit of a single contract or cost objective. Typical examples of direct costs include direct labor, direct materials, direct subcontract costs, direct travel, and other direct costs.
+
+### 2.3	Indirect Cost
+Indirect costs are the remaining costs to be allocated to two or more final cost objectives. Typical indirect cost examples may include, but are not limited to, indirect labor, indirect materials, indirect travel, and other indirect costs.
+### 2.4	Allocable
+A cost is allocable if it is assignable or chargeable to one or more cost objectives on the basis of relative benefits received or other equitable relationship.
+### 2.5	Allowable Cost
+A cost which under the provisions of FAR Part 31.2, as well as specific contract terms, can be claimed and included in invoices, indirect allocations, proposals, or settlements to which it is allocable.
+### 2.6	Unallowable Cost
+Any cost which under the provisions of FAR Part 31.2, as well as specific contract terms, cannot be claimed nor included in invoices, indirect allocations, proposals, or settlements to which it would otherwise be allocable.
+### 2.7	Non-Billable Cost
+Any cost that is allocable to a project but may not be billable due to certain conditions. These can be due to the incurrence of costs that are not within specific contract requirements, may not have enough funding or are outside the period of performance of the contract.
+### 2.8	Reasonableness
+A cost is reasonable if, in its nature and amount, it does not exceed that which would be incurred by a prudent person in the conduct of competitive business.
+
