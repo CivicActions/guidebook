@@ -39,7 +39,6 @@ As a working group, we understand that creating an inclusive work culture is the
 -   Finding ways to promote a flat organizational culture
 -   Creating opportunities for CivicActioners to form relationships on pod calls that aren't work-focused
 -   Offering Slack channels for various affinity groups — spaces where folks can openly discuss issues and causes that are important to them
--   Encouraging team members to use 5% of their working time giving back to a community they care about
 
 ## Accessibility
 
