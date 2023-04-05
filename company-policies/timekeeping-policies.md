@@ -1,6 +1,6 @@
 ## 0—Roles and Responsibilities 
 ### 0.1	Leadership
-The definition of the Leadership team includes the Chief Executive Officer (CEO), Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Information Security Officer (CISO), Chief Experience Officer (CEO), General Counsel, Directors of various CivicActions Disciplines, and Board Members. 
+The definition of the Leadership team includes the Chief Executive Officer (CEO), Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Information Security Officer (CISO), Chief Experience Officer (CXO), General Counsel, Directors of various CivicActions Disciplines, and Board Members. 
 ### 0.2	Accounting Department
 The definition of the Accounting Department includes all persons who are involved with performing the day-to-day accounting activities, including payroll. Roles within the Accounting Department include the CEO, COO, Controller (outsourced), Resource Planning Analyst, and Staff Accountant. One of the primary responsibilities of the Accounting Department is to identify and properly classify unallowable costs in accordance with FAR Part 31 and contract specific terms. 
 ### 0.3	Program Finance
@@ -55,9 +55,9 @@ A cost is reasonable if, in its nature and amount, it does not exceed that which
 
 ## 3—Timekeeping Guiding Principles & Team Member Procedures 
 ### 3.1 Guiding Principles
-It is the policy of CivicActions to ensure accurate timekeeping and subsequent invoicing of all labor costs to its customers, either directly or indirectly. The procedures provided in this Policy, are to provide a formal process for recording labor associated with Direct and Indirect cost objectives. It is the responsibility of CivicActions’ Leadership and all Team Members, to abide by and promote the following principles. Which serve as guiding principles throughout this Policy:
+It is the policy of CivicActions to ensure accurate timekeeping and subsequent invoicing of all labor costs to its customers, either directly or indirectly. The procedures provided in this Policy, are to provide a formal process for recording labor associated with Direct and Indirect cost objectives. It is the responsibility of CivicActions’ Leadership and all Team Members, to abide by and promote the following principles which serve as guiding principles throughout this Policy:
 - Promote an environment of accurate and compliant timekeeping practices
-- Establish, appropriate, relevant, and compliant timekeeping policies and procedures, which are maintained
+- Establish appropriate, relevant, and compliant timekeeping policies and procedures which are maintained
 - Maintain accurate and timely timesheets, for all CivicActions’ Team Members, to support accurate and compliant invoicing to all CivicActions’ customers
 - All CivicActions’ Team Members are trained upon hire with annual refresher trainings regarding accurate timekeeping practices and policies
 - All CivicActions’ Team Members are responsible for submitting accurate, compliant, and reasonable timesheets
