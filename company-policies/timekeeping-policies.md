@@ -2,9 +2,9 @@
 
 ## Policy & Procedures for Timekeeping
 
-|Date|
-|---|
-|April 1, 2023|
+| Date          |
+| ------------- |
+| April 1, 2023 |
 
 ## 0—Roles and Responsibilities
 
