@@ -27,13 +27,13 @@ The CivicActions’ Leadership and the Accounting Department will review and upd
 | Date      | Version #| Changes Made |Author               |Reviewer  |Signature  |
 | --------- |:--------:|:------------:|:-------------------:|:---------:|:---------:|
 | 4/1/2023  | Original |Original      |Accounting Department|Henry Poole|Henry Poole|
-||||||||||||
-||||||||||||
 ||||
-|||
-|||||
-|||
-|||
+||||
+||||
+||||
+||||
+||||
+||||
 ## 2— Key Definitions
 ### 2.1	Costs
 Costs are any labor and expenses incurred by CivicActions, in the course of normal business. These costs must be recorded to the appropriate account based on the cost objective / contract that is receiving the benefit. CivicActions has accounting and timekeeping systems which allows for the proper segregation and accumulation of cost by specific pools or projects for Government reporting purposes. 
@@ -130,23 +130,3 @@ Periodically, CivicActions performs self-audits, which are intended to test its 
 For reference to CivicActions’ Accounting Policies and Procedures, see CivicActions Accounting Policy
 ### 5.2	Timekeeping Training FAQ
 For reference to CivicActions’ Timekeeping Training, see CivicActions’ Timekeeping FAQ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
