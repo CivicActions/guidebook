@@ -24,8 +24,16 @@ This Policy is available to all CivicActions’ Team Members. It is the responsi
 The CivicActions’ Leadership and Accounting Department are responsible for the establishment, review, and approval of the Policy, as well as the review and approval of subsequent changes.
 The CivicActions’ Leadership and the Accounting Department will review and update the policies annually and on an as needed basis, so that they align with current CivicActions’ practices and procedures and government requirements.
 
-### * * Missing Table * *
-
+| Date      | Version #| Changes Made |Author               |Reviewer  |Signature  |
+| --------- |:--------:|:------------:|:-------------------:|:---------:|:---------:|
+| 4/1/2023  | Original |Original      |Accounting Department|Henry Poole|Henry Poole|
+||||||||||||
+||||||||||||
+||||
+|||
+|||||
+|||
+|||
 ## 2— Key Definitions
 ### 2.1	Costs
 Costs are any labor and expenses incurred by CivicActions, in the course of normal business. These costs must be recorded to the appropriate account based on the cost objective / contract that is receiving the benefit. CivicActions has accounting and timekeeping systems which allows for the proper segregation and accumulation of cost by specific pools or projects for Government reporting purposes. 
@@ -63,7 +71,7 @@ It is expected that all CivicActions’ Team Members will comply and follow the 
 - All CivicActions’ Team Members must input and save their hours for each day, no later than 10:00 am local time, the following business day being reported
 - On the last business day of the pay period, CivicActions’ Team Members must submit their timesheet, no later than 10:00 am local time, the following business day of the last day of the pay period
 - Manager’s must review and approve their CivicActions’ Team Member timesheet(s), no later than 5:00 pm local time, the following business day of the last day of the pay period, once the CivicActions’ Team Member has signed off on their timesheet
-- All CivicActions’ Team Members are responsible for entering and submitting their own timesheets. No other Team Member shall enter time for another CivicActions’ Team Member, unless under special circumstances discussed in section 4.3 Timekeeping Special Circumstances
+- All CivicActions’ Team Members are responsible for entering and submitting their own timesheets. No other Team Member shall enter time for another CivicActions’ Team Member, unless under special circumstances discussed in section *4.3 Timekeeping Special Circumstances*
 - The forward booking of time is strictly prohibited, except for when a Team Member is taking leave.  If an Team Member is taking leave, they are allowed to enter time ahead of the time taken off
 - Any Direct or Indirect labor which is considered unallowable, is recorded as such, to the appropriate unallowable project
 
@@ -71,7 +79,7 @@ It is expected that all CivicActions’ Team Members will comply and follow the 
 ### 4.1	Timesheet Entry
 For All Team Members, CivicActions uses the Unanet integrated timekeeping system, which is managed by the Accounting Department. Access to Unanet is username and password restricted and requires a specific number of hours per day/week/period depending upon the arrangement with the Team Member. 
 
-**Workforce Management**
+***Workforce Management***
 
 When a new Team Member is hired, the hiring team and People Ops team notify the Resource Planning Analyst (RPA) who assigns the Team Member to required internal projects and tasks in Unanet. The RPA asks the Project Manager to assign the Team Member to required client projects and tasks. For Team Members not considered new hires, requests for access to particular projects and tasks are made via Slack (#unanet channel) and are reviewed by either the RPA, the Project Manager or other personnel with the Resource Assigner role in Unanet.
 ### 4.2	Timesheet Corrections
@@ -81,11 +89,11 @@ In certain instances, People & Operations can input time on a Team Member’s be
 ### 4.4	General Leave
 All CivicActions’ Team Members are expected to record all vacation, holiday, or other leave into the timekeeping system.
 
-**Paid Time Off**
+***Paid Time Off***
 
 Paid time off (PTO) is managed in accordance with the PTO policy. Leave eligibility is handled by the People Department. The tracking and review of PTO is performed by Managers and the People Department. 
 
-**Holiday**
+***Holiday***
 
 Eligible Team Members are entitled to Holiday pay and associated Office Closing pay as defined in the Benefits policy. Team Members are expected to record all applicable Holiday time to the corresponding Holiday project charge code, within the timekeeping system. The Accounting Department reviews the holiday code usage on a semi-monthly basis, to ensure proper usage of the code. 
 ### 4.5	Timekeeping Training
@@ -116,3 +124,29 @@ CivicActions conducts both onboarding and annual timekeeping training, which is 
 
 ### 4.6	Self Audits
 Periodically, CivicActions performs self-audits, which are intended to test its population's compliance and understanding of the policy and procedures within this document. Self-audits include review of labor reporting, including but not limited to recording of hours worked in a given day, reviewing the Floor Check report, and interviews with Team Members for understanding of key policies. A review of the self-audits is briefed to the Leadership team allowing for discussion, is subsequently documented, and any agreed upon corrective action is implemented timely.
+
+## 5 – Supplemental Documents
+### 5.1	Accounting Policies and Procedures
+For reference to CivicActions’ Accounting Policies and Procedures, see CivicActions Accounting Policy
+### 5.2	Timekeeping Training FAQ
+For reference to CivicActions’ Timekeeping Training, see CivicActions’ Timekeeping FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
