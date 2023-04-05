@@ -1,6 +1,10 @@
 # Timekeeping Policy and Procedures
 
-### Policy & Procedures for Timekeeping - April 1, 2023
+## Policy & Procedures for Timekeeping
+
+|Date|
+|---|
+|April 1, 2023|
 
 ## 0—Roles and Responsibilities
 
@@ -125,7 +129,7 @@ It is expected that all CivicActions' Team Members will comply and follow the re
 
 For All Team Members, CivicActions uses the Unanet integrated timekeeping system, which is managed by the Accounting Department. Access to Unanet is username and password restricted and requires a specific number of hours per day/week/period depending upon the arrangement with the Team Member.
 
-**_Workforce Management_**
+#### Workforce Management
 
 When a new Team Member is hired, the hiring team and People Ops team notify the Resource Planning Analyst (RPA) who assigns the Team Member to required internal projects and tasks in Unanet. The RPA asks the Project Manager to assign the Team Member to required client projects and tasks. For Team Members not considered new hires, requests for access to particular projects and tasks are made via Slack (#unanet channel) and are reviewed by either the RPA, the Project Manager or other personnel with the Resource Assigner role in Unanet.
 
