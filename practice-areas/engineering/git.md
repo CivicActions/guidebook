@@ -134,7 +134,7 @@ In a continuous deployment project these tags can be created automatically, or s
 
 ## Git configuration
 
-Here is a recommended Git configuration block that it is recommended to add to your `.
+Here is a recommended Git configuration block that it is recommended to add to your `~/.gitconfig`:
 
 ```gitconfig
 ##
@@ -147,6 +147,151 @@ Here is a recommended Git configuration block that it is recommended to add to y
   ff = only
 [pull]
   ff = only
+[commit]
+  gpgsign = true
+```
+
+## Commit Signing
+
+Commit signing allows for identification and non-repudiation of individual commits to repositories in both Github and Gitlab. It improves security of our repositories by ensuring we know who made changes. The following instructions describe how to create a new GPG keypair, associate it with your Github and Gitlab accounts, and enable commit signing by default with git.
+
+### Creating a new GPG Key
+
+**Note: It is possible to use an SSH keypair to sign commits, but these instructions cover using GPG keys.**
+
+**OS X Users NOTE:** If the instructions below do not work for you, you may need to upgrade your copy of gpg. To update try: https://gpgtools.org It is recommended that you customize the installation of gpgTools to NOT include gpg Mail (you can deselect it if you customize the installation)
+
+[Github instructions](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
+
+```shell
+gpg --full-generate-key
+```
+
+-   Select "`(1) RSA and RSA (default)`" as the type.
+-   Select a 4096 bit keysize "`What keysize do you want? (3072) 4096`"
+-   Set the key to not expire "`Key is valid for? (0)`"
+-   Set your full name and the email address associated with your Github and Gitlab accounts:
+
+```shell
+Real name: first-name last-name
+Email address: user@example.com
+Comment:
+You selected this USER-ID:
+    "first-name last-name <user@example.com>"
+```
+
+-   Set a complex passphrase for your private key.
+
+It should return: "`public and secret key created and signed.`" and the new keypair should be present under `.gnupg/` in your home directory.
+
+**Note:** TBD what if we use a different email address for Github vs Gitlab? Does it have to match?
+
+List your keys and make note of the value after `sec  rsa4096/`. This will be used for specifying which key you are working with. **OSX User Note:** You can use the email address you used to create your key if your key build result did not include a value after the `sec  rsa4096/` notice.
+
+```shell
+gpg --list-secret-keys --keyid-format=long
+
+gpg: checking the trustdb
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+/home/username/.gnupg/pubring.kbx
+-------------------------------
+sec   rsa4096/FF94245366AB39B2 2022-09-13 [SC]
+      9918664322A9747329BF4386FF94295866AB36B1
+uid                 [ultimate] first-name last-name <user@example.com>
+ssb   rsa4096/ADED9538B3C3C9BD 2022-09-13 [E]
+```
+
+### Add your GPG Key to Github and Gitlab
+
+Get the ascii version of the public key that corresponds to our secret key and paste the public key block into Github and Gitlab. Copy from the "BEGIN PGP..." header to "END PGP..." footer.
+
+```shell
+gpg --armor --export FF94245366AB39B2
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGMg+QEBEACp+GHgRF1mOrz51yBcYde2h5Yl+MdN22TtrA4CkvnDsb1LvQdU
+.
+.
+.
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+Add to your [Gitlab User Settings -> GPG Keys](https://git.civicactions.net/-/profile/gpg_keys).
+
+Add to your [Github Settings -> SSH and GPG Keys](https://github.com/settings/keys).
+
+### Configure Git to Sign Commits
+
+[Telling Git about your signing key - GitHub Docs](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key)
+
+[Signing commits - GitHub Docs](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+
+Configure git to use your GPG key for signing commits:
+
+```shell
+git config --global user.signingkey FF94245366AB39B2
+```
+
+Set a global default to sign with gpg:
+
+```shell
+git config --global commit.gpgsign true
+```
+
+Add an environment variable to your shell startup for GPG TTY so that it knows where to prompt for the key passphrase:
+
+```shell
+vi ~/.bashrc
+
+export GPG_TTY=$(tty)
+```
+
+Add a commit as normal:
+
+```shell
+git commit -m 'updates to prod maintenance notes'
+[main ef7ceb3] updates to prod maintenance notes
+ 1 file changed, 70 insertions(+), 1 deletion(-)
+```
+
+It will prompt for the GPG key passphrase before proceeding. The new commit on Github now shows a green "Verified" logo and overlay:
+![Example Github Signed Commit](../../assets/images/github-signed-commit.png)
+
+A signed commit on Gitlab will look similar:
+![Example Gitlab Signed Commit](../../assets/images/gitlab-signed-commit.png)
+
+### Configure gpg-agent to Cache Your Private Key Passphrase
+
+To make things easier, from the docs:
+
+> "To store your GPG key passphrase so you don't have to enter it every time you sign a commit, we recommend using the following tools:
+>
+> -   For Mac users, the [GPG Suite](https://gpgtools.org/) allows you to store your GPG key passphrase in the Mac OS Keychain.
+> -   For Windows users, the [Gpg4win](https://www.gpg4win.org/) integrates with other Windows tools.
+>     You can also manually configure [gpg-agent](http://linux.die.net/man/1/gpg-agent) to save your GPG key passphrase, but this doesn't integrate with Mac OS Keychain like ssh-agent and requires more setup."
+
+Set a long cache time for the gpg-agent, so that you don't have to enter the passphrase every time:
+
+```shell
+# Update the ttls:
+vi .gnupg/gpg-agent.conf
+default-cache-ttl 34560000
+max-cache-ttl 34560000
+
+# Restart the gpg-agent:
+gpgconf --kill gpg-agent
+gpg-agent --daemon
+```
+
+The agent will start up automatically the first time you make a commit.
+
+**Note: If your terminal window is too small for the password prompt, the commit will return an error like the following. To fix, just increase the size of your terminal window.**
+
+```shell
+git commit -m 'rd-7609-stage-rsync-known-hosts-aide - test commit to show gpg sig failure'
+error: gpg failed to sign the data
+fatal: failed to write commit object
 ```
 
 ## GitLab, GitHub, and Bitbucket
