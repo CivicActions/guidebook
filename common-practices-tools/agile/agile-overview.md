@@ -7,4 +7,5 @@ CivicActions uses Agile practices.
 -   Check out [Agile Gov Leadership](http://www.agilegovleaders.org/)
 -   Skim CivicActions blog posts tagged as [Agile Gov](https://medium.com/civicactions/tagged/agile-government).
 -   For a deeper dive, visit our [agile-practices documentation](agile-practices.md) and the pages within this section
--   Check out the [CivicActions project playbook](https://trello.com/b/qyI4wa18/template-civicactions-project-playbook)
+-   Check out the [CivicActions project playbook](https://trello.com/b/qyI4wa18/template-civicactions-project-playbook).
+-   Test.
