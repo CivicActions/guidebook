@@ -42,3 +42,7 @@ Now prepare for the new quarter:
 
 7. Review Team Working Agreements
 8. Confirm, if it applies to your project, the [On-Call Stipend sheet](https://docs.google.com/spreadsheets/d/11jAuW7K08V5m4wyRNkddC2f_AsAtFrTXDbpUdXu272E/edit#gid=1946523395) is updated
+9. Audit shared folders to verify the following settings:
+    - Internal project shared drives should have "Allow people outside of CivicActions to access files" unchecked
+    - External project shared drives should have "Allow people outside of CivicActions to access files" checked
+    - Both internal and external project shared drives should have "Allow people who aren't shared drive members to access files" unchecked (this last one is very important, since it is pretty impossible to manage access centrally if this is checked).
