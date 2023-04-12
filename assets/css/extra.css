@@ -1,3 +1,4 @@
+/* Color overrides */
 :root {
   --md-primary-fg-color: #a23737;
   --md-accent-fg-color: #3b4eb7;
@@ -8,6 +9,22 @@
 }
 .md-search__form {
   background-color: #d83933;
+}
+/* Link overrides */
+a.md-tabs__link {
+  opacity: 1;
+  font-size: 0.8rem;
+}
+a.md-tabs__link:focus,
+a.md-tabs__link:hover {
+  text-decoration: underline;
+}
+a.md-tabs__link.md-tabs__link--active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.md-content__inner a {
+  text-decoration: underline;
 }
 /* The Read the Docs flyout is formatted with a font-size that is 90% of the
 body's. Material for MkDocs has a body font-size that is 0.5rem. This font-size
