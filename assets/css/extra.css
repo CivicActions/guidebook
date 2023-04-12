@@ -40,6 +40,15 @@ font-size of other elements in the theme.
 .rst-versions .rst-other-versions {
   color: #a9a9a9 !important;
 }
+
+/* adding a larger type option for lead text */
+.leadtext {
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #a23737;
+  font-weight: 100;
+}
+
 /* Hiding the GitHub view and edit links from the menu. */
 .rst-other-versions dl:nth-child(3) {
   display: none;
