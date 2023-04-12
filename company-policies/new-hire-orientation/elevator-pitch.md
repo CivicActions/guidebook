@@ -29,7 +29,7 @@ Some points to keep in mind:
 -   We want to create an open and accountable government
 -   We work to transform government with free and open technologies and agile processes
 -   We have an amazing company culture, and we're looking for new team members to join our mission!
--   CivicActions works to transform government by providing digital services and open data using agile practices, user centered design, and free and open source software. We support the work of the [AGL Association](https://www.agilegovleaders.org/) (a network of government innovators) and are members of the [Digital Services Coalition](https://digitalservicescoalition.org/) and [Data Coalition](https://www.datacoalition.org/).
+-   CivicActions works to transform government by providing digital services and open data using agile practices, user centered design, and free and open source software. We support the work of the [Technologists for the Public Good](https://www.publicgood.tech/) (previously Agile Gov Leadership) and are members of the [Digital Services Coalition](https://digitalservicescoalition.org/) and [Data Coalition](https://www.datacoalition.org/).
 -   CivicActions aims to transform government by empowering public sector agencies to deliver digital experiences that are innovative and rewarding. We are passionate civic technologists committed to a better world.
 
 Here's a presentation about making your own elevator pitch: <https://docs.google.com/presentation/d/1xOBQqEHC0o95oLo5lpul97p4gV4ZgzdRaqq03mpzTYc/edit#slide=id.g1dc5842bd_012>
