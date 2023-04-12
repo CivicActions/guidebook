@@ -23,13 +23,12 @@
 {% block content %}
 <h1>404</h1>
 <div class="leadtext">We looked, but couldn’t quite find that page.</div>
-
-<h2>
+<div>
   The page you are looking for has been removed, is temporarily unavailable or
   does not exist. Maybe try the address again, or head to the
   <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}">
     homepage.
   </a>
-</h2>
+</div>
 
 {% endblock %}
