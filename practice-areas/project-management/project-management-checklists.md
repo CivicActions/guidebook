@@ -18,7 +18,7 @@ Now prepare for the new month:
 7. Update any project-related scheduling (if needed)
 8. Review your meeting cadence: Can any meetings be dropped to optimize focus yet while maintaining strategy?
    Note: It sometimes help to ask, "What kinds of questions should we be asking ourselves about meetings and if they are delivering value?"
-9. Clean up project folders
+9. Review the project onboarding deck to confirm resourcing is correct
 
 ## Quarterly checklists (to be completed by the fifth business day of each quarter)
 
@@ -46,3 +46,4 @@ Now prepare for the new quarter:
     - Internal project shared drives should have "Allow people outside of CivicActions to access files" unchecked
     - External project shared drives should have "Allow people outside of CivicActions to access files" checked
     - Both internal and external project shared drives should have "Allow people who aren't shared drive members to access files" unchecked (this last one is very important, since it is pretty impossible to manage access centrally if this is checked).
+10. Clean up project folders.
