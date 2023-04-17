@@ -716,10 +716,10 @@ lru-cache@^7.5.1:
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.14.1.tgz#8da8d2f5f59827edb388e63e459ac23d6d408fea"
   integrity sha512-ysxwsnTKdAx96aTRdhDOCQfDgbHnt8SK0KY8SEjO0wHinhWOFTESbjVCMPbU1uGXg/ch4lifqx0wfjOawU2+WA==
 
-markdown-link-check@^3.11.0:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/markdown-link-check/-/markdown-link-check-3.11.0.tgz#83078646eed5914f9cca42f90d54cd529aa6781c"
-  integrity sha512-2STxiQ/Np7tE4m1YPHNh/1D22SaH312k7YiGTWna1XdQrh81+42DAw8tRdXIMpJUAcdFbwT9vG8hRyyPzHiKsw==
+markdown-link-check@^3.11.1:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/markdown-link-check/-/markdown-link-check-3.11.1.tgz#6d26de1fa79714cb89966f7df564b174a403c6ac"
+  integrity sha512-1O5CYb1qbrQGwG9kx3GKZ1t128ZMojKZwDCrGP7mC/xvXSF8KfMjcSUhdtdhvNJeDyNUO23YaAu7hSD72h9w5Q==
   dependencies:
     async "^3.2.4"
     chalk "^5.2.0"
