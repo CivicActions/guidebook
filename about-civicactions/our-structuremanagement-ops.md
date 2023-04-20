@@ -25,7 +25,7 @@ Management Team
 | David Sumner      | Associate Director DevSecOps               |
 | Sharjeel Aziz     | Associate Director DevSecOps               |
 | Jenna Waszak      | Associate Director of Design               |
-| Kelly             | Associate Director of Design               |
+| Kelly Smith       | Associate Director of Design               |
 | Valerie Runde     | Associate Director of Design               |
 | Kristian Ducharme | Associate Director of Drupal               |
 | Daniel Mundra     | Associate Director of Drupal               |
