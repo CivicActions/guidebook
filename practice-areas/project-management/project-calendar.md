@@ -1,6 +1,7 @@
 # Calendars
 
 ## Project calendars
+
 Most larger projects have their own Google Calendar, which is often created by the Project Manager. This allows for easy visibility - and editing capacity - to project events for all team members.
 
 ## Calendar creation tips
@@ -16,4 +17,5 @@ Most larger projects have their own Google Calendar, which is often created by t
 -   It is typical that clients are invited to events on a project calendar
 
 ## Contractual Calendar
-All Project Managers also have access to the Contractual Dates calendar, whose purpose is to highlight start and end dates for all projects. 
+
+All Project Managers also have access to the Contractual Dates calendar, whose purpose is to highlight start and end dates for all projects.
