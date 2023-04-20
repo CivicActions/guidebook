@@ -1,13 +1,13 @@
 # Leadership & Management
 
-Board 
+Board
 
-| Name             | Title                                       |
-| ---------------- | ------------------------------------------- |
-| Henry Poole      | Board Member  |
-| Aaron Pava       | Board Member  |
-| Tony Cooper  |  Board Member  |
-| Maria Giudice      |  Board Member  |
+| Name          | Title        |
+| ------------- | ------------ |
+| Henry Poole   | Board Member |
+| Aaron Pava    | Board Member |
+| Tony Cooper   | Board Member |
+| Maria Giudice | Board Member |
 
 Leadership Team
 
