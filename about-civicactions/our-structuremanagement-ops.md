@@ -1,27 +1,63 @@
-# The Management Ops Team
+# Leadership and management
 
-The Management/Operations Team at CivicActions consists of these members:
+Board
 
--   Henry Poole, CEO
--   Aaron Pava, CXO
--   Bill Ogilvie, VP of Public Sector
--   Elizabeth Raley, Chief Operating Officer
--   Alaine Karoleff, Director of Agile Digital Services
--   Owen Barton, Chief Technology Officer
--   Marc Jones, General Counsel
+| Name          | Title        |
+| ------------- | ------------ |
+| Henry Poole   | Board Member |
+| Aaron Pava    | Board Member |
+| Tony Cooper   | Board Member |
+| Maria Giudice | Board Member |
 
-## Purpose and Goals
+Leadership team
 
-The group's purpose is to provide leadership in the operation of the company along with high level direction for Sales and Delivery.
+| Name             | Title                                       |
+| ---------------- | ------------------------------------------- |
+| Henry Poole      | Co-Founder & Chief Executive Officer (CEO)  |
+| Aaron Pava       | Co-Founder & Chief Experience Officer (CXO) |
+| Elizabeth Raley  | Chief Operating Officer (COO)               |
+| Owen Barton      | Chief Technology Officer (CTO)              |
+| Bill Ogilvie     | Vice President of Public Sector             |
+| Marc Jones       | General Counsel                             |
+| Alaine Karoleff  | Director of Agile Digital Services          |
+| Emily Ryan       | Director of Design                          |
+| Andy Hawks       | Director of Drupal Engineering              |
+| Laura Lanford    | Director of Engineering                     |
+| Keith Kawasaki   | Director of Growth & Partnerships           |
+| Kimberlin Schone | Director of People                          |
+| Liz Tupper       | Director of Product                         |
+
+Management team
+
+| Name              | Title                                      |
+| ----------------- | ------------------------------------------ |
+| David Sumner      | Associate Director DevSecOps               |
+| Sharjeel Aziz     | Associate Director DevSecOps               |
+| Jenna Waszak      | Associate Director of Design               |
+| Kelly Smith       | Associate Director of Design               |
+| Valerie Runde     | Associate Director of Design               |
+| Kristian Ducharme | Associate Director of Drupal               |
+| Daniel Mundra     | Associate Director of Drupal               |
+| Eric Napier       | Associate Director of Drupal               |
+| Jonathan Bourland | Associate Director of Drupal               |
+| Patrick Koroma    | Associate Director of Drupal               |
+| Iris Ibekwe       | Associate Director of Frontend Engineering |
+| Dan Goodwin       | Associate Director of Frontend Engineering |
+| Eric Huffman      | Associate Director of Frontend Engineering |
+| Heidi Harting-Rex | Associate Director of Project Management   |
+
+## Purpose and goals
+
+The group's purpose is to provide leadership in the operation of the company along with high-level direction for Sales and Delivery.
 
 The Management/Operations Team collaborates with each other and with other team members to set direction for the company, manage revenues and expenses, actively support the Delivery team, and to help new initiatives or practices in the company grow.
 
 ## Communications
 
-The team holds the space for open and transparent communications by regularly communicating on company health, financials, and opportunities at monthly AHC, retreats, and anytime a question is asked.
+The team holds the space for open and transparent communications by regularly communicating on company health, financials, and opportunities at monthly All Humans Calls, retreats, and anytime a question is asked.
 
 The team meets weekly and creates an agenda on the fly that consists of decisions that need to get made, information that others may need, and updates on ongoing conversations/topics. They also get together bi-annually to focus on company goals and initiatives and then they report out activities and actions from the meeting to the entire company to continue the transparent and open culture.
 
 ## Responsibilities
 
-To see what each individual's responsibilities are on the Management/Ops team, you can view this [responsibilities Trello board](https://trello.com/b/qYDkL0tM/ops-team-responsibilities).
+Learn about individual responsibilities on the Management/Ops team in this [responsibilities Trello board](https://trello.com/b/qYDkL0tM/ops-team-responsibilities).
