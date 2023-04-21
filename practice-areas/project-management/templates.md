@@ -37,11 +37,19 @@ If an Integrated Project Plan (IPP) is required, this template is a good startin
 
 [Client Integrated Project Plan](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
 
-## CPARS
+## CPAR
 
-Thanks to Program Management, and working in conjunction with them and Sales, this CPARS response template allows CivicActions the ability to deliver scoring feedback/ requests for improvement.
+Thanks to Program Management, and working in conjunction with them and Sales, these CPAR templates allows CivicActions the ability to deliver scoring feedback/ requests for improvement.
 
-[CPARS response](https://docs.google.com/document/d/1qMmFuAFopc8bTdAlr1n-LAL7TE8sYONPnjVG8EX6I9s/edit)
+[CPARS process](https://docs.google.com/document/d/1G5W6uzbPSD4VbrQR_Qyjch13_VJYO3aQ9rwNyyVnoS8/edit#)
+
+[Explanatory deck](https://docs.google.com/presentation/d/158vTJ9MEG2lF8MGo88DHmS0V64t3wxi9BMn-n6W0dcg/edit#slide=id.gde6e9fa718_0_3)
+
+[Quarterly Value Delivered](https://docs.google.com/document/d/1LdVPprGckT9XPc5EDQt-fKsR_3xK9cRba2NLf2rk5TE/edit)
+
+[CPAR suggestions](https://docs.google.com/document/d/1LdVPprGckT9XPc5EDQt-fKsR_3xK9cRba2NLf2rk5TE/edit)
+
+[Response to submitted scores](https://docs.google.com/document/d/1qMmFuAFopc8bTdAlr1n-LAL7TE8sYONPnjVG8EX6I9s/edit)
 
 ## Decision log
 

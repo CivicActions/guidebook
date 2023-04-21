@@ -33,8 +33,8 @@ A password manager will enable you to have unique, strong passwords for every se
 LastPass provides secure password management especially when unlocked via Two Factor Authentication. Storing new passwords created in LastPass in your browser completely defeats this security, enabling anyone with access to your browser access to all your sites. If asked by your browser "Do you want to save this password in your browser?" answer "**No**". Then disable this insecure action altogether:
 
 -   In Chrome, go to chrome://settings/ and uncheck "Offer to save your web passwords"
--   In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
--   In Safari, go to Preferences >> Passwords and uncheck "AutoFill user names and passwords"
+-   In Firefox, go to about:preferences#privacy and uncheck "Ask to save logins and passwords for websites"
+-   In Safari, go to Settings >> AutoFill and uncheck "User names and passwords"
 
 ## Use Multi-Factor Authentication (MFA)
 
