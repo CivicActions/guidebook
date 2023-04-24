@@ -2205,10 +2205,10 @@ retext-english@^4.1.0:
     unherit "^3.0.0"
     unified "^10.0.0"
 
-retext-equality@^6.6.0:
-  version "6.6.0"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-6.6.0.tgz#1373729782e04996d96fcb4d9854676448799d49"
-  integrity sha512-il0Q8Dlxluc67UQnk49XmwISl3mzf1Lvuat0yZKzR2NuuluzTXI4EK44HA5JOobt/vmYkDaJaDsxHf0MmE4OMA==
+retext-equality@^6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-6.7.0.tgz#4c0c961f38658473ef4271dcbf9c601a8b67a1a1"
+  integrity sha512-AdUqA54C2CXpMcyc9+PUrwFFV4cp4XQhcsIqBvkfHDxPzfZkvIfkUYYusyeKIVFVTZFdu0ZE/+ddRwS+FPzfMw==
   dependencies:
     "@types/nlcst" "^1.0.0"
     "@types/unist" "^2.0.6"
