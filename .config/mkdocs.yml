@@ -1,50 +1,4 @@
-site_name: CivicActions Guidebook
-repo_url: https://github.com/CivicActions/guidebook/
-site_url: https://guidebook.civicactions.com/en/latest/
-docs_dir: "../.docs"
-edit_uri: edit/master/
-theme:
-  name: material
-  custom_dir: theme_overrides
-  language: custom
-  features:
-    - navigation.tabs
-    - navigation.indexes
-    - navigation.footer
-    - navigation.path
-    - content.action.edit
-  favicon: assets/images/favicon.ico
-  logo: assets/images/ca-logo-white.svg
-  palette:
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-markdown_extensions:
-  - toc:
-      title: On this page
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - md_in_html
-plugins:
-  - search
-  - git-revision-date-localized
-extra_css:
-  - assets/css/extra.css
-extra_javascript:
-  #- js/extra.js
-  # Read the Docs requires JQuery for its JavaScript code to inject the flyout
-  # menu. Material for MkDocs does not come with JQuery.
-  - "https://code.jquery.com/jquery-3.6.2.min.js"
-# Navigation of the entire site is managed below, both the main menu items and their child pages.
+# Navigation of the entire site is managed here, both the main menu items and their child pages.
 nav:
   - Home: README.md
   - About us:
@@ -201,3 +155,55 @@ nav:
       - Guidebook writing style: about-this-guidebook/writing-style-guide.md
       - Markdown: about-this-guidebook/markdown-for-guidebook.md
       - License: LICENSE.md
+
+# Mkdocs and Material theme configuration
+site_name: CivicActions Guidebook
+repo_url: https://github.com/CivicActions/guidebook/
+site_url: https://guidebook.civicactions.com/en/latest/
+docs_dir: "../.docs"
+edit_uri: edit/master/
+theme:
+  name: material
+  custom_dir: theme_overrides
+  language: custom
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.footer
+    - navigation.path
+    - content.action.edit
+  favicon: assets/images/favicon.ico
+  logo: assets/images/ca-logo-white.svg
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - toc:
+      title: On this page
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
+plugins:
+  - search
+  - git-revision-date-localized
+extra_css:
+  - assets/css/extra.css
+extra_javascript:
+  #- js/extra.js
+  # Read the Docs requires JQuery for its JavaScript code to inject the flyout
+  # menu. Material for MkDocs does not come with JQuery.
+  - "https://code.jquery.com/jquery-3.6.2.min.js"
+extra:
+  analytics:
+    provider: google
+    property: G-8Z4Z4B9GFL
