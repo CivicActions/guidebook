@@ -19,7 +19,7 @@ Leadership team
 | Owen Barton      | Chief Technology Officer (CTO)              |
 | Bill Ogilvie     | Vice President of Public Sector             |
 | Marc Jones       | General Counsel                             |
-| Alaine Karoleff  | Director of Agile Digital Services          |
+| Alaine Karoleff  | Director of Digital Services                |
 | Emily Ryan       | Director of Design                          |
 | Andy Hawks       | Director of Drupal Engineering              |
 | Laura Lanford    | Director of Engineering                     |
