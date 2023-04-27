@@ -37,7 +37,7 @@ _Note: your project may include other code review practices. Please review your 
         -   For small PRs or MRs where there isn't much commit detail, using a squash-merge approach can also be fine.
 -   We rebase commits on a feature branch for 2 reasons:
     -   To update the feature branch on top of more recent changes in master so that it can be easily merged when ready.
-    -   To adjust the commits on the branch with an interactive rebase, For example:
+    -   To adjust the commits on the branch with an interactive rebase. For example:
         -   Squashing 2 together that make more sense as one change.
         -   Splitting a large commit into 2+ smaller ones.
         -   Adjusting the wording of commit messages (see above).
