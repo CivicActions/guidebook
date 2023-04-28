@@ -13,6 +13,11 @@ collections:
     create: true
     nested:
       depth: 100
+    meta:
+      path:
+        widget: string
+        label: "Path"
+        index_file: "README"
     fields:
       - label: "Title"
         name: "title"
