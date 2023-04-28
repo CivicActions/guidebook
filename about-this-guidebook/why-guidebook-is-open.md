@@ -4,7 +4,7 @@ title: Why this guidebook is open
 
 Working in the open embodies the [CivicActions culture](../about-civicactions/culture.md). It's how we think and how we want to be known.
 
-We've made our guidebook open and available publically so that:
+We've made our guidebook open and available publicly so that:
 
 -   Current employees and new hires can access it from wherever they are
 -   Potential job candidates can learn what we're about and why it's awesome to work here

@@ -43,7 +43,7 @@ In particular:
     -   must use MFA for authentication/authorization
     -   are appropriately adjusted upon separation from CivicActions.
 
-### Advanced: Connecting to MFA-enabled Sevices/Apps
+### Advanced: Connecting to MFA-enabled Services/Apps
 
 Some applications and services may need to connect to your CivicActions Google account but they might not be able to handle Multi-Factor Authentication (MFA). An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass MFA.
 

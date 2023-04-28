@@ -121,7 +121,7 @@ To maintain the integrity of all Production systems, this template is an efficia
 
 ## Project brief (aka Onboarding deck)
 
-All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of provide an overarching view of the projecs.
+All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of provide an overarching view of the projects.
 
 [Project brief](https://docs.google.com/presentation/d/1Vk7DKxe5Sop6T3JhudOcLGCffH8XJXDiX8WtBbH3Te0/edit#slide=id.gd85224ffcd_0_0)
 
