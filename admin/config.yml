@@ -1,0 +1,47 @@
+backend:
+  name: github
+  repo: grugnog/guidebook
+  branch: decap
+publish_mode: editorial_workflow
+media_folder: "assets/images"
+collections:
+  - &base
+    name: "about-civicactions"
+    folder: "about-civicactions"
+    label: "About CivicActions"
+    label_singular: "About CivicActions page"
+    create: true
+    nested:
+      depth: 100
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - <<: *base
+    name: "employee-benefits"
+    folder: "employee-benefits"
+    label: "Employee benefits"
+    label_singular: "Employee benefits page"
+  - <<: *base
+    name: "company-policies"
+    folder: "company-policies"
+    label: "Company policies"
+    label_singular: "Company policies page"
+  - <<: *base
+    name: "common-practices-tools"
+    folder: "common-practices-tools"
+    label: "Practices and tools"
+    label_singular: "Practices and tools page"
+  - <<: *base
+    name: "practice-areas"
+    folder: "practice-areas"
+    label: "Practice areas"
+    label_singular: "Practice areas page"
+  - <<: *base
+    name: "about-this-guidebook"
+    folder: "about-this-guidebook"
+    label: "About this guidebook"
+    label_singular: "About this guidebook page"
