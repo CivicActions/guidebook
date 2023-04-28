@@ -4,7 +4,7 @@ header:
     Custom Development"
 ---
 
-_This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
+Note: _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
 
 When developing in Drupal, should we hack something together that's specific to a site? Or should we instead take the time to do things "right" by improving existing modules or writing our own new modules to contribute to the community? When is one of these options better than the other? How do we decide? It's a key set of questions. All but the most basic projects will require some level of new development. The way we approach this new development is probably _the most important factor_ in determining the long term value of our work, both for us and for our clients. It's a given that we'll first try to meet as much of the need as we can through existing, proven solutions. But there is always some need for customization. For smaller projects, new development might be:
 
