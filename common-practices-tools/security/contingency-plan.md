@@ -149,7 +149,7 @@ Primary incident communications will move to one of:
 ### AWS
 
 -   **Service:** <https://signin.aws.amazon.com/console>
--   **Status:** <http://status.aws.amazon.com/>
+-   **Status:** <https://health.aws.amazon.com/health/status>
 
 If needed, you can [manage and create new servers](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1).
 
@@ -163,7 +163,7 @@ In case of a **significant** disruption, after receiving approval from our Autho
 Some sites are hosted on the Acquia Cloud Enterprise (ACE) PaaS
 <https://cloud.acquia.com/app/develop> which is layered on top of the Amazon Web Services
 (AWS) FedRAMP-certified cloud in the us-east region. See [ACE
-Status](https://status.acquia.com/) and [AWS status](http://status.aws.amazon.com/).
+Status](https://status.acquia.com/) and [AWS status](https://health.aws.amazon.com/health/status).
 
 -   **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security>
 -   **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor>
