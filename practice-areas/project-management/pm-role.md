@@ -1,4 +1,6 @@
-# The Project Manager Role
+---
+title: The Project Manager Role
+---
 
 Project Managers envelop the unique opportunity to hold a project on task and budget, which is paramount, yet also to include:
 

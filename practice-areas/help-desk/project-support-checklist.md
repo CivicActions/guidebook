@@ -1,4 +1,6 @@
-# CivicActions Project Support Checklist
+---
+title: CivicActions Project Support Checklist
+---
 
 ## 1/ Start by defining "support" for your project team
 

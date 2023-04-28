@@ -1,4 +1,6 @@
-# Best practices for managers and team members
+---
+title: Best practices for managers and team members
+---
 
 The following are suggestions for activities that can be helpful for managers, team members, and project leads. Only some of these will be necessary for some circumstances. Managers and project leads should use their discretion to determine the appropriate methods and the cadence of these activities.
 

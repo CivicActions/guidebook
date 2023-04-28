@@ -1,4 +1,6 @@
-# Professional development at CivicActions
+---
+title: Professional development at CivicActions
+---
 
 CivicActions recognizes the importance of individual professional development for all team members. We value professional development for a number of reasons:
 

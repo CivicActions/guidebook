@@ -1,4 +1,6 @@
-# Leave Requests and Stepping Away: Guidelines for Project Managers
+---
+title: "Leave Requests and Stepping Away: Guidelines for Project Managers"
+---
 
 Guidelines that Project Managers may use to coach teams on communications for OOO and stepping away:
 

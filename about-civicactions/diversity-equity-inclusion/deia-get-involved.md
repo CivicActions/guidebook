@@ -1,8 +1,10 @@
-# DEIA: Get Involved
+---
+title: "DEIA: Get Involved"
+---
 
 ## [Join](https://docs.google.com/forms/d/1KEwz-rAeRg736rC-vCHU5uEL9ZSo0FesXefQHFN03Rg/edit?usp=sharing) the DEIA Working Group
 
-People are encouraged to apply to become part of the DEIA Working Group. We strive to reflect the diversity we seek to achieve within CivicActions. Approved members are allocated time to work on DEIA issues with the Working Group and receive an additional $500 Professional Development budget to advance their awareness.
+People are encouraged to apply to become part of the DEIA Working Group. We strive to reflect the diversity we seek to achieve within CivicActions. Approved members are allocated time to work on DEIA issues with the Working Group and receive an additional \$500 Professional Development budget to advance their awareness.
 
 ## Join the Conversation
 

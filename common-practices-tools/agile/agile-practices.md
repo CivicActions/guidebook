@@ -1,6 +1,8 @@
-We recommend using this documentation in combination with the [CivicActions project playbook](https://trello.com/b/qyI4wa18/template-civicactions-project-playbook), which maps out an ideal Agile project lifecycle.
+---
+title: Sprint Cycle
+---
 
-# Sprint Cycle
+We recommend using this documentation in combination with the [CivicActions project playbook](https://trello.com/b/qyI4wa18/template-civicactions-project-playbook), which maps out an ideal Agile project lifecycle.
 
 At CivicActions, the most common approach for accomplishing large-scale work is the use of a Scrum sprint cycle.
 

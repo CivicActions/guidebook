@@ -1,4 +1,6 @@
-# CivicActions Common Contingency Plan
+---
+title: CivicActions Common Contingency Plan
+---
 
 ## Table of Contents
 

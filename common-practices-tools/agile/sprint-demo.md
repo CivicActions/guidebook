@@ -1,4 +1,6 @@
-# Sprint Demo
+---
+title: Sprint Demo
+---
 
 ## What it is
 

@@ -1,4 +1,6 @@
-# Balance scores
+---
+title: Balance scores
+---
 
 ## Talking points
 

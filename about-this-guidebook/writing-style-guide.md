@@ -1,4 +1,6 @@
-# Writing style
+---
+title: Writing style
+---
 
 We come from different disciplines and levels of familiarity with Agile or technical subjects. Consider your audience when writing content, including how much or little they know about your topic. Writing in plain language with shorter, simpler words and bulleted lists instead of long sentences helps everyone. At the same time, be sure to use specific terms known to those in the same discipline.
 

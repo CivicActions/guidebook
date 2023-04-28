@@ -1,4 +1,6 @@
-# Tech Lead (TL) Project Role Description
+---
+title: Tech Lead (TL) Project Role Description
+---
 
 CivicActions technical team leaders are known as "Tech Leads" (TL). The Tech Lead is responsible for the technical direction of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals and architecting solutions to leading development teams to work on the highest priorities and ensuring successful project completion. Our Tech Leads work in tandem with a project leadership team responsible for managing the project's overall progress and budget, which may include Design Lead, Project Managers, Scrum Masters, Engagement Managers, and/or Product Managers.
 

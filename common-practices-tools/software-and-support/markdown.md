@@ -1,4 +1,6 @@
-# Markdown
+---
+title: Markdown
+---
 
 ## What is it?
 

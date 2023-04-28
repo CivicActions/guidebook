@@ -1,4 +1,6 @@
-# Governance
+---
+title: Governance
+---
 
 Any team member with a GitHub account can make [pull requests](editing-the-guidebook.md) to change any part of the guidebook.
 

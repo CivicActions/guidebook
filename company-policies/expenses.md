@@ -1,8 +1,7 @@
 ---
+title: Expenses
 updated: February 24, 2023
 ---
-
-# Expenses
 
 Employees should submit expense reports within five (5) business days after returning from a business trip or after incurring the expense(s). Expense reports submitted more than 30 days late may not be processed and paid without approval from the CFO. Outstanding expense reports are justification for CivicActions to withhold travel advances for subsequent trips.
 
@@ -47,7 +46,7 @@ IMPORTANT NOTE: when your expense Request is approved, Unanet automatically chan
 -   Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
 -   Your Project Manager and the Officer Manager will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
 -   Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides.
--   If you are purchasing multiple "under $50" items in a short timespan, please consider that a single purchase and request approval first.
+-   If you are purchasing multiple "under \$50" items in a short timespan, please consider that a single purchase and request approval first.
 
 ### Travel expenses
 

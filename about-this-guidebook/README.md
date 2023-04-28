@@ -1,4 +1,6 @@
-# About this guidebook
+---
+title: About this guidebook
+---
 
 This guidebook is written by and for all employees of CivicActions. Everyone is encouraged to contribute to continuously improve it.
 

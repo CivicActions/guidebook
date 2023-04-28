@@ -1,4 +1,6 @@
-# Markdown
+---
+title: Markdown
+---
 
 The guidebook is written in markdown.
 

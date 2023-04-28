@@ -1,4 +1,6 @@
-# Fostering innovation on project teams (MVP)
+---
+title: Fostering innovation on project teams (MVP)
+---
 
 Innovation is a key component to CivicActions work. We are committed to bringing innovation forward to our clients and - most especially - for end users. Innovation, therefore, is encouraged from all team members. The Project Manager is positioned to support the project team via the following (MVP version) process:
 

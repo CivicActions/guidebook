@@ -1,4 +1,6 @@
-# Project Management checklists
+---
+title: Project Management checklists
+---
 
 The Project Management practice area suggests leveraging the following checklists for all projects:
 

@@ -1,4 +1,6 @@
-# Conflict Resolution and Growth Mindset
+---
+title: Conflict Resolution and Growth Mindset
+---
 
 ## Conflict Resolution
 

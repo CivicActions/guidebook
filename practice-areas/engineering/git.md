@@ -1,4 +1,6 @@
-# Git
+---
+title: Git
+---
 
 ## Git overview
 

@@ -1,4 +1,6 @@
-# Culture
+---
+title: Culture
+---
 
 ## Introduction
 

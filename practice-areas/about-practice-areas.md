@@ -1,4 +1,6 @@
-# Practice Areas
+---
+title: Practice Areas
+---
 
 Practice areas are self-organized groups oriented around a specific practice or craft to foster learning, continuous improvement and cross-pollination of ideas and best practice across the company.
 

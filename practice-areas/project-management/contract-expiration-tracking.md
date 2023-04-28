@@ -1,4 +1,6 @@
-# Tracking Contract Details: Leveraging Project Wrappers
+---
+title: "Tracking Contract Details: Leveraging Project Wrappers"
+---
 
 ## Wrappers
 

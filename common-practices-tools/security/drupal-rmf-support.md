@@ -1,4 +1,6 @@
-# Supporting RMF Controls with Drupal Tools & Practices
+---
+title: Supporting RMF Controls with Drupal Tools & Practices
+---
 
 | _RMF_   | _Control Title_                       | _Drupal Tool / Practices_                                                                | _Notes_                     |
 | ------- | ------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |

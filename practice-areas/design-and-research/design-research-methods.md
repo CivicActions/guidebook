@@ -1,4 +1,6 @@
-# Design and research methods
+---
+title: Design and research methods
+---
 
 ## Research methods
 

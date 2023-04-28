@@ -1,4 +1,6 @@
-# Calendars
+---
+title: Calendars
+---
 
 ## Project calendars
 

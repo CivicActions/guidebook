@@ -1,4 +1,6 @@
-# How to Create Tickets
+---
+title: How to Create Tickets
+---
 
 This may also be best learned during a project (on a project-by-project basis)
 

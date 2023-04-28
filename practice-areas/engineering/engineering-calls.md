@@ -1,4 +1,6 @@
-# Engineering
+---
+title: Engineering
+---
 
 @todo section intro
 

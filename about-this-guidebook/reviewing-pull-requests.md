@@ -1,4 +1,6 @@
-# Reviewing pull requests
+---
+title: Reviewing pull requests
+---
 
 All pull requests (PRs) are automatically assigned to a team for a review, based on which part of the guidebook is being edited.
 

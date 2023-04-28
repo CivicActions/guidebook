@@ -1,4 +1,6 @@
-# Automatic checking
+---
+title: Automatic checking
+---
 
 We use GitHub Actions CI, a hosted, distributed continuous integration service, to test projects hosted at GitHub. Actions automatically detects when a commit has been pushed to a GitHub repository. Each time this happens, it will try to build the project and run tests to ensure that the commit complies with certain standards. For now, it is primarily concerned with our [markdown](markdown-for-guidebook.md) syntax, and will "fail" if there are errors as specified in the .remarkrc.error file in the root directory in the repo.
 

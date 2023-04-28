@@ -1,8 +1,7 @@
 ---
+title: CivicActions Information Security Policy
 version: 1.1.4
 ---
-
-# CivicActions Information Security Policy
 
 CivicActions has established the following policy to safeguard the security, confidentiality, availability and integrity of CivicActions data, as well as that of our personnel, clients and client website users. All CivicActions employees and contractors are expected to accept and abide by this policy. This policy will be reviewed and updated from time to time. If you have questions or comments about this policy please contact your supervisor. We invite your feedback.
 

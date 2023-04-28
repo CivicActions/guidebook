@@ -1,4 +1,6 @@
-# Leadership and management
+---
+title: Leadership and management
+---
 
 Board
 

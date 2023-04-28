@@ -1,4 +1,6 @@
-# COVID-19 Safety and Vaccine policy
+---
+title: COVID-19 Safety and Vaccine policy
+---
 
 Employees are not required to provide proof of vaccinations, but we follow CDC recommendations and standards for work events where more than one person is present. CivicActions follows guidance provided by CDC for in person events. Specifically, individuals who have recently tested positive for COVID-19, are showing symptoms of COVID-19 and are waiting on test results, may not attend in-person events. Individuals who have recently been exposed to someone with COVID-19 should follow CDC recommendations before attending any in person events.
 

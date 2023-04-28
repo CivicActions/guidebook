@@ -1,8 +1,7 @@
 ---
+title: On-call stipends
 updated: September 11, 2020
 ---
-
-# On-call stipends
 
 ## Purpose
 

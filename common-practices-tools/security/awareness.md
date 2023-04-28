@@ -1,4 +1,6 @@
-# Security Awareness and Tools
+---
+title: Security Awareness and Tools
+---
 
 This is an appendix to the [CivicActions Security Policy](../../company-policies/security.md) containing details that can and should be updated regularly as new technologies or patterns of use develop, with a goal of providing team members the best tools with which to maintain the security of company confidential and personal information.
 

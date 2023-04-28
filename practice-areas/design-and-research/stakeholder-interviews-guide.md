@@ -1,4 +1,6 @@
-# Stakeholder Interviews Guide
+---
+title: Stakeholder Interviews Guide
+---
 
 ## What it is
 

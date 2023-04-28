@@ -1,4 +1,6 @@
-# CivicActions Project Support and Agile
+---
+title: CivicActions Project Support and Agile
+---
 
 CivicActions project support practices follow Agile principles as follows:
 

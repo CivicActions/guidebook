@@ -1,4 +1,6 @@
-# Defining diversity, equity, inclusion, and accessibility (DEIA)
+---
+title: Defining diversity, equity, inclusion, and accessibility (DEIA)
+---
 
 ## Diversity
 
