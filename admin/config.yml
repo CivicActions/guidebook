@@ -50,3 +50,17 @@ collections:
     folder: "about-this-guidebook"
     label: "About this guidebook"
     label_singular: "About this guidebook page"
+  # One-off for README page.
+  - name: "top-level"
+    label: "Top level"
+    files:
+      - label: "Home / README"
+        name: "readme"
+        file: "README.md"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
