@@ -75,6 +75,7 @@ nav:
               - Yubikey and Mac OS: common-practices-tools/security/yubikey/macosx.md
           - Drupal RMF support: common-practices-tools/security/drupal-rmf-support.md
           - Encryption: common-practices-tools/security/encryption.md
+          - Setting up GnuPG: common-practices-tools/security/gnupg.md
           - Incidents:
               - Contingency plan: common-practices-tools/security/contingency-plan.md
               - Incident response checklist: common-practices-tools/security/incident-response-checklist.md

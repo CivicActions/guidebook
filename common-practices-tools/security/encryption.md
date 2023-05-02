@@ -15,6 +15,8 @@ Thank you!
 
 The [GNU Privacy Guard](https://www.gnupg.org/) (GPG) is a complete and free implementation of the [OpenPGP standard](https://www.ietf.org/rfc/rfc4880.txt) also known as Pretty Good Privacy (PGP). GPG provides the capability to securely encrypt and sign your data and communications. Both sender and receiver must have GPG installed to use.
 
+Follow the instructions for [setting up GnuPG](./gnupg.md) to create a new GPG key pair or configure [git commit signing](../../practice-areas/engineering/git.md).
+
 ## Google Workspace
 
 Documents transferred within the CivicActions.com GSuite including Gmail and Gdrive are encrypted in transit with Transport Layer Security (TLS) which provides sufficient security for our unclassified usage. Communications from within the CivicActons GSuite to other services, say client email addresses, are not guaranteed to be secure.
