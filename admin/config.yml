@@ -2,7 +2,6 @@ backend:
   name: github
   repo: grugnog/guidebook
   branch: decap
-  site_domain: grugnog-guidebook.netlify.app
 publish_mode: editorial_workflow
 media_folder: "assets/images"
 collections:
