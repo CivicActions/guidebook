@@ -1,5 +1,5 @@
 ---
-title: Accessibility: How To
+title: "Accessibility: How To"
 ---
 
 ## Resources for learning how to test the accessibility of our applications
