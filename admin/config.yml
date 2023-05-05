@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: grugnog/guidebook
-  branch: decap
+  repo: civicactions/guidebook
+  branch: master
   base_url: https://v1.netlify-oauth.app.civicactions.net
 publish_mode: editorial_workflow
 media_folder: "assets/images"
