@@ -1,4 +1,6 @@
-# Guidelines for Starting a New Project
+---
+title: Guidelines for Starting a New Project
+---
 
 ## Pre-kickoff Checklist
 

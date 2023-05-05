@@ -1,4 +1,6 @@
-# Fostering innovation on project teams (MVP)
+---
+title: Fostering innovation on project teams (MVP)
+---
 
 Innovation is a key component to CivicActions work. We are committed to bringing innovation forward to our clients and - most especially - for end users. Innovation, therefore, is encouraged from all team members. The Project Manager is positioned to support the project team via the following (MVP version) process:
 
@@ -19,7 +21,7 @@ Innovation is a key component to CivicActions work. We are committed to bringing
 
 -   Begin by leveraging existing team retros, working with ScrumMasters
 -   Create tickets in Jira (or another medium) for innovative ideas
--   Tickets should be tagged in a certain, yet consistent, manner (e.g., specific labels, componentes, issue type, etc.)
+-   Tickets should be tagged in a certain, yet consistent, manner (e.g., specific labels, components, issue type, etc.)
 -   Establish a custom, program-level board for tracking (or incorporate the innovation tickets into the existing backlog)
 -   Handoff ticket(s) to the Technical Lead (or another fitting role) for review during project leadership calls
 -   Request that the Technical Lead determine feasibility, LOE, ROI, etc., around the concept (and also noting feedback in the ticket, for transparency)

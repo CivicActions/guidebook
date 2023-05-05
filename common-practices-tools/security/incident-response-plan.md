@@ -1,4 +1,6 @@
-# CivicActions Security Incident Response Procedures
+---
+title: CivicActions Security Incident Response Procedures
+---
 
 ## Table of Contents
 

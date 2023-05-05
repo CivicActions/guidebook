@@ -1,4 +1,6 @@
-# Editing the guidebook using Git
+---
+title: Editing the guidebook using Git
+---
 
 The guidebook is a collection of markdown files that you can edit in Github.
 

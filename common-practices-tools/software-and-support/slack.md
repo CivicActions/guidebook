@@ -1,4 +1,6 @@
-# Slack
+---
+title: Slack
+---
 
 ## Basics
 

@@ -1,4 +1,6 @@
-# Bookmarks
+---
+title: Bookmarks
+---
 
 Links to websites we use regularly.
 

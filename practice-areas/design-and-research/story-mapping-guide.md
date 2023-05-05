@@ -1,4 +1,6 @@
-# Story Mapping Guide
+---
+title: Story Mapping Guide
+---
 
 ## What it is
 

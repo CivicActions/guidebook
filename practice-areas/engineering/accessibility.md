@@ -1,4 +1,6 @@
-# Accessibility
+---
+title: Accessibility
+---
 
 We implement Section 508 standards and WCAG compliant websites so that people with all types of disabilities, whether it be physical, mental, or visual impairment, have access to our sites.
 

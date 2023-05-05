@@ -1,4 +1,6 @@
-# Health, Safety and Security
+---
+title: Health, Safety and Security
+---
 
 ## Workers' Compensation
 

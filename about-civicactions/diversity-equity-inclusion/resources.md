@@ -1,4 +1,6 @@
-# DEIA resources
+---
+title: DEIA resources
+---
 
 Find resources on various DEIA topics, as well as materials developed for and by CivicActions.
 

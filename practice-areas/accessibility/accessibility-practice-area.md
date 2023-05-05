@@ -1,4 +1,6 @@
-# Accessibility Practice Area
+---
+title: Accessibility Practice Area
+---
 
 CivicActions Accessibility is an open project primarily developed by CivicActions team members. We work to implement our [Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) and build a robust culture has internalized accessibility.
 

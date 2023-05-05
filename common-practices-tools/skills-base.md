@@ -1,4 +1,6 @@
-# Skills Base
+---
+title: Skills Base
+---
 
 Skills Base is a tool that lets us catalog our skills across the team and track who has what skills, interests, and qualifications. This is useful in many ways:
 

@@ -1,4 +1,6 @@
-# Leaving CivicActions
+---
+title: Leaving CivicActions
+---
 
 ## At-Will Employment
 

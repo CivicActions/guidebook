@@ -1,4 +1,6 @@
-# YubiKey Support for GNU/Linux
+---
+title: YubiKey Support for GNU/Linux
+---
 
 This is the GNU/Linux specific documentation for [YubiKey](README.md).
 

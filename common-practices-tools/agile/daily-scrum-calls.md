@@ -1,4 +1,6 @@
-# Daily Scrum Calls
+---
+title: Daily Scrum Calls
+---
 
 ## What it is
 

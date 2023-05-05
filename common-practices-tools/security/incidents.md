@@ -1,4 +1,6 @@
-# Security Incidents
+---
+title: Security Incidents
+---
 
 Something went "bump" in the night (or the day)? This document explains what to do when you need to report a potential security incident.
 

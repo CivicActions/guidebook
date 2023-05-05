@@ -1,4 +1,6 @@
-# Google calendar
+---
+title: Google calendar
+---
 
 ## Overview
 

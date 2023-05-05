@@ -1,8 +1,7 @@
 ---
+title: CivicActions Employee Referral Bonus Program
 updated: March 18, 2022
 ---
-
-# CivicActions Employee Referral Bonus Program
 
 CivicActions is always looking for good people, and you can help. Research has shown that new hires who come into a company through employee referrals are excellent contributors, stay with the company longer, and are more cost-effective recruits.
 

@@ -1,4 +1,6 @@
-# Text editors
+---
+title: Text editors
+---
 
 ## Popular Editors at CivicActions
 

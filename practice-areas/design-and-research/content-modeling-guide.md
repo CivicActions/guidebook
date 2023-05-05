@@ -1,4 +1,6 @@
-# Content Modeling Guide
+---
+title: Content Modeling Guide
+---
 
 ## What it is
 

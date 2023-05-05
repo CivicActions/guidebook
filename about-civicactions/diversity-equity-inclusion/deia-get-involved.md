@@ -1,4 +1,6 @@
-# DEIA: Get Involved
+---
+title: "DEIA: Get Involved"
+---
 
 ## [Join](https://docs.google.com/forms/d/1KEwz-rAeRg736rC-vCHU5uEL9ZSo0FesXefQHFN03Rg/edit?usp=sharing) the DEIA Working Group
 

@@ -1,4 +1,6 @@
-# When your project has a contractual Modification (Mod) or Extension
+---
+title: When your project has a contractual Modification (Mod) or Extension
+---
 
 ## What is the difference between a contract Mod and an Extension?
 

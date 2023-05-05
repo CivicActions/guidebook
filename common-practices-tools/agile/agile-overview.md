@@ -1,4 +1,6 @@
-# Agile Overview
+---
+title: Agile Overview
+---
 
 CivicActions uses Agile practices.
 

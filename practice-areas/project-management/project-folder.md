@@ -1,4 +1,6 @@
-# Project Folder Structure
+---
+title: Project Folder Structure
+---
 
 Project Folders are integral to our transparency tenet at CivicActions. They also are necessary to retain a viable project record. An important part of the role of the Project Manager is the ongoing maintenance of project folders.
 

@@ -1,4 +1,6 @@
-# Organization
+---
+title: Organization
+---
 
 CivicActions is organized into several types of groups.
 

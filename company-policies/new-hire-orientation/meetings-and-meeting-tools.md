@@ -1,4 +1,6 @@
-# Meetings
+---
+title: Meetings
+---
 
 ## Your Own Events
 

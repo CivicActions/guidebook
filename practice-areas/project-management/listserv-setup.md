@@ -1,4 +1,6 @@
-# Listserv Setup
+---
+title: Listserv Setup
+---
 
 We manage email lists via [Google Groups/Forum](https://groups.google.com/a/civicactions.net/forum/)
 

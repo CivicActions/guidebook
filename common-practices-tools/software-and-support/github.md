@@ -1,4 +1,6 @@
-# GitHub
+---
+title: GitHub
+---
 
 ## About GitHub
 

@@ -1,4 +1,6 @@
-# Unanet
+---
+title: Unanet
+---
 
 ## Introduction
 

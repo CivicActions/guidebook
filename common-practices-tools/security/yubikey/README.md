@@ -1,4 +1,6 @@
-# Using your YubiKey
+---
+title: Using your YubiKey
+---
 
 Notes on installing and setting up your _YubiKey 4_ for various platforms and applications.
 

@@ -1,4 +1,6 @@
-# Sprint Planning Meetings
+---
+title: Sprint Planning Meetings
+---
 
 ## What it is
 

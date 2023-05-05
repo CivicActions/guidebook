@@ -1,10 +1,9 @@
 ---
+title: CivicActions Guidebook
 hide:
     - navigation
     - toc
 ---
-
-# CivicActions Guidebook
 
 ## <a name="purpose"></a>Guidebook Purpose
 
