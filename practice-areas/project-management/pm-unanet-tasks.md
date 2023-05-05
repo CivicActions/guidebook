@@ -145,7 +145,7 @@ Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared cale
 1. Scroll down to Approvals
 1. Look for Expense Reports and/or Requests and click on Primary Approvals to view
 1. ![Screenshot of Approving Expense 1](../../assets/images/Approving-Expenses-1.png)
-1. NOTE: All expense reimbursements except for ProDev < \$50 should be submitted as a REQUEST first.
+1. NOTE: All expense reimbursements except for ProDev < $50 should be submitted as a REQUEST first.
 1. To check this quickly:
     1. Click on the magnifying glass next to the expense report
     1. Scroll down to Approval History

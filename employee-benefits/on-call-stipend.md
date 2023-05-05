@@ -29,7 +29,7 @@ CivicActions recognizes that being on-call outside of normal business hours take
 
 ## Payment
 
--   The on-call stipend amount is \$2000 per fiscal quarter (effective starting July, 1, 2020).
+-   The on-call stipend amount is $2000 per fiscal quarter (effective starting July, 1, 2020).
 -   This amount is prorated by day for people joining/leaving the on-call rotation mid-quarter.
 -   This amount is prorated for part-time employees.
 -   The stipend is paid quarterly after the conclusion of the fiscal quarter.
