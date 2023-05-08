@@ -24,7 +24,7 @@ Topics can be anything you are interested in learning, sharing or chatting about
     -   a deep dive into a specific language feature
     -   a discussion on a new technology
     -   group debugging of some gnarly bug
-    -   exploring process improvement idea
+    -   exploring process improvement ideas
     -   or anything else!
 
 On the call we will:
