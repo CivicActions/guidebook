@@ -93,7 +93,6 @@ nav:
           - Jira: common-practices-tools/software-and-support/jira.md
           - Markdown: common-practices-tools/software-and-support/markdown.md
           - Slack: common-practices-tools/software-and-support/slack.md
-          - Text editors: common-practices-tools/software-and-support/text-editors.md
           - Trello: common-practices-tools/software-and-support/trello.md
           - Zoom: common-practices-tools/software-and-support/zoom.md
       - Telephone use: common-practices-tools/telephone.md
@@ -121,6 +120,7 @@ nav:
           - Security and compliance: practice-areas/engineering/security-compliance.md
           - Tech Lead:
               - Tech Lead project role description: practice-areas/engineering/tech-lead/README.md
+          - Text editors and IDEs: practice-areas/engineering/text-editors-ides.md
       - Project management:
           - Checklists: practice-areas/project-management/project-management-checklists.md
           - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
