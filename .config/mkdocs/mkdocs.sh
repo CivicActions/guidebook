@@ -48,9 +48,9 @@ if [[ "${1:-}" == "serve" ]]; then
   poetry -C .config/mkdocs/ run mkdocs $@ --config-file=.config/mkdocs.yml
 else
   # Exclude info log messages for more concise output.
-  poetry -C .config/mkdocs/ run mkdocs build --config-file=.config/mkdocs.yml --site-dir "${tmp_dir}" 2>&1 | { grep -vE '(^INFO|has no git logs, using current timestamp)' || true; }
+  { poetry -C .config/mkdocs/ run mkdocs build --config-file=.config/mkdocs.yml --site-dir "${tmp_dir}" 2>&1 | grep -v '^INFO'; } || true
   # Exclude warning for files not added to git so local pre-commit hooks don't fail.
-  warnings=$(grep -v 'has no git logs, using current timestamp' "${tmp_dir}/log.txt" | grep -c 'WARNING')
+  warnings=$(grep -v 'has no git logs, using current timestamp' "${tmp_dir}/log.txt" | grep -c 'WARNING') || true
   if [ "${warnings}" -gt 0 ]; then
     echo "mkdocs build failed with ${warnings} warnings" 1>&2
     exit 4
