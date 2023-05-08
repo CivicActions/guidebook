@@ -1,6 +1,6 @@
 ---
 header: "The Most Important Decision In Developing A Drupal Site: Contributed
-  Vs. Custom Development"
+    Vs. Custom Development"
 title: Drupal - contributed vs. custom development
 ---
 
