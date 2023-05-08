@@ -15,7 +15,9 @@ A TL's role definition and responsibilities will vary by project. Responsibiliti
 -   **Support**: "Helps get the task done or contributes to it".
 
 ### Business development
+
 The TL supports:
+
 -   Reviewing RFP and appendices
 -   Filling out analysis documentation
 -   Estimating the proposed solution
@@ -24,31 +26,36 @@ The TL supports:
 -   Requirements clarification
 
 ### Planning
+
 The TL is responsible for release management, planning, and communication.
 
 The TL is accountable for:
--   Knowing, understanding, and communicating to the team the project contract scope, expectations, boundaries, and knowledge gaps surrounding: 
-    - project timeline
-    - budgets
-    - roles and responsibilities
-    - partners and supporting entities
-    - functional requirements
-    - design requirements
-    - accessibility requirements
-    - performance requirements
-    - security requirements
-    - technical landscape.
+
+-   Knowing, understanding, and communicating to the team the project contract scope, expectations, boundaries, and knowledge gaps surrounding:
+    -   project timeline
+    -   budgets
+    -   roles and responsibilities
+    -   partners and supporting entities
+    -   functional requirements
+    -   design requirements
+    -   accessibility requirements
+    -   performance requirements
+    -   security requirements
+    -   technical landscape.
 -   Ensuring continuous delivery
 -   Leading project-wide technical discovery to understand an initiative's functional, technical, testing, security, performance, and accessibility requirements in collaboration with service design and UX discovery efforts
 
 The TL supports:
+
 -   The Product Owner (PO) and Project Manager (PM) in defining development priorities and identifying high value work
 -   Ticket refinement
 -   Epic story creation
 -   Ticket backlog prioritization
 
 ### People
+
 The TL is responsible for:
+
 -   Onboarding engineers: project technical background, technical goals and active initiatives, team structure and personnel, project tools, environments, repositories, development workflows, CI/CD processes
 -   Offboarding engineers: removing admin access to sites/services/servers, updating any documentation, transferring tickets/knowledge, and so on
 -   Nurturing a project engineering team culture which values care, balance, openness, and honors client and partner culture and values (follow the platinum rule: treat others as they want to be treated).
@@ -59,17 +66,22 @@ The TL is accountable for guiding all high-level technical discussions with the 
 The TL supports individual professional development.
 
 ### Risk management
+
 The TL is accountable for:
+
 -   Triaging current and potential technical risks
 -   Developing and communicating risk mitigation strategies for major technical risks
 
 The TL supports the team:
+
 -   In gaining a broad understanding of what constitutes a risk - estimation (budget/timeline), security, performance, accessibility, usability, complexity (quality/maintenance) etc.
 -   In identifying, communicating, and managing risks and blockers to engineering success
 -   In identifying and surfacing issues around best practices
 
 ### Development
+
 The TL is responsible for:
+
 -   Facilitation of implementation and release of a stable sustainable product at the end of each sprint which meets stakeholder requirements, passes quality standards (e.g. functionality, code quality, security, performance, accessibility), and conforms to established best practices
 -   Facilitation of establishment and implementation of development operations, processes, tools, and schedules surrounding local development, code workflows and promotion, automation, and environment usage
 -   Technical architecture
@@ -80,6 +92,7 @@ The TL is responsible for:
 -   Ensuring Agile best practices are followed within the engineering team
 
 The TL supports:
+
 -   Establishing and implementing continuous integration tools and processes
 -   Security compliance documentation
 
@@ -87,19 +100,24 @@ The TL supports:
 
 @todo Needs review.
 The TL is accountable for:
+
 -   Coordinating on-call support depending on the project
 -   Coordinating and delivering RCA
 
 The TL supports:
+
 -   Establishing and implementing site reliability, load testing, and related policy and procedures
 -   Disaster recovery policy and procedure
 
 ### Ticket work
+
 The TL is accountable for:
+
 -   Facilitating standards around implementation plans, estimates, and testing steps on tickets and holding the team accountable to these
 -   Ticket risk assessment
 
 The TL supports:
+
 -   The project team in removing ticket blockers.
 -   Facilitating standards around ticket creation.
 -   Ticket prioritization.
@@ -107,7 +125,9 @@ The TL supports:
 -   The Project Manager reviewing tickets for proper formatting (implementation plans, estimates, user stories) and ensures that tickets appropriately document the issue and the resolution.
 
 ### Design
+
 The TL supports:
+
 -   Developing order of operations to support design and engineering collaboration
 -   Engineering and design teams to design technically feasible and practical solutions
 
