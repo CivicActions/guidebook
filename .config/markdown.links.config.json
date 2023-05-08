@@ -30,6 +30,9 @@
       "pattern": "^https://www.lastpass.com/.*"
     },
     {
+      "pattern": "^https://twitter.com/.*"
+    },
+    {
       "pattern": "^https://support.yubico.com/.*"
     },
     {
