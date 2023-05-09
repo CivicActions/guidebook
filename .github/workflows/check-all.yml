@@ -16,6 +16,8 @@ jobs:
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           config-file: ".config/markdown.links.config.json"
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
       - name: Run remark-lint on all files
         uses: ./.config/remark/
         with:
