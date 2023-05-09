@@ -45,7 +45,7 @@ You can check that your markdown complies with the retext and remark locally:
 
 ## Editors
 
-Markdown can be really easy to use with a good editor such as some of these [text editors](../common-practices-tools/software-and-support/text-editors.md) - many editors have plugins that support Prettier and Remark linting for real time fixing and feedback on your edits.
+Markdown can be really easy to use with a good editor such as some of these [text editors](../practice-areas/engineering/text-editors-ides.md) - many editors have plugins that support Prettier and Remark linting for real time fixing and feedback on your edits.
 
 ## Mixing HTML and Markdown
 
