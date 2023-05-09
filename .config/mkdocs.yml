@@ -119,7 +119,8 @@ nav:
           - Drupal developer tips to get the most out of open source: practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - Git: practice-areas/engineering/git.md
           - Security and compliance: practice-areas/engineering/security-compliance.md
-          - Tech Lead project role description: practice-areas/engineering/tech-lead.md
+          - Tech Lead:
+              - Tech Lead project role description: practice-areas/engineering/tech-lead/README.md
       - Project management:
           - Checklists: practice-areas/project-management/project-management-checklists.md
           - Conflict resolution and growth mindset: practice-areas/project-management/growth-mindset.md
