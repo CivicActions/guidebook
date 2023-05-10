@@ -4,7 +4,7 @@ title: Zoom
 
 ## Basic overview
 
-We use [Zoom](https://zoom.us/) video conferencing by default. It is especially important for All Humans Calls (AHC). You will need to [download the free Zoom app](https://zoom.us/support/download). Zoom works on Windows, MacOS, [Linux](https://zoom.us/download?os=linux), iOS and Android computers. If necessary, Zoom also lets you to call in from a telephone (just don't forget to mute yourself!).
+We use [Zoom](https://zoom.us/) video conferencing by default. It is especially important for All Humans Calls (AHC). You will need to [download the free Zoom app](https://zoom.us/support/download). Zoom works on Windows, MacOS, [Linux](https://zoom.us/download?os=linux), iOS and Android computers. If necessary, Zoom also lets you to call in from a telephone (don't forget to mute yourself!).
 
 Login with your CivicActions email. You will see a link below the sign-in box that reads, "Or, sign in with Google..." so click that and proceed to login via your CivicActions email (may automatically do it if you're already logged in via your browser)
 
@@ -35,7 +35,7 @@ There are a lot of [great accessibility features](https://explore.zoom.us/en/acc
 ## Tips and shortcuts
 
 -   Zoom is the default video meeting tool for CivicActions as it easily allows participants to dial themselves in to the meeting.
--   Slack has a shortcut to creating a meeting: just enter "/zoom" in the channel or direct message where you want the meeting link to appear.
+-   Slack has a shortcut to creating a meeting: enter "/zoom" in the channel or direct message where you want the meeting link to appear.
 -   Mute by default when joining: Settings > Audio and check "Always mute microphone when joining meeting"
 -   Optional video off by default when joining a new call (_but best practice is to turn video on during the meeting once joined_): Settings > Video and check "Turn off my video when joining meeting".
 -   Display participant names: Settings > Video and check "Always display participant's name on their video".
