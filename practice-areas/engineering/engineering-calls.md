@@ -2,33 +2,26 @@
 title: Engineering
 ---
 
-## Objective
+@todo section intro
 
-Every two weeks, we hold a one-hour meeting for the whole engineering team.
+## Biweekly Engineering Call
 
-This is a space for us to expand beyond our typical practice area, broaden our skills, and develop a richer understanding of the work we do.
+Every two weeks, we hold a one hour meeting for the whole engineering team. We have a [git repository on our self-host GitLab](https://git.civicactions.net/civicactions/engineering-call) for documentation and notes about the calls.
 
-## Format
+Ordinarily, the facilitator for the meeting is rotated through the list of engineers alphabetically by first name. The tasks of the facilitator is described below:
 
-The engineering call follows an [open space format](https://www.facilitator.school/blog/open-space-technology).
+### Facilitator: Before the Engineering Call
 
-In advance of the call, or in the first couple of minutes of the call:
+-   Set the agenda for the call. Typically we have been doing a [festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is simply: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our _Feats of Strength_, and _Airing of Grievances_. Feel free to experiment with a different agenda entirely.
+-   Make sure that one or more persons is ready to lead us in a feast, or in some way make use of our time together. This can be done via slack emoji voting.
+-   Several minutes before the call, remind the team that the call is about to start.
 
--   Add any/all topics you want to talk about to [our Trello board](https://trello.com/b/wd0WmGlx/engineering-meeting)
--   Upvote any Trello topics that you would be interested in talking about
+### Facilitator: During the Engineering Call
 
-Topics can be anything you are interested in learning, sharing or chatting about:
+Describe the agenda and start the meeting. Keep track of the time and try to either encourage more discussion or wrap things up depending on the time remaining.
 
--   You don't need to be an expert or have anything to contribute (except questions!) to suggest a topic
--   Examples of topics could range from:
-    -   a deep dive into a specific language feature
-    -   a discussion on a new technology
-    -   group debugging of some gnarly bug
-    -   exploring process improvement ideas
-    -   or anything else!
+### Facilitator: After the Engineering Call
 
-On the call we will:
-
--   Split into Zoom breakout rooms to discuss through each topic
--   Feel free to change groups if you like: this is encouraged!
--   Regroup for a few minutes at the end to catch up on any insight we want to share
+-   Inform the next person in the [schedule](https://git.civicactions.net/civicactions/engineering-call/blob/master/schedule.md) that they are responsible to be the facilitator for the next engineering call. If that person is unable to lead the next call, then they are responsible to ask the next person on the list. If that person is not responding (on vacation, etc.), then you are responsible to ask the next person on the list.
+-   Record the topic in our engineering-call git repository README.md file under "Past Feasts" (ask @daven for help if needed): <https://git.civicactions.net/civicactions/engineering-call>
+-   Add any other things to the git repo as you feel is appropriate.

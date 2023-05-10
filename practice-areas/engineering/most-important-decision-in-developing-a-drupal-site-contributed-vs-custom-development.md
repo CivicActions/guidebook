@@ -1,8 +1,9 @@
 ---
 header: "The Most Important Decision In Developing A Drupal Site: Contributed
-    Vs. Custom Development"
+  Vs. Custom Development"
 title: Drupal - contributed vs. custom development
 ---
+# The Most Important Decision In Developing A Drupal Site: Contributed Vs. Custom Development
 
 Note: _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
 
