@@ -8,10 +8,10 @@ Links to websites we use regularly.
 
 ## CivicActions
 
--   [Guidebook](https://github.com/CivicActions/guidebook)
+-   [Guidebook - GitHub](https://github.com/CivicActions/guidebook)
 -   [Website](https://civicactions.com/)
 
-## Social Media
+## Social media
 
 -   [Twitter](https://twitter.com/CivicActions)
 -   [Facebook](https://www.facebook.com/CivicActions/)
@@ -32,16 +32,17 @@ Links to websites we use regularly.
 
 ### UX (User Experience/Design)
 
--   [Balsamiq](https://www.mybalsamiq.com/login): for wireframing
+-   [Figma](https://www.figma.com): for wireframing and prototyping
+-   [Mural](https://app.mural.co/signin): for collaborating
 -   [StoriesOnBoard](https://app.storiesonboard.com/login): for story mapping
 
-### Engineering Tools
+### Engineering tools
 
 -   [Cross Browser Testing](https://crossbrowsertesting.com): for cross browser testing
 -   [GitLab](https://git.civicactions.net/)
 -   [Jenkins](http://ci.civicactions.net/)
 
-### Infrastructure/Monitoring Tools
+### Infrastructure/monitoring tools
 
 -   [StatusCake](https://app.statuscake.com/YourStatus.php)
 -   [OpsGenie](https://app.opsgenie.com/alert)
