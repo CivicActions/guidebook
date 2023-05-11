@@ -56,8 +56,9 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 #### LastPass Authenticator
 
--   This provides tight integration with some apps, see: <https://www.lastpass.com/solutions/authentication>
--   For more info, see: <https://support.logmeininc.com/lastpass/help/lastpass-authenticator-lp030014>
+-   This provides tight integration with Lastpass, see: <https://www.lastpass.com/solutions/authentication>
+-   For installation see [iPhone](https://apps.apple.com/us/app/lastpass-authenticator/id1079110004) or [Android](https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US)
+-   For more info, [see the support page](https://support.lastpass.com/s/document-item?language=en_US&bundleId=lastpass&topicId=LastPass/LastPass_Authenticator.html&_LANG=enus)
 
 #### Authy
 
@@ -74,7 +75,7 @@ While YubiKey is the easiest to use on a daily basis, if you lose it you could g
 
 ### Partial List of MFA-Enabled Services
 
--   LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
+-   LastPass: [Multifactor Authentication Options](https://support.lastpass.com/s/document-item?language=en_US&bundleId=lastpass&topicId=LastPass%2Ft_lastpass_faqs_users_logging_in_using_diff_mfa_options.html&_LANG=enus)
 -   Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
 -   GitHub (especially for your [CivicActions account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa)
 -   GitLab: See [your profile](https://git.civicactions.net/profile/account)

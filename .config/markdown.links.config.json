@@ -27,7 +27,7 @@
       "pattern": "^https://.*drupal.org/.*"
     },
     {
-      "pattern": "^https://www.lastpass.com/.*"
+      "pattern": "^https://.*.lastpass.com/.*"
     },
     {
       "pattern": "^https://twitter.com/.*"
