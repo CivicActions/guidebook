@@ -1,3 +1,5 @@
+site_url: https://guidebook.civicactions.com
+logo_url: https://guidebook.civicactions.com/en/latest/assets/images/full_logo_red.svg
 backend:
   name: github
   repo: civicactions/guidebook
@@ -6,6 +8,7 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "assets/images"
 collections:
+  # The &base defines this as a template element, reused with *base below to reduce duplication.
   - &base
     name: "about-civicactions"
     folder: "about-civicactions"
