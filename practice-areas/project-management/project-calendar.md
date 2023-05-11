@@ -1,6 +1,8 @@
 ---
-title: Calendars
+title: Project calendar
 ---
+
+# Calendars
 
 ## Project calendars
 

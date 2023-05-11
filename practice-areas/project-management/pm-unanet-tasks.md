@@ -1,6 +1,8 @@
 ---
-title: "Project Management: Unanet Tasks and Training Materials"
+title: Unanet tasks and training material
 ---
+
+# Project Management: Unanet Tasks and Training Materials
 
 ## Introduction
 

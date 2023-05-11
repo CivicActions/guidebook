@@ -2,6 +2,8 @@
 title: Markdown
 ---
 
+# Markdown
+
 The guidebook is written in markdown.
 
 ## The Commonmark spec

@@ -1,6 +1,8 @@
 ---
-title: Security for Everyone
+title: Security for everyone
 ---
+
+# Security for Everyone
 
 ## Security Policy
 

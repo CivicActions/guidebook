@@ -1,6 +1,8 @@
 ---
-title: Project Manager Training
+title: Training
 ---
+
+# Project Manager Training
 
 Review [The Project Manager Role](pm-role.md) for an overview of PM responsibilities at CivicActions.
 

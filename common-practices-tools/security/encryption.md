@@ -1,6 +1,8 @@
 ---
-title: Protecting Your Privacy with Encryption
+title: Encryption
 ---
+
+# Protecting Your Privacy with Encryption
 
 The following offers a brief and necessarily incomplete overview of a few FOSS tools, several of which employ encryption, that you can download and install to enhance the privacy of your interactions online.
 

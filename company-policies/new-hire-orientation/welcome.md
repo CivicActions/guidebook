@@ -1,6 +1,8 @@
 ---
-title: New hire orientation
+title: Welcome to CivicActions!
 ---
+
+# New hire orientation
 
 ## Welcome to CivicActions!
 

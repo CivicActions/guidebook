@@ -1,6 +1,8 @@
 ---
-title: Leadership and management
+title: Management team
 ---
+
+# Leadership and management
 
 Board
 

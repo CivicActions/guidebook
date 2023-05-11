@@ -1,6 +1,8 @@
 ---
-title: YubiKey Support for Mac OS X
+title: Yubikey and Mac OS
 ---
+
+# YubiKey Support for Mac OS X
 
 This is the Mac OS X specific documentation for [YubiKey](README.md).
 

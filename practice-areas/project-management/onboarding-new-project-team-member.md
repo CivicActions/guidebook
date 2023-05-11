@@ -1,6 +1,8 @@
 ---
-title: Onboarding a New Project Team Member
+title: Onboarding
 ---
+
+# Onboarding a New Project Team Member
 
 Onboarding a new team member - to a project team - is a great opportunity for the Project Manager to confirm all project materials are in good standing. Some suggestions are as follows:
 

@@ -1,6 +1,8 @@
 ---
-title: Meetings
+title: Meetings and meeting tools
 ---
+
+# Meetings
 
 ## Your Own Events
 

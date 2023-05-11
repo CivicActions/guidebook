@@ -1,6 +1,8 @@
 ---
-title: Affinity Channels
+title: Affinity channels
 ---
+
+# Affinity Channels
 
 ## What is an affinity channel?
 

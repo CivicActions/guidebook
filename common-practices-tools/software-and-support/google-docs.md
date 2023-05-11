@@ -2,6 +2,8 @@
 title: Google Docs
 ---
 
+# Google Docs
+
 -   Google Docs allows you to create and share a variety of documents such as text documents, spreadsheets, presentations, and forms.
 -   Google Docs should be shared with your CivicActions email account
 -   If a link is shared with you, you can add yourself to the share list so you can reference it later on

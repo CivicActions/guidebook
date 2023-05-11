@@ -1,6 +1,8 @@
 ---
-title: Buddy Program
+title: Buddy program
 ---
+
+# Buddy Program
 
 ## The Role of the Buddy
 

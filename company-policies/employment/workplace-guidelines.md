@@ -3,6 +3,8 @@ title: Workplace guidelines
 updated: May 9, 2017
 ---
 
+# Workplace guidelines
+
 ## Hours of work
 
 The normal workweek for a full-time employee is forty (40) hours. With some employees, there are set days and times, and with others there are no set days or times of day. You are expected to be available for and participate in necessary project-related work sessions, meetings, discussions, etc. Using your slack status to indicate if you are working or if you are away from your keyboard is appreciated and considered a best practice.

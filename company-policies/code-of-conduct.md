@@ -1,7 +1,9 @@
 ---
-title: CivicActions Code of Conduct
+title: Code of conduct
 updated: October 30, 2020
 ---
+
+# CivicActions Code of Conduct
 
 ## General Guidelines
 

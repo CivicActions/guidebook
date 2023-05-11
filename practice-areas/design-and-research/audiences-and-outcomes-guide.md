@@ -1,6 +1,8 @@
 ---
-title: Audiences and Outcomes Guide
+title: Audience and outcomes guide
 ---
+
+# Audiences and Outcomes Guide
 
 ## What it is
 
