@@ -31,7 +31,7 @@ Links to websites we use regularly.
 ### UX (User Experience/Design)
 
 -   [Figma](https://www.figma.com): for wireframing and prototyping
--   [Mural](https://www.https://app.mural.co/): for collaborating
+-   [Mural](https://app.mural.co/signin): for collaborating
 -   [StoriesOnBoard](https://app.storiesonboard.com/login): for story mapping
 
 ### Engineering tools
