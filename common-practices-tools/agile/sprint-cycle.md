@@ -1,6 +1,8 @@
 ---
-title: Sprint Cycle
+title: Sprint cycle
 ---
+
+# Sprint Cycle
 
 ## Introduction
 

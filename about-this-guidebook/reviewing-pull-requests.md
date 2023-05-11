@@ -2,6 +2,8 @@
 title: Reviewing pull requests
 ---
 
+# Reviewing pull requests
+
 All pull requests (PRs) are automatically assigned to a team for a review, based on which part of the guidebook is being edited.
 
 Reviewers are assigned as part of the [guidebook governance](guidebook-governance.md).

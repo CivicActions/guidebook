@@ -1,6 +1,8 @@
 ---
-title: Free and Open Source Software (FOSS)
+title: Free and open source software (FOSS)
 ---
+
+# Free and Open Source Software (FOSS)
 
 ## What is free and open source software?
 

@@ -2,6 +2,8 @@
 title: Having the hard conversations
 ---
 
+# Having the hard conversations
+
 As a Project Manager, there will be difficult conversations with clients such as budget overruns, deadline misses, launch failures and contract disagreements. What follows are some methods to minimize the negative impact of these discussions:
 
 ## Transparency

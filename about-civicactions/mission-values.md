@@ -1,6 +1,8 @@
 ---
-title: Mission, Value Proposition, and Operating Principles
+title: Mission and values
 ---
+
+# Mission, Value Proposition, and Operating Principles
 
 ## Mission
 

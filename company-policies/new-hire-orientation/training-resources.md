@@ -1,6 +1,8 @@
 ---
-title: Training Resources
+title: Training resources
 ---
+
+# Training Resources
 
 As an CivicActions team member, you have access to these online training resources.
 

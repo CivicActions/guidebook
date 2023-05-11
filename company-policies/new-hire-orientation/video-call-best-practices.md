@@ -1,6 +1,8 @@
 ---
-title: Video Call Best Practices
+title: Video call best practices
 ---
+
+# Video Call Best Practices
 
 -   Be on time - please! Seconds matter.
 -   Add a photo to your account, so it shows up if your camera is off.

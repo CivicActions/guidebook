@@ -2,6 +2,8 @@
 title: Balance scores
 ---
 
+# Balance scores
+
 ## Talking points
 
 -   Explain what a balance score is

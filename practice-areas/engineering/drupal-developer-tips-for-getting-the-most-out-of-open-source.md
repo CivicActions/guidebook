@@ -1,6 +1,8 @@
 ---
-title: Drupal Developer Tips for Getting the Most out of Open Source
+title: Drupal developer tips to get the most out of open source
 ---
+
+# Drupal Developer Tips for Getting the Most out of Open Source
 
 Note: _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
 

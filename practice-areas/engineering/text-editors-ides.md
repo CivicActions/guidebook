@@ -2,6 +2,8 @@
 title: Text editors and IDEs
 ---
 
+# Text editors and IDEs
+
 We use text editors to develop code, tests, and documentation, and to manage configuration. Integrated Development Environments (IDEs) have additional features that help with development - for example enhanced code navigation, completion, debugging etc.
 
 We use a variety of text editors and IDEs, and you are welcome to use whichever one you prefer. We do not require that you use a specific IDE or text editor, however if you need support then we strongly suggest that you use one of the editors that is commonly used by the team.

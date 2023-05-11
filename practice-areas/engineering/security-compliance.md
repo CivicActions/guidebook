@@ -1,6 +1,8 @@
 ---
-title: Security and Compliance
+title: Security and compliance
 ---
+
+# Security and Compliance
 
 ## Security Policy
 

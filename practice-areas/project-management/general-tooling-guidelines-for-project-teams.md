@@ -1,6 +1,8 @@
 ---
-title: General Guidelines for Tools on Project Teams
+title: Guidelines for project tools
 ---
+
+# General Guidelines for Tools on Project Teams
 
 ## Slack
 

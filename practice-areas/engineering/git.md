@@ -2,6 +2,8 @@
 title: Git
 ---
 
+# Git
+
 ## Git overview
 
 As you may already know, Git is a source code versioning system that lets you locally track changes and push or pull changes from remote resources. All projects use Git.

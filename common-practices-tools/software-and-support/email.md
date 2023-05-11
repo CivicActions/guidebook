@@ -1,6 +1,8 @@
 ---
-title: civicactions.com email
+title: Email
 ---
+
+# civicactions.com email
 
 ## Internal lists
 

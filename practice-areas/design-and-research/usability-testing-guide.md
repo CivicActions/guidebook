@@ -1,6 +1,8 @@
 ---
-title: Usability Testing Guide
+title: Usability testing guide
 ---
+
+# Usability Testing Guide
 
 ## What it is
 

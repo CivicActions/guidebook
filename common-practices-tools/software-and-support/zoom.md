@@ -2,6 +2,8 @@
 title: Zoom
 ---
 
+# Zoom
+
 ## Basic overview
 
 We use [Zoom](https://zoom.us/) video conferencing by default. It is especially important for All Humans Calls (AHC). You will need to [download the free Zoom app](https://zoom.us/support/download). Zoom works on Windows, MacOS, [Linux](https://zoom.us/download?os=linux), iOS and Android computers. If necessary, Zoom also lets you to call in from a telephone (don't forget to mute yourself!).

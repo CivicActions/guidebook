@@ -1,6 +1,8 @@
 ---
-title: Drupal Practice Area
+title: Drupal practice area
 ---
+
+# Drupal Practice Area
 
 Drupal is a CivicActions engineering-focused [Practice Areas](../about-practice-areas.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
 

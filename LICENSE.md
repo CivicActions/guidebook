@@ -2,6 +2,8 @@
 title: License
 ---
 
+# License
+
 ## Creative Commons Attribution 4.0 International Public License
 
 ```text
