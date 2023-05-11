@@ -2,6 +2,8 @@
 title: Templates
 ---
 
+# Templates
+
 ## Purpose
 
 Templates allow us, as a practice area, to deliver consistency across projects. Those included are commonly used by Project Managers throughout the life of a project. All of the templates are stored within the [CivicActions Project Management Folder](https://drive.google.com/drive/folders/0B8h3s4uUHTrZX0g0d1gzWVJ2OHM). Given the ongoing improvements of our team, this page is dynamic.

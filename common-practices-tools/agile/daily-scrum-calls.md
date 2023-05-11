@@ -1,6 +1,8 @@
 ---
-title: Daily Scrum Calls
+title: Daily scrum calls
 ---
+
+# Daily Scrum Calls
 
 ## What it is
 

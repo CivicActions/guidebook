@@ -1,6 +1,8 @@
 ---
-title: CivicActions Security Incident Response Procedure Checklist
+title: Incident response checklist
 ---
+
+# CivicActions Security Incident Response Procedure Checklist
 
 For more details on any part of the checklist, see the [Security Incident Response Plan](incident-response-plan.md).
 

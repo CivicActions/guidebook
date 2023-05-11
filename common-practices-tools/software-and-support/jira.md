@@ -2,6 +2,8 @@
 title: Jira
 ---
 
+# Jira
+
 The following is a general overview of Jira, but each project may have specific setups or workflows that differ.
 
 ## About Jira

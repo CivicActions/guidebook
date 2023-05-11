@@ -2,6 +2,8 @@
 title: About this guidebook
 ---
 
+# About this guidebook
+
 This guidebook is written by and for all employees of CivicActions. Everyone is encouraged to contribute to continuously improve it.
 
 A common reason to create or edit documentation is to "scratch an itch" that's felt when we come across a lack of information or spot an error. We invite you to act on that impulse when you can. You can also ask a practice lead if you are not sure. This way we keep the guidebook working as a valuable resource for new hires as well as veteran team members.

@@ -1,6 +1,8 @@
 ---
-title: "Team Working Agreements: Instructions for Project Managers"
+title: Team Working Agreements
 ---
+
+# Team Working Agreements: Instructions for Project Managers
 
 Note: See also Team Working Agreements (for all team members)
 

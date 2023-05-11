@@ -1,7 +1,9 @@
 ---
-title: Performance Management
+title: Performance management
 updated: August 19, 2022
 ---
+
+# Performance Management
 
 CivicActions takes a hands-on approach to supporting our team members' performance and success. Following Agile methodology, CivicActions, including its managers, strives to give team members feedback on a continual basis through the project retrospective process, regular check-ins with managers, scrum calls, coworking and other methods of feedback. CivicActions cares about our team members' success and has developed practices to help team members succeed. CivicActions is continually looking to improve how we work with team members to build beneficial relationships, manage performance, and support team members' success.
 When a team member does not meet the expectation of their role, CivicActions prefers to initially address performance issues using informal feedback (either orally or in writing) from a project lead or a manager. If performance issues are not improved based on informal feedback, a manager may have additional conversations with the team member about the issue and expectations for improving, and may provide written feedback documenting the performance issues and the expectations.

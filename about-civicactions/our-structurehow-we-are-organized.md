@@ -1,6 +1,8 @@
 ---
-title: Organization
+title: Departments, projects, practice areas, and pods
 ---
+
+# Organization
 
 CivicActions is organized into several types of groups.
 

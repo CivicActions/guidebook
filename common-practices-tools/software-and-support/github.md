@@ -2,6 +2,8 @@
 title: GitHub
 ---
 
+# GitHub
+
 ## About GitHub
 
 [GitHub](https://github.com/) is a publicly available, free service which hosts the source code for tens of thousands of open source projects. GitHub is very secure, and is working hard to make git version control more user friendly. CivicActions uses GitHub for all public open source projects ( <https://github.com/civicactions> ). We are an open source company that believes in sharing our code where possible. We encourage internal projects, client and pro-bono projects to be developed in the open and released under an open license.

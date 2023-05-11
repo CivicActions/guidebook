@@ -2,6 +2,8 @@
 title: Trello
 ---
 
+# Trello
+
 ## Overview
 
 Trello is easy and intuitive. Install the extensions listed in that section below, and you'll figure out everything else you need to know as you go along.

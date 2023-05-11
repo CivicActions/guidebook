@@ -1,6 +1,8 @@
 ---
-title: Introductory Period
+title: Introductory period
 ---
+
+# Introductory Period
 
 Upon joining CivicActions, team members enter into a ninety day introductory period. During this timeframe, team members will learn and engage with CivicActions culture and values, meet their team, become acclimated to our working style and learn the tasks and responsibilities of their role. We have an extensive interview process that supports ensuring we are hiring for fit along the lines of good communication skills, remote work capabilities, technical skills, and more; but this period also allows us to ensure that there is alignment once new team members get here.
 

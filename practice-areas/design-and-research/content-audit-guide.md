@@ -1,6 +1,8 @@
 ---
-title: Content Audit Guide
+title: Content audit guide
 ---
+
+# Content Audit Guide
 
 ## What it is
 

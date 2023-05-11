@@ -1,3 +1,7 @@
+---
+title: Setting up GnuPG
+---
+
 # Setting up GnuPG
 
 ## Create a new GPG key

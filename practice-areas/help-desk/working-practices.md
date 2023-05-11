@@ -1,6 +1,8 @@
 ---
-title: CivicActions Project Support Best Practices
+title: Support best practices
 ---
+
+# CivicActions Project Support Best Practices
 
 ## Overview
 

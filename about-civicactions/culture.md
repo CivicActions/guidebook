@@ -2,6 +2,8 @@
 title: Culture
 ---
 
+# Culture
+
 ## Introduction
 
 CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this guidebook.

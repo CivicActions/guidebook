@@ -1,6 +1,8 @@
 ---
-title: Backlog Refinement
+title: Backlog refinement
 ---
+
+# Backlog Refinement
 
 ## What it is
 

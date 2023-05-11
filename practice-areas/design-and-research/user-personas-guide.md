@@ -1,6 +1,8 @@
 ---
-title: User Personas Guide
+title: User personas guide
 ---
+
+# User Personas Guide
 
 ## What it is
 

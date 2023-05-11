@@ -1,6 +1,8 @@
 ---
-title: "Accessibility: How To"
+title: Testing Guide
 ---
+
+# Accessibility: How To
 
 ## Resources for learning how to test the accessibility of our applications
 

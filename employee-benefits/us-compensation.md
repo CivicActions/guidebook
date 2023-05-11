@@ -1,7 +1,9 @@
 ---
-title: Compensation
+title: Compensation (US employees)
 updated: May 9, 2017
 ---
+
+# Compensation
 
 ## Pay Periods
 

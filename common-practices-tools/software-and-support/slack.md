@@ -2,6 +2,8 @@
 title: Slack
 ---
 
+# Slack
+
 ## Basics
 
 -   We use Slack for chatting with the team – whether as a whole, in smaller groups, or one on one.

@@ -1,6 +1,8 @@
 ---
-title: Diversity, Equity, Inclusion, and Accessibility (DEIA) at CivicActions
+title: DEIA at CivicActions
 ---
+
+# Diversity, Equity, Inclusion, and Accessibility (DEIA) at CivicActions
 
 At CivicActions we have a vision of a world that works for all. We are committed to diversity, equity, inclusion and accessibility in both our team culture and our work on problems that shape civic life.
 

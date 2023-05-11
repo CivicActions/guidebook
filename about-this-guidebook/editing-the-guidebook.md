@@ -2,6 +2,8 @@
 title: Editing the guidebook using Git
 ---
 
+# Editing the guidebook using Git
+
 The guidebook is a collection of markdown files that you can edit in Github.
 
 Git can be confusing at first, but our guidebook is a great place to learn because we use a simple Git workflow, compared to many engineering projects. For example, publishing a sentence or two can take less than 5 minutes, depending on the availability of reviewers.

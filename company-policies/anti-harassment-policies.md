@@ -1,7 +1,9 @@
 ---
-title: Policy Against Proscribed Harassment and Discrimination
+title: Anti-harassment
 updated: June 22, 2018
 ---
+
+# Policy Against Proscribed Harassment and Discrimination
 
 _This policy was taken directly from the TriNet handbook as of June 2018._
 

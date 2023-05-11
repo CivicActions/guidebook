@@ -3,6 +3,8 @@ title: Expenses
 updated: February 24, 2023
 ---
 
+# Expenses
+
 Employees should submit expense reports within five (5) business days after returning from a business trip or after incurring the expense(s). Expense reports submitted more than 30 days late may not be processed and paid without approval from the CFO. Outstanding expense reports are justification for CivicActions to withhold travel advances for subsequent trips.
 
 All expense reports must be accurately completed with original receipts that matches each item on the expense report. There is no dollar threshold for required receipts. For those items that do not have a receipt, an explanation must be provided and the employee must attach an approval email (PDF) to indicate that he or she approves the expense to be reimbursed without the receipt. Management reserves the right to disallow reimbursement for expenses without receipts. Expense Reports must be properly approved in order to be processed for reimbursement.

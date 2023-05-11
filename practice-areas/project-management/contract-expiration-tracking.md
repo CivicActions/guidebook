@@ -1,6 +1,8 @@
 ---
-title: "Tracking Contract Details: Leveraging Project Wrappers"
+title: Contract expirations and renewals
 ---
+
+# Tracking Contract Details: Leveraging Project Wrappers
 
 ## Wrappers
 

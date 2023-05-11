@@ -1,6 +1,8 @@
 ---
-title: Annual Summit
+title: Our annual summit
 ---
+
+# Annual Summit
 
 CivicActions gathers together in person once a year at our annual retreat. The location of the retreat varies each year, but we aim to make the location accessible so as many team members as possible can join.
 
