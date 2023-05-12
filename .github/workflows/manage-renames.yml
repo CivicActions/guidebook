@@ -7,6 +7,7 @@ jobs:
   missing-redirect-check:
     runs-on: ubuntu-latest
     permissions:
+      pull-requests: write
       contents: write
     steps:
       - uses: actions/checkout@v3
@@ -47,7 +48,7 @@ jobs:
             - If not, feel free to ignore this message.
 
       - name: Add PR reminder for additions
-        if: env.REMINDER == 'DELETION'
+        if: env.REMINDER == 'ADDITION'
         uses: mshick/add-pr-comment@v2
         with:
           message: |

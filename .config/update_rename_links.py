@@ -36,9 +36,9 @@ def get_renames_and_deletions(lines):
         _, *files = line.split()
         if line.startswith("R"):
             renames.append((files[0], files[1]))
-        elif line.startswith("D"):
+        elif line.startswith("D") and line.endswith(".md"):
             deletions += 1
-        elif line.startswith("A"):
+        elif line.startswith("A") and line.endswith(".md"):
             additions += 1
 
         if ".config/mkdocs.yml" in files:
