@@ -17,7 +17,7 @@ jobs:
       - name: Update links from file rename changes and detect potential reminders
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}
-          python .config/update_rename_links.py "${{ github.event.pull_request.base.ref }}" "${{ github.event.pull_request.head.ref }}" "${GITHUB_ENV}"
+          python .config/update_rename_links.py "origin/${{ github.event.pull_request.base.ref }}" "${{ github.event.pull_request.head.ref }}" "${GITHUB_ENV}"
 
       - name: Autocommit changes, if there are any
         uses: stefanzweifel/git-auto-commit-action@v4
