@@ -68,6 +68,31 @@ def get_all_markdown_files(path="."):
     return markdown_files
 
 
+def calculate_relative_paths(old, new, md_file):
+    """
+    Calculate the relative paths between the old and new locations and base markdown file.
+    """
+    old_relative = pathlib.Path(old).name
+    new_relative = pathlib.Path(new).name
+    md_file_dir = pathlib.Path(md_file).parent
+
+    old_relative_path = os.path.relpath(pathlib.Path(old).parent, md_file_dir)
+    new_relative_path = os.path.relpath(pathlib.Path(new).parent, md_file_dir)
+
+    old_full_relative = os.path.join(old_relative_path, old_relative).removeprefix("./")
+    new_full_relative = os.path.join(new_relative_path, new_relative).removeprefix("./")
+
+    return old_full_relative, new_full_relative
+
+
+def replace_link(content, old, new):
+    """Relace a link in the content, preserving anchors."""
+    return re.sub(
+                rf"\]\({re.escape(old)}(#[^)]+)?\)",
+                f"]({new}\\1)",
+                content,
+            )
+
 def update_links_to_renamed_files(renames):
     """
     Update the links to renamed files in all markdown files.
@@ -78,28 +103,14 @@ def update_links_to_renamed_files(renames):
             with open(md_file, "r", encoding="utf-8") as file:
                 content = file.read()
 
-            # Update relative links
-            old_relative = pathlib.Path(old).name
-            new_relative = pathlib.Path(new).name
-            md_file_dir = pathlib.Path(md_file).parent
-
-            old_relative_path = os.path.relpath(pathlib.Path(old).parent, md_file_dir)
-            new_relative_path = os.path.relpath(pathlib.Path(new).parent, md_file_dir)
-
-            old_full_relative = os.path.join(
-                old_relative_path, old_relative
-            ).removeprefix("./")
-            new_full_relative = os.path.join(
-                new_relative_path, new_relative
-            ).removeprefix("./")
-
-            new_content = content.replace(
-                f"]({old_full_relative}", f"]({new_full_relative}"
+            old_relative, new_relative = calculate_relative_paths(
+                old, new, md_file
             )
+            new_content = replace_link(content, old_relative, new_relative)
 
             if content != new_content:
                 print(
-                    f"Updated links from {old_full_relative} to {new_full_relative} in {md_file}"
+                    f"Updated links from {old_relative} to {new_relative} in {md_file}"
                 )
                 with open(md_file, "w", encoding="utf-8") as file:
                     file.write(new_content)
@@ -118,29 +129,11 @@ def update_links_between_renamed_files(renames):
 
         new_content = content
         for old_link, new_link in renames:
-            old_relative = pathlib.Path(old_link).name
-            new_relative = pathlib.Path(new_link).name
-            md_file_dir = pathlib.Path(
-                old
-            ).parent  # Use the original path before the rename
-
-            old_relative_path = os.path.relpath(
-                pathlib.Path(old_link).parent, md_file_dir
+            # Use the original path before the rename
+            old_relative, new_relative = calculate_relative_paths(
+                old_link, new_link, old
             )
-            new_relative_path = os.path.relpath(
-                pathlib.Path(new_link).parent, md_file_dir
-            )
-
-            old_full_relative = os.path.join(
-                old_relative_path, old_relative
-            ).removeprefix("./")
-            new_full_relative = os.path.join(
-                new_relative_path, new_relative
-            ).removeprefix("./")
-
-            new_content = new_content.replace(
-                f"]({old_full_relative})", f"]({new_full_relative})"
-            )
+            new_content = replace_link(content, old_relative, new_relative)
 
         if content != new_content:
             print(f"Updated links between renamed files in {new}")
@@ -165,10 +158,15 @@ def update_renamed_file_links(renames):
         links = re.findall(r"\]\(([^)]+)\)", content)
         new_content = content
         for link in links:
-            if not link.startswith("http") and not link.startswith("mailto"):
-                old_link_path = pathlib.Path(link)
+            link_without_anchor = link.split("#")[0]
+            if not link_without_anchor.startswith(
+                "http"
+            ) and not link_without_anchor.startswith("mailto"):
+                old_link_path = pathlib.Path(link_without_anchor)
                 if not old_link_path.is_absolute():
-                    updated_link = os.path.normpath(os.path.join(relative_path, link))
+                    updated_link = os.path.normpath(
+                        os.path.join(relative_path, link_without_anchor)
+                    )
 
                     # Check if the link points to an existing file before updating
                     # This is to avoid applying the path transforms twice if running
