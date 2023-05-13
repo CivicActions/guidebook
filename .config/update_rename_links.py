@@ -165,13 +165,19 @@ def update_renamed_file_links(renames):
         links = re.findall(r"\]\(([^)]+)\)", content)
         new_content = content
         for link in links:
-            if not link.startswith("http"):
+            if not link.startswith("http") and not link.startswith("mailto"):
                 old_link_path = pathlib.Path(link)
                 if not old_link_path.is_absolute():
                     updated_link = os.path.normpath(os.path.join(relative_path, link))
-                    new_content = new_content.replace(
-                        f"]({link})", f"]({updated_link})"
-                    )
+
+                    # Check if the link points to an existing file before updating
+                    # This is to avoid applying the path transforms twice if running
+                    # the script multiple times
+                    updated_link_path = pathlib.Path(new).parent / updated_link
+                    if updated_link_path.exists():
+                        new_content = new_content.replace(
+                            f"]({link})", f"]({updated_link})"
+                        )
 
         if content != new_content:
             print(f"Updated links in renamed file {new}")
@@ -259,11 +265,7 @@ def main():
     # Set flag so we can post a reminder for the user to update files if
     # it looks like they may have forgotten.
     reminder = False
-    if (
-        deletions
-        and additions
-        and not (mkdocs_mod or redirects_mod)
-    ):
+    if deletions and additions and not (mkdocs_mod or redirects_mod):
         # In this case we don't know if it is for sure a rename, but it is
         # likely a rename with significant changes also.
         reminder = "POTENTIAL_RENAME"
@@ -276,6 +278,7 @@ def main():
         github_env = sys.argv[3]
         with open(github_env, "a", encoding="utf-8") as file:
             file.write(f"REMINDER={reminder}\n")
+
 
 if __name__ == "__main__":
     main()
