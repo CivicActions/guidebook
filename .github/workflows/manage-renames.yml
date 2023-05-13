@@ -21,10 +21,10 @@ jobs:
           git fetch origin ${{ github.event.pull_request.base.ref }}
           python .config/update_rename_links.py "origin/${{ github.event.pull_request.base.ref }}" "${{ github.event.pull_request.head.ref }}" "${GITHUB_ENV}"
 
-      - name: Autocommit changes, if there are any
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Updating links after file move or rename
+      # - name: Autocommit changes, if there are any
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: Updating links after file move or rename
 
       - name: Add PR reminder for potential renames
         if: env.REMINDER == 'POTENTIAL_RENAME'
