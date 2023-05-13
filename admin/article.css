@@ -12,12 +12,7 @@ hr,
 blockquote,
 td,
 th {
-  font-family:
-    "Roboto",
-    -apple-system,
-    BlinkMacSystemFont,
-    Helvetica,
-    Arial,
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, Helvetica, Arial,
     sans-serif;
   font-feature-settings: "kern", "liga";
   -webkit-font-smoothing: antialiased;
@@ -109,22 +104,18 @@ hr {
   margin: 1.5em 0;
 }
 
+th,
 td {
   border-collapse: initial;
   border-spacing: 0;
-  text-align: -webkit-left;
-
+  text-align: left;
   font-weight: 400;
   vertical-align: top;
 }
 
-th {
-  border-collapse: initial;
-  border-spacing: 0;
-  text-align: -webkit-left;
-
-  font-weight: 400;
-  vertical-align: top;
+td {
+  border-top: 0.05rem solid #0000001f;
+  padding: 0.9375em 1.25em;
 }
 
 code {
@@ -137,9 +128,7 @@ code {
   background-color: #f5f5f5;
   border-radius: 0.1rem;
   font-size: 13.6px;
-  transition:
-    color 125ms,
-    background-color 125ms;
+  transition: color 125ms, background-color 125ms;
   -webkit-box-decoration-break: slice;
   box-shadow: none;
   display: block;
