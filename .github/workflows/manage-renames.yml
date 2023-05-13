@@ -14,6 +14,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Update links from file rename changes and detect potential reminders
         run: |
