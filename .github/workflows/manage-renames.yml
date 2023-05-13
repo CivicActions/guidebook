@@ -3,6 +3,9 @@ name: Update links and redirects for renamed files.
 on:
   pull_request:
 
+env:
+  COMMIT_MESSAGE: Updating links after file move or rename
+
 jobs:
   missing-redirect-check:
     runs-on: ubuntu-latest
@@ -20,11 +23,12 @@ jobs:
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}
           python .config/update_rename_links.py "origin/${{ github.event.pull_request.base.ref }}" "${{ github.event.pull_request.head.ref }}" "${GITHUB_ENV}"
+          if [ "$(git log -1 --format=%s)" == "$COMMIT_MESSAGE" ]; then echo "Loop detected"; exit; fi
 
-      # - name: Autocommit changes, if there are any
-      #   uses: stefanzweifel/git-auto-commit-action@v4
-      #   with:
-      #     commit_message: Updating links after file move or rename
+      - name: Autocommit changes, if there are any
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: $COMMIT_MESSAGE
 
       - name: Add PR reminder for potential renames
         if: env.REMINDER == 'POTENTIAL_RENAME'
