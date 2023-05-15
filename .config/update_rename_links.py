@@ -208,8 +208,8 @@ def update_redirects(renames):
         redirects = yaml.safe_load(file)
 
     for old, new in renames:
-        old_url = "/" + old.removesuffix(".md")
-        new_url = "/" + new.removesuffix(".md")
+        old_url = "/" + old.removesuffix(".md") + "/"
+        new_url = "/" + new.removesuffix(".md") + "/"
 
         existing_redirect = None
         for redirect in redirects:
