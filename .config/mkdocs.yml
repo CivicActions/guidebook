@@ -2,6 +2,7 @@
 nav:
   - Home: README.md
   - About us:
+      - about-civicactions/README.md
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
@@ -14,7 +15,6 @@ nav:
           - about-civicactions/our-structurehow-we-are-organized.md
           - about-civicactions/our-structureorg-structure.md
           - about-civicactions/our-structuremanagement-ops.md
-      - about-civicactions/background-and-history.md
       - about-civicactions/annual-summit.md
   - Employee benefits:
       - employee-benefits/us-benefits-policy.md
