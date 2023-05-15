@@ -1,645 +1,483 @@
-# Authoritative list of redirects we have configured in RTD.
----
-# Redirect the original path structure to the second generation one:
-
-- type: exact
-  from_url: /en/latest/00-contributing/$rest
+- from_url: /en/latest/00-contributing/$rest
   to_url: /en/latest/000-contributing/
-
-- type: exact
-  from_url: /en/latest/01-welcome-to-civicactions/$rest
+  type: exact
+- from_url: /en/latest/01-welcome-to-civicactions/$rest
   to_url: /en/latest/010-welcome-to-civicactions/
-
-- type: exact
-  from_url: /en/latest/02-about-us/$rest
+  type: exact
+- from_url: /en/latest/02-about-us/$rest
   to_url: /en/latest/020-about-us/
-
-- type: exact
-  from_url: /en/latest/03-policies/$rest
+  type: exact
+- from_url: /en/latest/03-policies/$rest
   to_url: /en/latest/030-policies/
-
-- type: exact
-  from_url: /en/latest/04-how-we-work/$rest
+  type: exact
+- from_url: /en/latest/04-how-we-work/$rest
   to_url: /en/latest/050-how-we-work/
-
-- type: exact
-  from_url: /en/latest/05-engineering/$rest
+  type: exact
+- from_url: /en/latest/05-engineering/$rest
   to_url: /en/latest/060-engineering/
-
-- type: exact
-  from_url: /en/latest/06-project-management/$rest
+  type: exact
+- from_url: /en/latest/06-project-management/$rest
   to_url: /en/latest/070-project-management/
-
-- type: exact
-  from_url: /en/latest/07-sales-and-marketing/$rest
+  type: exact
+- from_url: /en/latest/07-sales-and-marketing/$rest
   to_url: /en/latest/080-sales-and-marketing/
-
-- type: exact
-  from_url: /en/latest/08-hr-admin/$rest
+  type: exact
+- from_url: /en/latest/08-hr-admin/$rest
   to_url: /en/latest/090-hr-admin/
-
-- type: exact
-  from_url: /en/latest/09-security/$rest
+  type: exact
+- from_url: /en/latest/09-security/$rest
   to_url: /en/latest/100-security/
-
-- type: exact
-  from_url: /en/latest/10-ux/$rest
+  type: exact
+- from_url: /en/latest/10-ux/$rest
   to_url: /en/latest/110-ux/
-
-- type: exact
-  from_url: /en/latest/11-help-desk/$rest
+  type: exact
+- from_url: /en/latest/11-help-desk/$rest
   to_url: /en/latest/120-help-desk/
-
-# Redirects from the second generation to the third:
-
-- type: page
-  from_url: /README/
+  type: exact
+- from_url: /README/
   to_url: /
-
-- type: page
-  from_url: /020-about-us/background-and-history/
+  type: page
+- from_url: /020-about-us/background-and-history/
   to_url: /about-civicactions/background-and-history/
-
-- type: page
-  from_url: /020-about-us/culture/
+  type: page
+- from_url: /020-about-us/culture/
   to_url: /about-civicactions/culture/
-
-- type: page
-  from_url: /020-about-us/mission-values/
+  type: page
+- from_url: /020-about-us/mission-values/
   to_url: /about-civicactions/mission-values/
-
-- type: page
-  from_url: /030-policies/annual-retreat/
+  type: page
+- from_url: /030-policies/annual-retreat/
   to_url: /about-civicactions/annual-summit/
-
-- type: page
-  from_url: /050-how-we-work/diversity-equity-inclusion/affinity-channels/
+  type: page
+- from_url: /050-how-we-work/diversity-equity-inclusion/affinity-channels/
   to_url: /about-civicactions/diversity-equity-inclusion/affinity-channels/
-
-- type: page
-  from_url: /050-how-we-work/diversity-equity-inclusion/defining-dei/
+  type: page
+- from_url: /050-how-we-work/diversity-equity-inclusion/defining-dei/
   to_url: /about-civicactions/diversity-equity-inclusion/defining-dei/
-
-- type: page
-  from_url: /050-how-we-work/diversity-equity-inclusion/resources/
+  type: page
+- from_url: /050-how-we-work/diversity-equity-inclusion/resources/
   to_url: /about-civicactions/diversity-equity-inclusion/resources/
-
-- type: page
-  from_url: /050-how-we-work/diversity-equity-inclusion/purpose/
+  type: page
+- from_url: /050-how-we-work/diversity-equity-inclusion/purpose/
   to_url: /about-civicactions/diversity-equity-inclusion/purpose/
-
-- type: page
-  from_url: /050-how-we-work/management-ops/
+  type: page
+- from_url: /050-how-we-work/management-ops/
   to_url: /about-civicactions/our-structuremanagement-ops/
-
-- type: page
-  from_url: /050-how-we-work/organization/
+  type: page
+- from_url: /050-how-we-work/organization/
   to_url: /about-civicactions/our-structurehow-we-are-organized/
-
-- type: page
-  from_url: /020-about-us/org-structure/
+  type: page
+- from_url: /020-about-us/org-structure/
   to_url: /about-civicactions/our-structureorg-structure/
-
-- type: page
-  from_url: /000-contributing/git-workflow/
+  type: page
+- from_url: /000-contributing/git-workflow/
   to_url: /about-this-guidebook/git-workflow/
-
-- type: page
-  from_url: /000-contributing/github-actions/
+  type: page
+- from_url: /000-contributing/github-actions/
   to_url: /about-this-guidebook/github-actions/
-
-- type: page
-  from_url: /000-contributing/docs-governance/
+  type: page
+- from_url: /000-contributing/docs-governance/
   to_url: /about-this-guidebook/guidebook-governance/
-
-- type: page
-  from_url: /000-contributing/writing-style-guide/
+  type: page
+- from_url: /000-contributing/writing-style-guide/
   to_url: /about-this-guidebook/writing-style-guide/
-
-- type: page
-  from_url: /000-contributing/README/
+  type: page
+- from_url: /000-contributing/README/
   to_url: /about-this-guidebook/
-
-- type: page
-  from_url: /000-contributing/markdown/
+  type: page
+- from_url: /000-contributing/markdown/
   to_url: /about-this-guidebook/markdown-for-guidebook/
-
-- type: page
-  from_url: /050-how-we-work/balance-scores/
+  type: page
+- from_url: /050-how-we-work/balance-scores/
   to_url: /common-practices-tools/balance-scores/
-
-- type: page
-  from_url: /050-how-we-work/gold-star-program/
+  type: page
+- from_url: /050-how-we-work/gold-star-program/
   to_url: /common-practices-tools/gold-star-program/
-
-- type: page
-  from_url: /050-how-we-work/tools/skills-base/
+  type: page
+- from_url: /050-how-we-work/tools/skills-base/
   to_url: /common-practices-tools/skills-base/
-
-- type: page
-  from_url: /050-how-we-work/tools/telephone/
+  type: page
+- from_url: /050-how-we-work/tools/telephone/
   to_url: /common-practices-tools/telephone/
-
-- type: page
-  from_url: /050-how-we-work/agile-overview/
+  type: page
+- from_url: /050-how-we-work/agile-overview/
   to_url: /common-practices-tools/agile/agile-overview/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/backlog-refinement/
+  type: page
+- from_url: /050-how-we-work/agile-practices/backlog-refinement/
   to_url: /common-practices-tools/agile/backlog-refinement/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/daily-scrum-calls/
+  type: page
+- from_url: /050-how-we-work/agile-practices/daily-scrum-calls/
   to_url: /common-practices-tools/agile/daily-scrum-calls/
-
-- type: page
-  from_url: /050-how-we-work/tools/tickets-cards/
+  type: page
+- from_url: /050-how-we-work/tools/tickets-cards/
   to_url: /common-practices-tools/agile/tickets-cards/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/README/
+  type: page
+- from_url: /050-how-we-work/agile-practices/README/
   to_url: /common-practices-tools/agile/agile-practices/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/sprint-cycle/
+  type: page
+- from_url: /050-how-we-work/agile-practices/sprint-cycle/
   to_url: /common-practices-tools/agile/sprint-cycle/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/sprint-demo/
+  type: page
+- from_url: /050-how-we-work/agile-practices/sprint-demo/
   to_url: /common-practices-tools/agile/sprint-demo/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/sprint-planning-meetings/
+  type: page
+- from_url: /050-how-we-work/agile-practices/sprint-planning-meetings/
   to_url: /common-practices-tools/agile/sprint-planning-meetings/
-
-- type: page
-  from_url: /050-how-we-work/agile-practices/sprint-retrospectives/
+  type: page
+- from_url: /050-how-we-work/agile-practices/sprint-retrospectives/
   to_url: /common-practices-tools/agile/sprint-retrospectives/
-
-- type: page
-  from_url: /100-security/contingency-plan/
+  type: page
+- from_url: /100-security/contingency-plan/
   to_url: /common-practices-tools/security/contingency-plan/
-
-- type: page
-  from_url: /100-security/encryption/
+  type: page
+- from_url: /100-security/encryption/
   to_url: /common-practices-tools/security/encryption/
-
-- type: page
-  from_url: /100-security/awareness/
+  type: page
+- from_url: /100-security/awareness/
   to_url: /common-practices-tools/security/awareness/
-
-- type: page
-  from_url: /100-security/drupal-rmf-support/
+  type: page
+- from_url: /100-security/drupal-rmf-support/
   to_url: /common-practices-tools/security/drupal-rmf-support/
-
-- type: page
-  from_url: /100-security/incident-response-checklist/
+  type: page
+- from_url: /100-security/incident-response-checklist/
   to_url: /common-practices-tools/security/incident-response-checklist/
-
-- type: page
-  from_url: /100-security/incident-response-plan/
+  type: page
+- from_url: /100-security/incident-response-plan/
   to_url: /common-practices-tools/security/incident-response-plan/
-
-- type: page
-  from_url: /100-security/incidents/
+  type: page
+- from_url: /100-security/incidents/
   to_url: /common-practices-tools/security/incidents/
-
-- type: page
-  from_url: /100-security/yubikey/README/
+  type: page
+- from_url: /100-security/yubikey/README/
   to_url: /common-practices-tools/security/yubikey/
-
-- type: page
-  from_url: /100-security/yubikey/linux/
+  type: page
+- from_url: /100-security/yubikey/linux/
   to_url: /common-practices-tools/security/yubikey/linux/
-
-- type: page
-  from_url: /100-security/yubikey/macosx/
+  type: page
+- from_url: /100-security/yubikey/macosx/
   to_url: /common-practices-tools/security/yubikey/macosx/
-
-- type: page
-  from_url: /050-how-we-work/tools/email/
+  type: page
+- from_url: /050-how-we-work/tools/email/
   to_url: /common-practices-tools/software-and-support/email/
-
-- type: page
-  from_url: /020-about-us/general-contacts-and-listservs/
+  type: page
+- from_url: /020-about-us/general-contacts-and-listservs/
   to_url: /common-practices-tools/software-and-support/general-contacts-and-listservs/
-
-- type: page
-  from_url: /050-how-we-work/tools/github/
+  type: page
+- from_url: /050-how-we-work/tools/github/
   to_url: /common-practices-tools/software-and-support/github/
-
-- type: page
-  from_url: /050-how-we-work/tools/google-calendar/
+  type: page
+- from_url: /050-how-we-work/tools/google-calendar/
   to_url: /common-practices-tools/software-and-support/google-calendar/
-
-- type: page
-  from_url: /050-how-we-work/tools/google-docs/
+  type: page
+- from_url: /050-how-we-work/tools/google-docs/
   to_url: /common-practices-tools/software-and-support/google-docs/
-
-- type: page
-  from_url: /050-how-we-work/tools/google-hangouts/
+  type: page
+- from_url: /050-how-we-work/tools/google-hangouts/
   to_url: /common-practices-tools/software-and-support/google-meet/
-
-- type: page
-  from_url: /050-how-we-work/support/
+  type: page
+- from_url: /050-how-we-work/support/
   to_url: /common-practices-tools/software-and-support/support/
-
-- type: page
-  from_url: /050-how-we-work/tools/jira/
+  type: page
+- from_url: /050-how-we-work/tools/jira/
   to_url: /common-practices-tools/software-and-support/jira/
-
-- type: page
-  from_url: /050-how-we-work/tools/markdown/
+  type: page
+- from_url: /050-how-we-work/tools/markdown/
   to_url: /common-practices-tools/software-and-support/markdown/
-
-- type: page
-  from_url: /050-how-we-work/tools/slack/
+  type: page
+- from_url: /050-how-we-work/tools/slack/
   to_url: /common-practices-tools/software-and-support/slack/
-
-- type: page
-  from_url: /050-how-we-work/tools/text-editors/
+  type: page
+- from_url: /050-how-we-work/tools/text-editors/
   to_url: /practice-areas/engineering/text-editors-ides/
-
-- type: page
-  from_url: /common-practices-tools/software-and-support/text-editors/
+  type: page
+- from_url: /common-practices-tools/software-and-support/text-editors/
   to_url: /practice-areas/engineering/text-editors-ides/
-
-- type: page
-  from_url: /050-how-we-work/tools/trello/
+  type: page
+- from_url: /050-how-we-work/tools/trello/
   to_url: /common-practices-tools/software-and-support/trello/
-
-- type: page
-  from_url: /050-how-we-work/tools/zoom/
+  type: page
+- from_url: /050-how-we-work/tools/zoom/
   to_url: /common-practices-tools/software-and-support/zoom/
-
-- type: page
-  from_url: /050-how-we-work/tools/unanet/
+  type: page
+- from_url: /050-how-we-work/tools/unanet/
   to_url: /company-policies/timesheets/
-
-- type: page
-  from_url: /030-policies/annual-review-process/
+  type: page
+- from_url: /030-policies/annual-review-process/
   to_url: /company-policies/annual-review-process/
-
-- type: page
-  from_url: /030-policies/security/
+  type: page
+- from_url: /030-policies/security/
   to_url: /company-policies/security/
-
-- type: page
-  from_url: /030-policies/code-of-conduct/
+  type: page
+- from_url: /030-policies/code-of-conduct/
   to_url: /company-policies/code-of-conduct/
-
-- type: page
-  from_url: /040-employee-handbook-us/covid19safety/
+  type: page
+- from_url: /040-employee-handbook-us/covid19safety/
   to_url: /company-policies/covid19-safety/
-
-- type: page
-  from_url: /030-policies/expenses/
+  type: page
+- from_url: /030-policies/expenses/
   to_url: /company-policies/expenses/
-
-- type: page
-  from_url: /030-policies/health-safety-security/
+  type: page
+- from_url: /030-policies/health-safety-security/
   to_url: /company-policies/health-safety-security/
-
-- type: page
-  from_url: /030-policies/performance-management/
+  type: page
+- from_url: /030-policies/performance-management/
   to_url: /company-policies/performance-management/
-
-- type: page
-  from_url: /040-employee-handbook-us/anti-harassment-policies/
+  type: page
+- from_url: /040-employee-handbook-us/anti-harassment-policies/
   to_url: /company-policies/anti-harassment-policies/
-
-- type: page
-  from_url: /030-policies/travel-101/
+  type: page
+- from_url: /030-policies/travel-101/
   to_url: /company-policies/travel-time-tracking-and-expenses/
-
-- type: page
-  from_url: /030-policies/leaving-civicactions/
+  type: page
+- from_url: /030-policies/leaving-civicactions/
   to_url: /company-policies/employment/leaving-civicactions/
-
-- type: page
-  from_url: /030-policies/workplace-guidelines/
+  type: page
+- from_url: /030-policies/workplace-guidelines/
   to_url: /company-policies/employment/workplace-guidelines/
-
-- type: page
-  from_url: /040-employee-handbook-us/employment/
+  type: page
+- from_url: /040-employee-handbook-us/employment/
   to_url: /company-policies/employment/us/employment/
-
-- type: page
-  from_url: /040-employee-handbook-us/introductory-period/
+  type: page
+- from_url: /040-employee-handbook-us/introductory-period/
   to_url: /company-policies/employment/us/introductory-period/
-
-- type: page
-  from_url: /050-how-we-work/bookmarks/
+  type: page
+- from_url: /050-how-we-work/bookmarks/
   to_url: /company-policies/new-hire-orientation/bookmarks/
-
-- type: page
-  from_url: /010-welcome-to-civicactions/training/buddy-program/
+  type: page
+- from_url: /010-welcome-to-civicactions/training/buddy-program/
   to_url: /company-policies/new-hire-orientation/buddy-program/
-
-- type: page
-  from_url: /020-about-us/elevator-pitch/
+  type: page
+- from_url: /020-about-us/elevator-pitch/
   to_url: /company-policies/new-hire-orientation/elevator-pitch/
-
-- type: page
-  from_url: /010-welcome-to-civicactions/training/intro-open-source/
+  type: page
+- from_url: /010-welcome-to-civicactions/training/intro-open-source/
   to_url: /company-policies/new-hire-orientation/intro-open-source/
-
-- type: page
-  from_url: /010-welcome-to-civicactions/training/meetings-and-meeting-tools/
+  type: page
+- from_url: /010-welcome-to-civicactions/training/meetings-and-meeting-tools/
   to_url: /company-policies/new-hire-orientation/meetings-and-meeting-tools/
-
-- type: page
-  from_url: /010-welcome-to-civicactions/welcome/
+  type: page
+- from_url: /010-welcome-to-civicactions/welcome/
   to_url: /company-policies/new-hire-orientation/welcome/
-
-- type: page
-  from_url: /010-welcome-to-civicactions/training/security-training/
+  type: page
+- from_url: /010-welcome-to-civicactions/training/security-training/
   to_url: /company-policies/new-hire-orientation/security-training/
-
-- type: page
-  from_url: /050-how-we-work/training-resources/
+  type: page
+- from_url: /050-how-we-work/training-resources/
   to_url: /company-policies/new-hire-orientation/training-resources/
-
-- type: page
-  from_url: /050-how-we-work/video-call-best-practices/
+  type: page
+- from_url: /050-how-we-work/video-call-best-practices/
   to_url: /company-policies/new-hire-orientation/video-call-best-practices/
-
-- type: page
-  from_url: /050-how-we-work/virtual-workplace-basics/
+  type: page
+- from_url: /050-how-we-work/virtual-workplace-basics/
   to_url: /company-policies/new-hire-orientation/virtual-workplace-basics/
-
-- type: page
-  from_url: /010-welcome-to-civicactions/training/people-planning/
+  type: page
+- from_url: /010-welcome-to-civicactions/training/people-planning/
   to_url: /company-policies/new-hire-orientation/people-planning/
-
-- type: page
-  from_url: /045-employee-handbook-ca/benefits-and-holidays/
+  type: page
+- from_url: /045-employee-handbook-ca/benefits-and-holidays/
   to_url: /employee-benefits/canada-benefits-policy/
-
-- type: page
-  from_url: /040-employee-handbook-us/benefits-and-holidays/
+  type: page
+- from_url: /040-employee-handbook-us/benefits-and-holidays/
   to_url: /employee-benefits/us-benefits-policy/
-
-- type: page
-  from_url: /040-employee-handbook-us/compensation/
+  type: page
+- from_url: /040-employee-handbook-us/compensation/
   to_url: /employee-benefits/us-compensation/
-
-- type: page
-  from_url: /030-policies/employee-referral-bonus/
+  type: page
+- from_url: /030-policies/employee-referral-bonus/
   to_url: /employee-benefits/employee-referral-bonus/
-
-- type: page
-  from_url: /030-policies/on-call-stipend/
+  type: page
+- from_url: /030-policies/on-call-stipend/
   to_url: /employee-benefits/on-call-stipend/
-
-- type: page
-  from_url: /030-policies/prodev/
+  type: page
+- from_url: /030-policies/prodev/
   to_url: /employee-benefits/professional-development/
-
-- type: page
-  from_url: /045-employee-handbook-ca/tech-stipend/
+  type: page
+- from_url: /045-employee-handbook-ca/tech-stipend/
   to_url: /employee-benefits/canada-tech-stipend/
-
-- type: page
-  from_url: /040-employee-handbook-us/tech-stipend/
+  type: page
+- from_url: /040-employee-handbook-us/tech-stipend/
   to_url: /employee-benefits/us-tech-stipend/
-
-- type: page
-  from_url: /050-how-we-work/practice-areas/README/
+  type: page
+- from_url: /050-how-we-work/practice-areas/README/
   to_url: /practice-areas/about-practice-areas/
-
-- type: page
-  from_url: /050-how-we-work/practice-areas/accessibility-practice-area/
+  type: page
+- from_url: /050-how-we-work/practice-areas/accessibility-practice-area/
   to_url: /practice-areas/accessibility/accessibility-practice-area/
-
-- type: page
-  from_url: /110-ux/services/research/audiences-and-outcomes-guide/
+  type: page
+- from_url: /110-ux/services/research/audiences-and-outcomes-guide/
   to_url: /practice-areas/design-and-research/audiences-and-outcomes-guide/
-
-- type: page
-  from_url: /110-ux/services/research/content-audit-guide/
+  type: page
+- from_url: /110-ux/services/research/content-audit-guide/
   to_url: /practice-areas/design-and-research/content-audit-guide/
-
-- type: page
-  from_url: /110-ux/services/design/content-modeling-guide/
+  type: page
+- from_url: /110-ux/services/design/content-modeling-guide/
   to_url: /practice-areas/design-and-research/content-modeling-guide/
-
-- type: page
-  from_url: /110-ux/services/research/stakeholder-interviews-guide/
+  type: page
+- from_url: /110-ux/services/research/stakeholder-interviews-guide/
   to_url: /practice-areas/design-and-research/stakeholder-interviews-guide/
-
-- type: page
-  from_url: /110-ux/services/research/story-mapping-guide/
+  type: page
+- from_url: /110-ux/services/research/story-mapping-guide/
   to_url: /practice-areas/design-and-research/story-mapping-guide/
-
-- type: page
-  from_url: /110-ux/services/research/usability-testing-guide/
+  type: page
+- from_url: /110-ux/services/research/usability-testing-guide/
   to_url: /practice-areas/design-and-research/usability-testing-guide/
-
-- type: page
-  from_url: /110-ux/services/research/user-personas-guide/
+  type: page
+- from_url: /110-ux/services/research/user-personas-guide/
   to_url: /practice-areas/design-and-research/user-personas-guide/
-
-- type: page
-  from_url: /060-engineering/accessibility/
+  type: page
+- from_url: /060-engineering/accessibility/
   to_url: /practice-areas/engineering/accessibility/
-
-- type: page
-  from_url: /050-how-we-work/practice-areas/drupal-practice-area/
+  type: page
+- from_url: /050-how-we-work/practice-areas/drupal-practice-area/
   to_url: /practice-areas/engineering/drupal-practice-area/
-
-- type: page
-  from_url: /060-engineering/README/
+  type: page
+- from_url: /060-engineering/README/
   to_url: /practice-areas/engineering/engineering-calls/
-
-- type: page
-  from_url: /060-engineering/git/
+  type: page
+- from_url: /060-engineering/git/
   to_url: /practice-areas/engineering/git/
-
-- type: page
-  from_url: /060-engineering/security-compliance/
+  type: page
+- from_url: /060-engineering/security-compliance/
   to_url: /practice-areas/engineering/security-compliance/
-
-- type: page
-  from_url: /060-engineering/tech-lead/
+  type: page
+- from_url: /060-engineering/tech-lead/
   to_url: /practice-areas/engineering/tech-lead/
-
-- type: page
-  from_url: /120-help-desk/help-desk-agile/
+  type: page
+- from_url: /120-help-desk/help-desk-agile/
   to_url: /practice-areas/help-desk/help-desk-agile/
-
-- type: page
-  from_url: /120-help-desk/helpdesk/
+  type: page
+- from_url: /120-help-desk/helpdesk/
   to_url: /practice-areas/help-desk/helpdesk/
-
-- type: page
-  from_url: /120-help-desk/working-practices/
+  type: page
+- from_url: /120-help-desk/working-practices/
   to_url: /practice-areas/help-desk/working-practices/
-
-- type: page
-  from_url: /070-project-management/mods-and-extentions/
+  type: page
+- from_url: /070-project-management/mods-and-extentions/
   to_url: /practice-areas/project-management/mods-and-extensions/
-
-- type: page
-  from_url: /070-project-management/starting-new-project/
+  type: page
+- from_url: /070-project-management/starting-new-project/
   to_url: /practice-areas/project-management/starting-new-project/
-
-- type: page
-  from_url: /070-project-management/hard-conversations/
+  type: page
+- from_url: /070-project-management/hard-conversations/
   to_url: /practice-areas/project-management/hard-conversations/
-
-- type: page
-  from_url: /070-project-management/listserv-setup/
+  type: page
+- from_url: /070-project-management/listserv-setup/
   to_url: /practice-areas/project-management/listserv-setup/
-
-- type: page
-  from_url: /070-project-management/pto-request-approval-process/
+  type: page
+- from_url: /070-project-management/pto-request-approval-process/
   to_url: /practice-areas/project-management/pto-request-approval-process/
-
-- type: page
-  from_url: /070-project-management/project-offboarding/
+  type: page
+- from_url: /070-project-management/project-offboarding/
   to_url: /practice-areas/project-management/project-offboarding/
-
-- type: page
-  from_url: /070-project-management/onboarding-new-project-team-member/
+  type: page
+- from_url: /070-project-management/onboarding-new-project-team-member/
   to_url: /practice-areas/project-management/onboarding-new-project-team-member/
-
-- type: page
-  from_url: /070-project-management/planning-onsite-meetings/
+  type: page
+- from_url: /070-project-management/planning-onsite-meetings/
   to_url: /practice-areas/project-management/planning-onsite-meetings/
-
-- type: page
-  from_url: /070-project-management/project-calendar/
+  type: page
+- from_url: /070-project-management/project-calendar/
   to_url: /practice-areas/project-management/project-calendar/
-
-- type: page
-  from_url: /070-project-management/project-folder/
+  type: page
+- from_url: /070-project-management/project-folder/
   to_url: /practice-areas/project-management/project-folder/
-
-- type: page
-  from_url: /070-project-management/invoicing/
+  type: page
+- from_url: /070-project-management/invoicing/
   to_url: /practice-areas/project-management/invoicing/
-
-- type: page
-  from_url: /070-project-management/pm-role/
+  type: page
+- from_url: /070-project-management/pm-role/
   to_url: /practice-areas/project-management/pm-role/
-
-- type: page
-  from_url: /070-project-management/templates/
+  type: page
+- from_url: /070-project-management/templates/
   to_url: /practice-areas/project-management/templates/
-
-- type: page
-  from_url: /070-project-management/pm-training/
+  type: page
+- from_url: /070-project-management/pm-training/
   to_url: /practice-areas/project-management/pm-training/
-
-- type: page
-  from_url: /070-project-management/contract-expiration-tracking/
+  type: page
+- from_url: /070-project-management/contract-expiration-tracking/
   to_url: /practice-areas/project-management/contract-expiration-tracking/
-
-- type: page
-  from_url: /070-project-management/contractual-requirements/
+  type: page
+- from_url: /070-project-management/contractual-requirements/
   to_url: /practice-areas/project-management/contractual-requirements/
-
-- type: page
-  from_url: /060-engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
+  type: page
+- from_url: /060-engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
   to_url: /practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
-
-- type: page
-  from_url: /060-engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source/
+  type: page
+- from_url: /060-engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source/
   to_url: /practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source/
-
-- type: page
-  from_url: /050-how-we-work/diversity-equity-inclusion/ops/
+  type: page
+- from_url: /050-how-we-work/diversity-equity-inclusion/ops/
   to_url: /about-civicactions/diversity-equity-inclusion/deia-get-involved/
-
-- type: page
-  from_url: /070-project-management/pm-unanet-tasks/
+  type: page
+- from_url: /070-project-management/pm-unanet-tasks/
   to_url: /practice-areas/project-management/pm-unanet-tasks/
-
-- type: page
-  from_url: /070-project-management/project-management-checklists/
+  type: page
+- from_url: /070-project-management/project-management-checklists/
   to_url: /practice-areas/project-management/project-management-checklists/
-
-- type: page
-  from_url: /070-project-management/growth-mindset/
+  type: page
+- from_url: /070-project-management/growth-mindset/
   to_url: /practice-areas/project-management/growth-mindset/
-
-- type: page
-  from_url: /03-policies/anti-harassment-policies/
+  type: page
+- from_url: /03-policies/anti-harassment-policies/
   to_url: /company-policies/anti-harassment-policies/
-
-- type: page
-  from_url: /03-policies/compensation/
+  type: page
+- from_url: /03-policies/compensation/
   to_url: /employee-benefits/us-compensation/
-
-- type: page
-  from_url: /03-policies/employment/
+  type: page
+- from_url: /03-policies/employment/
   to_url: /company-policies/employment/us/employment/
-
-- type: page
-  from_url: /030-policies/anti-harassment-policies/
+  type: page
+- from_url: /030-policies/anti-harassment-policies/
   to_url: /company-policies/anti-harassment-policies/
-
-- type: page
-  from_url: /04-how-we-work/agile-practices/.template/
+  type: page
+- from_url: /04-how-we-work/agile-practices/.template/
   to_url: /practice-areas/project-management/templates/
-
-- type: page
-  from_url: /04-how-we-work/agile-practices/template/
+  type: page
+- from_url: /04-how-we-work/agile-practices/template/
   to_url: /practice-areas/project-management/templates/
-
-- type: page
-  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Defining-DEI/
+  type: page
+- from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Defining-DEI/
   to_url: /about-civicactions/diversity-equity-inclusion/defining-dei/
-
-- type: page
-  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/
+  type: page
+- from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/
   to_url: /about-civicactions/diversity-equity-inclusion/deia-get-involved/
-
-- type: page
-  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Purpose/
+  type: page
+- from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Purpose/
   to_url: /about-civicactions/diversity-equity-inclusion/purpose/
-
-- type: page
-  from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Resources/
+  type: page
+- from_url: /04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/Resources/
   to_url: /about-civicactions/diversity-equity-inclusion/resources/
-
-- type: page
-  from_url: /04-how-we-work/tools/harvest-forecast/
+  type: page
+- from_url: /04-how-we-work/tools/harvest-forecast/
   to_url: /company-policies/timesheets/
-
-- type: page
-  from_url: /04-how-we-work/tools/harvest/
+  type: page
+- from_url: /04-how-we-work/tools/harvest/
   to_url: /company-policies/timesheets/
-
-- type: page
-  from_url: /04-how-we-work/tools/harvest/
+  type: page
+- from_url: /04-how-we-work/tools/harvest/
   to_url: /company-policies/timesheets/
-
-- type: page
-  from_url: /050-how-we-work/tools/harvest-forecast/
+  type: page
+- from_url: /050-how-we-work/tools/harvest-forecast/
   to_url: /company-policies/timesheets/
-
-- type: page
-  from_url: /050-how-we-work/tools/harvest/
+  type: page
+- from_url: /050-how-we-work/tools/harvest/
   to_url: /company-policies/timesheets/
-
-- type: page
-  from_url: /06-project-management/
+  type: page
+- from_url: /06-project-management/
   to_url: /practice-areas/project-management/
-
-- type: page
-  from_url: /06-project-management/offboarding-contractor-from-project/
+  type: page
+- from_url: /06-project-management/offboarding-contractor-from-project/
   to_url: /practice-areas/project-management/project-offboarding/
-
-- type: page
-  from_url: /06-project-management/pto-request-approval-process/
+  type: page
+- from_url: /06-project-management/pto-request-approval-process/
   to_url: /practice-areas/project-management/leave-requests-and-stepping-away/
-
-- type: page
-  from_url: /070-project-management/pto-request-approval-process/
+  type: page
+- from_url: /070-project-management/pto-request-approval-process/
   to_url: /practice-areas/project-management/leave-requests-and-stepping-away/
-
-- type: page
-  from_url: /10-ux/services/design/content-modeling-guide/
+  type: page
+- from_url: /10-ux/services/design/content-modeling-guide/
   to_url: /practice-areas/design-and-research/content-modeling-guide/
+  type: page
+- from_url: /about-civicactions/background-and-history/
+  to_url: /about-civicactions/README/
+  type: page
