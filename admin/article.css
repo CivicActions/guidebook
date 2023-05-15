@@ -1,0 +1,149 @@
+/* Simplified absolute version of article styles from Material Mkdocs CSS */
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+hr,
+blockquote,
+td,
+th {
+  font-family:
+    "Roboto",
+    -apple-system,
+    BlinkMacSystemFont,
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-feature-settings: "kern", "liga";
+  -webkit-font-smoothing: antialiased;
+  -webkit-print-color-adjust: exact;
+  box-sizing: inherit;
+  text-size-adjust: none;
+  line-height: 1.6;
+  font-size: 16px;
+  color: #000000de;
+}
+
+/* Hide the page title, but not the top level heading */
+div.frame-content > div:first-child > div:first-child > div:first-child > h1 {
+  display: none;
+}
+
+h1 {
+  color: #0000008a;
+  font-size: 32px;
+  line-height: 1.3;
+  margin: 0 0 1.25em;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  font-size: 25px;
+  line-height: 1.4;
+  margin: 1.6em 0 0.64em;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.5;
+  margin: 1.6em 0 0.8em;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 1em 0;
+}
+
+h5 {
+  color: #0000008a;
+  font-size: 12.8px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 1.25em 0;
+  text-transform: uppercase;
+}
+
+h6 {
+  color: #0000008a;
+  font-size: 12.8px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 1.25em 0;
+}
+
+blockquote {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  color: #0000008a;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0.6rem;
+  border-left: 0.2rem solid #00000052;
+}
+
+li {
+  margin-bottom: 0.5em;
+  margin-left: 1.25em;
+}
+
+hr {
+  border: 0;
+  box-sizing: initial;
+  height: 0.05rem;
+  overflow: visible;
+  padding: 0;
+  border-bottom: 0.05rem solid #00000012;
+  display: flow-root;
+  margin: 1.5em 0;
+}
+
+th,
+td {
+  border-collapse: initial;
+  border-spacing: 0;
+  text-align: left;
+  font-weight: 400;
+  vertical-align: top;
+}
+
+td {
+  border-top: 0.05rem solid #0000001f;
+  padding: 0.9375em 1.25em;
+}
+
+code {
+  line-height: 1.4;
+  font-feature-settings: "kern";
+  font-family: "Roboto Mono", SFMono-Regular, Consolas, Menlo, monospace;
+  color: #36464e;
+  direction: ltr;
+  font-variant-ligatures: none;
+  background-color: #f5f5f5;
+  border-radius: 0.1rem;
+  font-size: 13.6px;
+  transition:
+    color 125ms,
+    background-color 125ms;
+  -webkit-box-decoration-break: slice;
+  box-shadow: none;
+  display: block;
+  margin: 0;
+  overflow: auto;
+  padding: 0.7720588235em 1.1764705882em;
+  touch-action: auto;
+  word-break: normal;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
