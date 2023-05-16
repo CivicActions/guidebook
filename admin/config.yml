@@ -1,11 +1,15 @@
+site_url: https://guidebook.civicactions.com
+logo_url: https://guidebook.civicactions.com/en/latest/assets/images/full_logo_red.svg
 backend:
   name: github
   repo: civicactions/guidebook
   branch: master
   base_url: https://v1.netlify-oauth.app.civicactions.net
+  cms_label_prefix: decap/
 publish_mode: editorial_workflow
 media_folder: "assets/images"
 collections:
+  # The &base defines this as a template element, reused with *base below to reduce duplication.
   - &base
     name: "about-civicactions"
     folder: "about-civicactions"
@@ -14,11 +18,6 @@ collections:
     create: true
     nested:
       depth: 100
-    meta:
-      path:
-        widget: string
-        label: "Path"
-        index_file: "README"
     fields:
       - label: "Title"
         name: "title"

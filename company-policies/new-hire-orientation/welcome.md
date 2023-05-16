@@ -15,7 +15,7 @@ There are topics in this document that require more detail on how we implement p
 ### Learn more about CivicActions
 
 -   [Mission and Values](../../about-civicactions/mission-values.md)
--   [Background and History](../../about-civicactions/background-and-history.md)
+-   [Background and History](../../about-civicactions/README.md)
 
 ## Onboarding process
 
