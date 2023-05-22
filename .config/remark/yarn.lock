@@ -1999,10 +1999,10 @@ remark-lint-table-pipe-alignment@^3.0.0, remark-lint-table-pipe-alignment@^3.1.1
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-table-pipes@^4.0.0, remark-lint-table-pipes@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-table-pipes/-/remark-lint-table-pipes-4.1.1.tgz#8a9badb0daed86d561db681c150966549eb8528d"
-  integrity sha512-mJnB2FpjJTE4s9kE1JX8gcCjCFvtGPjzXUiQy0sbPHn2YM9EWG7kvFWYoqWK4w569CEQJyxZraEPltmhDjQTjg==
+remark-lint-table-pipes@^4.0.0, remark-lint-table-pipes@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-pipes/-/remark-lint-table-pipes-4.1.2.tgz#abdd6f9c4be7f7575a3054d06d57d8534b596ccf"
+  integrity sha512-Ex2cJDXA0hdD9CC5Nu0p3K5LP+AhzPvk4sIOSbevCTSRyCS/SkNk4CQ6pwWBxuPVuHQUkqXkT8lgu8wwr/9A3A==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
