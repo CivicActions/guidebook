@@ -1615,10 +1615,10 @@ remark-lint-no-auto-link-without-protocol@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-blockquote-without-marker@^5.0.0, remark-lint-no-blockquote-without-marker@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-blockquote-without-marker/-/remark-lint-no-blockquote-without-marker-5.1.1.tgz#e07233866a742c41368886663d7caebbdebb1074"
-  integrity sha512-7jL7eKS25kKRhQ7SKKB5eRfNleDMWKWAmZ5Y/votJdDoM+6qsopLLumPWaSzP0onyV3dyHRhPfBtqelt3hvcyA==
+remark-lint-no-blockquote-without-marker@^5.0.0, remark-lint-no-blockquote-without-marker@^5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-blockquote-without-marker/-/remark-lint-no-blockquote-without-marker-5.1.2.tgz#647de3297d8bca29e6591a2ba24ba50a8d711a9c"
+  integrity sha512-QPbqsrt7EfpSWqTkZJ9tepabPIhBDlNqZkuxxMQYD0OQ2N+tHDUq3zE1JxI5ts1V9o/mWApgySocqGd3jlcKmQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
