@@ -1506,10 +1506,10 @@ remark-lint-heading-increment@^3.0.0, remark-lint-heading-increment@^3.1.1:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-heading-style@^3.0.0, remark-lint-heading-style@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-heading-style/-/remark-lint-heading-style-3.1.1.tgz#19e321db9dc6c697f3ef8bf514a8b15323422776"
-  integrity sha512-Qm7ZAF+s46ns0Wo5TlHGIn/PPMMynytn8SSLEdMIo6Uo/+8PAcmQ3zU1pj57KYxfyDoN5iQPgPIwPYMLYQ2TSQ==
+remark-lint-heading-style@^3.0.0, remark-lint-heading-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-heading-style/-/remark-lint-heading-style-3.1.2.tgz#62a191d14889be41d8cc8c8e0a150b6249d74286"
+  integrity sha512-0RkcRPV/H2bPFgeInzBkK1cWUwtFTm83I+Db/Z5tDY02GzKOosHLvxtJyj/1391/opAH1LYbHtHWffir99IUgw==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-heading-style "^2.0.0"
