@@ -1442,10 +1442,10 @@ remark-lint-fenced-code-marker@^3.0.0, remark-lint-fenced-code-marker@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-file-extension@^2.0.0, remark-lint-file-extension@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-file-extension/-/remark-lint-file-extension-2.1.1.tgz#780ef3c3a2e5713a44f82f24eb45e075ce9ba428"
-  integrity sha512-r6OMe27YZzr2NFjPMbBxgm8RZxigRwzeFSjapPlqcxk0Q0w/6sosJsceBNlGGlk00pltvv7NPqSexbXUjirrQQ==
+remark-lint-file-extension@^2.0.0, remark-lint-file-extension@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-file-extension/-/remark-lint-file-extension-2.1.2.tgz#691aad28b9002107c3dc78d29fbbd62fc3d650a3"
+  integrity sha512-Nq54F5R7F1gyj/IMW6SvkAbVNrH+p38WK3//KCoZLDUYFrH0oXgXXFGHi9CT/O0VEopW+bWJfTn8YAJRs0qI5Q==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
