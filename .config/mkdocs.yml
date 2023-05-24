@@ -53,6 +53,7 @@ nav:
           - company-policies/new-hire-orientation/video-call-best-practices.md
           - company-policies/new-hire-orientation/virtual-workplace-basics.md
   - Our practices and tools:
+      - common-practices-tools/README.md
       - Agile:
           - common-practices-tools/agile/agile-overview.md
           - common-practices-tools/agile/agile-practices.md
