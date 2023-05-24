@@ -3,6 +3,7 @@ nav:
   - Home: README.md
   - About us:
       - about-civicactions/README.md
+      - Background: about-civicactions/README.md
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
