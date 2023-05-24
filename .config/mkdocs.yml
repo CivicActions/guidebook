@@ -97,7 +97,7 @@ nav:
           - common-practices-tools/software-and-support/zoom.md
       - common-practices-tools/telephone.md
   - Practice areas:
-      - practice-areas/about-practice-areas.md
+      - practice-areas/README.md
       - Accessibility:
           - practice-areas/accessibility/accessibility-practice-area.md
           - practice-areas/accessibility/accessibility-how-to.md
