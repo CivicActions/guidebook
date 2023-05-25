@@ -3,6 +3,7 @@ nav:
   - Home: README.md
   - About us:
       - about-civicactions/README.md
+      - Background: about-civicactions/README.md
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
@@ -98,7 +99,7 @@ nav:
           - common-practices-tools/software-and-support/zoom.md
       - common-practices-tools/telephone.md
   - Practice areas:
-      - practice-areas/about-practice-areas.md
+      - practice-areas/README.md
       - Accessibility:
           - practice-areas/accessibility/accessibility-practice-area.md
           - practice-areas/accessibility/accessibility-how-to.md

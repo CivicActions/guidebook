@@ -481,3 +481,6 @@
 - from_url: /about-civicactions/background-and-history/
   to_url: /about-civicactions/
   type: page
+- from_url: /practice-areas/about-practice-areas/
+  to_url: /practice-areas/
+  type: page
