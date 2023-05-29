@@ -53,4 +53,4 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 
 ## Practice Area Meetings
 
-These meetings happen at regular intervals, and you will receive invitations for the ones most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../practice-areas/about-practice-areas.md).
+These meetings happen at regular intervals, and you will receive invitations for the ones most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../practice-areas/README.md).
