@@ -1530,10 +1530,10 @@ remark-lint-link-title-style@^3.0.0, remark-lint-link-title-style@^3.1.1:
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-list-item-bullet-indent@^4.0.0, remark-lint-list-item-bullet-indent@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-list-item-bullet-indent/-/remark-lint-list-item-bullet-indent-4.1.1.tgz#1ff4498b680bb4a8ce94a4192a1b52eca4c9fe48"
-  integrity sha512-NFvXVj1Nm12+Ma48NOjZCGb/D0IhmUcxyrTCpPp+UNJhEWrmFxM8nSyIiZgXadgXErnuv+xm2Atw7TAcZ9a1Cg==
+remark-lint-list-item-bullet-indent@^4.0.0, remark-lint-list-item-bullet-indent@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-bullet-indent/-/remark-lint-list-item-bullet-indent-4.1.2.tgz#20f0d147e2670956d7e09c8ed5b81212cc9c1f2f"
+  integrity sha512-WgU5nooqIEm6f35opcbHKBzWrdFJA3XcyTfB3nv/v0KX43/h6qFGmmMJ5kEiaFExuQp3dZSdatWuY0YZ9YRbUg==
   dependencies:
     "@types/mdast" "^3.0.0"
     pluralize "^8.0.0"
