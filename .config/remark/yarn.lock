@@ -1741,10 +1741,10 @@ remark-lint-no-file-name-mixed-case@^2.0.0, remark-lint-no-file-name-mixed-case@
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-no-file-name-outer-dashes@^2.0.0, remark-lint-no-file-name-outer-dashes@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-outer-dashes/-/remark-lint-no-file-name-outer-dashes-2.1.1.tgz#d0956441d1df6fb0a04a0efd375a739729fe5213"
-  integrity sha512-2kRcVNzZb0zS3jE+Iaa6MEpplhqXSdsHBILS+BxJ4cDGAAIdeipY8hKaDLdZi+34wvrfnDxNgvNLcHpgqO+OZA==
+remark-lint-no-file-name-outer-dashes@^2.0.0, remark-lint-no-file-name-outer-dashes@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-outer-dashes/-/remark-lint-no-file-name-outer-dashes-2.1.2.tgz#452cdcbebaed68359a9e87a973d37a74f1c0db09"
+  integrity sha512-VrbHg25Oo9k/bNbS7ye1X7F6ER4uZSubO+t5DHJ4WZ6iVbNtBar/JwzVelY1YxUAutv42OvHfuveh4vKlcNgVA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
