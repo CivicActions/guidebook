@@ -17,7 +17,7 @@ title: Design and research methods
 
 ## Design methods
 
--   [Content modeling](content-modeling-guide.md)
+-   Content modeling
 -   Content templates
 -   Content type definitions
 -   Architecture (IA) sketches
