@@ -1,33 +1,39 @@
 ---
-title: Design and research methods
+title: Our design team principles
 ---
 
-## Research methods
+# Our design team principles
 
--   [Audiences and outcomes](audiences-and-outcomes-guide.md)
--   [Stakeholder interviews](stakeholder-interviews-guide.md)
--   [Content audit](content-audit-guide.md)
--   [User personas](user-personas-guide.md)
--   [Story mapping](story-mapping-guide.md)
--   Journey mapping
--   Story conversations
--   Use cases and user scenarios
--   [Usability testing](usability-testing-guide.md)
--   Comparative analysis
+## We start with discovery, not solutions
+We begin by listening
 
-## Design methods
+We make every effort to design proactively, not reactively
 
--   Content modeling
--   Content templates
--   Content type definitions
--   Architecture (IA) sketches
--   UI sketches/storyboards
--   Prototyping/wireframing
--   Design patterns
+We believe in incremental experimentation through iteration
 
-## Validation methods
+We explore solutions through research, best practices and equitable, accessible design approaches
 
--   [Usability testing](usability-testing-guide.md)
--   Surveys
--   Card sorting
--   A/B Testing
+## We approach our work with authentic empathy
+We acknowledge each other's whole self
+
+We can show care for others when we show care for ourselves
+
+We acknowledge that we all work in different ways and we respect diversity in thought, approach, and execution
+
+
+## Good enough should not be our default
+We strive to fix what is broken
+
+We advocate for, and educate others, on design best practices
+
+We seek to find solutions for all of humanity, not just a subset of users
+
+We have a growth mindset that is open to constructive feedback
+
+## We achieve through imagination and iteration
+We push ourselves and each other to go beyond what we think we’re capable of
+
+We know that success requires collaboration and teamwork
+
+We use metrics to gauge impact and guide decisions
+
