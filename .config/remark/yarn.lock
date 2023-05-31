@@ -1590,10 +1590,10 @@ remark-lint-maximum-heading-length@^3.0.0, remark-lint-maximum-heading-length@^3
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-maximum-line-length@^3.0.0, remark-lint-maximum-line-length@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-3.1.2.tgz#4c5c499279c80938878194d4e52102525b7a9e1b"
-  integrity sha512-KwddpVmNifTHNXwTQQgVufuUvv0hhu9kJVvmpNdEvfEc7tc3wBkaavyi3kKsUB8WwMhGtZuXVWy6OdPC1axzhw==
+remark-lint-maximum-line-length@^3.0.0, remark-lint-maximum-line-length@^3.1.3:
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-3.1.3.tgz#9299a5282ba74c4937443c5267dcb473b7bff97c"
+  integrity sha512-TA7IE+0c8agRm1k7JZr7ZZFiL44JMBAj1KlMxSTACBuebdPJe7IPaLIQga10bnz75jfWMzSiRURMFHo4lt3kdw==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1694,10 +1694,10 @@ remark-lint-no-emphasis-as-heading@^3.0.0, remark-lint-no-emphasis-as-heading@^3
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-empty-url@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-empty-url/-/remark-lint-no-empty-url-3.1.1.tgz#d3c69af4ec6ccd883e55ae7e0ea5f14efd2378b0"
-  integrity sha512-zxIkDMggf6R/NCDkYAsaVHaFhklkp6WvV/wdeJAzT3BverGFnM8QIHUAv8YIQvCGqYWov275SVN1eu81DoU95g==
+remark-lint-no-empty-url@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-empty-url/-/remark-lint-no-empty-url-3.1.2.tgz#1ef952b79ef6ee699d23f649116babf53e969d8a"
+  integrity sha512-uu1ka/jNC5fQlLb1tKp3NLfb/0DpS9vLMmxJ8JU7iC8AurMTpI8yk/rpHr3NHz59pfGWboHjXOCE8n6q55VENw==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1741,10 +1741,10 @@ remark-lint-no-file-name-mixed-case@^2.0.0, remark-lint-no-file-name-mixed-case@
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-no-file-name-outer-dashes@^2.0.0, remark-lint-no-file-name-outer-dashes@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-outer-dashes/-/remark-lint-no-file-name-outer-dashes-2.1.1.tgz#d0956441d1df6fb0a04a0efd375a739729fe5213"
-  integrity sha512-2kRcVNzZb0zS3jE+Iaa6MEpplhqXSdsHBILS+BxJ4cDGAAIdeipY8hKaDLdZi+34wvrfnDxNgvNLcHpgqO+OZA==
+remark-lint-no-file-name-outer-dashes@^2.0.0, remark-lint-no-file-name-outer-dashes@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-outer-dashes/-/remark-lint-no-file-name-outer-dashes-2.1.2.tgz#452cdcbebaed68359a9e87a973d37a74f1c0db09"
+  integrity sha512-VrbHg25Oo9k/bNbS7ye1X7F6ER4uZSubO+t5DHJ4WZ6iVbNtBar/JwzVelY1YxUAutv42OvHfuveh4vKlcNgVA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
