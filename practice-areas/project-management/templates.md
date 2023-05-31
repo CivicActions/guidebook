@@ -93,6 +93,8 @@ Another template requiring close collaboration with Program Management and Sales
 
 [Mod/ Pricing justification](https://docs.google.com/document/d/1Dlg2fVL9OEsllQvLt42Wetmq3_2oI35GdKM1mIN3gVo/edit)
 
+[Mod/ Pricing justification: Another option](https://docs.google.com/document/d/1lO7pivRJIACYzJs-5GaKmwsdoGBLOfEZHkxhtAeheXk/edit)
+
 ## Monthly status report
 
 A guiding document to build Monthly status reports (aka MSRs) within CivicActions branding.
