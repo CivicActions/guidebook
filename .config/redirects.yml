@@ -310,9 +310,6 @@
 - from_url: /110-ux/services/research/content-audit-guide/
   to_url: /practice-areas/design-and-research/content-audit-guide/
   type: page
-- from_url: /110-ux/services/design/content-modeling-guide/
-  to_url: /practice-areas/design-and-research/content-modeling-guide/
-  type: page
 - from_url: /110-ux/services/research/stakeholder-interviews-guide/
   to_url: /practice-areas/design-and-research/stakeholder-interviews-guide/
   type: page
@@ -475,12 +472,12 @@
 - from_url: /070-project-management/pto-request-approval-process/
   to_url: /practice-areas/project-management/leave-requests-and-stepping-away/
   type: page
-- from_url: /10-ux/services/design/content-modeling-guide/
-  to_url: /practice-areas/design-and-research/content-modeling-guide/
-  type: page
 - from_url: /about-civicactions/background-and-history/
   to_url: /about-civicactions/
   type: page
 - from_url: /practice-areas/about-practice-areas/
   to_url: /practice-areas/
+  type: page
+- from_url: /practice-areas/design-and-research/design-research-methods
+  to_url: /practice-areas/design-and-research/
   type: page
