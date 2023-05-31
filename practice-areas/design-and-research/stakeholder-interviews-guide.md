@@ -2,7 +2,7 @@
 title: Stakeholder interviews guide
 ---
 
-# Stakeholder Interviews Guide
+# Stakeholder interviews guide
 
 ## What it is
 
@@ -47,7 +47,7 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 -   Document the interviews (some designer-researchers transcribe the interviews) and share with the team
 -   Use the learnings from interviews to inform next steps (journey mapping, story mapping, prototyping, design studio, etc.)
 
-## Sample Questions
+## Sample questions
 
 -   What is your role in this project / with respect to this product?
 -   What did you do before this?
@@ -61,10 +61,8 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 -   Is there anyone you think we need to speak with who isn't on our list? Who?
 -   How would you like to be involved in the rest of the project, and what's the best way to reach you?
 
-## Recommended Reading
+## Recommended reading
 
 -   [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/), from _Boxes and Arrows_
 -   [Build empathy with stakeholder interviews, part 1: Preparation](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/), by Andrew Maier from 18F
 -   [Build empathy with stakeholder interviews, part 2: Conversation](https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/), by Andrew Maier from 18F
-
-## Examples
