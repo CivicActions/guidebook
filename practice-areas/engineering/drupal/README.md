@@ -2,11 +2,11 @@
 title: Drupal practice area
 ---
 
-# Drupal Practice Area
+# Drupal practice area
 
-Drupal is a CivicActions engineering-focused [Practice Areas](../../../README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
+Drupal is a CivicActions engineering-focused [practice areas](../../../README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
 
-## Drupal Practice Area Calls
+## Drupal practice area calls
 
 To be invited to the monthly call, please post a message in the Slack channel and one of your colleagues will add you. You can also find the call on our CivicActions (Primary) calendar.
 
@@ -16,7 +16,7 @@ The monthly meeting itself is normally scheduled early in the month and follows 
 
 We add agenda items and notes to this document: [2023 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/16c_ors3wOMv68e7_R6OadjBIgPFWA_Ty6ux8xt6zqqw/edit#) to structure our conversations.
 
-## Drupal Practice Area OKRs
+## Drupal practice area OKRs
 
 CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: [Measure What Matters](https://www.whatmatters.com/the-book)
 
@@ -25,7 +25,7 @@ We are still in the process of optimizing our OKR practices. That said, Drupal p
 -   [Trello board](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
 -   [Culture amp](https://civicactions.cultureamp.com/performance/new_goals/department)
 
-## Skillsbase: Complete a self-assessment of your Drupal skills
+## Skillsbase: complete a self-assessment of your Drupal skills
 
 Please complete a skills assessment as part of your onboarding to the Drupal practice area if you have not done so.
 
