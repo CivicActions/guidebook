@@ -34,7 +34,7 @@ nav:
       - company-policies/security.md
       - Employment policies (US employees):
           - Employment: company-policies/README.md
-          - company-policies/employment/us/employment.md
+          - company-policies/employment/us/README.md
           - company-policies/employment/us/introductory-period.md
           - company-policies/anti-harassment-policies.md
           - company-policies/covid19-safety.md

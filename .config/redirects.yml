@@ -484,3 +484,6 @@
 - from_url: /employee-benefits/us-benefits-policy/
   to_url: /employee-benefits/
   type: page
+- from_url: /company-policies/employment/us/employment/
+  to_url: /company-policies/employment/us/
+  type: page
