@@ -304,24 +304,6 @@
 - from_url: /050-how-we-work/practice-areas/accessibility-practice-area/
   to_url: /practice-areas/accessibility/accessibility-practice-area/
   type: page
-- from_url: /110-ux/services/research/audiences-and-outcomes-guide/
-  to_url: /practice-areas/design-and-research/audiences-and-outcomes-guide/
-  type: page
-- from_url: /110-ux/services/research/content-audit-guide/
-  to_url: /practice-areas/design-and-research/content-audit-guide/
-  type: page
-- from_url: /110-ux/services/research/stakeholder-interviews-guide/
-  to_url: /practice-areas/design-and-research/stakeholder-interviews-guide/
-  type: page
-- from_url: /110-ux/services/research/story-mapping-guide/
-  to_url: /practice-areas/design-and-research/story-mapping-guide/
-  type: page
-- from_url: /110-ux/services/research/usability-testing-guide/
-  to_url: /practice-areas/design-and-research/usability-testing-guide/
-  type: page
-- from_url: /110-ux/services/research/user-personas-guide/
-  to_url: /practice-areas/design-and-research/user-personas-guide/
-  type: page
 - from_url: /060-engineering/accessibility/
   to_url: /practice-areas/engineering/accessibility/
   type: page
