@@ -108,9 +108,9 @@ nav:
       - Engineering:
           - practice-areas/engineering/engineering-calls.md
           - practice-areas/engineering/accessibility.md
-          - practice-areas/engineering/drupal-practice-area.md
-          - practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
-          - practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
+          - practice-areas/engineering/drupal/README.md
+          - practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+          - practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - practice-areas/engineering/git.md
           - practice-areas/engineering/security-compliance.md
           - Tech Lead:
