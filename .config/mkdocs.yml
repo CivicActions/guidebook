@@ -33,7 +33,7 @@ nav:
       - company-policies/timesheets.md
       - company-policies/security.md
       - Employment policies (US employees):
-          - Employment: company-policies/README.md
+          - Employment: company-policies/employment/us/README.md
           - company-policies/employment/us/README.md
           - company-policies/employment/us/introductory-period.md
           - company-policies/anti-harassment-policies.md
