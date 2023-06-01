@@ -3,6 +3,7 @@ nav:
   - Home: README.md
   - About us:
       - about-civicactions/README.md
+      - Background: about-civicactions/README.md
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
@@ -55,6 +56,7 @@ nav:
   - Policies:
       - policies/README.md
   - Our practices and tools:
+      - common-practices-tools/README.md
       - Agile:
           - common-practices-tools/agile/agile-overview.md
           - common-practices-tools/agile/agile-practices.md
@@ -99,19 +101,12 @@ nav:
           - common-practices-tools/software-and-support/zoom.md
       - common-practices-tools/telephone.md
   - Practice areas:
-      - practice-areas/about-practice-areas.md
+      - practice-areas/README.md
       - Accessibility:
           - practice-areas/accessibility/accessibility-practice-area.md
           - practice-areas/accessibility/accessibility-how-to.md
       - Design and research:
-          - practice-areas/design-and-research/design-research-methods.md
-          - practice-areas/design-and-research/audiences-and-outcomes-guide.md
-          - practice-areas/design-and-research/content-audit-guide.md
-          - practice-areas/design-and-research/content-modeling-guide.md
-          - practice-areas/design-and-research/stakeholder-interviews-guide.md
-          - practice-areas/design-and-research/story-mapping-guide.md
-          - practice-areas/design-and-research/usability-testing-guide.md
-          - practice-areas/design-and-research/user-personas-guide.md
+          - practice-areas/design-and-research/README.md
       - Engineering:
           - practice-areas/engineering/engineering-calls.md
           - practice-areas/engineering/accessibility.md

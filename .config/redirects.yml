@@ -304,27 +304,6 @@
 - from_url: /050-how-we-work/practice-areas/accessibility-practice-area/
   to_url: /practice-areas/accessibility/accessibility-practice-area/
   type: page
-- from_url: /110-ux/services/research/audiences-and-outcomes-guide/
-  to_url: /practice-areas/design-and-research/audiences-and-outcomes-guide/
-  type: page
-- from_url: /110-ux/services/research/content-audit-guide/
-  to_url: /practice-areas/design-and-research/content-audit-guide/
-  type: page
-- from_url: /110-ux/services/design/content-modeling-guide/
-  to_url: /practice-areas/design-and-research/content-modeling-guide/
-  type: page
-- from_url: /110-ux/services/research/stakeholder-interviews-guide/
-  to_url: /practice-areas/design-and-research/stakeholder-interviews-guide/
-  type: page
-- from_url: /110-ux/services/research/story-mapping-guide/
-  to_url: /practice-areas/design-and-research/story-mapping-guide/
-  type: page
-- from_url: /110-ux/services/research/usability-testing-guide/
-  to_url: /practice-areas/design-and-research/usability-testing-guide/
-  type: page
-- from_url: /110-ux/services/research/user-personas-guide/
-  to_url: /practice-areas/design-and-research/user-personas-guide/
-  type: page
 - from_url: /060-engineering/accessibility/
   to_url: /practice-areas/engineering/accessibility/
   type: page
@@ -475,9 +454,12 @@
 - from_url: /070-project-management/pto-request-approval-process/
   to_url: /practice-areas/project-management/leave-requests-and-stepping-away/
   type: page
-- from_url: /10-ux/services/design/content-modeling-guide/
-  to_url: /practice-areas/design-and-research/content-modeling-guide/
-  type: page
 - from_url: /about-civicactions/background-and-history/
   to_url: /about-civicactions/
+  type: page
+- from_url: /practice-areas/about-practice-areas/
+  to_url: /practice-areas/
+  type: page
+- from_url: /practice-areas/design-and-research/design-research-methods
+  to_url: /practice-areas/design-and-research/
   type: page

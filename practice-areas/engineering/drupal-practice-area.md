@@ -4,7 +4,7 @@ title: Drupal practice area
 
 # Drupal Practice Area
 
-Drupal is a CivicActions engineering-focused [Practice Areas](../about-practice-areas.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
+Drupal is a CivicActions engineering-focused [Practice Areas](../README.md). We use the [#engineering-drupal](https://civicactions.slack.com/archives/C0ASJ7C8P) Slack channel and have monthly calls.
 
 ## Drupal Practice Area Calls
 
