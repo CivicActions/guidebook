@@ -24,7 +24,6 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 -   [Reviewing and approving expenses](https://docs.google.com/document/d/1fTwAs9OPKvqHwaH6bABaQUnvDpnULXpHX4HcgE3v0Tc/edit)
 -   [Running reports: Plans vs Actuals](https://docs.google.com/document/d/1yIcQsi_vCIiK1iqd3r-UBiqmv5s5XDnIhjJqw6MA8xo/edit)
 -   [Running reports: Planned Utilization](https://docs.google.com/document/d/1RGX5hP_nFFi9gEdUnWKqvyBMmKaRsjF251Esn3CuHgU/edit)
-   
 
 ## Adjust projections for holidays or other OOO
 
