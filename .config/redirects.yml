@@ -474,6 +474,7 @@
   type: page
 - from_url: /practice-areas/accessibility/accessibility-practice-area/
   to_url: /practice-areas/accessibility/
+  type: page
 - from_url: /about-civicactions/diversity-equity-inclusion/purpose/
   to_url: /about-civicactions/diversity-equity-inclusion/
   type: page
