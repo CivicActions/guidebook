@@ -51,7 +51,7 @@ There are many [definitions for accessibility](https://en.wikipedia.org/wiki/Soc
 ### What we're doing to support an accessible team culture
 
 -   [Accessibility is part of our company culture](../culture.md#accessibility)
--   CivicActions has an [Accessibility Practice Area](../../practice-areas/accessibility/accessibility-practice-area.md) and a [dedicated sub-site](https://accessibility.civicactions.com/)
+-   CivicActions has an [Accessibility Practice Area](../../practice-areas/accessibility/README.md) and a [dedicated sub-site](https://accessibility.civicactions.com/)
 -   All new staff are given onboarding on accessibility issues when they join the company
 -   We are finding ways to think more about accessibility barriers in our hiring process and internal communications
 -   Our team is encouraged to contribute and incorporate accessibility into their work
