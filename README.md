@@ -39,7 +39,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
     How to get reimbursed for business expenses
 
-    [:octicons-arrow-right-24: Out-of-pocket expenses](company-policies/expenses.md)
+    [:octicons-arrow-right-24: Out-of-pocket expenses](company-policies/README.md)
 
 </div>
 

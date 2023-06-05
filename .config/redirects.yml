@@ -475,3 +475,6 @@
 - from_url: /practice-areas/accessibility/accessibility-practice-area/
   to_url: /practice-areas/accessibility/
   type: page
+- from_url: /company-policies/expenses/
+  to_url: /company-policies/
+  type: page

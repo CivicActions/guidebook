@@ -33,7 +33,7 @@ Many staff at CivicActions are disciplined in keeping track of their hours or ar
 
 Request and Track expenses in Unanet, view instructions [here](https://docs.google.com/presentation/d/1IEl3c8pOAYz5KNM4tVDemjvx5O-5m5WF21r4saANsFw/edit#slide=id.gce6299faa9_0_9)
 
-Before you incur or track expenses be sure to get approval as described in the [expense policy](expenses.md).
+Before you incur or track expenses be sure to get approval as described in the [expense policy](README.md).
 
 Billable expenses are when a cost can be passed back through to the client. This is usually only the case when the client has an approved budget for travel or other costs. Your project manager will be able to answer questions per project if you are not sure about the cost being billable or not.
 

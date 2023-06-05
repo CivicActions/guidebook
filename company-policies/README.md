@@ -14,7 +14,7 @@ Expense reports must be submitted via from your Unanet Homepage under Expense - 
 ## Request approval for an expense
 
 <!-- prettier-ignore -->
-_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](../employee-benefits/professional-development.md#your-prodev-budget), which do not require approval.
+_Before incurring an expense_ the cost should be estimated and approved by your manager. The exception to this is [prodev expenses of less than $50](../employee-benefits/professional-development.md), which do not require approval.
 
 ## To request approval in Unanet
 

@@ -27,7 +27,7 @@ nav:
       - employee-benefits/employee-referral-bonus.md
       - employee-benefits/on-call-stipend.md
   - Company policies:
-      - company-policies/expenses.md
+      - company-policies/README.md
       - company-policies/travel-time-tracking-and-expenses.md
       - company-policies/timesheets.md
       - company-policies/security.md
