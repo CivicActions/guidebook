@@ -2,11 +2,9 @@
 title: Unanet tasks and training material
 ---
 
-# Project Management: Unanet Tasks and Training Materials
+# Project Management: Unanet tasks and training materials
 
-## Introduction
-
-Unanet is an enterprise resource planning (ERP) system that CivicActions leverages for time tracking, planning, forecasting and accounting. As a project lead, you're responsible for the following Unanet tasks:
+Unanet is an enterprise resource planning (ERP) system that CivicActions leverages for time tracking, planning, forecasting, and accounting. As a project lead, you're responsible for the following Unanet tasks:
 
 1. People planning and assignments
 2. Adjusting projections for holidays or other OOO
@@ -16,7 +14,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
     - Plans v Actuals
     - Planned Utilization
 
-## Key Unanet Tasks for a project lead
+## Key Unanet tasks for a project lead
 
 -   [People planning and assignments (aka Plan with Grid)](https://docs.google.com/document/d/1716yCGd4K6zEtS1MN4Nsxk4MqwFKDcddc6F77UXgY3M/edit)
 -   [People planning and assignments by Day (aka Plan with Grid by Day)](https://docs.google.com/document/d/1KqkkKJSOQk_g1a0UA5n3bLAm4yMvoOgkRsPgKVtD-5g/edit)
@@ -27,7 +25,7 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 
 ## Adjust projections for holidays or other OOO
 
-In general, resource allocations can be expected using the following rations:
+In general, resource allocations can be expected using the following ratios:
 
 1. If a FT resource devoted to the project, then 80%
 2. If an AD resource devoted to the project, then 65%
@@ -37,6 +35,6 @@ From that place, then deduct - monthly - for any of the following:
 
 1. Holidays
 2. OOO
-3. Any other events, e.g., summits, etc.
+3. Any other events, such as summits
 
-Pro Tip: For finding OOO dates on the calendar, use the CivicActions shared calendar and try searching "name OOO". This will allow you to isolate the forthcoming dates for the given person.
+Pro tip: For finding OOO dates on the calendar, use the CivicActions shared calendar and try searching "name OOO". This will allow you to isolate the forthcoming dates for the given person.
