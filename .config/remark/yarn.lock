@@ -1374,10 +1374,10 @@ remark-lint-checkbox-content-indent@^4.1.1:
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-code-block-style@^3.0.0, remark-lint-code-block-style@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-code-block-style/-/remark-lint-code-block-style-3.1.0.tgz#5a2d122d01f9175e762f81a144fc18e1a91a104c"
-  integrity sha512-Hv4YQ8ueLGpjItla4CkcOkcfGj+nlquqylDgCm1/xKnW+Ke2a4qVTMVJrP9Krp4FWmXgktJLDHjhRH+pzhDXLg==
+remark-lint-code-block-style@^3.0.0, remark-lint-code-block-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-code-block-style/-/remark-lint-code-block-style-3.1.2.tgz#5f2ba66240a1c890ebe7a5f84496029a67cff929"
+  integrity sha512-3wsWmzzdyEsB9sOzBOf46TSkwwVKXN2JpTEQb6feN0Tl6Vg75F7T9MHqMz7aqk/56bOXSxUzdpXDscGBhziLRA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
