@@ -43,7 +43,7 @@ We track vacation, leave and sick time, and leave for employees in Unanet. There
 
 -   [Instructions](https://docs.google.com/presentation/d/1IEl3c8pOAYz5KNM4tVDemjvx5O-5m5WF21r4saANsFw/edit#slide=id.gce3d6a447a_0_89)
 -   [Timeoff policy (US)](../employee-benefits/README.md#written-documentation-of-time-off)
--   [Timeoff policy (Canada)](../employee-benefits/canada-benefits-policy.md)
+-   [Timeoff policy (Canada)](../employee-benefits/pto-canada.md)
 
 **Time:**
 
