@@ -7,7 +7,7 @@ nav:
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
-          - about-civicactions/diversity-equity-inclusion/purpose.md
+          - about-civicactions/diversity-equity-inclusion/README.md
           - about-civicactions/diversity-equity-inclusion/defining-dei.md
           - about-civicactions/diversity-equity-inclusion/affinity-channels.md
           - about-civicactions/diversity-equity-inclusion/deia-get-involved.md
@@ -70,7 +70,7 @@ nav:
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - common-practices-tools/gold-star-program.md
       - Security awareness and tools:
-          - common-practices-tools/security/awareness.md
+          - common-practices-tools/security/README.md
           - Setting up and using Yubikey:
               - common-practices-tools/security/yubikey/README.md
               - common-practices-tools/security/yubikey/linux.md
@@ -85,7 +85,7 @@ nav:
               - common-practices-tools/security/incidents.md
       - common-practices-tools/skills-base.md
       - Software and support:
-          - common-practices-tools/software-and-support/support.md
+          - common-practices-tools/software-and-support/README.md
           - company-policies/new-hire-orientation/bookmarks.md
           - common-practices-tools/software-and-support/email.md
           - common-practices-tools/software-and-support/github.md

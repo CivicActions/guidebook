@@ -4,7 +4,7 @@ title: Overview
 
 # CivicActions Project Support
 
-Note: this is the Project Support practice area. We have separate documentation that describes [how to request internal support](../../common-practices-tools/software-and-support/support.md).
+Note: this is the Project Support practice area. We have separate documentation that describes [how to request internal support](../../common-practices-tools/software-and-support/README.md).
 
 ## Mission
 
