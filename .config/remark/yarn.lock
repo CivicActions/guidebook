@@ -1472,10 +1472,10 @@ remark-lint-final-newline@^2.0.0, remark-lint-final-newline@^2.1.1:
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-first-heading-level@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-first-heading-level/-/remark-lint-first-heading-level-3.1.1.tgz#0e3d2fae58b0788a9b9577ab531c4c3c5b64b4fa"
-  integrity sha512-Z2+gn9sLyI/sT2c1JMPf1dj9kQkFCpL1/wT5Skm5nMbjI8/dIiTF2bKr9XKsFZUFP7GTA57tfeZvzD1rjWbMwg==
+remark-lint-first-heading-level@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-first-heading-level/-/remark-lint-first-heading-level-3.1.2.tgz#774e825134435c4859ce6bc0e76ee72984490d2b"
+  integrity sha512-uSgDMAKOolDcxfJwQU+iJK2Vbz2ZIzBAjQiN0f+9O/7XwrAH5IuVQH60w7chuxVrauVHmd1rbjmvzXVq8R30VQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
