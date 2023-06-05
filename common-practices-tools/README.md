@@ -10,4 +10,4 @@ Underpinning our chosen technology stack is a [required security awareness proce
 
 ## Get support
 
-Request help with internal systems and services (Slack, Zoom, GSuite, Gitlab, CI server, etc.) from our [internal support team](software-and-support/support.md).
+Request help with internal systems and services (Slack, Zoom, GSuite, Gitlab, CI server, etc.) from our [internal support team](software-and-support/README.md).

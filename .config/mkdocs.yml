@@ -85,7 +85,7 @@ nav:
               - common-practices-tools/security/incidents.md
       - common-practices-tools/skills-base.md
       - Software and support:
-          - common-practices-tools/software-and-support/support.md
+          - common-practices-tools/software-and-support/README.md
           - company-policies/new-hire-orientation/bookmarks.md
           - common-practices-tools/software-and-support/email.md
           - common-practices-tools/software-and-support/github.md
