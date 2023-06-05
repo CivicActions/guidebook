@@ -56,7 +56,7 @@ nav:
   - Our practices and tools:
       - common-practices-tools/README.md
       - Agile:
-          - common-practices-tools/agile/agile-overview.md
+          - common-practices-tools/agile/README.md
           - common-practices-tools/agile/agile-practices.md
           - common-practices-tools/agile/backlog-refinement.md
           - common-practices-tools/agile/daily-scrum-calls.md
