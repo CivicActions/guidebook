@@ -19,10 +19,10 @@ nav:
       - about-civicactions/annual-summit.md
   - Employee benefits:
       - employee-benefits/README.md
-      - Personal Time Off (PTO): employee-benefits/README.md
+      - Personal Time Off (US employees): employee-benefits/README.md
       - employee-benefits/us-compensation.md
       - employee-benefits/us-tech-stipend.md
-      - employee-benefits/canada-benefits-policy.md
+      - Personal Time Off (Canadian employees): employee-benefits/canada-benefits-policy.md
       - employee-benefits/canada-tech-stipend.md
       - employee-benefits/professional-development.md
       - employee-benefits/employee-referral-bonus.md
