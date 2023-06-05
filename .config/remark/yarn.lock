@@ -1397,10 +1397,10 @@ remark-lint-definition-case@^3.0.0, remark-lint-definition-case@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-definition-spacing@^3.0.0, remark-lint-definition-spacing@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-3.1.1.tgz#403cb3a486cbc2cb703358e78115507f6ee1fc2b"
-  integrity sha512-PR+cYvc0FMtFWjkaXePysW88r7Y7eIwbpUGPFDIWE48fiRiz8U3VIk05P3loQCpCkbmUeInAAYD8tIFPTg4Jlg==
+remark-lint-definition-spacing@^3.0.0, remark-lint-definition-spacing@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-3.1.2.tgz#8055497c0b293fa0a803f1a156d555e340fd4dc3"
+  integrity sha512-l058jAKfZfCOmlbIzoTll+CrZm9Bh42ZVCHcODPSZC8Yx4terCKgIoks+RWJDEdUbEw0YQoYvPc59ZVmp3BIew==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
