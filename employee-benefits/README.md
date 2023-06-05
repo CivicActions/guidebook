@@ -2,7 +2,7 @@
 title: Benefits policy (US employees)
 ---
 
-# Benefits
+# Personal Time Off (PTO)
 
 Time off under this policy is not being provided in addition to any pre-existing vacation, personal time, or sick leave policy, which are now superseded by this policy.
 
@@ -97,7 +97,7 @@ If an employee uses PTO for sick leave, including sick leave under applicable st
 
 CivicActions also reserves the right to require documentation verifying an employee's need to use time off, if there are indications of a pattern of abuse, such as repeated use of unscheduled time off on or adjacent to weekends, holidays, or pay day, regardless whether the employee has used time off for more than three consecutive days.
 
-## Time Off and Other Approved Leave
+## Time Off and other approved leave
 
 Time off pursuant to this policy is not intended for long-term leave or as a long-term care solution. As such, exempt employees on leaves of absences for more than thirty days, including otherwise unpaid leaves of absences, will not be eligible for paid time off beyond the first thirty days. CivicActions will require non-exempt employees to exhaust accrued, unused PTO concurrently with extended leaves of absences, including under the Family and Medical Leave Act or comparable state laws, if applicable.
 
@@ -132,7 +132,7 @@ For purposes of this paid time off policy, and where consistent with applicable 
 
 Eligible employees should contact the PeopleOps Team with questions concerning whether any of the above definitions apply in a particular jurisdiction.
 
-## Scheduling Shifts
+## Scheduling shifts
 
 If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, you are attending a conference, or you need a Tuesday off but plan to make up the hours over the weekend.
 
@@ -141,7 +141,7 @@ If you find yourself needing to adjust your schedule a certain day or week, it i
 1. The schedule change will be acknowledged in an email reply.
 1. The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.
 
-## Personal Tech Issues
+## Personal tech issues
 
 At CivicActions, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
 
@@ -155,7 +155,7 @@ When you have a technical issue with your home network, power and personal equip
 1. If the problem lasts longer than 2 hours, email <mailto:ca-schedule@civicactions.net> and log it in Unanet under Project TIMEOFF, using the task "Technical Issues".
 1. If it's persistent, set an out of office message.
 
-### Slack Channels
+### Slack channels
 
 -   You can go to the following Slack channels for support: #windows #osx #gnu-linux
 
