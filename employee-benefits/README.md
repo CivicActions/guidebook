@@ -1,8 +1,8 @@
 ---
-title: Benefits policy (US employees)
+title: Personal Time Off (US employees)
 ---
 
-# Personal Time Off (PTO)
+# Personal Time Off (US employees)
 
 Time off under this policy is not being provided in addition to any pre-existing vacation, personal time, or sick leave policy, which are now superseded by this policy.
 
