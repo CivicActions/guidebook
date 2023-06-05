@@ -28,7 +28,7 @@ title: Slack
 
 ## Tips
 
--   Did you know you can [request support](support.md) using Slack?
+-   Did you know you can [request support](README.md) using Slack?
 -   Consider using the word "ping" to check on the availability of someone
 -   Create a Zoom from Slack: type **/zoom** (will need to authorize)
 -   Create a Google Meet from Slack: type **/hangout** (will need to authorize the slack app in Meet/Hangout too)

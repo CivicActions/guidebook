@@ -478,3 +478,6 @@
 - from_url: /common-practices-tools/agile/agile-overview/
   to_url: /common-practices-tools/agile/
   type: page
+- from_url: /common-practices-tools/software-and-support/support/
+  to_url: /common-practices-tools/software-and-support/
+  type: page
