@@ -2,13 +2,13 @@
 title: Drupal developer tips to get the most out of open source
 ---
 
-# Drupal Developer Tips for Getting the Most out of Open Source
+# Drupal developer tips for getting the most out of open source
 
 Note: _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
 
-I [recently suggested](most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) that the way we approach new development is the most important factor in determining the long term value of our work. But just how can developers using Drupal make the most of open source by ensuring that participating and contributing is an essential part of our daily workflow? Here are some practical tips that come out of our experience at CivicActions and that can guide you in deciding how to approach new development to get the full benefit of open source. Read on as well for a discussion of patching vs. hacking vs. forking and of how to get attention for your patches.
+I [recently suggested](../drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) that the way we approach new development is the most important factor in determining the long term value of our work. But just how can developers using Drupal make the most of open source by ensuring that participating and contributing is an essential part of our daily workflow? Here are some practical tips that come out of our experience at CivicActions and that can guide you in deciding how to approach new development to get the full benefit of open source. Read on as well for a discussion of patching vs. hacking vs. forking and of how to get attention for your patches.
 
-## Approach to New Development
+## Approach to new development
 
 Before wading into coding, it's important to take a good hard look at what's out there. For each area of functionality you're going to develop, the following decision-making steps can help focus your work.
 
@@ -35,7 +35,7 @@ In summary:
 -   Try to produce custom (site-specific closed source) modules only when the needs are limited in scope and truly specific to the site.
 -   Try to save the theme layer for what it's intended for--final presentation, look and feel.
 
-## Patching vs. Hacking vs. Forking
+## Patching vs. hacking vs. forking
 
 Changes we might make to existing modules fall into three general categories, which have very distinct implications.
 
@@ -51,7 +51,7 @@ In weighing potential changes, it's essential to figure out what kind of change 
 
 Similar considerations apply when considering custom modules or overrides at the theme level. We should work with the client to ensure they understand that each hack, fork, custom module, and extensive theme override increases long term costs, especially of upgrades, and cumulatively can risk undermining some of the benefits of working with open source tools.
 
-## Contributing Patches
+## Contributing patches
 
 Getting patches accepted and applied takes a lot of time and effort. But it's time well spent. It's part of the cost of working with open source. Often, the time required to initially code a solution through a patch is only a fraction of the total time that will be required to get that patch accepted. Ideally, these are costs that we should build into development. Some keys to making this work:
 

@@ -463,3 +463,12 @@
 - from_url: /practice-areas/design-and-research/design-research-methods
   to_url: /practice-areas/design-and-research/
   type: page
+- from_url: /practice-areas/engineering/drupal-practice-area/
+  to_url: /practice-areas/engineering/drupal/
+  type: page
+- from_url: /practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source/
+  to_url: /practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source/
+  type: page
+- from_url: /practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
+  to_url: /practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
+  type: page
