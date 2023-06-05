@@ -472,3 +472,9 @@
 - from_url: /practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
   to_url: /practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
   type: page
+- from_url: /employee-benefits/us-benefits-policy/
+  to_url: /employee-benefits/
+  type: page
+- from_url: /practice-areas/accessibility/
+  to_url: /practice-areas/accessibility/accessibility-practice-area/
+  type: page
