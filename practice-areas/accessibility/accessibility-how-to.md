@@ -1,14 +1,12 @@
 ---
-title: Testing Guide
+title: Testing guide
 ---
 
-# Accessibility: How To
-
-## Resources for learning how to test the accessibility of our applications
+# How to test the accessibility of our applications
 
 It is worth looking over the [resources on testing on Drupal.org](https://www.drupal.org/docs/accessibility/how-to-do-an-accessibility-review). The following resources are a more consolidated list put in order of priority. They are structured from lowest to greatest effort, and addressing issues in steps 1 & 2 will make screen reader and voice control testing easier:
 
-### 1/ [Accessibility Insights](https://accessibilityinsights.io/) (FastPass)
+## 1/ [Accessibility Insights](https://accessibilityinsights.io/) (FastPass)
 
 Microsoft's open source Accessibility Insights offers both the automated testing with axe and guided keyboard only testing within their FastPass. This is roughly equivalent to using WebAim's proprietary [Wave](https://wave.webaim.org/) toolbar with [Keyboard-only testing](https://webaim.org/techniques/keyboard/). The main advantage of Accessibility Insights is that it provides assets which make it easier to include in JIRA to replicate the results.
 
@@ -16,13 +14,13 @@ How to install: [Install Accessibility Insights for the Web](https://accessibili
 
 How to use: [Watch this video about basic use](https://www.youtube.com/watch?v=XVvBJoEe4Is&ab_channel=AccessibilityInsights) of this extension. After you've installed this browser extension and enabled it in your dashboard, simply click on the icon and then FastPass.
 
-### 2/ [Accessibility Insights](https://accessibilityinsights.io/) (Assessment)
+## 2/ [Accessibility Insights](https://accessibilityinsights.io/) (Assessment)
 
 By doing an automated scan and keyboard only testing you will catch most, but not all, accessibility errors. Accessibility Insights Assessments guides you through other steps that should be evaluated when testing new patterns. This will catch issues which may have been skipped if only automated tests have been used historically.
 
 How to test: [Watch this video guidance on using the assessment section](https://www.youtube.com/watch?v=XVvBJoEe4Is&ab_channel=AccessibilityInsights) of this extension.
 
-### 3/ [Screen readers](https://www.sarasoueidan.com/blog/testing-environment-setup/)
+## 3/ [Screen readers](https://www.sarasoueidan.com/blog/testing-environment-setup/)
 
 Most operating systems have a screen reader built in. One of the most popular for blind users is JAWS, but the expense and customizability presents limitations for users. Most casual accessibility testers will leverage the built-in VoiceOver screen reader on a Mac and the open source [NVDA on Windows](https://www.nvaccess.org/download/) for testing. If using NVDA, consider contributing from your ProDev to support this great open source project. According to a 2021 by [WebAim survey of screen reader users](https://webaim.org/projects/screenreadersurvey9/), ChromeVox & Windows Narrator combined make up less than 1% of use. It is also worth noting that testing on mobile devices is important and that both iOS (VoiceOver) and Android (TalkBack) have built-in screen readers.
 
@@ -32,7 +30,7 @@ How to test: Apple has produced a great quantity of documentation on both the [M
 
 Helpful tips: Make sure you know how to turn it off before you turn it on.
 
-### 4/ Voice control
+## 4/ Voice control
 
 There are a great number of assistive technologies being employed, and more are being added every day. Speech control is becoming increasingly popular to allow people with motor disabilities to interact.
 
