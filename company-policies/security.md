@@ -54,7 +54,7 @@ It is each person's responsibility to ensure they understand and follow the data
 
 Broadly, dealing with confidential information involves - to the maximum extent feasible - limiting the number of places (physical and logical) where it is stored, and secondly ensuring that each of those places is as secure as reasonably possible, to prevent unauthorized access.
 
-Users are responsible for carefully tracking any confidential information stored on personal devices (including backup/offline storage). Periodically during and after each project, confidential information stored on personal devices should be reviewed, and anything that is no longer needed should be deleted (after being archived to a CivicActions service, if needed). Users should ensure files are actually deleted (and not stored in a recycle/trash area), ideally running [a secure delete on the files](../common-practices-tools/security/awareness.md#securely-delete-files-and-wipe-disks), which is available out of the box on OS X and GNU/Linux based systems. Note that if a personal device is used in the performance of some of our contracts, you may be required to provide a copy of stored information or the device itself (such as the disk drive containing the information) if requested by CivicActions or the client. As always, if you have questions, talk to your project manager or the legal team.
+Users are responsible for carefully tracking any confidential information stored on personal devices (including backup/offline storage). Periodically during and after each project, confidential information stored on personal devices should be reviewed, and anything that is no longer needed should be deleted (after being archived to a CivicActions service, if needed). Users should ensure files are actually deleted (and not stored in a recycle/trash area), ideally running [a secure delete on the files](../common-practices-tools/security/README.md#securely-delete-files-and-wipe-disks), which is available out of the box on OS X and GNU/Linux based systems. Note that if a personal device is used in the performance of some of our contracts, you may be required to provide a copy of stored information or the device itself (such as the disk drive containing the information) if requested by CivicActions or the client. As always, if you have questions, talk to your project manager or the legal team.
 
 There are also a number of security concerns with non-confidential information. Even though we don't need to protect it from viewing, it is critical that any copies in active use are protected from unauthorized changes.
 
@@ -132,7 +132,7 @@ Use both a unique, strong password (or multi-word passphrase) _and_ multi-factor
 
 CivicActions supplies all employees with a YubiKey as a handy _second factor_ for secure authentication, and we require multi-factor authentication for access to your password manager, the CivicActions GSuite of applications, GitHub and GitLab. You can also use second factor authentication apps such as Authy and LastPass Authenticator, and in fact, for backup reasons we suggest using more than one second factor.
 
-Please see the [Security Awareness and Tools](../common-practices-tools/security/awareness.md) document for details on these subjects and more.
+Please see the [Security Awareness and Tools](../common-practices-tools/security/README.md) document for details on these subjects and more.
 
 ### Some password exceptions
 
@@ -223,7 +223,7 @@ IT team system administrators working on CivicActions servers must also:
 
 ## Security awareness and tools
 
-We maintain a [Security Awareness and Tools](../common-practices-tools/security/awareness.md) document that dives deeper into some additional topics, including:
+We maintain a [Security Awareness and Tools](../common-practices-tools/security/README.md) document that dives deeper into some additional topics, including:
 
 -   Password Management Tools
 -   Two Factor Authentication
