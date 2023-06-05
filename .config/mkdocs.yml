@@ -56,16 +56,16 @@ nav:
   - Our practices and tools:
       - common-practices-tools/README.md
       - Agile:
-        - Agile overview: common-practices-tools/agile/README.md
-        - common-practices-tools/agile/README.md
-          - common-practices-tools/agile/agile-practices.md
-          - common-practices-tools/agile/backlog-refinement.md
-          - common-practices-tools/agile/daily-scrum-calls.md
-          - common-practices-tools/agile/tickets-cards.md
-          - common-practices-tools/agile/sprint-cycle.md
-          - common-practices-tools/agile/sprint-demo.md
-          - common-practices-tools/agile/sprint-planning-meetings.md
-          - common-practices-tools/agile/sprint-retrospectives.md
+          - Agile overview: common-practices-tools/agile/README.md
+          - common-practices-tools/agile/README.md
+            - common-practices-tools/agile/agile-practices.md
+            - common-practices-tools/agile/backlog-refinement.md
+            - common-practices-tools/agile/daily-scrum-calls.md
+            - common-practices-tools/agile/tickets-cards.md
+            - common-practices-tools/agile/sprint-cycle.md
+            - common-practices-tools/agile/sprint-demo.md
+            - common-practices-tools/agile/sprint-planning-meetings.md
+            - common-practices-tools/agile/sprint-retrospectives.md
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
