@@ -475,3 +475,6 @@
 - from_url: /practice-areas/accessibility/accessibility-practice-area/
   to_url: /practice-areas/accessibility/
   type: page
+- from_url: /common-practices-tools/agile/agile-overview/
+  to_url: /common-practices-tools/agile/
+  type: page
