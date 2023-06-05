@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-# Accessibility Practice Area
+# Accessibility practice area
 
 CivicActions Accessibility is an open project primarily developed by CivicActions team members. We work to implement our [Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) and build a robust culture has internalized accessibility.
 
@@ -12,7 +12,7 @@ In our [Accessibility Site](https://accessibility.civicactions.com/agile), we ar
 
 If you aren't part of the CivicActions team [let us know](https://accessibility.civicactions.com/contact) what you find helpful, if there are resources we should include or if there are ways we can improve. If you are part of CivicActions, please reach out on Slack.
 
-## Join Us
+## Join us
 
 -   Join the #accessibility CivicActions Slack channel (CivicActions Internal)
 
@@ -24,7 +24,7 @@ If you aren't part of the CivicActions team [let us know](https://accessibility.
 
 -   Become an [Accessibility Champion](https://accessibility.civicactions.com/guide/champions-program) (CivicActions Internal)
 
-## CivicActions Accessibility Resources
+## CivicActions accessibility resources
 
 -   Website: [https://accessibility.civicactions.com/](https://accessibility.civicactions.com/)
 

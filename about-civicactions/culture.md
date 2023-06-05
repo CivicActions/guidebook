@@ -106,7 +106,7 @@ The accessibility team has been busily working on our accessibility website, whi
 
 ### Want to know more about how you can participate?
 
-Check out our [Accessibility Practice Area](../practice-areas/accessibility/accessibility-practice-area.md)!
+Check out our [Accessibility Practice Area](../practice-areas/accessibility/README.md)!
 
 ## Common Questions
 
