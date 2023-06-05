@@ -101,7 +101,7 @@ nav:
   - Practice areas:
       - practice-areas/README.md
       - Accessibility:
-          - practice-areas/accessibility/accessibility-practice-area.md
+          - practice-areas/accessibility/README.md
           - practice-areas/accessibility/accessibility-how-to.md
       - Design and research:
           - practice-areas/design-and-research/README.md
