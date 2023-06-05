@@ -1362,10 +1362,10 @@ remark-lint-checkbox-character-style@^4.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-checkbox-content-indent@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-4.1.1.tgz#fb6112b95bb2556491edb85660c6875718c9d12d"
-  integrity sha512-apkM6sqCwAHwNV0v6KuEbq50fH3mTAV4wKTwI1nWgEj33/nf4+RvLLPgznoc2olZyeAIHR69EKPQiernjCXPOw==
+remark-lint-checkbox-content-indent@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-4.1.2.tgz#2214a50373d3e655ad88faf13ce4447979da90ba"
+  integrity sha512-8uaHAm4bSqB7XpnecLRObe00Lj9eoHiecV+44CfJeWyoo50cTPR/hIMfsMtDxsNt4LZP+6oCV9z+vACJqDv8Hg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
