@@ -1837,10 +1837,10 @@ remark-lint-no-missing-blank-lines@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-multiple-toplevel-headings@^3.0.0, remark-lint-no-multiple-toplevel-headings@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-multiple-toplevel-headings/-/remark-lint-no-multiple-toplevel-headings-3.1.1.tgz#0a0058b03e5d8c3539230a5987e0ef11edd987f2"
-  integrity sha512-bM//SIBvIkoGUpA8hR5QibJ+7C2R50PTIRrc4te93YNRG+ie8bJzjwuO9jIMedoDfJB6/+7EqO9FYBivjBZ3MA==
+remark-lint-no-multiple-toplevel-headings@^3.0.0, remark-lint-no-multiple-toplevel-headings@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-multiple-toplevel-headings/-/remark-lint-no-multiple-toplevel-headings-3.1.2.tgz#e4eb81f01b81e346431314df611c75213f019724"
+  integrity sha512-9rJSsrwdzwKmtuloBjJobLzjGL7Lgtk3+vMNUyuH9z/nBfkUCN3qxn3Nt9AxL+wwSAsHV6e74W+W2S1ohBLt6A==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
