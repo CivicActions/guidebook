@@ -496,3 +496,6 @@
 - from_url: /practice-areas/help-desk/helpdesk/
   to_url: /practice-areas/help-desk/
   type: page
+- from_url: /company-policies/new-hire-orientation/welcome/
+  to_url: /company-policies/new-hire-orientation/
+  type: page
