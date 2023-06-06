@@ -29,6 +29,7 @@ nav:
       - employee-benefits/on-call-stipend.md
   - Company policies:
       - company-policies/README.md
+      - Expenses: company-policies/README.md
       - company-policies/travel-time-tracking-and-expenses.md
       - company-policies/timesheets.md
       - company-policies/security.md
