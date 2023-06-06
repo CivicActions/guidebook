@@ -142,7 +142,8 @@ nav:
           - practice-areas/project-management/pm-training.md
           - practice-areas/project-management/pm-unanet-tasks.md
       - Project support:
-          - practice-areas/help-desk/helpdesk.md
+          - practice-areas/help-desk/README.md
+          - Overview: practice-areas/help-desk/README.md
           - practice-areas/help-desk/help-desk-agile.md
           - practice-areas/help-desk/working-practices.md
           - practice-areas/help-desk/project-support-checklist.md
