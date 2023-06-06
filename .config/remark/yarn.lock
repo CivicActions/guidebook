@@ -1362,10 +1362,10 @@ remark-lint-checkbox-character-style@^4.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-checkbox-content-indent@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-4.1.1.tgz#fb6112b95bb2556491edb85660c6875718c9d12d"
-  integrity sha512-apkM6sqCwAHwNV0v6KuEbq50fH3mTAV4wKTwI1nWgEj33/nf4+RvLLPgznoc2olZyeAIHR69EKPQiernjCXPOw==
+remark-lint-checkbox-content-indent@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-4.1.2.tgz#2214a50373d3e655ad88faf13ce4447979da90ba"
+  integrity sha512-8uaHAm4bSqB7XpnecLRObe00Lj9eoHiecV+44CfJeWyoo50cTPR/hIMfsMtDxsNt4LZP+6oCV9z+vACJqDv8Hg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1374,10 +1374,10 @@ remark-lint-checkbox-content-indent@^4.1.1:
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-code-block-style@^3.0.0, remark-lint-code-block-style@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-code-block-style/-/remark-lint-code-block-style-3.1.0.tgz#5a2d122d01f9175e762f81a144fc18e1a91a104c"
-  integrity sha512-Hv4YQ8ueLGpjItla4CkcOkcfGj+nlquqylDgCm1/xKnW+Ke2a4qVTMVJrP9Krp4FWmXgktJLDHjhRH+pzhDXLg==
+remark-lint-code-block-style@^3.0.0, remark-lint-code-block-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-code-block-style/-/remark-lint-code-block-style-3.1.2.tgz#5f2ba66240a1c890ebe7a5f84496029a67cff929"
+  integrity sha512-3wsWmzzdyEsB9sOzBOf46TSkwwVKXN2JpTEQb6feN0Tl6Vg75F7T9MHqMz7aqk/56bOXSxUzdpXDscGBhziLRA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1397,10 +1397,10 @@ remark-lint-definition-case@^3.0.0, remark-lint-definition-case@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-definition-spacing@^3.0.0, remark-lint-definition-spacing@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-3.1.1.tgz#403cb3a486cbc2cb703358e78115507f6ee1fc2b"
-  integrity sha512-PR+cYvc0FMtFWjkaXePysW88r7Y7eIwbpUGPFDIWE48fiRiz8U3VIk05P3loQCpCkbmUeInAAYD8tIFPTg4Jlg==
+remark-lint-definition-spacing@^3.0.0, remark-lint-definition-spacing@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-3.1.2.tgz#8055497c0b293fa0a803f1a156d555e340fd4dc3"
+  integrity sha512-l058jAKfZfCOmlbIzoTll+CrZm9Bh42ZVCHcODPSZC8Yx4terCKgIoks+RWJDEdUbEw0YQoYvPc59ZVmp3BIew==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1472,10 +1472,10 @@ remark-lint-final-newline@^2.0.0, remark-lint-final-newline@^2.1.1:
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-first-heading-level@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-first-heading-level/-/remark-lint-first-heading-level-3.1.1.tgz#0e3d2fae58b0788a9b9577ab531c4c3c5b64b4fa"
-  integrity sha512-Z2+gn9sLyI/sT2c1JMPf1dj9kQkFCpL1/wT5Skm5nMbjI8/dIiTF2bKr9XKsFZUFP7GTA57tfeZvzD1rjWbMwg==
+remark-lint-first-heading-level@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-first-heading-level/-/remark-lint-first-heading-level-3.1.2.tgz#774e825134435c4859ce6bc0e76ee72984490d2b"
+  integrity sha512-uSgDMAKOolDcxfJwQU+iJK2Vbz2ZIzBAjQiN0f+9O/7XwrAH5IuVQH60w7chuxVrauVHmd1rbjmvzXVq8R30VQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1837,10 +1837,10 @@ remark-lint-no-missing-blank-lines@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-multiple-toplevel-headings@^3.0.0, remark-lint-no-multiple-toplevel-headings@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-multiple-toplevel-headings/-/remark-lint-no-multiple-toplevel-headings-3.1.1.tgz#0a0058b03e5d8c3539230a5987e0ef11edd987f2"
-  integrity sha512-bM//SIBvIkoGUpA8hR5QibJ+7C2R50PTIRrc4te93YNRG+ie8bJzjwuO9jIMedoDfJB6/+7EqO9FYBivjBZ3MA==
+remark-lint-no-multiple-toplevel-headings@^3.0.0, remark-lint-no-multiple-toplevel-headings@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-multiple-toplevel-headings/-/remark-lint-no-multiple-toplevel-headings-3.1.2.tgz#e4eb81f01b81e346431314df611c75213f019724"
+  integrity sha512-9rJSsrwdzwKmtuloBjJobLzjGL7Lgtk3+vMNUyuH9z/nBfkUCN3qxn3Nt9AxL+wwSAsHV6e74W+W2S1ohBLt6A==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
