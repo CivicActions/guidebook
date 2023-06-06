@@ -45,6 +45,7 @@ nav:
       - company-policies/health-safety-security.md
       - New hire orientation:
           - company-policies/new-hire-orientation/README.md
+          - Welcome to CivicActions: company-policies/new-hire-orientation/README.md
           - company-policies/new-hire-orientation/buddy-program.md
           - company-policies/new-hire-orientation/elevator-pitch.md
           - company-policies/new-hire-orientation/intro-open-source.md
