@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-# CivicActions Project Support
+# CivicActions project support
 
 Note: this is the Project Support practice area. We have separate documentation that describes [how to request internal support](../../common-practices-tools/software-and-support/README.md).
 
@@ -12,7 +12,7 @@ The CivicActions Project Support area provides helpful, timely and kind support 
 
 Our work is user-focused and [agile](help-desk-agile.md): we prioritize individual interactions, openness and iterative improvement. This approach improves the usability and user-friendliness of supported websites and strengthens our client's relationship with its user base. In so doing, CivicActions delivers great value to its clients, and the Project Support area assists CivicActions in its mission to help government technology better serve citizens.
 
-## Project Support Basics
+## Project support basics
 
 The Project Support area accepts incoming requests for assistance, and responds immediately to assure the user that we'll help.
 
