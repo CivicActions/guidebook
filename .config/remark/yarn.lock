@@ -1930,10 +1930,10 @@ remark-lint-no-unused-definitions@^3.0.0, remark-lint-no-unused-definitions@^3.1
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-ordered-list-marker-style@^3.0.0, remark-lint-ordered-list-marker-style@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-style/-/remark-lint-ordered-list-marker-style-3.1.1.tgz#5431100f048ef44daa90a32251e8056f2de58449"
-  integrity sha512-IWcWaJoaSb4yoSOuvDbj9B2uXp9kSj58DqtrMKo8MoRShmbj1onVfulTxoTLeLtI11NvW+mj3jPSpqjMjls+5Q==
+remark-lint-ordered-list-marker-style@^3.0.0, remark-lint-ordered-list-marker-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-style/-/remark-lint-ordered-list-marker-style-3.1.2.tgz#9c7b38fb80784a7bd966f888f87aa83bff282d14"
+  integrity sha512-62iVE/YQsA0Azaqt8yAJWPplWLS47kDLjXeC2PlRIAzCqbNt9qH3HId8vZ15QTSrp8rHmJwrCMdcqV6AZUi7gQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
