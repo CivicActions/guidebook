@@ -1,16 +1,14 @@
 ---
-title: Timekeeping Policy and Procedures
+title: Timekeeping policy and procedures
 ---
 
-# Timekeeping Policy and Procedures
-
-## Policy & Procedures for Timekeeping
+# Timekeeping policy and procedures
 
 | Date          |
 | ------------- |
 | April 1, 2023 |
 
-## 0—Roles and Responsibilities
+## 0—Roles and responsibilities
 
 ### 0.1 Leadership
 
@@ -48,7 +46,7 @@ The Timekeeping Policy ("Policy") of CivicActions, Inc ("CivicActions" or "The C
 These policies have been designed to promote accuracy, efficiency, and consistency in CivicActions' Timekeeping. The Policy includes CivicActions' current timekeeping policies which have been developed by CivicActions' Leadership and Accounting Department through the effective date of this document. The Policy applies to all individuals who work with or within the CivicActions organization to include CDSULC subcontractors.
 Failure to comply with the Policy can result in Company criminal and civil penalties, with potential for the Company being disqualified or disbarred from working on future Government contracts.
 
-### 1.2 Policy Maintenance
+### 1.2 Policy maintenance
 
 This Policy is available to all CivicActions' Team Members. It is the responsibility of all CivicActions' Leadership to implement and enforce compliance with the Policy. Each applicable Team Member must be aware of and abide by the policies in the Policy, and exercise sound business judgment in the application of these policies.
 The CivicActions' Leadership and Accounting Department are responsible for the establishment, review, and approval of the Policy, as well as the review and approval of subsequent changes.
@@ -65,7 +63,7 @@ The CivicActions' Leadership and the Accounting Department will review and updat
 |          |           |              |
 |          |           |              |
 
-## 2— Key Definitions
+## 2— Key definitions
 
 ### 2.1 Costs
 
@@ -99,9 +97,9 @@ Any cost that is allocable to a project but may not be billable due to certain c
 
 A cost is reasonable if, in its nature and amount, it does not exceed that which would be incurred by a prudent person in the conduct of competitive business.
 
-## 3—Timekeeping Guiding Principles & Team Member Procedures
+## 3—Timekeeping guiding principles and team member procedures
 
-### 3.1 Guiding Principles
+### 3.1 Guiding principles
 
 It is the policy of CivicActions to ensure accurate timekeeping and subsequent invoicing of all labor costs to its customers, either directly or indirectly. The procedures provided in this Policy, are to provide a formal process for recording labor associated with Direct and Indirect cost objectives. It is the responsibility of CivicActions' Leadership and all Team Members, to abide by and promote the following principles which serve as guiding principles throughout this Policy:
 
@@ -113,7 +111,7 @@ It is the policy of CivicActions to ensure accurate timekeeping and subsequent i
 -   CivicActions' Project Managers and Managers must review all time / timesheets, for completeness, accuracy, and reasonableness
 -   Appropriate segregation of duties exists between those individuals who are responsible for administrative timekeeping management and the processing of payroll
 
-### 3.2 Timekeeping Requirements
+### 3.2 Timekeeping requirements
 
 It is expected that all CivicActions' Team Members will comply and follow the referenced timekeeping requirements:
 
@@ -129,23 +127,23 @@ It is expected that all CivicActions' Team Members will comply and follow the re
 
 ## 4 —Timekeeping
 
-### 4.1 Timesheet Entry
+### 4.1 Timesheet entry
 
 For All Team Members, CivicActions uses the Unanet integrated timekeeping system, which is managed by the Accounting Department. Access to Unanet is username and password restricted and requires a specific number of hours per day/week/period depending upon the arrangement with the Team Member.
 
-#### Workforce Management
+#### Workforce management
 
 When a new Team Member is hired, the hiring team and People Ops team notify the Resource Planning Analyst (RPA) who assigns the Team Member to required internal projects and tasks in Unanet. The RPA asks the Project Manager to assign the Team Member to required client projects and tasks. For Team Members not considered new hires, requests for access to particular projects and tasks are made via Slack (#unanet channel) and are reviewed by either the RPA, the Project Manager or other personnel with the Resource Assigner role in Unanet.
 
-### 4.2 Timesheet Corrections
+### 4.2 Timesheet corrections
 
 Timesheet corrections are primarily initiated by the Team Member or their Manager. Team Members are responsible for making all timesheet corrections prior to the timesheet period being closed. If the corrections pertain to a prior closed period, the Team Member must coordinate the corrections with the Accounting Department and Program Finance for the timecard to be administratively adjusted. The Resource and Planning Analyst (A Unanet Administrator) makes the necessary corrective adjustment and adds an explanation as to why the correction is needed. Once the Team Member's Manager approves the corrected timesheet, the Resource and Planning Analyst extracts the corrected timesheets, reviews for any cost adjustments that will need to be accounted for in the following payroll and notifies the Controller. The Controller posts the labor distribution in the accounting system.
 
-### 4.3 Timekeeping Special Circumstances
+### 4.3 Timekeeping special circumstances
 
 In certain instances, People & Operations can input time on a Team Member's behalf and sign the timesheet at the Team Member's request. The timesheet will be reviewed and approved by the Manager. This is only done in rare circumstances where the Team Member does not have reasonable access to complete the timesheet, on time on their own, or is on special leave. People & Operations documents the reason for completing the timesheet within the timesheet comments and the Manager reviews and approves. The Team Member must review and approve the timesheet upon returning to work.
 
-### 4.4 General Leave
+### 4.4 General leave
 
 All CivicActions' Team Members are expected to record all vacation, holiday, or other leave into the timekeeping system.
 
@@ -157,7 +155,7 @@ Paid time off (PTO) is managed in accordance with the PTO policy. Leave eligibil
 
 Eligible Team Members are entitled to Holiday pay and associated Office Closing pay as defined in the Benefits policy. Team Members are expected to record all applicable Holiday time to the corresponding Holiday project charge code, within the timekeeping system. The Accounting Department reviews the holiday code usage on a semi-monthly basis, to ensure proper usage of the code.
 
-### 4.5 Timekeeping Training
+### 4.5 Timekeeping training
 
 CivicActions conducts both onboarding and annual timekeeping training, which is required to be attended by all CivicActions' Team Members. Both trainings include:
 
@@ -187,16 +185,16 @@ CivicActions conducts both onboarding and annual timekeeping training, which is 
     -   Provide Team Members a place where they can go with questions for time entry or review
     -   Provide Team Members a place to go, in the event that they suspect fraud
 
-### 4.6 Self Audits
+### 4.6 Self audits
 
 Periodically, CivicActions performs self-audits, which are intended to test its population's compliance and understanding of the policy and procedures within this document. Self-audits include review of labor reporting, including but not limited to recording of hours worked in a given day, reviewing the Floor Check report, and interviews with Team Members for understanding of key policies. A review of the self-audits is briefed to the Leadership team allowing for discussion, is subsequently documented, and any agreed upon corrective action is implemented timely.
 
-## 5 – Supplemental Documents
+## 5 – Supplemental documents
 
-### 5.1 Accounting Policies and Procedures
+### 5.1 Accounting policies and procedures
 
-For reference to CivicActions' Accounting Policies and Procedures, see CivicActions Accounting Policy
+For reference to CivicActions' Accounting Policies and Procedures, see CivicActions Accounting Policy (to come).
 
-### 5.2 Timekeeping Training FAQ
+### 5.2 Timekeeping guidance
 
-For reference to CivicActions' Timekeeping Training, see CivicActions' Timekeeping FAQ
+For reference to CivicActions' timekeeping training, see CivicActions' [timesheet guidance](timesheets.md).
