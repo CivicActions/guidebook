@@ -19,7 +19,7 @@ Unanet is the enterprise resource planning (ERP) system that CivicActions uses f
 
 ### Accessing Unanet as a new employee
 
-You should receive your  Unanet  login information the morning of your start date. If you did not get it or it's not working, notify People Ops at peopleops@civicactions.com. They will notify a Unanet administrator.
+You should receive your Unanet login information the morning of your start date. If you did not get it or it's not working, notify People Ops at peopleops@civicactions.com. They will notify a Unanet administrator.
 
 When you are hired, the Resource Planning Analyst (RPA) will assign you to the required internal projects and tasks in Unanet. The RPA also will ask the project manager to assign you to any required client projects and tasks.
 
@@ -34,7 +34,7 @@ To create a timesheet:
     -   Active Expense Reports
     -   If applicable, Approvals
 
-2.  On the top right-hand side of each section, locate the + Button (+ Timesheet, + Leave Request, + Expense).  Select the  applicable + Button to create a new timesheet.
+2.  On the top right-hand side of each section, locate the + Button (+ Timesheet, + Leave Request, + Expense). Select the applicable + Button to create a new timesheet.
 
 ## How to enter time
 
@@ -50,7 +50,7 @@ To create a timesheet:
 
 Many team members at CivicActions are disciplined in keeping track of their hours, or are able to work in structured blocks that allow them to easily record their time at the end of each day. If you are unsure, you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://drive.google.com/drive/u/0/recent), [check Zoom meetings](https://zoom.us/meeting#/previous), search Slack messages (example: on:Monday from:me), or look at the GitHub overview when you log in.
 
-If you  do not see a project charge code for your assigned project, notify the applicable project manager(s). The project manager will assign you to the relevant project code. You will then see the project charge code in your drop-down menu in Unanet.
+If you do not see a project charge code for your assigned project, notify the applicable project manager(s). The project manager will assign you to the relevant project code. You will then see the project charge code in your drop-down menu in Unanet.
 
 ## Saving your timesheet
 
@@ -58,7 +58,7 @@ If you  do not see a project charge code for your assigned project, notify the a
 
 Once you have completed your timesheet for the day, you must save it. Select the blue Save button at the bottom left of the timesheet page.
 
-Once you have completed entering in all time for the applicable reporting period, you must submit  your timesheet to your manager. 
+Once you have completed entering in all time for the applicable reporting period, you must submit your timesheet to your manager.
 
 -   Select the blue Submit button at the bottom of the page.
 -   You will then be asked to confirm again, by selecting the Submit button on the next screen.
@@ -69,18 +69,18 @@ By the following business day of the last day of the pay period, you must submit
 
 ## Fixing timesheet errors
 
-You are responsible for making all timesheet corrections prior to the timesheet period being closed. Timesheet corrections: 
+You are responsible for making all timesheet corrections prior to the timesheet period being closed. Timesheet corrections:
 
--   Should be in limited circumstances 
+-   Should be in limited circumstances
 -   Must be handled within Unanet
 
 For current period adjustments:
 
 -   Make the necessary correction(s) within the applicable timesheet
--   Include an explanation as to why the correction(s) is needed 
+-   Include an explanation as to why the correction(s) is needed
 -   Your manager will review and approve the corrected timesheet
 
-For prior period adjustments: 
+For prior period adjustments:
 
 -   You must coordinate the corrections with your project manager and/or manager.
 -   The Resource Planning Analyst makes the necessary corrective adjustment and adds an explanation as to why the correction is needed.
@@ -88,9 +88,9 @@ For prior period adjustments: 
 
 ## Manager approvals 
 
-Managers must ensure that all of their assigned team members have completed and submitted timesheets. They  must review and approve the team members' timesheets no later than 5:00 PM local time, the following business day of the last day of the pay period.
+Managers must ensure that all of their assigned team members have completed and submitted timesheets. They must review and approve the team members' timesheets no later than 5:00 PM local time, the following business day of the last day of the pay period.
 
-Project managers should ensure that: 
+Project managers should ensure that:
 
 1.  The Project is correct
 2.  The CLIN / Task is correct
@@ -98,7 +98,7 @@ Project managers should ensure that: 
 
 To approve your team member's timesheet:
 
-1.  Open the Unanet Home Dashboard and look under Manager Approvals, for your Primary Approval queue. 
+1.  Open the Unanet Home Dashboard and look under Manager Approvals, for your Primary Approval queue.
 2.  Select Primary Approvals to access all timesheets pending review for your team member.
 3.  Click on the magnifying glass to the left of your team member's name to view their timesheet.
 4.  Review three general items:
@@ -107,7 +107,7 @@ To approve your team member's timesheet:
     -   Accuracy
     -   Reasonableness
 
-6.  If the team member's timesheet is complete, accurate, and reasonable, and the project, CLIN / Task and labor category and bill rate (if applicable) are correct, then you can approve the timesheet. You will be asked to approve the timesheet again, on the next screen.
+5.  If the team member's timesheet is complete, accurate, and reasonable, and the project, CLIN / Task and labor category and bill rate (if applicable) are correct, then you can approve the timesheet. You will be asked to approve the timesheet again, on the next screen.
 
     -   If the timesheet is incomplete, inaccurate, unreasonable, or has an incorrect labor category or CLIN / task, you must disapprove the timesheet. You must provide the team member with a reason as to why the timesheet was disapproved.
 
