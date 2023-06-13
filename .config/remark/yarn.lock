@@ -1764,10 +1764,10 @@ remark-lint-no-heading-content-indent@^4.0.0, remark-lint-no-heading-content-ind
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-heading-indent@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-4.1.1.tgz#f9ec911c26b68df0362731a4bbb78b5a2743fc89"
-  integrity sha512-3vIfT7gPdpE9D7muIQ6YzSF1q27H9SbsDD7ClJRkEWxMiAzBg0obOZFOIBYukUkmGWdOR5P1EDn5n9TEzS1Fyg==
+remark-lint-no-heading-indent@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-4.1.2.tgz#77a47282df3db7158af8653af285f5f9c7c7be3f"
+  integrity sha512-XFoSebfsYV6EFYRCYkCzSw6xxgltN5l3aPH+UfCk/0geMnl3DrCQjbQt9qhxQzBSBa4gA91CGs2DRI5Xxbwzig==
   dependencies:
     "@types/mdast" "^3.0.0"
     pluralize "^8.0.0"
