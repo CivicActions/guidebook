@@ -1553,10 +1553,10 @@ remark-lint-list-item-content-indent@^3.0.0, remark-lint-list-item-content-inden
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-list-item-indent@^3.0.0, remark-lint-list-item-indent@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-list-item-indent/-/remark-lint-list-item-indent-3.1.1.tgz#1591d291a9f81c8f14219bdb63f226a5e9f271c3"
-  integrity sha512-OSTG64e52v8XBmmeT0lefpiAfCMYHJxMMUrMnhTjLVyWAbEO0vqqR5bLvfLwzK+P4nY2D/8XKku0hw35dM86Rw==
+remark-lint-list-item-indent@^3.0.0, remark-lint-list-item-indent@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-indent/-/remark-lint-list-item-indent-3.1.2.tgz#8b7e8eafe78ea2308c61ee9ff239ecf46b6f2bd6"
+  integrity sha512-tkrra1pxZVE4OVJGfN435u/v0ljruXU+dHzWiKDYeifquD4aWhJxvSApu7+FbE098D/4usVXgMxwFkNhrpZcSQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     pluralize "^8.0.0"
@@ -1764,10 +1764,10 @@ remark-lint-no-heading-content-indent@^4.0.0, remark-lint-no-heading-content-ind
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-heading-indent@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-4.1.1.tgz#f9ec911c26b68df0362731a4bbb78b5a2743fc89"
-  integrity sha512-3vIfT7gPdpE9D7muIQ6YzSF1q27H9SbsDD7ClJRkEWxMiAzBg0obOZFOIBYukUkmGWdOR5P1EDn5n9TEzS1Fyg==
+remark-lint-no-heading-indent@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-4.1.2.tgz#77a47282df3db7158af8653af285f5f9c7c7be3f"
+  integrity sha512-XFoSebfsYV6EFYRCYkCzSw6xxgltN5l3aPH+UfCk/0geMnl3DrCQjbQt9qhxQzBSBa4gA91CGs2DRI5Xxbwzig==
   dependencies:
     "@types/mdast" "^3.0.0"
     pluralize "^8.0.0"
@@ -1930,10 +1930,10 @@ remark-lint-no-unused-definitions@^3.0.0, remark-lint-no-unused-definitions@^3.1
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-ordered-list-marker-style@^3.0.0, remark-lint-ordered-list-marker-style@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-style/-/remark-lint-ordered-list-marker-style-3.1.1.tgz#5431100f048ef44daa90a32251e8056f2de58449"
-  integrity sha512-IWcWaJoaSb4yoSOuvDbj9B2uXp9kSj58DqtrMKo8MoRShmbj1onVfulTxoTLeLtI11NvW+mj3jPSpqjMjls+5Q==
+remark-lint-ordered-list-marker-style@^3.0.0, remark-lint-ordered-list-marker-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-style/-/remark-lint-ordered-list-marker-style-3.1.2.tgz#9c7b38fb80784a7bd966f888f87aa83bff282d14"
+  integrity sha512-62iVE/YQsA0Azaqt8yAJWPplWLS47kDLjXeC2PlRIAzCqbNt9qH3HId8vZ15QTSrp8rHmJwrCMdcqV6AZUi7gQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1942,10 +1942,10 @@ remark-lint-ordered-list-marker-style@^3.0.0, remark-lint-ordered-list-marker-st
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-ordered-list-marker-value@^3.0.0, remark-lint-ordered-list-marker-value@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-value/-/remark-lint-ordered-list-marker-value-3.1.1.tgz#fed1bafdaa8ada89d037e411e35d4c2b3f7cdda9"
-  integrity sha512-+bQZbo+v/A8CuLrO71gobJuKR4/sfnPgWyEggSa+zq+LXPK1HiMDjap0Wr07uYgcUXsXIPh+HD/5J5by6JL+vg==
+remark-lint-ordered-list-marker-value@^3.0.0, remark-lint-ordered-list-marker-value@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-value/-/remark-lint-ordered-list-marker-value-3.1.2.tgz#a2bb783c184a76b73eee2560916fa2bd43494239"
+  integrity sha512-kG08nhsFk8rhoXK5EeDN/wN28CxefraDud/MaZnji8LEyxF3HAkzFuETr9laOn8Ey+n8h/C0mpqAwUf4thyJ5g==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1988,10 +1988,10 @@ remark-lint-table-cell-padding@^4.0.0, remark-lint-table-cell-padding@^4.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-table-pipe-alignment@^3.0.0, remark-lint-table-pipe-alignment@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-table-pipe-alignment/-/remark-lint-table-pipe-alignment-3.1.1.tgz#dc9381f1b8437d3a96c3309ed8277ab003e84955"
-  integrity sha512-WOHv2yL4ZwXHM06MIyQNnGFYKz9m2k/GFIA/6hpArF8Ph/3v8CF0J/Hb3Yyfg39e5nODw3D2G3okCO+xgyGQGA==
+remark-lint-table-pipe-alignment@^3.0.0, remark-lint-table-pipe-alignment@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-pipe-alignment/-/remark-lint-table-pipe-alignment-3.1.2.tgz#c12542f31cf1ea2901030a94eb4d25ab18233316"
+  integrity sha512-6WRWgsMtfeLDEHbxnXZucTBQvxpEsw+QpNy7qEDqllnTo6OySgZPUodFAyI7s4t0ugqAfWf3lcCdMYkOL9kwBg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
