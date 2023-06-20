@@ -1789,10 +1789,10 @@ remark-lint-no-heading-punctuation@^3.0.0, remark-lint-no-heading-punctuation@^3
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-html@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-3.1.1.tgz#0727253422be3cd2d5a642b5e1644c556d3a2c27"
-  integrity sha512-hTaw6Ul3iAXvesWzvl+ev1tVf1SNm7hG3l7A2pj8r+1MlklKDFeaMWsxKnDh+8Rh6pj+mRnwzsbwtQxKiKs9Cw==
+remark-lint-no-html@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-3.1.2.tgz#046b372f4e076e6b07090f6626fab6dfaa5aaba5"
+  integrity sha512-KYxwGNQRVXmYhrg/gzi9RL/oaQEQMf6S82apsaBvPd+GbLfUu/sZ9ipJL2Lavz66elzZITcs/B80yi0jsFPbSw==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
