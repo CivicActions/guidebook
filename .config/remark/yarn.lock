@@ -1483,10 +1483,10 @@ remark-lint-first-heading-level@^3.1.2:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-hard-break-spaces@^3.0.0, remark-lint-hard-break-spaces@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-hard-break-spaces/-/remark-lint-hard-break-spaces-3.1.1.tgz#daaa6fbc9d08a0501dc6e3d4a844dc4783bdfaea"
-  integrity sha512-UfwFvESpX32qwyHJeluuUuRPWmxJDTkmjnWv2r49G9fC4Jrzm4crdJMs3sWsrGiQ3mSex6bgp/8rqDgtBng2IA==
+remark-lint-hard-break-spaces@^3.0.0, remark-lint-hard-break-spaces@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-hard-break-spaces/-/remark-lint-hard-break-spaces-3.1.2.tgz#c14cec655c697bcd76c1c65bdfb81a82b42b3160"
+  integrity sha512-HaW0xsl3TI7VFAqGWWcZtPqyz0NWu19KKjSO7OGFTUJU4S9YiRnhIxmSFM0ZLSsVAynE+dhzVKa8U7dOpWDcOg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1602,10 +1602,10 @@ remark-lint-maximum-line-length@^3.0.0, remark-lint-maximum-line-length@^3.1.3:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-auto-link-without-protocol@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-auto-link-without-protocol/-/remark-lint-no-auto-link-without-protocol-3.1.1.tgz#4b055328c46653fc073bda250cbbe7189248dc62"
-  integrity sha512-lCjBuoSUWjN1kO0J7vqQgn7HUF/WeOHOqc3oiq9LMRXIovKWqPCBi77o8Npv8KfV+JXeRl+hrupfbhJXlLturA==
+remark-lint-no-auto-link-without-protocol@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-auto-link-without-protocol/-/remark-lint-no-auto-link-without-protocol-3.1.2.tgz#ff0645409d83c657e83c94182d73e45d5482b6b5"
+  integrity sha512-mPIdFOGxdDhCMa2qIzjzjDzDoQeyK+/1BBgsseqThuBtoAoXR5l1TZfII2isNbBo6L8d+fMFdx1/3qALoDjtcA==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-to-string "^3.0.0"
@@ -1789,10 +1789,10 @@ remark-lint-no-heading-punctuation@^3.0.0, remark-lint-no-heading-punctuation@^3
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-html@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-3.1.1.tgz#0727253422be3cd2d5a642b5e1644c556d3a2c27"
-  integrity sha512-hTaw6Ul3iAXvesWzvl+ev1tVf1SNm7hG3l7A2pj8r+1MlklKDFeaMWsxKnDh+8Rh6pj+mRnwzsbwtQxKiKs9Cw==
+remark-lint-no-html@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-3.1.2.tgz#046b372f4e076e6b07090f6626fab6dfaa5aaba5"
+  integrity sha512-KYxwGNQRVXmYhrg/gzi9RL/oaQEQMf6S82apsaBvPd+GbLfUu/sZ9ipJL2Lavz66elzZITcs/B80yi0jsFPbSw==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1800,10 +1800,10 @@ remark-lint-no-html@^3.1.1:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-inline-padding@^4.0.0, remark-lint-no-inline-padding@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-inline-padding/-/remark-lint-no-inline-padding-4.1.1.tgz#2f1dda78556f1f8a98b4cad52ff74f6a56b55c58"
-  integrity sha512-++IMm6ohOPKNOrybqjP9eiclEtVX/Rd2HpF2UD9icrC1X5nvrI6tlfN55tePaFvWAB7pe6MW4LzNEMnWse61Lw==
+remark-lint-no-inline-padding@^4.0.0, remark-lint-no-inline-padding@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-inline-padding/-/remark-lint-no-inline-padding-4.1.2.tgz#f1e8bd21694f9f773078ff977934edea8ffd842d"
+  integrity sha512-dGyhWsiqCZS3Slob0EVBUfsFBbdpMIBCvb56LlCgaHbnLsnNYx8PpF/wA5CgsN8BXIbXfRpyPB5cIJwIq5taYg==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-to-string "^3.0.0"
@@ -2022,10 +2022,10 @@ remark-lint-unordered-list-marker-style@^3.0.0, remark-lint-unordered-list-marke
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint@^9.0.0, remark-lint@^9.1.1:
-  version "9.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-9.1.1.tgz#58c27adc4edeca93b7ce81e2861f05cbcecef72c"
-  integrity sha512-zhe6twuqgkx/9KgZyNyaO0cceA4jQuJcyzMOBC+JZiAzMN6mFUmcssWZyY30ko8ut9vQDMX/pyQnolGn+Fg/Tw==
+remark-lint@^9.0.0, remark-lint@^9.1.2:
+  version "9.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-9.1.2.tgz#0781e273bba33fbfd26210b639b8a3702d65ad91"
+  integrity sha512-m9e/aPlh7tsvfJfj8tPxrQzD6oEdb9Foko+Ya/6OwUP9EoGMfehv1Qtv26W1DoH58Wn8rT8CD+KuprTWscMmIA==
   dependencies:
     "@types/mdast" "^3.0.0"
     remark-message-control "^7.0.0"
