@@ -4,7 +4,7 @@ title: Timesheets
 
 # Timesheets
 
-As outlined in our [Timekeeping Policy](https://docs.google.com/document/d/1UuQcd_T7d9qr_waZgUWzZCP8zV0_ujpAxBechiz1lJQ/edit#), you're responsible for reporting your own time, on time. You will need to track all your time, including client work, internal projects, professional development, vacation, other forms of leave, and sick time. There is oversight on this process, but ultimately you are responsible for accuracy. Time should be tracked daily and in appropriate categories.
+You are responsible for reporting your own time, on time. You will need to track all your time, including client work, internal projects, professional development, vacation, other forms of leave, and sick time. There is oversight on this process, but ultimately you are responsible for accuracy. Time should be tracked daily and in appropriate categories.
 
 You will need to track either:
 
@@ -45,8 +45,6 @@ To create a timesheet:
 -   Log your time in Unanet accurately. If you spend 6 hours on a project and 2 hours on internal work, ensure the time is logged correctly in each of the Unanet entries.
 
 -   If you need to split time between charge codes, 0.25 is acceptable. All time entry is to the nearest quarter (0.25).
-
--   You can only pre-fill your timesheet under the [condition explained in the Timekeeping Policy](https://docs.google.com/document/d/1UuQcd_T7d9qr_waZgUWzZCP8zV0_ujpAxBechiz1lJQ/edit?usp=sharing)  (Timekeeping requirements).
 
 Many team members at CivicActions are disciplined in keeping track of their hours, or are able to work in structured blocks that allow them to easily record their time at the end of each day. If you are unsure, you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://drive.google.com/drive/u/0/recent), [check Zoom meetings](https://zoom.us/meeting#/previous), search Slack messages (example: on:Monday from:me), or look at the GitHub overview when you log in.
 
