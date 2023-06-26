@@ -1872,10 +1872,10 @@ remark-lint-no-shortcut-reference-image@^3.0.0, remark-lint-no-shortcut-referenc
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-shortcut-reference-link@^3.0.0, remark-lint-no-shortcut-reference-link@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-shortcut-reference-link/-/remark-lint-no-shortcut-reference-link-3.1.1.tgz#b29bc4bfdb02b30a596b5fed235c99e470805130"
-  integrity sha512-oDJ92/jXQ842HgrBGgZdP7FA+N2jBMCBU2+jRElkS+OWVut0UaDILtNavNy/e85B3SLPj3RoXKF96M4vfJ7B2A==
+remark-lint-no-shortcut-reference-link@^3.0.0, remark-lint-no-shortcut-reference-link@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-shortcut-reference-link/-/remark-lint-no-shortcut-reference-link-3.1.2.tgz#451d867b58fcf20f6fcacf3da64fedf86b07bcf2"
+  integrity sha512-/9iPN7FLKaaIzw4tLWKu7Rx0wAP7E2EuzIeentQlkY0rO/mMHipmT3IlgiebsAInKagzTY6TNFoG1rq2VnaCcA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
