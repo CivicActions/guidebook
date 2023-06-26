@@ -1419,10 +1419,10 @@ remark-lint-emphasis-marker@^3.0.0, remark-lint-emphasis-marker@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-fenced-code-flag@^3.0.0, remark-lint-fenced-code-flag@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-fenced-code-flag/-/remark-lint-fenced-code-flag-3.1.1.tgz#b1fccd801a79c302543302dd3041fa325d1bd727"
-  integrity sha512-FFVZmYsBccKIIEgOtgdZEpQdARtAat1LTLBydnIpyNIvcntzWwtrtlj9mtjL8ZoSRre8HtwmEnBFyOfmM/NWaA==
+remark-lint-fenced-code-flag@^3.0.0, remark-lint-fenced-code-flag@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-fenced-code-flag/-/remark-lint-fenced-code-flag-3.1.2.tgz#a7b8040cdc78414f5fe742e2a28b6ef5dac14a79"
+  integrity sha512-yh4m3dlPmRsqM/BFhpqHYfrmBvFQ+D5dZZKDDYP2rf3YEoXlEVt8T8lWQueTTSxcq6yXAqL/XQL/iqqUHlLcHw==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
