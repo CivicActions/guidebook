@@ -169,9 +169,9 @@ Some sites are hosted on the Acquia Cloud Enterprise (ACE) PaaS
 (AWS) FedRAMP-certified cloud in the us-east region. See [ACE
 Status](https://status.acquia.com/) and [AWS status](https://health.aws.amazon.com/health/status).
 
--   **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security>
--   **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor>
--   **Acquia Availability & Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
+-   **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security.html>
+-   **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor.html>
+-   **Acquia Availability & Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability.html>
 
 Acquia Cloud takes hourly snapshots of EBS volumes that are saved to Amazon S3 providing
 geographically distributed data centers.
