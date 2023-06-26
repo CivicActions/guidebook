@@ -1338,10 +1338,10 @@ remark-frontmatter@^4.0.1:
     micromark-extension-frontmatter "^1.0.0"
     unified "^10.0.0"
 
-remark-lint-blockquote-indentation@^3.0.0, remark-lint-blockquote-indentation@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-blockquote-indentation/-/remark-lint-blockquote-indentation-3.1.1.tgz#756c099efd43a125f04df329bfe84398358758b6"
-  integrity sha512-u9cjedM6zcK8vRicis5n/xeOSDIC3FGBCKc3K9pqw+nNrOjY85FwxDQKZZ/kx7rmkdRZEhgyHak+wzPBllcxBQ==
+remark-lint-blockquote-indentation@^3.0.0, remark-lint-blockquote-indentation@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-blockquote-indentation/-/remark-lint-blockquote-indentation-3.1.2.tgz#0d35b4da3731eb4885ea0e794e60d8ede8e1f78a"
+  integrity sha512-5DOrFsZd5dXqA4p/VZvWSrqIWNFbBXjX7IV/FkVkxlNhNF/0FMf/4v8x1I2W3mzaZ7yDsWS/egpZnmligq1ckQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     pluralize "^8.0.0"
