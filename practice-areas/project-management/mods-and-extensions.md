@@ -8,7 +8,7 @@ title: Contractual Modification (MOD) or Extension
 
 1/ Contract Modifications (Mods) are required for any change to the project contract or PWS, e.g. adjustments to the following:
 
-A/ Key personnel – Key Personnel are defined as "...personnel… considered to be essential to the work being performed under [a] contract." In many cases, Key Personnel are explicitly named in the contact, and whenever this is the case, changes to Key Personnel must be denoted with a Mod.
+A/ Key personnel – Key Personnel are defined as "personnel considered to be essential to the work being performed under a contract." In many cases, Key Personnel are explicitly named in the contract, and whenever this is the case, changes to Key Personnel must be denoted with a Mod.
 
 See this sample language, binding Personnel changes: "Prior to diverting any of the specified individuals to other projects, the contractor shall notify the Contracting Officer reasonably in advance and shall submit justification (including proposed substitutions) in sufficient detail to permit evaluation of the impact on the program. No diversion shall be made by the contractor without the written consent of the Contracting Officer."
 
