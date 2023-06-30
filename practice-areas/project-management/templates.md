@@ -115,7 +115,7 @@ A few templates that support Project Managers and team members for OOO planning 
 
 Reminder about [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
 
-[OOO Template](https://docs.google.com/document/d/1dOH4TgiZmd44CSBUmZB451V8aw9BT8SBDiEYyUXTh3U/edit#heading=h.3uhyu8z8uyfi)
+[OOO Template](https://docs.google.com/document/d/1dOH4TgiZmd44CSBUmZB451V8aw9BT8SBDiEYyUXTh3U/edit)
 
 ## Production users
 
