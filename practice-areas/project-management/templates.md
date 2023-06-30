@@ -107,7 +107,7 @@ A few templates that support Project Managers and team members for OOO planning 
 
 ### Project Managers
 
-[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
+[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit)
 
 [Returning Project Manager/ handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
 
