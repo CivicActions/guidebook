@@ -10,7 +10,7 @@ title: Contractual Modification (MOD) or Extension
 
 A/ Key personnel – Key Personnel are defined as "personnel considered to be essential to the work being performed under a contract." In many cases, Key Personnel are explicitly named in the contract, and whenever this is the case, changes to Key Personnel must be denoted with a Mod.
 
-See this sample language, binding Personnel changes: "Prior to diverting any of the specified individuals to other projects, the contractor shall notify the Contracting Officer reasonably in advance and shall submit justification (including proposed substitutions) in sufficient detail to permit evaluation of the impact on the program. No diversion shall be made by the contractor without the written consent of the Contracting Officer."
+See this sample language regarding binding Personnel changes: "Prior to diverting any of the specified individuals to other projects, the contractor shall notify the Contracting Officer reasonably in advance and shall submit justification (including proposed substitutions) in sufficient detail to permit evaluation of the impact on the program. No diversion shall be made by the contractor without the written consent of the Contracting Officer."
 
 B/ Scope - The agreement between the government and CivicActions, which specifies the work we are completing for the government. Scopes include deliverables, timelines, milestones, etc, often expressed in the Performance Work Statement, or PWS.
 
@@ -44,7 +44,7 @@ If your project requires a Mod or Extension, it is prudent to ensure everyone ag
 
 It is important that the Project Team and Leads review the PWS every time an Option Year/Option Period is extended. The Project Manager will undertake this as part of the team's Wrapper Review.
 
-Any type of contractual change is also a good time to review resourcing, especially as it spans future time periods. For instance, think ahead for potential professional development advancements within your team, thinking through how resources will be replaced if promotions occur. This allows you to be prepared and thus make people planning requests more swiftly to avoid resourcing gaps.
+Any type of contractual change is also a good time to review resourcing, especially as it relates to future time periods or option years. For instance, think ahead for potential professional development advancements within your team, thinking through how resources will be replaced if promotions occur. This allows you to be prepared and thus make people planning requests more swiftly to avoid resourcing gaps.
 
 ## Preparing for a Mod
 
