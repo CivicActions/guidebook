@@ -16,7 +16,7 @@ B/ Scope - The agreement between the government and CivicActions, which specifie
 
 C/ Deliverables - these are the tasks or items that our project team is contractually obligated to deliver, and include tangible action items such as product upgrades, service support, reports, etc.
 
-D/ Contract cost or amount
+D/ Contract cost or amount.
 
 2/ Contract Extensions generally involve retaining the contractual language yet adjusting the given dates (e.g., for option terms or option years).
 
@@ -24,9 +24,9 @@ D/ Contract cost or amount
 
 Any and all contractual changes require input from the CivicActions Legal team. If the changes are purely financial, then please raise awareness with Legal. If the changes involve roles, resourcing, etc., Legal must be involved from the inception.
 
-## Communicating Receipt of Mod/Extension w/ Leadership, Legal and Sales
+## Communicating Receipt of Mod/Extension with Leadership, Legal and Sales
 
-Any legal documentation delivered to CivicActions by the CO/COR must be shared immediately with Legal and Sales - via email - so there is a paper trail. Additionally, we recommend that the Project Manager update the program CORE channel with a clear and concise message regarding the Mod/Extension, and to identify next steps. The five Ws and the H apply here (Who, what, where, when, why and how). Also include the original requestor of the Mod/extension (whether it came from CivicActions or a client).
+Any legal documentation delivered to CivicActions by the CO/COR must be shared immediately with Legal and Sales - via email - so there is a paper trail. Additionally, we recommend that the Project Manager update the program CORE channel with a clear and concise message regarding the Mod/Extension, and to identify next steps. The five Ws and the H apply here: Who, what, where, when, why and how. Also include the original requestor of the Mod/extension (whether it came from CivicActions or a client.
 
 Sample Message for Extension
 
@@ -38,7 +38,7 @@ Jane Doe delivered the Mod on Friday, August 12th. The email contains Mod paperw
 
 Once the message has been posted in the appropriate CORE channel, it's a good idea to communicate a message to the team as well via the appropriate INT channel.
 
-## Mods and Extensions are a good time to reevaluate project objectives
+## Mods and Extensions are a good time to evaluate project objectives
 
 If your project requires a Mod or Extension, it is prudent to ensure everyone agrees about why the change is being made. Pull in your Project Management colleagues for input, as well as CivicActions leaders, i.e., Sales, and discuss with the Project Team both the motivators for and the effects of any changes.
 
