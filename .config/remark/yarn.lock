@@ -1541,10 +1541,10 @@ remark-lint-list-item-bullet-indent@^4.0.0, remark-lint-list-item-bullet-indent@
     unified-lint-rule "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-list-item-content-indent@^3.0.0, remark-lint-list-item-content-indent@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-3.1.1.tgz#9fff6bf4e1a08e86d99430838b822b8209dca15e"
-  integrity sha512-gcZhAXLd1onkutTEqQTybyANjdxvlOlu0y/AU4H3f6L99UGC85ymRhEeu5vGSkvsKKPR1FrMTEH6G2nNgtavgg==
+remark-lint-list-item-content-indent@^3.0.0, remark-lint-list-item-content-indent@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-3.1.2.tgz#ca9f2ebe58174ddb8da2bb7a1e767ad236d6992a"
+  integrity sha512-TB0pmrWiRaQW80Y/PILFQTnHDghRxXNzMwyawlP+DBF9gNom3pEBmb4ZlGQlN0aa3r8VWeIKdv1ylHrfXE0vqA==
   dependencies:
     "@types/mdast" "^3.0.0"
     pluralize "^8.0.0"
