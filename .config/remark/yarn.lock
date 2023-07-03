@@ -1628,10 +1628,10 @@ remark-lint-no-blockquote-without-marker@^5.0.0, remark-lint-no-blockquote-witho
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-no-consecutive-blank-lines@^4.0.0, remark-lint-no-consecutive-blank-lines@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-4.1.2.tgz#77d5c433830c306898deefbab370c0c5732ff99a"
-  integrity sha512-wRsR3kFgHaZ4mO3KASU43oXGLGezNZ64yNs1ChPUacKh0Bm7cwGnxN9GHGAbOXspwrYrN2eCDxzCbdPEZi2qKw==
+remark-lint-no-consecutive-blank-lines@^4.0.0, remark-lint-no-consecutive-blank-lines@^4.1.3:
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-4.1.3.tgz#929979b682c173472e23c94150e7c096cac83677"
+  integrity sha512-yU3jH6UMHvaxX3DPBen+7CoPiCcqJ4BeteyOKeKX+tKWCWKILpiz+TVToRbeLnWO4IvFNnSRFMSXmcWSDdbY4w==
   dependencies:
     "@types/mdast" "^3.0.0"
     "@types/unist" "^2.0.0"
