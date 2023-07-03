@@ -31,7 +31,7 @@
     "remark-lint-maximum-line-length": "^3.1.3",
     "remark-lint-no-auto-link-without-protocol": "^3.1.2",
     "remark-lint-no-blockquote-without-marker": "^5.1.2",
-    "remark-lint-no-consecutive-blank-lines": "^4.1.2",
+    "remark-lint-no-consecutive-blank-lines": "^4.1.3",
     "remark-lint-no-duplicate-definitions": "^3.1.1",
     "remark-lint-no-duplicate-headings-in-section": "^3.1.2",
     "remark-lint-no-emphasis-as-heading": "^3.1.1",
