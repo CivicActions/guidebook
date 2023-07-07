@@ -120,4 +120,4 @@ To get help with timesheets, project codes, and using Unanet:
 -   Search the [Unanet Knowledge Center](https://knowledgecenter.unanet.com/display/kb/End+User+Training)
 -   [Instructions](https://docs.google.com/presentation/d/1IEl3c8pOAYz5KNM4tVDemjvx5O-5m5WF21r4saANsFw/edit#slide=id.gce3d6a447a_0_89) (deck)
 -   [Time Off policy (US)](../employee-benefits/README.md)
--   [Time Off policy (Canada)](../employee-benefits/canada-benefits-policy.md)
+-   [Time Off policy (Canada)](../employee-benefits/pto-canada.md)
