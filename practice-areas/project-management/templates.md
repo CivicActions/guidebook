@@ -107,7 +107,7 @@ A few templates that support Project Managers and team members for OOO planning 
 
 ### Project Managers
 
-[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
+[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit)
 
 [Returning Project Manager/ handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
 
@@ -115,7 +115,7 @@ A few templates that support Project Managers and team members for OOO planning 
 
 Reminder about [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
 
-[All resources coverage plan](https://docs.google.com/document/d/12bydtX5Dj6C_L-o5O_Tj2OsdbjgSzzhnIr66zssiyyg/edit#)
+[OOO Template](https://docs.google.com/document/d/1dOH4TgiZmd44CSBUmZB451V8aw9BT8SBDiEYyUXTh3U/edit)
 
 ## Production users
 
