@@ -1578,10 +1578,10 @@ remark-lint-list-item-spacing@^4.0.0:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-maximum-heading-length@^3.0.0, remark-lint-maximum-heading-length@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-maximum-heading-length/-/remark-lint-maximum-heading-length-3.1.1.tgz#dd90ef7f18ff20789f9c533e2bdbcd4b4d92a7cd"
-  integrity sha512-hTOvRDnULpu0S+k51lovT28TLBgtw8XR0qq+mECSsoyuT4C38UBjQRic5OPo68AZMH0ad/93uj6yvfFtH0K8Lg==
+remark-lint-maximum-heading-length@^3.0.0, remark-lint-maximum-heading-length@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-maximum-heading-length/-/remark-lint-maximum-heading-length-3.1.2.tgz#20225d60dd7985f10dfcbac49decfac04c7ee160"
+  integrity sha512-gkmZxjlzEmNjBRBwef0L/Qmoabxxof0mryOxWzRZSu1xz4Qsp+UFWMhiHGXbE9WJL6EBW8yNTOpgnNgUOzqDiQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-to-string "^3.0.0"
