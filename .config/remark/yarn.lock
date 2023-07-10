@@ -2010,10 +2010,10 @@ remark-lint-table-pipes@^4.0.0, remark-lint-table-pipes@^4.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-unordered-list-marker-style@^3.0.0, remark-lint-unordered-list-marker-style@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-unordered-list-marker-style/-/remark-lint-unordered-list-marker-style-3.1.1.tgz#ad9a2aaa705bf3c1ec147f493c7b453ea612238f"
-  integrity sha512-JwH8oIDi9f5Z8cTQLimhJ/fkbPwI3OpNSifjYyObNNuc4PG4/NUoe5ZuD10uPmPYHZW+713RZ8S5ucVCkI8dDA==
+remark-lint-unordered-list-marker-style@^3.0.0, remark-lint-unordered-list-marker-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-unordered-list-marker-style/-/remark-lint-unordered-list-marker-style-3.1.2.tgz#7675ad4ffd91613a51c5a908061d9eb79df63160"
+  integrity sha512-JFiyB4ZprJGGndCaFB8FssXd48m4Kh+CUqzNgu3lBLEiW8dEAGRlD9M2AzyyA+Q29WJP/FntDCbP22DeON91UA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
