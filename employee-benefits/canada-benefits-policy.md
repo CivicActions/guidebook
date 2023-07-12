@@ -1,8 +1,8 @@
 ---
-title: Benefits policy (Canadian employees)
+title: Personal Time Off (Canadian employees)
 ---
 
-# Benefits
+# Personal Time Off (Canadian employees)
 
 Time off under this policy is not being provided in addition to any pre-existing vacation, personal time, or sick leave policy, which are now superseded by this policy.
 
@@ -29,7 +29,7 @@ Employees are not encouraged to work on these holidays. If you feel it's necessa
 
 Exempt employees who voluntarily work on holidays will not receive additional compensation. Absent unique circumstances related to the needs of the business, you do NOT need to log entries when the office is closed for a holiday. All non-exempt employees must obtain approval from their manager prior to performing work on a holiday, and must record all hours worked, regardless of whether such prior approval was obtained.
 
-## Notice, Scheduling, and Approval of Time Off
+## Notice, scheduling, and approval of time off
 
 You do not need to justify time off for traditional vacation or personal time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies.
 
@@ -56,7 +56,7 @@ Employees should follow the following procedure for providing notice of, schedul
 -   _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
 -   _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
 
-## Scheduling Shifts
+## Scheduling shifts
 
 If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, you are attending a conference, or you need a Tuesday off but plan to make up the hours over the weekend.
 
@@ -65,7 +65,7 @@ If you find yourself needing to adjust your schedule a certain day or week, it i
 1. The schedule change will be acknowledged in an email reply.
 1. The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.
 
-## Personal Tech Issues
+## Personal tech issues
 
 At CivicActions, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
 
@@ -79,7 +79,7 @@ When you have a technical issue with your home network, power and personal equip
 1. If the problem lasts longer than 2 hours, email <mailto:ca-schedule@civicactions.net> and log it in Unanet, using the task "Technical Issues".
 1. If it's persistent, set an out of office message.
 
-### Slack Channels
+### Slack channels
 
 -   You can go to the following Slack channels for support: #windows #osx #gnu-linux
 
@@ -87,10 +87,10 @@ When you have a technical issue with your home network, power and personal equip
 
 Employees of CivicActions, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
 
-## Medical Insurance
+## Medical insurance
 
 To be updated with information from PEO Canada
 
-## Professional Development Stipend
+## Professional development stipend
 
 Employees are encouraged to take education and training courses related to their profession. When appropriate, and with prior approval, CivicActions will pay for all or a portion of such courses.
