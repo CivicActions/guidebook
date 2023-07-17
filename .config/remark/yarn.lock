@@ -1883,10 +1883,10 @@ remark-lint-no-shortcut-reference-link@^3.0.0, remark-lint-no-shortcut-reference
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-table-indentation@^4.0.0, remark-lint-no-table-indentation@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-table-indentation/-/remark-lint-no-table-indentation-4.1.1.tgz#985a0a1f7a533b58c9829db6579c7cac899e55e1"
-  integrity sha512-eklvBxUSrkVbJxeokepOvFZ3n2V6zaJERIiOowR+y/Bz4dRHDMij1Ojg55AMO9yUMvxWPV3JPOeThliAcPmrMg==
+remark-lint-no-table-indentation@^4.0.0, remark-lint-no-table-indentation@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-table-indentation/-/remark-lint-no-table-indentation-4.1.2.tgz#08ef417f7f280c11521ff85a5d3d243aad08e443"
+  integrity sha512-5lkO+Yrtni/CDMZi7mlwbB2zzRQLH94DesboXg51aO2UfZlSn5dZNhmN5wkyCU2AiApUhlFNbxfKMHOWFPLdog==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
