@@ -1777,10 +1777,10 @@ remark-lint-no-heading-indent@^4.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-heading-punctuation@^3.0.0, remark-lint-no-heading-punctuation@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-3.1.1.tgz#ba2159170778bfdec8947e1a71d1e152431cd9ce"
-  integrity sha512-ZexHx4rmsjKVF1/Fvdig0yOgpWl0wFa43+sqg880HT3PW9KmEczjSRkwlMaTlVgDzC0paNn2FXfQMuEQW4YDLg==
+remark-lint-no-heading-punctuation@^3.0.0, remark-lint-no-heading-punctuation@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-3.1.2.tgz#7bf808106de768467216c34db0dc586cb248056e"
+  integrity sha512-KnvHEVB/DcxJOhUvVteiovAy1+32YY5Vm0UBJqYCFrrHnN/y9ETvOJzlxFy47TaB8x2UyncSEg2JuT66UL4ONQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-to-string "^3.0.0"
