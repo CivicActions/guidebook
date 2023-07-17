@@ -1463,10 +1463,10 @@ remark-lint-final-definition@^3.0.0, remark-lint-final-definition@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-final-newline@^2.0.0, remark-lint-final-newline@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-final-newline/-/remark-lint-final-newline-2.1.1.tgz#dac4e5ae92638808fb6e2de6164c43890f1248a5"
-  integrity sha512-cgKYaI7ujUse/kV4KajLv2j1kmi1CxpAu+w7wIU0/Faihhb3sZAf4a5ACf2Wu8NoTSIr1Q//3hDysG507PIoDg==
+remark-lint-final-newline@^2.0.0, remark-lint-final-newline@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-final-newline/-/remark-lint-final-newline-2.1.2.tgz#c67267f6feede083f034d1f43ff22c5056bc0fe0"
+  integrity sha512-K0FdPGPyEB94PwNgopwVJFE8oRWi7IhY2ycXFVAMReI51el7EHB8F1gX14tB6p6zyGy6mUh69bCVU9mMTNeOUg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
