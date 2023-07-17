@@ -1683,10 +1683,10 @@ remark-lint-no-duplicate-headings@^3.0.0:
     unist-util-stringify-position "^3.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-emphasis-as-heading@^3.0.0, remark-lint-no-emphasis-as-heading@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-emphasis-as-heading/-/remark-lint-no-emphasis-as-heading-3.1.1.tgz#8279e3905fbc5117f195a65396ce50d08648d611"
-  integrity sha512-F45yuLsYVP4r6OjVtePKk7Aymnf3rBLHXYjnSJggEaYn0j+72xOBLrqmj6ii5YGfDsBwG2pDNTBx4vm3xM7P0Q==
+remark-lint-no-emphasis-as-heading@^3.0.0, remark-lint-no-emphasis-as-heading@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-emphasis-as-heading/-/remark-lint-no-emphasis-as-heading-3.1.2.tgz#6810b1a26364fd18e4f0a42a62284750ce21cfdb"
+  integrity sha512-2DDx0VkqSExR6oqBiQtOsmdDwT7f3hpnPwPvBCk7BDeDU53JWY1kBAkRObkEptgH3GfpwxIQymIdHXesBpAQAg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
