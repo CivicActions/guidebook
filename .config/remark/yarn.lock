@@ -1495,10 +1495,10 @@ remark-lint-hard-break-spaces@^3.0.0, remark-lint-hard-break-spaces@^3.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-heading-increment@^3.0.0, remark-lint-heading-increment@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-heading-increment/-/remark-lint-heading-increment-3.1.1.tgz#d12c9c1965e9eb44f090202d5d808a144c8ee884"
-  integrity sha512-DtiMwZNAE/iAZWuZGjTXxYjNDQ375r59C99aVeVp1nKaovIufKuHWAm9U/9FAGBJNgBx6Ovfdej4YwIxd0yAPw==
+remark-lint-heading-increment@^3.0.0, remark-lint-heading-increment@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-heading-increment/-/remark-lint-heading-increment-3.1.2.tgz#bef7e7cf8a6292b2869a0cb03944094504d984ad"
+  integrity sha512-+fMfZmFh6ie6MmbRCVW77Rha15zDmnHWKiA0Do08OTrfngPTv8ZKXYLmxhUpL+xV9ts9q+9Kz5rv0L4QD4sEwQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
