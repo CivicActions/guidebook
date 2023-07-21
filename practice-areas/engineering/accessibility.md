@@ -19,7 +19,7 @@ We implement Section 508 compliant sites and strive to meet the latest Web Conte
 
 -   We strive to produce work that is accessible to people of all abilities, regardless of client. However, we recognize that the level of accessibility compliance and prioritization can be influenced by budgetary and contractual implications.
 -   We aim to do accessibility work continuously, as part of our agile process. Accessibility scans should be performed on a per-ticket basis and signed off on before work is considered complete.
--   We know that accessibility cannot NOT BE left until the end of a project, but baked in throughout its lifespan.
+-   We know that accessibility CANNOT BE left until the end of a project, but baked in throughout its lifespan.
 
 ## General Accessibility Guidelines
 
