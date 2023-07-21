@@ -4,16 +4,16 @@ title: Accessibility
 
 # Accessibility
 
-We implement Section 508 compliant sites and strive to meet the latest Web Content Accessibility Guidelines (WCAG). We do this so that everyone can access our sites, even if they have a permanent, temporary or situtational disability. The Engineering team is very aware of the advantages of open standards, and semantic code for building future-compatible applications. CivicActions has an [Accessibility Practice Area](/en/latest/practice-areas/accessibility/), but is also a component of all other practice areas at CivicActions. 
+We implement Section 508 compliant sites and strive to meet the latest Web Content Accessibility Guidelines (WCAG). We do this so that everyone can access our sites, even if they have a permanent, temporary or situtational disability. The Engineering team is very aware of the advantages of open standards, and semantic code for building future-compatible applications. CivicActions has an [Accessibility Practice Area](/en/latest/practice-areas/accessibility/), but is also a component of all other practice areas at CivicActions.
 
 ## How we do this
 
--   We use base themes which strive to meet the W3C's WCAG 2.1 AA Success Criteria or above. 
+-   We use base themes which strive to meet the W3C's WCAG 2.1 AA Success Criteria or above.
 -   We implement good SEO structures (which are generally good for accessibility).
 -   We implement responsive design strategies that can present complex data in hierarchical structures, capable of being navigated by audio cues.
 -   We believe that users should be able to personalize how content is presented. We strive to allow users to change color schemes and text size displays allow them to have a better user experience.
--   We test sites using a combination of automated and manual testing. We leverage automated testing in the browser, with site-wide scans and also through integration in our CI/CD pipeline. 
--   We follow the best practices of the Drupal community, which includes accessibility. 
+-   We test sites using a combination of automated and manual testing. We leverage automated testing in the browser, with site-wide scans and also through integration in our CI/CD pipeline.
+-   We follow the best practices of the Drupal community, which includes accessibility.
 
 ## When we do this
 
