@@ -1386,10 +1386,10 @@ remark-lint-code-block-style@^3.0.0, remark-lint-code-block-style@^3.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-definition-case@^3.0.0, remark-lint-definition-case@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-definition-case/-/remark-lint-definition-case-3.1.1.tgz#583483e783d43b4b5e110864584dce48f23a4386"
-  integrity sha512-dirX0BSfbm1Ixx4Hv4xRQliEP1rw8dDitw2Om3XcO2QqF8bWrzF06/xeMlDNAaT77Cxqb9S7bODo/q+CYUxyWQ==
+remark-lint-definition-case@^3.0.0, remark-lint-definition-case@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-case/-/remark-lint-definition-case-3.1.2.tgz#45c2810fb751ee821e31d6ab0614c25f5ac61314"
+  integrity sha512-/VxucJKEFykOe2ILgi0LLia0RaSyOPQXpR+tuX4MK3iKxIm7aT2oINgR9ugLpI15xJ463LyTi5mXf+BGveXeWA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
