@@ -56,6 +56,10 @@
     },
     {
       "pattern": "^https://guidebook.civicactions.com/en/latest/$"
+    },
+    {
+      "NOTE: Unreliable sites below": "",
+      "pattern": "^https://nedjo.ca/.*"
     }
   ],
   "NOTE: We replace absolute links with a use-relative-links-to-md-files-only since these are (nearly) always mistakes and should link to the relative .md file instead": "",
