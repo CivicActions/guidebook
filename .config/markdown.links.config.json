@@ -45,6 +45,9 @@
       "pattern": "^https://identity.trinet.com/.*"
     },
     {
+      "pattern": "^https://.*.ecosia.org/.*"
+    },
+    {
       "NOTE: Intentional absolute self links below": "",
       "pattern": "^https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/$"
     },
