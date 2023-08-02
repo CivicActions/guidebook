@@ -1723,10 +1723,10 @@ remark-lint-no-file-name-consecutive-dashes@^2.0.0, remark-lint-no-file-name-con
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-no-file-name-irregular-characters@^2.0.0, remark-lint-no-file-name-irregular-characters@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-irregular-characters/-/remark-lint-no-file-name-irregular-characters-2.1.1.tgz#8f9dd0c22cf7ee5ca3860b949256e3eaf5baa5b0"
-  integrity sha512-rVeCv1XRdLtp/rxLaiFKElaIHuIlokypV/c2aCG3VVYcQ4+ZmJxq018kEsolR2+Dv9m3vKp8Fy1482US4g4WKA==
+remark-lint-no-file-name-irregular-characters@^2.0.0, remark-lint-no-file-name-irregular-characters@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-irregular-characters/-/remark-lint-no-file-name-irregular-characters-2.1.2.tgz#8dbca858c37e46f08cf5051b5a55945381bf4aab"
+  integrity sha512-2tcqzLm39Jc4THNP2yvJruOz2HtV4yh+eePiySKmhfZk/6ifMyOF/wlKHKcswczSGE4InNTfxJnc/AoxOJEdkw==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
