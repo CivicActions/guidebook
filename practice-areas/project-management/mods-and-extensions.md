@@ -26,7 +26,7 @@ Any and all contractual changes require input from the CivicActions Legal team. 
 
 ## Communicating Receipt of Mod/Extension with Leadership, Legal and Sales
 
-Any legal documentation delivered to CivicActions by the CO/COR must be shared immediately with Legal and Sales - via email - so there is a paper trail. Additionally, we recommend that the Project Manager update the program CORE channel with a clear and concise message regarding the Mod/Extension, and to identify next steps. The five Ws and the H apply here: Who, what, where, when, why and how. Also include the original requestor of the Mod/extension (whether it came from CivicActions or a client.
+Any legal documentation delivered to CivicActions by the CO/COR must be shared immediately with Legal and Sales - via email - so there is a paper trail. Additionally, we recommend that the Project Manager update the program CORE channel with a clear and concise message regarding the Mod/Extension, and to identify next steps. The five Ws and the H apply here: Who, what, where, when, why and how. Also include the original requester of the Mod/extension (whether it came from CivicActions or a client.
 
 Sample Message for Extension
 
