@@ -1954,10 +1954,10 @@ remark-lint-ordered-list-marker-value@^3.0.0, remark-lint-ordered-list-marker-va
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-rule-style@^3.0.0, remark-lint-rule-style@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-rule-style/-/remark-lint-rule-style-3.1.1.tgz#163b4f394422496c065c95227970657a57c786cf"
-  integrity sha512-+oZe0ph4DWHGwPkQ/FpqiGp4WULTXB1edftnnNbizYT+Wr+/ux7GNTx78oXH/PHwlnOtVIExMc4W/vDXrUj/DQ==
+remark-lint-rule-style@^3.0.0, remark-lint-rule-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-rule-style/-/remark-lint-rule-style-3.1.2.tgz#001c8aca23464bf68ff00c2bd0c73b1de557a61c"
+  integrity sha512-0CsX2XcX9pIhAP5N7Y8mhYXp3/Ld+NvxXY1p0LHAq0NZu17UsZLuegvx/s25uFbQs08DcmSqyKnepU9qGGqmTQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
