@@ -1850,10 +1850,10 @@ remark-lint-no-multiple-toplevel-headings@^3.0.0, remark-lint-no-multiple-toplev
     unist-util-stringify-position "^3.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-shell-dollars@^3.0.0, remark-lint-no-shell-dollars@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-shell-dollars/-/remark-lint-no-shell-dollars-3.1.1.tgz#27deee278650d72bca795788e195927f03059f9d"
-  integrity sha512-Q3Ad1TaOPxbYog5+Of/quPG3Fy+dMKiHjT8KsU7NDiHG6YJOnAJ3f3w+y13CIlNIaKc/MrisgcthhrZ7NsgXfA==
+remark-lint-no-shell-dollars@^3.0.0, remark-lint-no-shell-dollars@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-shell-dollars/-/remark-lint-no-shell-dollars-3.1.2.tgz#3663591611516a8eb3faf1251c95f7b9c14b1a02"
+  integrity sha512-np2MDEhXHviXhbQFjnC1QYv5/fxCV1cIHfGMoJpqiW7Zcu/UGCOo5TE3XswZH4ukHZJ65c3X2A6qfLDW+ur3CQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
