@@ -1,8 +1,8 @@
 ---
-title: Benefits policy (US employees)
+title: Personal Time Off (US employees)
 ---
 
-# Personal Time Off (PTO)
+# Personal Time Off (US employees)
 
 Time off under this policy is not being provided in addition to any pre-existing vacation, personal time, or sick leave policy, which are now superseded by this policy.
 
@@ -29,7 +29,7 @@ Employees are not encouraged to work on these holidays. If you feel it's necessa
 
 Exempt employees who voluntarily work on holidays will not receive additional compensation. Absent unique circumstances related to the needs of the business, you do NOT need to log entries when the office is closed for a holiday. All non-exempt employees must obtain approval from their manager prior to performing work on a holiday, and must record all hours worked, regardless of whether such prior approval was obtained.
 
-## Notice, Scheduling, and Approval of Time Off
+## Notice, scheduling, and approval of time off
 
 You do not need to justify time off for traditional vacation or personal time, but it does need to be arranged in advance so the work will be covered. An exception to this rule is for unforeseeable events or emergencies.
 
@@ -56,7 +56,7 @@ Employees should follow the following procedure for providing notice of, schedul
 -   _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
 -   _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
 
-## Exempt Employees -- Time Off
+## Exempt employees -- time off
 
 The following applies to all United States-based, FLSA exempt employees.
 In recognition of the professional environment in which we work, exempt CivicActions employees do not accrue sick days, vacation days, or any other form of time off in any fixed amount. Rather, an eligible employee who is absent from work as a result of appropriately scheduled and approved vacation, personal, or sick time, including for any reason covered by applicable paid sick leave requirements, is eligible for time off with pay under this policy.
@@ -64,7 +64,7 @@ Employees are encouraged to take a reasonable amount of time off as needed to fe
 
 Exempt employees do not accrue or carry over time off from year-to-year. Thus, time off will not be paid out upon termination.
 
-## Non-Exempt Employees -- Time Off
+## Non-Exempt employees -- time off
 
 The following applies to all United States-based, FLSA non-exempt employees.
 
@@ -76,7 +76,7 @@ On the last day of each calendar month, non-exempt employees are eligible to use
 
 Unused PTO is not eligible for payout at the end of a calendar year. Unless contrary to applicable state or local law, employees are not entitled to payment for accrued, unused PTO upon termination.
 
-## Use of PTO – Exempt and Non-Exempt Employees
+## Use of PTO – Exempt and non-exempt employees
 
 Eligible employees may use paid time off under this policy beginning on their 90th day of employment. It can be used for traditional vacation purposes, personal time, or sick time, including sick time under any applicable paid sick leave law. This includes to:
 
@@ -91,13 +91,13 @@ Eligible employees may use paid time off under this policy beginning on their 90
 -   take time off for bone marrow or organ donation by the employee or an eligible family member; or
 -   take time off in connection with an employee's child to attend a school-related conference, meeting, or other event requested or required by a school administrator, teacher, or other professional staff member responsible for the child's education, or to attend a meeting regarding care provided to the child in connection with the child's health conditions or disability.
 
-## Written Documentation of Time Off
+## Written documentation of time off
 
 If an employee uses PTO for sick leave, including sick leave under applicable state or local law, for more than three consecutive scheduled work days, CivicActions may require reasonable documentation of the purpose for such leave. If the reason for time off is due to an employee's or a family member's own medical condition, verification from a health care provider is appropriate, but should not explain the nature of the condition and should not result in an unreasonable burden or expense on the employee. If the reason for time off is due to an employee's need for leave related to domestic violence, verification may include a police report, court order or other evidence from the court or a prosecuting attorney, other documentation from a victim advocate, attorney, member of the clergy, a medical or other professional, or an employee's own written statement.
 
 CivicActions also reserves the right to require documentation verifying an employee's need to use time off, if there are indications of a pattern of abuse, such as repeated use of unscheduled time off on or adjacent to weekends, holidays, or pay day, regardless whether the employee has used time off for more than three consecutive days.
 
-## Time Off and other approved leave
+## Time off and other approved leave
 
 Time off pursuant to this policy is not intended for long-term leave or as a long-term care solution. As such, exempt employees on leaves of absences for more than thirty days, including otherwise unpaid leaves of absences, will not be eligible for paid time off beyond the first thirty days. CivicActions will require non-exempt employees to exhaust accrued, unused PTO concurrently with extended leaves of absences, including under the Family and Medical Leave Act or comparable state laws, if applicable.
 
@@ -110,11 +110,11 @@ Likewise, if an employee is absent for more than three consecutive work days due
 
 For information or questions concerning this policy and the use of time off during otherwise unpaid leaves of absence, short-term disability, or FMLA leave, the employee should contact **the PeopleOps Team** for assistance.
 
-## Abuse of Time Off
+## Abuse of time off
 
 Abuse of time off, including as legally-mandated paid sick leave, may result in disciplinary action up to and including termination. Disciplinary action may be taken if a pattern of potential abuse of time off develops, if an employee is failing to attain necessary goals for his or her position, or if an excessive number of absences occur that are beyond the scope of any approved FMLA leave, approved disability leave, or leave provided as a reasonable accommodation.
 
-## State and Local Paid Sick Leave Laws
+## State and local paid sick leave laws
 
 To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. CivicActions prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to the PeopleOps Team (<mailto:peopleops@civicactions.com>) so that the matter may be reviewed and appropriate corrective action may be taken.
 
@@ -163,15 +163,15 @@ When you have a technical issue with your home network, power and personal equip
 
 Employees of CivicActions, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
 
-## Parental Leave
+## Parental leave
 
 Welcoming a new child is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption, or placement in foster care if the child is under the age of 18, or incapable of self-care because of a physical or mental disability) and acclimate to the new life ahead. Our policy is that expectant parents can take twelve weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis. All Parental Leave described in this Policy shall be available for a 12-month period following the birth or adoption of a child.
 
-## Medical Insurance
+## Medical insurance
 
 All full-time regular employees and part-time hourly employees who work at least thirty hours a week are entitled to benefits under CivicActions' medical, dental, vision, life insurance plans. CivicActions pays 100% of the premiums, unless you opt for benefit that is more expensive than the company-covered plans. Then you pay the difference. See your TriNet PassPort account for managing these benefits.
-New full-time employees joining CivicActions will be eligible for coverage on the first of the month following thirty days from the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers or the ACA.
+New full-time employees joining CivicActions will be eligible for coverage on the first of the month after the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers or the ACA.
 
-## Professional Development Stipend
+## Professional development stipend
 
 Employees are encouraged to take education and training courses related to their profession. When appropriate, and with prior approval, CivicActions will pay for all or a portion of such courses.
