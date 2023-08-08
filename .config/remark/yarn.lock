@@ -1965,10 +1965,10 @@ remark-lint-rule-style@^3.0.0, remark-lint-rule-style@^3.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-strong-marker@^3.0.0, remark-lint-strong-marker@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-strong-marker/-/remark-lint-strong-marker-3.1.1.tgz#4f77ba095cacbd8a8bcd7dd834dd792b50b1f3cb"
-  integrity sha512-tX9Os2C48Hh8P8CouY4dcnAhGnR3trL+NCDqIvJvFDR9Rvm9yfNQaY2N4ZHWVY0iUicq9DpqEiJTgUsT8AGv/w==
+remark-lint-strong-marker@^3.0.0, remark-lint-strong-marker@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-strong-marker/-/remark-lint-strong-marker-3.1.2.tgz#55ff84a696f8453900daf511488f8f2e85edf551"
+  integrity sha512-U/g4wngmiI0Q6WBRQG6pZxnDS33Wt/0QYA3+KNFBDykoi1vXsDEorIqy3dEag9z6XHwcMvFDsff6VRUhaOJWQg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
