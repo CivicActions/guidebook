@@ -4,8 +4,6 @@ title: Culture
 
 # Culture
 
-## Introduction
-
 CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this guidebook.
 
 The CivicActions culture is one of openness and authenticity. We are transparent in our communications and intentions. We strive to create an environment where people are comfortable to show emotion and be our true selves. We are people first, who want to work in a diverse environment that strives to make the world better and who also want to care for ourselves and each other. We are balanced by knowing and honoring the priorities in our lives -- at work, at home, and in our mental and spiritual well-being. As a remote firm we value promoting and fostering this culture so that it is cohesive and that each team member feels included.
@@ -28,13 +26,13 @@ Nobody is a perfect communicator, and we recognize that there are many "ideals" 
 
 Here are some of the tools and practices we use to help us remain open with each other:
 
--   **Slack channels and Email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
+-   **Slack channels and email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
 -   **Daily scrum calls on video** - Everyday, each team member meets to report on what they did yesterday, what they plan on doing today, and whether they have any blockers. This is an opportunity to offer support and hold each other accountable. It also builds team camaraderie by having a daily forum to look at each other and connect.
--   **Active Listening** - Talking "at" each other doesn't always result in a shared understanding. By repeating back what you are hearing from the other person, you are able to verify that you understand them and give them a chance to correct any misunderstandings or wrong assumptions.
+-   **Active listening** - Talking "at" each other doesn't always result in a shared understanding. By repeating back what you are hearing from the other person, you are able to verify that you understand them and give them a chance to correct any misunderstandings or wrong assumptions.
 -   **Tensions** - A tension is any issue or reflection we have shelved, buried, or simply not thought to share. Our practice at CivicActions is to recognize when we have a tension concerning a team member, and ask the person if we can share it in a safe conversation where the sole purpose is to clear the air and both parties agree to simply acknowledge the tension and then close the conversation. When we share in this objective way, we clear our minds of anything that might interfere with being able to hear what the other person is saying. When we have shared a tension we might have with someone, we can then be present to who they are in this moment, rather than the story we have been telling ourselves about them.
 -   **Retrospectives** - These occur at the end of each sprint on a project level, or at other milestones for any department or activity at CivicActions. It's a forum to talk about what is working, what isn't, and what we can improve. It's a safe space to discuss failure _without blame_ and to reflect on successes and celebrate team members too. We also use retrospectives for annual reviews.
--   **Balance Scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance," and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others. You can read more about balance scores in [this blog post](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8).
--   **Culture Videos** - We have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
+-   **Balance scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance," and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others. You can read more about balance scores in [this blog post](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8).
+-   **Culture videos** - We have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
 
 ### Personal pronouns
 
@@ -58,17 +56,13 @@ If you have questions, concerns, or want to practice, you can DM member of Peopl
 
 ## Transparency
 
-### What is Transparency?
-
 We talk a lot about transparency here at CivicActions, but what is it? There are many different, often conflicting definitions for transparency in business. Here are some, from the book Accountability and Transparency for Peaceful Development by Kelly Ngyah.
-
-You can read the relevant sections for free [here](<https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false>).
 
 "Transparency means operating in such a way that others can actually see how, what and why actions are carried out. As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical."
 
 "Radical Corporate Transparency...is a philosophical concept regarded as the removing of all barriers to free and easy public access to corporate, political, and personal...information, and the development of laws, rules, social connivance and processes that facilitate and protect such an outcome."
 
-### How does Transparency Work at CivicActions?
+### How transparency works at CivicActions
 
 Transparency is the company, board, and management team's responsibility. We aim to be open and transparent with employees, clients, and one another. Whether it's a challenge or an issue, we encourage discussions to occur in the open. This does not mean that you cannot ever speak in private. This means that we have a responsibility to be as transparent as possible about the work we do and how we do it.
 
@@ -104,11 +98,11 @@ CivicActions Accessibility is an open, agile project, practice area and communit
 
 The accessibility team has been busily working on our accessibility website, which contains useful guides as well as a playbook. We have also introduced a proactive, interactive process to make government services accessible to everyone, called the [Holistic Enterprise Accessibility Review Technique (HEART)](https://accessibility.civicactions.com/heart). The team is looking for ways to pollinate accessibility as a core part of the way we work at CivicActions and we would love to have everyone contribute. We believe there is a role for everyone at CivicActions to play in making everything we do as accessible as possible.
 
-### Want to know more about how you can participate?
+### How you can participate
 
 Check out our [Accessibility Practice Area](../practice-areas/accessibility/README.md)!
 
-## Common Questions
+## Common questions
 
 <!--lint disable maximum-heading-length-->
 
