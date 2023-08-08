@@ -499,3 +499,6 @@
 - from_url: /company-policies/new-hire-orientation/welcome/
   to_url: /company-policies/new-hire-orientation/
   type: page
+- from_url: /practice-areas/help-desk/project-support-accessibility-guidelines/
+  to_url: /practice-areas/help-desk/project-support-access.mdibility-guidelines/
+  type: page
