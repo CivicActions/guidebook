@@ -1451,10 +1451,10 @@ remark-lint-file-extension@^2.0.0, remark-lint-file-extension@^2.1.2:
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-final-definition@^3.0.0, remark-lint-final-definition@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-final-definition/-/remark-lint-final-definition-3.1.1.tgz#c1077176e41b675302abf5057a82d7d5602df149"
-  integrity sha512-94hRV+EBIuLVFooiimsZwh5ZPEcTqjy5wr7LgqxoUUWy+srTanndaLoki7bxQJeIcWUnomZncsJAyL0Lo7toxw==
+remark-lint-final-definition@^3.0.0, remark-lint-final-definition@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-final-definition/-/remark-lint-final-definition-3.1.2.tgz#9a147b456df3049b8f32570265736a6cfea19a5a"
+  integrity sha512-3O3JT6xqlrgq+UjhMPxshgMtwXn99w0BEO9JwbDls49N0XCu0n22Pq1n6X3tEVzskPLo3YYyVYfW2Z2C2rneKQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
