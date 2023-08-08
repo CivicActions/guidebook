@@ -1825,10 +1825,10 @@ remark-lint-no-literal-urls@^3.0.0, remark-lint-no-literal-urls@^3.1.1:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-missing-blank-lines@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-missing-blank-lines/-/remark-lint-no-missing-blank-lines-3.1.1.tgz#dfb30cea5bc3613f2439387e57a2bfe53224eceb"
-  integrity sha512-QF1gXD/jhC7NsQuRK3Ho8KAxak01s6eJRruYkNjYeqdtAzZrRu2dR1ySKFGGyDKpmfY56kb0fqIKB6V1dSAqNA==
+remark-lint-no-missing-blank-lines@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-missing-blank-lines/-/remark-lint-no-missing-blank-lines-3.1.2.tgz#f01899364fbf0eb7f041a601cdb2c34d7f4ff6a8"
+  integrity sha512-lgCfePH7MVCW6KAKUag8HFYC2oPbeLwZmNUzbAZLN263lerWcAMjsHkNnf26v8MkH8+IoJsTqwdqpel7I+dxtQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1895,10 +1895,10 @@ remark-lint-no-table-indentation@^4.0.0, remark-lint-no-table-indentation@^4.1.2
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-no-tabs@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-3.1.1.tgz#fdb87ee0aacdbc20bbf26d3cdce9a874038ed565"
-  integrity sha512-+MjXoHSSqRFUUz6XHgB1z7F5zIETxhkY+lC5LsOYb1r2ZdujZQWzBzNW5ya4HH5JiDVBPhp8MrqM9cP1v7tB5g==
+remark-lint-no-tabs@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-3.1.2.tgz#a84a7e5ff3dd6849eb7be4717e53091034b6b1a2"
+  integrity sha512-PQQmRpGHRW9tMnAXtlQbMke8byIJu9hlotCH6pJZPO4FodpXvD4JW5EMM3BmO0JQDZsQWrx3qfqxCEMxrj8Qbg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
@@ -1976,10 +1976,10 @@ remark-lint-strong-marker@^3.0.0, remark-lint-strong-marker@^3.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-table-cell-padding@^4.0.0, remark-lint-table-cell-padding@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-4.1.2.tgz#a7087f4513523ca0473986a7a9348847d52e6dad"
-  integrity sha512-cx5BXjHtpACa7Z51Vuqzy9BI4Z8Hnxz7vklhhrubkoB7mbctP/mR+Nh4B8eE5VtgFYJNHFwIltl96PuoctFCeQ==
+remark-lint-table-cell-padding@^4.0.0, remark-lint-table-cell-padding@^4.1.3:
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-4.1.3.tgz#6ea87aebd8485824fe5c38a3400b93b1a4d56814"
+  integrity sha512-N9xtnS6MG/H3srAMjqqaF26A7socr87pIgt64dr5rxoSbDRWRPChGQ8y7wKyV8VeyRNF37e3E5KB3bQVqjSYaQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     "@types/unist" "^2.0.0"
