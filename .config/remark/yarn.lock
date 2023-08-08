@@ -1895,10 +1895,10 @@ remark-lint-no-table-indentation@^4.0.0, remark-lint-no-table-indentation@^4.1.2
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-no-tabs@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-3.1.1.tgz#fdb87ee0aacdbc20bbf26d3cdce9a874038ed565"
-  integrity sha512-+MjXoHSSqRFUUz6XHgB1z7F5zIETxhkY+lC5LsOYb1r2ZdujZQWzBzNW5ya4HH5JiDVBPhp8MrqM9cP1v7tB5g==
+remark-lint-no-tabs@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-3.1.2.tgz#a84a7e5ff3dd6849eb7be4717e53091034b6b1a2"
+  integrity sha512-PQQmRpGHRW9tMnAXtlQbMke8byIJu9hlotCH6pJZPO4FodpXvD4JW5EMM3BmO0JQDZsQWrx3qfqxCEMxrj8Qbg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
