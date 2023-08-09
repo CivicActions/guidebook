@@ -502,3 +502,6 @@
 - from_url: /practice-areas/project-management/pm-role/
   to_url: /practice-areas/project-management/
   type: page
+- from_url: /practice-areas/help-desk/project-support-accessibility-guidelines/
+  to_url: /practice-areas/help-desk/project-support-accessibility-guidelines/
+  type: page
