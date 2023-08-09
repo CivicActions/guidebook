@@ -6,7 +6,6 @@ backend:
   branch: master
   base_url: https://v1.netlify-oauth.app.civicactions.net
   cms_label_prefix: decap/
-publish_mode: editorial_workflow
 media_folder: "assets/images"
 collections:
   # The &base defines this as a template element, reused with *base below to reduce duplication.
