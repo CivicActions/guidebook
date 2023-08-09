@@ -37,10 +37,10 @@ Our goal at CivicActions is to achieve or exceed the latest [Web Content Accessi
 
 Communication is provided in a way that is consistent with the core principles of independence, dignity, integration, and equality of opportunity. For more information, please refer to the following links:
 
--   [CivicActions Guidebook](https://guidebook.civicactions.com/en/latest/practice-areas/accessibility)
+-   [CivicActions Guidebook](../accessibility/README.md)
 -   [CivicActions Accessibility Website](https://accessibility.civicactions.com)
 -   [Web Content Accessibility Guidelines (WCAG) 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag)
 
 ## Customer feedback
 
-Customers can submit feedback to [accessibility@civicactions.com](accessibility@civicactions.com)
+Customers can submit feedback to [accessibility@civicactions.com](mailto:accessibility@civicactions.com)
