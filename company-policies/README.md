@@ -4,7 +4,7 @@ title: Overview
 
 # CivicActions policy overview
 
-Our company policies are the the formal rules or requirements that align with our goals. A policy is CA's official position: its associated steps or procedures are either in, or linked from, the policy.
+Our company policies are the formal rules or requirements that align with our goals. A policy is CA's official position: its associated steps or procedures are either in, or linked from, the policy.
 
 ## Developing policy content
 
