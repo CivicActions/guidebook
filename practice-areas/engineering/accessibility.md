@@ -4,7 +4,7 @@ title: Accessibility
 
 # Accessibility
 
-We implement Section 508 compliant sites and strive to meet the latest Web Content Accessibility Guidelines (WCAG). We do this so that everyone can access our sites, even if they have a permanent, temporary or situtational disability. The Engineering team is very aware of the advantages of open standards, and semantic code for building future-compatible applications. CivicActions has an [Accessibility Practice Area](./accessibility/README.md), but is also a component of all other practice areas at CivicActions.
+We implement Section 508 compliant sites and strive to meet the latest Web Content Accessibility Guidelines (WCAG). We do this so that everyone can access our sites, even if they have a permanent, temporary or situtational disability. The Engineering team is very aware of the advantages of open standards, and semantic code for building future-compatible applications. CivicActions has an [Accessibility Practice Area](../accessibility/README.md), but is also a component of all other practice areas at CivicActions.
 
 ## How we do this
 
