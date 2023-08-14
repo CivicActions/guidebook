@@ -1861,10 +1861,10 @@ remark-lint-no-shell-dollars@^3.0.0, remark-lint-no-shell-dollars@^3.1.2:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-shortcut-reference-image@^3.0.0, remark-lint-no-shortcut-reference-image@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-shortcut-reference-image/-/remark-lint-no-shortcut-reference-image-3.1.1.tgz#3714f31e98ca2063c43bb4cc4d7206e0581da501"
-  integrity sha512-m8tH+loDagd1JUns/T4eyulVXgVvE+ZSs7owRUOmP+dgsKJuO5sl1AdN9eyKDVMEvxHF3Pm5WqE62QIRNM48mA==
+remark-lint-no-shortcut-reference-image@^3.0.0, remark-lint-no-shortcut-reference-image@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-shortcut-reference-image/-/remark-lint-no-shortcut-reference-image-3.1.2.tgz#bae29d978fc1fedfd750feb23bb00c3b28d56416"
+  integrity sha512-NX4XJFPyDeJJ77pmETxRj4oM/zayf7Lmn/O87HgExBkQIPz2NYbDeKD8QEyliLaV/oKA2rQufpzuFw55xa1Tww==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
