@@ -1,5 +1,5 @@
 ---
-title: Project support accessibility guidelines
+title: Accessibility guidelines
 ---
 
 # Project support accessibility guidelines
