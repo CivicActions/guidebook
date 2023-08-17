@@ -27,10 +27,10 @@ A password manager will enable you to have unique, strong passwords for every se
     -   We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
     -   Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
 -   LastPass is required for members of the CivicActions System Admins and DevSecOps Team.
--   We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](.) token).
+-   We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](#yubikey) token).
 -   Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
 -   It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
--   CivicActions also requires that you have a [backup second factor authenticator](.) for your LastPass account.
+-   CivicActions also requires that you have a [backup second factor authenticator](#multi-factor-redundancy-and-mfa-backup-codes) for your LastPass account.
 
 ### Disable browser password autofill
 
@@ -52,7 +52,7 @@ CivicActions requires that its employees and contractors that are given access t
 
 There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. _(Note that Google Authenticator is no longer recommended as it does not support encrypted cloud backup.)_
 
-Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Multi-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](.)).
+Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Multi-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes)).
 
 #### LastPass Authenticator
 
@@ -71,7 +71,7 @@ Once set up, your YubiKey greatly simplifies the process of Multi-Factor Authent
 
 -   See "[Let's get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use MFA with: [Gmail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
 
-While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Multi-Factor Redundancy and MFA Backup Codes](.).
+While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes).
 
 ### Partial list of MFA-Enabled services
 
@@ -89,7 +89,7 @@ As a final, crucially important step, **_you must have a backup second factor fo
 SMS can often be an easy backup, but it is known to be insecure. Most services that provide MFA provide multiple second factor options, and we recommend that you set up at least one of several backup strategies for each MFA-enabled service you use:
 
 -   Have a second YubiKey in safe keeping (the author of this article has three).
--   [Authy](.) and [LastPass Authenticator](.) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
+-   [Authy](#authy) and [LastPass Authenticator](#lastpass-authenticator) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
 -   Many services offer a downloadable set of single use "backup codes" that can be printed and kept in a safe place. _Hint: you can store backup codes from other services in LastPass in the Notes section._
 
 ## Phishing and social engineering
