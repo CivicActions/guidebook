@@ -1642,10 +1642,10 @@ remark-lint-no-consecutive-blank-lines@^4.0.0, remark-lint-no-consecutive-blank-
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-duplicate-definitions@^3.0.0, remark-lint-no-duplicate-definitions@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-duplicate-definitions/-/remark-lint-no-duplicate-definitions-3.1.1.tgz#2f5042b8d2274d94a9423767c6e714b57c6a2dbf"
-  integrity sha512-9p+nBz8VvV+t4g/ALNLVN8naV+ffAzC4ADyg9QivzmKwLjyF93Avt4HYNlb2GZ+aoXRQSVG1wjjWFeDC9c7Tdg==
+remark-lint-no-duplicate-definitions@^3.0.0, remark-lint-no-duplicate-definitions@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-duplicate-definitions/-/remark-lint-no-duplicate-definitions-3.1.2.tgz#6acb7b7cee7c8f063399a50c2c76ae19894d6057"
+  integrity sha512-vi0nXA7p+pjQOorZOkr9E+QDhG74JAdbzqglWPrWWNI3z2rUYWYHTNSyWJbwEXaIIcev1ZAw8SCAOis5MNm+pA==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
