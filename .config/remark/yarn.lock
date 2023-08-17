@@ -1988,10 +1988,10 @@ remark-lint-table-cell-padding@^4.0.0, remark-lint-table-cell-padding@^4.1.3:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-table-pipe-alignment@^3.0.0, remark-lint-table-pipe-alignment@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-table-pipe-alignment/-/remark-lint-table-pipe-alignment-3.1.2.tgz#c12542f31cf1ea2901030a94eb4d25ab18233316"
-  integrity sha512-6WRWgsMtfeLDEHbxnXZucTBQvxpEsw+QpNy7qEDqllnTo6OySgZPUodFAyI7s4t0ugqAfWf3lcCdMYkOL9kwBg==
+remark-lint-table-pipe-alignment@^3.0.0, remark-lint-table-pipe-alignment@^3.1.3:
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-pipe-alignment/-/remark-lint-table-pipe-alignment-3.1.3.tgz#660ff30617f834495e291ec93fe882ac2d67c239"
+  integrity sha512-bnE8WrB4kSrN+Yr+xN2GHWVgGukeSFU43qPMrpCzTyOSbzep366wORlFKqZmyFPEkIZ/uAUFS0Qm9DND66Yz/A==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
