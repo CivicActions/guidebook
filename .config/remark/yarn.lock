@@ -1812,10 +1812,10 @@ remark-lint-no-inline-padding@^4.0.0, remark-lint-no-inline-padding@^4.1.2:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-literal-urls@^3.0.0, remark-lint-no-literal-urls@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-literal-urls/-/remark-lint-no-literal-urls-3.1.1.tgz#9e3b71c013ffa3d3a493c98b54c3d5bd0ea0ad23"
-  integrity sha512-tZZ4gtZMA//ZAf7GJTE8S9yjzqXUfUTlR/lvU7ffc7NeSurqCBwAtHqeXVCHiD39JnlHVSW2MLYhvHp53lBGvA==
+remark-lint-no-literal-urls@^3.0.0, remark-lint-no-literal-urls@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-literal-urls/-/remark-lint-no-literal-urls-3.1.2.tgz#9a261f810c5b5edbb3ed2903c3d03dc9c5e4b575"
+  integrity sha512-4tV9JGLKxAMFSuWDMOqLozkFJ3HyRvhzgrPrxASoziaml23m7UXAozk5dkIrFny1cN2oG988Z8tORxX2FL1Ilw==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-to-string "^3.0.0"
