@@ -1919,10 +1919,10 @@ remark-lint-no-undefined-references@^4.0.0, remark-lint-no-undefined-references@
     unist-util-visit "^4.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-no-unused-definitions@^3.0.0, remark-lint-no-unused-definitions@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-unused-definitions/-/remark-lint-no-unused-definitions-3.1.1.tgz#584fcd0b1ad569d3e1933256e85b9fb308e88695"
-  integrity sha512-/GtyBukhAxi5MEX/g/m+FzDEflSbTe2/cpe2H+tJZyDmiLhjGXRdwWnPRDp+mB9g1iIZgVRCk7T4v90RbQX/mw==
+remark-lint-no-unused-definitions@^3.0.0, remark-lint-no-unused-definitions@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-unused-definitions/-/remark-lint-no-unused-definitions-3.1.2.tgz#491dcef1dd284060f0222d11b9c38bd90c2d76fd"
+  integrity sha512-bOcaJAnjKxT3kASFquUA3fO9xem9wZhVqt8TbqjA84+G4n40qjaLXDs/4vq73aMsSde73K0f3j1u0pMe7et8yQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
