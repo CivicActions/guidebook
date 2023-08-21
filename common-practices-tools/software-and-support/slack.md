@@ -19,10 +19,11 @@ Slack organizes communication into **channels**. A channel can be public, so tha
 We default to open, so when in doubt, message the group in a public channel instead of a direct message, or one-on-one.
 
 There are a wide variety of different channels you can join, from work-related to topic-related, including:
+
 -   **Mandatory channels** include: General, Announcements, How We Work, your Pod, your project channels, and your domain area channels (Engineering, Design, PM, etc)
     -   Note that the [Announcements channel](https://civicactions.slack.com/messages/announcements/details/) is for **announcements only**. All replies or conversation regarding announcements can transpire in the [General channel](https://civicactions.slack.com/messages/general/). Keeping announcements chatter to a minimum ensures that anyone who hasn't been paying attention to the General or other channels will be able to quickly locate important or not-to-be-missed information.
 -   Optional channels: you are welcome to poke around Slack and join any open channels, such as #pets
-    - to explore our channels, in the left-side navigation, select Channels > Manage > Browse channels 
+    -   to explore our channels, in the left-side navigation, select Channels > Manage > Browse channels
 
 ## Notifications
 
@@ -30,7 +31,7 @@ There are a wide variety of different channels you can join, from work-related t
 -   Consider using the word "ping" to check on the availability of someone
 -   If you want to call attention to everyone subscribed to channel, write **@channel** or **@group**
 -   To alert only those in a channel/group who are online, write **@here**
--   You can adjust how and when you get notified by Slack activity by selecting Slack > Settings > Notifications 
+-   You can adjust how and when you get notified by Slack activity by selecting Slack > Settings > Notifications
 
 ## Formatting your messages
 
@@ -38,6 +39,7 @@ There are a wide variety of different channels you can join, from work-related t
 -   To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../assets/images/backticks.png "Wrapping code")
 
 ### More formatting help
+
 -   [Formatting your messages](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-message)
 -   [Creating a snippet](https://slack.zendesk.com/hc/en-us/articles/204145658-Creating-a-Snippet)
 
@@ -49,4 +51,3 @@ There are a wide variety of different channels you can join, from work-related t
 ## Get support for Slack
 
 -   [Request internal support](README.md) for Slack issues
-
