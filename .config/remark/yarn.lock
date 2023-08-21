@@ -1518,10 +1518,10 @@ remark-lint-heading-style@^3.0.0, remark-lint-heading-style@^3.1.2:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-link-title-style@^3.0.0, remark-lint-link-title-style@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-3.1.1.tgz#eb1a773816b4bee43170745245e9fed776633a7d"
-  integrity sha512-JWWiuUFy/N2iwQ3eWIxFy6olX8D7xCFw8LoM0vZI2CHTZJrmDMaWwnl8jziP+HHHheFX3wkVqsoaYod536ArRw==
+remark-lint-link-title-style@^3.0.0, remark-lint-link-title-style@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-3.1.2.tgz#c32d943ef5d0d2d3807e573786ecdae5c04787ee"
+  integrity sha512-if4MahYJVvQUWlrXDF8GSv4b9VtLSgMSDHeikQp1/hGYlihLl9uGw3nlL5Lf9DqTN0qaT6RPbXOjuuzHlk38sg==
   dependencies:
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
