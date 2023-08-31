@@ -8,6 +8,7 @@ CivicActions was an early adopter of Drupal in 2004 and it has been a core techn
 
 ## Why should everyone at CivicActions know about Drupal?
 As a  core technology used by CivicActions, it is important for everyone at CA to have a degree of familiarity with Drupal regardless of role.  This familiarity can deepen your understanding of the interactions a client has with the products and services that CA provides.  You become a better gauge of a client’s needs and of how those needs can be met (both in terms of approach and effort).
+
 Drupal is supported by a large community and CivicActions strives to be a contributing and positive presence.  While our participation in the community is driven by an alignment of interests,  values and principles, our participation also has the pragmatic effects of highlighting the Drupal-expertise within CivicActions and of attracting new talent.  
 Your depth of knowledge about Drupal should at least  be commensurate with your role.  While there are many resources available, both online and within CivicActions to help you learn, you should also consider participation within the larger Drupal community.  Participation is an immersive and meaningful mechanism for learning and opportunities are available for both technical and non-technical roles.   
 
