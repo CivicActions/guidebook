@@ -8,7 +8,7 @@ title: Drupal for Drupal engineers
 
 We strictly follow established coding standards.  Standardized code is more readable and easier to maintain.  See the Drupal docs for the latest guidelines: https://www.drupal.org/docs/develop/standards
 
-## Contributing Upstream
+## Contributing upstream
 
 Whenever practical, we want to contribute our changes back to the Drupal community.  If a change requires us to patch core or a contributed module, that patch should also be attached to a drupal.org issue.
 
@@ -35,9 +35,9 @@ When reviewing a change, consider the following factors:
 4. Are there any obvious typos or bugs?
 5. Does the code make any assumptions that may not always be true?  For example, assuming an array key exists that might not?
 
-## Resources & Opportunities
+## Resources and opportunities
 
-### Drupal Practice Area
+### Drupal practice area
 
 Drupal is one of CivicActions Practice Areas. We use the #engineering-drupal Slack channel and have monthly calls.
 
@@ -49,7 +49,7 @@ The monthly meeting itself is normally scheduled early in the month and follows 
 
 More recently, we’ve been adding agenda items and notes to this document: 2022 Drupal Practice Area Meetings and Agendas to structure our conversations. 
 
-### Drupal Practice Area OKRs
+### Drupal practice area OKRs
 
 CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: https://www.amazon.com/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=sr_1_1
 
