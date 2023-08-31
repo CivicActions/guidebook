@@ -47,7 +47,7 @@ CivicActions requires that its employees and contractors that are given access t
 
 ### Multi-Factor Authenticators (MFA)
 
-There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. _(Note that Google Authenticator is no longer recommended as it does not support encrypted cloud backup.)_
+There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below.
 
 Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Multi-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes)).
 

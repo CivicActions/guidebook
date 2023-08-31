@@ -32,7 +32,7 @@ This requires a YubiKey token (cover the button for approximately one second) on
 <!-- prettier-ignore-start -->
 
 - My Vault -> Account Settings -> Multifactor Options
-  - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
+  - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en) or [LastPass Authenticator](https://support.lastpass.com/s/document-item?language=en_US&bundleId=lastpass&topicId=LastPass/LastPass_Authenticator.html&_LANG=enus)) - this is a useful backup
   - YubiKey (an easier option) is available when using [LastPass Premium](https://www.lastpass.com/yubico/) ($12/year)
     - Select the YubiKey option.
     - Insert the YubiKey device into a USB port on your computer.
