@@ -34,13 +34,17 @@ You also have the ability to create additional roles however you see fit. For ex
 You can read more about users, roles, and permissions in the [Drupal User Guide](https://www.drupal.org/docs/user_guide/en/user-chapter.html).
 
 ### Modules
-The many different pieces of functionality on a Drupal site are typically broken down into different modules. Modules are basically sets of code that extend features and add functionality to your site. Modules can be turned on or off by installing or uninstalling the module. 
+The many different pieces of functionality on a Drupal site are typically broken down into different modules. Modules are basically sets of code that extend features and add functionality to your site. Modules can be turned on or off by installing or uninstalling the module.
+
 There are several modules that come shipped with core Drupal, and there are thousands more that can be downloaded and installed from contributors.
+
 When you are looking for a feature that is not shipped with Drupal core, then it is best practice to search drupal.org for a contributed module that fits your needs. If there isn’t one that fits your needs exactly but it comes close, it might be best to ask the maintainers of the module for a feature request. This can be done in the issue queue for the module on drupal.org. If you are able to contribute your own solution you can do so using the same issue queue and performing a merge request.
+
 If you come across a situation where there is not a contributed module, then it might be best to have your team create a custom module for your use-case. Keep in mind that somebody else may need this same feature eventually, so you should think about contributing your custom module back to the Drupal community as a contributed module.
 
 ### Themes
 Themes are the set of files (generally html and css) that determine how your site ‘looks and feels.’ Drupal comes with several basic themes. There are also many contributed themes available, some paid and some for free. Generally, however, most site administrators are going to create their own theme. They’ll do this by either extending an already established theme (like the ones provided by core) or create an entirely new theme. 
+
 There are usually two different themes installed and enabled on a site at one time. One theme is for the content and the other is for the administrative interface.
 
 ### Views
