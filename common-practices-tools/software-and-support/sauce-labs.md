@@ -9,6 +9,7 @@ CivicActions maintains a [Sauce Labs](https://saucelabs.com/) account for cross-
 
 ## Getting Started
 
+-   If you didn't already, click the "Verify Email" button in your invitaion e-mail (Subject: "\[Sauce Labs\] Please verify your email address")
 -   Go to [accounts.saucelabs.com](https://accounts.saucelabs.com/) and use the "Google" button to log in with your CivicActions e-mail address
 -   Go to the [Live -> Cross Browser](https://app.saucelabs.com/live/web-testing) menu and select your desired browser configuration
 -   Click the "Start Test" button to launch the browser
