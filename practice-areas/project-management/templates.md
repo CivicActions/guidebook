@@ -161,7 +161,6 @@ A template that allows teams to unite around their core tenets. See [instruction
 
 [Elected priorities](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit)
 
-
 ## Wrapper/ Legal
 
 A template required for each project and managed by our Legal team. This is updated quarterly to confirm alignment with all current contract details.
