@@ -18,7 +18,7 @@ Caching is the process of storing files in a temporary storage, or cache. The re
 
 The first layer is the browser cache. Browsers will save copies of all, or most of the content of a webpage on the device's hard drive. This way, when the user re-visits the webpage, the browser won't have to re-download all of the content and can bring up the page much quicker.
 
-The second layer that most teams will need to be aware of is the Drupal cache. Most of our sites will have Drupal core’s internal page cache module enabled. This makes it so that pages are cached for any anonymous users visiting the site. When the first anonymous user visits a Drupal page, Drupal will save the results of any queries or requests that it performs into its cache. It will then serve those cached results for all anonymous users. The time that Drupal holds on to these results can be altered in the administrative interface. 
+The second layer that most teams will need to be aware of is the Drupal cache. Most of our sites will have Drupal core's internal page cache module enabled. This makes it so that pages are cached for any anonymous users visiting the site. When the first anonymous user visits a Drupal page, Drupal will save the results of any queries or requests that it performs into its cache. It will then serve those cached results for all anonymous users. The time that Drupal holds on to these results can be altered in the administrative interface.
 
 After these first two layers, there can be several other layers of caching depending on your site's hosting and any CDNs you may be using. You should check with the engineers on your team if you'd like to learn more about these extra layers of caching.
 
