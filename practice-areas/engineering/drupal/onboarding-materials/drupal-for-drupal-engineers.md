@@ -14,9 +14,9 @@ Whenever practical, we want to contribute our changes back to the Drupal communi
 
 First, search the Drupal project for an issue matching the change you need to make. There may already be a patch providing the functionality.
 
-If you end up using an existing patch, drop a comment indicating that you tested the patch and that it is working (or not) for you.  This will help move the issue along its lifecycle.
+If you end up using an existing patch, drop a comment indicating that you tested the patch and that it is working (or not) for you. This will help move the issue along its lifecycle.
 
-If you need to create your own patch, attach it to the issue and update it accordingly.  Ensure that the patch file is named according to convention and includes the issue number so that it is convenient to find.
+If you need to create your own patch, attach it to the issue and update it accordingly. Ensure that the patch file is named according to convention and includes the issue number so that it is convenient to find.
 
 Your project's technical lead can show you where patch files are stored in your project and explain how they are applied.
 
@@ -29,11 +29,11 @@ CivicActions uses git for version control. Your project's technical lead will ex
 
 When reviewing a change, consider the following factors:
 
-1. Does the change follow established coding standards?  Be picky; we want to hold our code to the highest standards.
-2. Is the code well documented?  Good documentation answers the question “why?”, not “what” or “how.”
-3. Is this code that you want to maintain going forward?  If anything is unclear to you, this is the time to get it clarified.
+1. Does the change follow established coding standards? Be picky; we want to hold our code to the highest standards.
+2. Is the code well documented? Good documentation answers the question "why?", not "what" or "how."
+3. Is this code that you want to maintain going forward? If anything is unclear to you, this is the time to get it clarified.
 4. Are there any typos or bugs?
-5. Does the code make any assumptions that may not always be true?  For example, assuming an array key exists that might not?
+5. Does the code make any assumptions that may not always be true? For example, assuming an array key exists that might not?
 
 ## Resources and opportunities
 
@@ -45,10 +45,10 @@ To be invited to the monthly call, please post a message in the Slack channel an
 
 Drupal engineers meet each month on Zoom to discuss topics of common interest. Make sure you have been added to the calendar invites. You are encouraged to share your contributions to Drupal.org and the CivicActions Drupal practice area in the Slack channel and on the monthly call.
 
-The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. The Festivus format agenda includes: 
+The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. The Festivus format agenda includes:
 
-1. One or more Feasts (a discussion, a demo, a presentation) 
-2. General time of sharing our Feats of Strength, and Airing of Grievances. 
+1. One or more Feasts (a discussion, a demo, a presentation)
+2. General time of sharing our Feats of Strength, and Airing of Grievances.
 
 These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
