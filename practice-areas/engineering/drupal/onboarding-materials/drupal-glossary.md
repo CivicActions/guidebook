@@ -42,7 +42,7 @@ This refers to the code that CivicActions programmers have produced to meet the 
 
 ## Database
 
-An application that specializes in storing, relating and retrieving data.  Code running on the web server queries the database whenever website content is read or modified.  The kind of databases that Drupal uses store their data in “tables” which can be visualized as very large spreadsheets.  The database has features to make it possible to retrieve large amounts of complex data quickly and efficiently.
+An application that specializes in storing, relating and retrieving data. Code running on the web server queries the database whenever website content is read or modified. The kind of databases that Drupal uses store their data in "tables" which can be visualized as very large spreadsheets. The database has features to make it possible to retrieve large amounts of complex data quickly and efficiently.
 
 ## Deploy
 
@@ -78,7 +78,7 @@ The most common modern Version Control System.
 
 Most of Drupal's code is organized into modules. This is what makes Drupal so extensible and customizable. Drupal core provides a handful of modules, but there are many more contrib modules maintained by the community
 
-Each module provides a relatively narrow and discrete bit of functionality.  For example, the Menu core module provides Drupal’s base menu functionality.  Building on that, the Menu Delete contrib module makes a small change to that functionality, allowing content editors to delete multiple menus at once.  By mixing and matching which modules are enabled on a site, we can leverage the community’s efforts to provide a lot of functionality with little (or sometimes no) custom code.
+Each module provides a relatively narrow and discrete bit of functionality. For example, the Menu core module provides Drupal's base menu functionality. Building on that, the Menu Delete contrib module makes a small change to that functionality, allowing content editors to delete multiple menus at once. By mixing and matching which modules are enabled on a site, we can leverage the community's efforts to provide a lot of functionality with little (or sometimes no) custom code.
 
 ## Node
 
@@ -86,7 +86,7 @@ A Node is an entity type that is built into Drupal. Almost all Drupal sites use 
 
 ## Paragraph
 
-Paragraphs is a contrib module which adds a new entity type called a “paragraph.”  These are fieldable like other entities, but must be attached to an existing entity using a reference field.  Paragraphs are commonly used when you have a group of fields that may be repeated on an entity, but do not make any sense as data on their own.  For instance, you might have a node for a resumè, with paragraphs for each line of the CV.  Each paragraph entity would have its own title, description, start date and end date (fields), and the whole list of paragraphs would be attached to a field on the resumè entity like “field_job_history.”
+Paragraphs is a contrib module which adds a new entity type called a "paragraph." These are fieldable like other entities, but must be attached to an existing entity using a reference field. Paragraphs are commonly used when you have a group of fields that may be repeated on an entity, but do not make any sense as data on their own. For instance, you might have a node for a resumè, with paragraphs for each line of the CV. Each paragraph entity would have its own title, description, start date and end date (fields), and the whole list of paragraphs would be attached to a field on the resumè entity like "field_job_history."
 
 ## Paragraph Type
 
@@ -106,4 +106,4 @@ An application used by our programming teams. The most common of these is git. V
 
 Views is a core module (as of Drupal 8, prior to this it was contrib) that provides powerful list-making functionality. Any list of content on your site is probably powered by a view.
 Web Server
-	An application that specializes in serving data (generally in the form of web pages) in response to requests from a web client (such as a browser).  You can think of it as another computer that your computer is connecting to in a structured way (known as a protocol), although nowadays most servers are distributed across hardware and even multiple datacenters.  In concert with the database, the web server does most of the work of delivering content to visitors.
+An application that specializes in serving data (generally in the form of web pages) in response to requests from a web client (such as a browser). You can think of it as another computer that your computer is connecting to in a structured way (known as a protocol), although nowadays most servers are distributed across hardware and even multiple datacenters. In concert with the database, the web server does most of the work of delivering content to visitors.
