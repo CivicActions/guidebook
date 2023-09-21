@@ -38,7 +38,7 @@ Links to websites we use regularly.
 
 ### Engineering tools
 
--   [Cross Browser Testing](https://crossbrowsertesting.com): for cross browser testing
+-   [Sauce Labs](https://accounts.saucelabs.com/): for cross browser/device testing
 -   [GitLab](https://git.civicactions.net/)
 -   [Jenkins](http://ci.civicactions.net/)
 
