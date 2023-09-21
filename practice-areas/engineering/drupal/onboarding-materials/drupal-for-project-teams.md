@@ -29,7 +29,7 @@ Being able to control which users are able to see or do different things on your
 -   **Anonymous users:** Any user that visits your site who is not currently logged in. This role typically has very few permissions. Most of the permissions assigned to this role are going to be for viewing certain pieces of content.
 -   **Authenticated users:** These are users who are logged in to your site. Depending on the site, authenticated users could have many permissions, or they might have very few permissions - similar to anonymous users.
 -   **Administrator:** This is typically the role that you give to users who should have full administrative privileges to the site.
--   **Content Editor:** This role has been included by default since Drupal 9.3. It was added with permissions for content editing, media management, translation, content workflow and revision handling permissions. As with all roles, it can be modified to suit your needs.
+-   **Content Editor:** This role has been included by default since Drupal 9.3. It is given to users who edit content and manage media.
 
 You also have the ability to create additional roles however you see fit. For example, maybe your site allows users to sign up to be able to make comments on certain pieces of content. You might want to create a new role for commenters that gives them permissions that are different from, or more limited than, content editors, but not as limited as 'Authenticated users'.
 
@@ -39,7 +39,7 @@ You can read more about users, roles, and permissions in the [Drupal User Guide]
 
 The many different pieces of functionality on a Drupal site are typically broken down into different modules. Modules are sets of code that extend features and add functionality to your site. Modules can be turned on or off by installing or uninstalling the module.
 
-The many different pieces of functionality on a Drupal site are typically broken down into different modules. Modules are basically sets of code that extend features and add functionality to your site. Modules can be turned on or off by installing or uninstalling the module.
+The many different pieces of functionality on a Drupal site are typically broken down into different modules. Modules are sets of code that extend features and add functionality to your site. Modules can be turned on or off by installing or uninstalling the module.
 
 There are several modules that come shipped with core Drupal, and there are thousands more that can be downloaded and installed from contributors.
 
