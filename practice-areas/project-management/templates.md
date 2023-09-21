@@ -95,11 +95,11 @@ Another template requiring close collaboration with Program Management and Sales
 
 [Mod/ Pricing justification: Another option](https://docs.google.com/document/d/1lO7pivRJIACYzJs-5GaKmwsdoGBLOfEZHkxhtAeheXk/edit)
 
-## Monthly status report
+## Monthly/ Bi-Weekly/ Weekly status report
 
-A guiding document to build Monthly status reports (aka MSRs) within CivicActions branding.
+A guiding document to build status reports within CivicActions branding.
 
-[Monthly status report](https://docs.google.com/document/d/1CwouwFIhRpSpBXFfrtJ-S7J5_K7pm7XkQH_t1Jxar1o/edit)
+[Monthly status report](https://docs.google.com/document/d/1ebY82ojW6BDEcF8oY1Umll5efleyPhsXd-vMaJ2UAxE/edit)
 
 ## Out of Office (OOO) coverage
 
@@ -160,12 +160,6 @@ A template that allows teams to unite around their core tenets. See [instruction
 [Team Working Agreement](https://docs.google.com/document/d/1mkkquegcOKgjXxk177MxCp2KRUL_Rw1iL_U3K2g1P7M/edit#)
 
 [Elected priorities](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit)
-
-## Weekly status report
-
-This template is used as a guide for Project Managers to send weekly status updates to their Product Owner / client.
-
-[Weekly status report](https://docs.google.com/a/civicactions.net/document/d/1ZFOjwys-jz8WCrqzBatCYB5_4e9v3W1kBR5yFo8NJgc/edit?usp=sharing)
 
 ## Wrapper/ Legal
 
