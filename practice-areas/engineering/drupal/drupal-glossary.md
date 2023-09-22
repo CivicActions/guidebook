@@ -100,7 +100,7 @@ A patch is a file that can be applied to some code to make a controlled, reprodu
 
 Version Control System (VCS)
 
-An application used by our programming teams. The most common of these is git. Version control is an important part of any software project as it allows multiple developers to work concurrently on the same code without accidentally overwriting each other's work. It also provides a complete history of changes to the code that can be referred to as documentation, or in extreme cases used to roll back to a previous version.
+An application used by our programming teams. The most common of these is git. Version control is an important part of any software project. It allows multiple developers to work on the same code without accidentally overwriting each other's work. It also provides a complete history of changes to the code that can be referred to as documentation, or in extreme cases used to roll back to a previous version.
 
 ## View
 
