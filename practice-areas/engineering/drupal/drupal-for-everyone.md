@@ -24,7 +24,7 @@ From the first year of operations, CivicActions was committed to openness. This 
 
 ## Why do we choose Drupal?
 
-Drupal is an extremely popular open-source content management system (CMS) used for building websites and applications. [site stats] There are many reasons why some of the most high-trafficked and essential web sites on the internet are built on Drupal:
+Drupal is an extremely popular open-source content management system (CMS) used for building websites and applications. There are many reasons why some of the most high-trafficked and essential web sites on the internet are built on Drupal:
 
 -   **Customizability:** Drupal is highly customizable in terms of functionality, layout, and design. This makes it an ideal choice for complex websites with specific requirements.
 
