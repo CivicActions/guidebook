@@ -58,7 +58,7 @@ More recently, we've been adding agenda items and notes to this document: 2022 D
 
 CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: https://www.amazon.com/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=sr_1_1
 
-We are still in the process of optimizing our practices in this area. That said, Drupal practice area participants have developed practice area OKRs that merge with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
+We are still in the process of optimizing our practices in this area. Drupal practice area OKRs have been developed that align with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
 
 -   Trello board: https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs
 -   Culture amp: https://civicactions.cultureamp.com/performance/new_goals/department
