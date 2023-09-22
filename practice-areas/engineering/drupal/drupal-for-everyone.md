@@ -12,7 +12,7 @@ As a core technology used by CivicActions, it is important for everyone at CA to
 
 Drupal is supported by a large community and CivicActions strives to be a contributing and positive presence. Participation in the community is driven by an alignment of interests, values and principles. Our participation also helps attract new talent by highlighting the Drupal expertise within CivicActions.
 
-Your depth of knowledge about Drupal should at least be commensurate with your role. While there are many resources available, both online and within CivicActions to help you learn, you should also consider participation within the larger Drupal community. Participation is an immersive and meaningful mechanism for learning and opportunities are available for both technical and non-technical roles.
+Your depth of knowledge about Drupal should at least be commensurate with your role. There are many resources online and within CivicActions to help you learn. Participation in the Drupal community is also a meaningful mechanism for learning. There are opportunities for participation for both technical and non-technical roles.
 
 ## What is a CMS?
 
@@ -29,9 +29,15 @@ Drupal is an extremely popular open-source content management system (CMS) used 
 -   **Customizability:** Drupal is highly customizable in terms of functionality, layout, and design. This makes it an ideal choice for complex websites with specific requirements.
 
 -   **Scalability:** Drupal is highly scalable. It can handle high traffic loads and complex data manipulation. It is used by many high-profile websites and can support businesses as they grow.
--   **Community and Support:** Drupal has a vast and active community of developers contributing to its core and creating additional modules (plugins). This ensures that the platform stays up-to-date and can provide support for any issues.
--   **Security:** Drupal has a strong reputation for its focus on security. It is known for its proactive community that takes security vulnerabilities very seriously, providing regular updates to address any potential issues.
+
+-   **Community and Support:** Drupal has a large and active community of developers contributing to the codebase. The community is supportive and helps keep the platform up to date.
+
+-   **Security:** Drupal has a strong reputation for its focus on security. It is a proactive community that takes security vulnerabilities seriously. Regular updates are released to address any potential issues.
+
 -   **Built-in Web Services:** Drupal 8 and later versions come with built-in web services. This makes it a great choice for building headless applications where the front-end is decoupled from the backend, using Drupal to serve content via an API.
--   **Multilingual Capabilities:** Drupal provides robust multilingual features, making it an excellent choice for international and multilingual sites.
--   **SEO Friendly:** Drupal's flexibility and configuration options make it SEO-friendly, meaning websites made with Drupal can potentially rank higher in search engines.
--   **Content Workflow Management:** Drupal's built-in tools for content creation, workflow, and publishing allow multiple users to collaborate and manage content.
+
+-   **Multilingual Capabilities:** Drupal provides robust multilingual features. Drupal is an excellent choice for international and multilingual sites.
+
+-   **SEO Friendly:** Drupal's flexibility and configuration options make it SEO-friendly. Drupal websites can have high search engine rankings.
+
+-   **Content Workflow Management:** Drupal provides tools to manage the workflows of content creation. These tools enable efficient collaboration among multiple users.
