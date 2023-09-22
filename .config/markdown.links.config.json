@@ -62,6 +62,9 @@
       "pattern": "^https://nedjo.ca/.*"
     },
     {
+      "pattern": "^http://linux.die.net/.*"
+    },
+    {
       "pattern": "^https://linux.die.net/.*"
     }
   ],
