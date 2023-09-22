@@ -34,7 +34,7 @@ exec --no-startup-id xss-lock -- i3lock -n -c 000000
 
 ### Screen lock with xautolock
 
-This uses [xsecurelock](https://github.com/google/xsecurelock) (recommended screen lock) together with [xautolock](http://linux.die.net/man/1/xautolock) (simple away command runner tool) to lock the screen after 10 minutes when away from home network. It also suspends after 30 mins, adds a hot corner to block locking (useful if watching a video, for example) and adds a notification (using `dunst` and `notify-send`) before locking. Note that pretty much all of these pieces are optional (you could use `gnome-screensaver` or `xscreensaver` for away detection for instance), but using `xsecurelock` for locking is strongly recommended since other lock screens have had vulnerabilities.
+This uses [xsecurelock](https://github.com/google/xsecurelock) (recommended screen lock) together with [xautolock](https://linux.die.net/man/1/xautolock) (simple away command runner tool) to lock the screen after 10 minutes when away from home network. It also suspends after 30 mins, adds a hot corner to block locking (useful if watching a video, for example) and adds a notification (using `dunst` and `notify-send`) before locking. Note that pretty much all of these pieces are optional (you could use `gnome-screensaver` or `xscreensaver` for away detection for instance), but using `xsecurelock` for locking is strongly recommended since other lock screens have had vulnerabilities.
 
 Install packages as needed (`dunst` and `libnotify` optional -- you may already have a notification system):
 
