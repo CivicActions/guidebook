@@ -68,7 +68,7 @@ We are still in the process of optimizing our practices in this area. Drupal pra
 A previous year's objective was to gather an inventory of the skills of Drupal Practice Area participants. As part of your onboarding, you should have already completed the skills assessment. If not, you should consider completing it as part of your onboarding to the Drupal practice area.
 
 Login to the [CivicActions Skills Base organization](https://app.skills-base.com/o/civicactions).
-Onced logged-in, you can view the [Drupal Skills Categories](https://app.skills-base.com/skillcategories/view/id/16) and take (or update) your [skills assessment](https://app.skills-base.com/people/view#assessments).
+Onced logged-in, you can view the [Drupal skills categories](https://app.skills-base.com/skillcategories/view/id/16) and take (or update) your [skills assessment](https://app.skills-base.com/people/view#assessments).
 
 ### Gotta Drupal problem? We can help!
 
