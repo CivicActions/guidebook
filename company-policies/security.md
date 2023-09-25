@@ -236,7 +236,7 @@ Securing mobile devices used for CivicActions work is crucial for safeguarding s
 5. Do not "jailbreak" or "root" your mobile device, removing inherent OS security and exposing it to malware apps.
 6. Install apps from only secure sources (official app stores) and avoid side-loading apps.
 7. If a device used for CivicActions work is lost or stolen, please notify the security team immediately to document and assist in recovering or wiping the device.
-8. Follow [CivicActions' prohibited hardware and software policy](https://guidebook.civicactions.com/en/latest/company-policies/prohibited-hardware-and-software/) to avoid using/installing items on the list.
+8. Follow [CivicActions' prohibited hardware and software policy](prohibited-hardware-and-software.md) to avoid using/installing items on the list.
 
 ## Security awareness and tools
 
