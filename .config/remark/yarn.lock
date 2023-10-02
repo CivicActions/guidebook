@@ -129,6 +129,13 @@
   dependencies:
     "@types/unist" "*"
 
+"@types/nlcst@^2.0.0":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@types/nlcst/-/nlcst-2.0.1.tgz#688a45ae6390301d8645b61b18c2363c715a9a91"
+  integrity sha512-+hL97wfmdLW/unulVgdR+e+8PXbbtZgoYOq3C12H3RKgAZZ38D55Jwej7JBttJ6+oFuwIRYy5qTbE/WugMsCxw==
+  dependencies:
+    "@types/unist" "*"
+
 "@types/node@*":
   version "18.0.0"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.0.0.tgz#67c7b724e1bcdd7a8821ce0d5ee184d3b4dd525a"
@@ -1436,6 +1443,13 @@ nlcst-to-string@^3.0.0:
   dependencies:
     "@types/nlcst" "^1.0.0"
 
+nlcst-to-string@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/nlcst-to-string/-/nlcst-to-string-4.0.0.tgz#05511e8461ebfb415952eb0b7e9a1a7d40471bd4"
+  integrity sha512-YKLBCcUYKAg0FNlOBT6aI91qFmSiFKiluk655WzPF+DDMA02qIyy8uiRqI8QXtcFpEvll12LpL5MXqEmAZ+dcA==
+  dependencies:
+    "@types/nlcst" "^2.0.0"
+
 nopt@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/nopt/-/nopt-7.0.0.tgz#09220f930c072109c98ef8aaf39e1d5f0ff9b0d4"
@@ -2600,17 +2614,15 @@ retext-repeated-words@^4.2.0:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-retext-sentence-spacing@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/retext-sentence-spacing/-/retext-sentence-spacing-5.2.0.tgz#52cf5481bd84fc744dfb370793a77849a47d8018"
-  integrity sha512-/68k/mp/MY1sfRAr1A6or2rfhR7xFOfydDADAESTAETuES4LIATYEIPqKz0FuSuFZLBS9MB2IpbUPDfUES/OiA==
+retext-sentence-spacing@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/retext-sentence-spacing/-/retext-sentence-spacing-6.0.0.tgz#226f2d9d5c24ee13680487ad795551c5af58f133"
+  integrity sha512-8rYm6lvstIWw3mmiBCVQ1P4CprkCfvWjITd/Rhmd0gpsLbO0pXzLN1mrGUjt9tQzThecdM4JdgGmhl9cVADIRg==
   dependencies:
-    "@types/nlcst" "^1.0.0"
-    "@types/unist" "^2.0.0"
-    nlcst-to-string "^3.0.0"
-    unified "^10.0.0"
-    unist-util-is "^5.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/nlcst" "^2.0.0"
+    nlcst-to-string "^4.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
 
 retext-simplify@^7.2.0:
   version "7.2.0"
