@@ -791,13 +791,13 @@ mdast-comment-marker@^3.0.0:
     "@types/mdast" "^4.0.0"
     mdast-util-mdx-expression "^2.0.0"
 
-mdast-normalize-headings@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/mdast-normalize-headings/-/mdast-normalize-headings-3.1.0.tgz#45747f0b76ef9d7f5f741de652a951266f49aab5"
-  integrity sha512-QL9XJ610dApHcsScRTbWiFtn7QO4wcE2fu6Jpyt4vja3qW28tpwDe0SBpM1lCYYtZi+2XNEb04Wlue8RYG6GqA==
+mdast-normalize-headings@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-normalize-headings/-/mdast-normalize-headings-4.0.0.tgz#8c766984ed6dea088e9ed60d89790f67c9eec629"
+  integrity sha512-PlUAiR4x49XGYLoyEoQYbqJfO6MdcGt5Uq/0ivZvAUv55YABk8psT6177lhng6hAwTF64P6CjXrE8Aew8oqSAQ==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    unist-util-visit "^5.0.0"
 
 mdast-util-from-markdown@^1.0.0:
   version "1.2.0"
@@ -2335,14 +2335,13 @@ remark-message-control@^7.0.0, remark-message-control@^7.1.1:
     unified-message-control "^4.0.0"
     vfile "^5.0.0"
 
-remark-normalize-headings@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/remark-normalize-headings/-/remark-normalize-headings-3.0.1.tgz#de9030a72ebdb657cd2e22c14e5f1e9c472d692e"
-  integrity sha512-ovwKHQUQ8vLMnHPbFzW2sMfHqTKgqwseA3G4EEV+U2aRUyzH8dydqRo128FoJ3a1qYhADt2DyxNXv9iyEmvGFg==
+remark-normalize-headings@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/remark-normalize-headings/-/remark-normalize-headings-4.0.0.tgz#94a94f2e7f8e3711463989fa444d48a1576eb65a"
+  integrity sha512-fSE2hJxQlqxEsiB/Oni3UcERQ0IbnUuO3RNmQd4LjgEaknek0I//fK05wgFrKP/wYhWEWA+hgm1MHkddpPDcJQ==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-normalize-headings "^3.0.0"
-    unified "^10.0.0"
+    "@types/mdast" "^4.0.0"
+    mdast-normalize-headings "^4.0.0"
 
 remark-parse@^10.0.0:
   version "10.0.1"
