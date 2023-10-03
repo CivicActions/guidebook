@@ -16,18 +16,19 @@ Additionally, your laptop should lock (require a password to resume) on screen c
 
 ## Password management tools
 
-A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At CivicActions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
+A password manager enables you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At CivicActions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on other solutions.
+
+The password manager itself must be protected by a strong _memorized secret_ (this may be the only password you have to remember) as defined in the [Password Policy](../../company-policies/security/#password-policy)
 
 ### LastPass
 
--   The [LastPass](https://www.lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
+-   The [LastPass](https://www.lastpass.com/) password generator can create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
     -   We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
     -   Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
 -   LastPass is required for members of the CivicActions System Admins and DevSecOps Team.
 -   We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](#yubikey) token).
 -   Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
 -   It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
--   CivicActions also requires that you have a [backup second factor authenticator](#multi-factor-redundancy-and-mfa-backup-codes) for your LastPass account.
 
 ### Disable browser password autofill
 
@@ -39,17 +40,17 @@ LastPass provides secure password management especially when unlocked via Two Fa
 
 ## Use Multi-Factor Authentication (MFA)
 
-Multi-Factor Authentication (MFA), sometimes known as Two-Factor Authentication (TFA or 2FA), greatly enhances login security by requiring two or more pieces of evidence (or factors) before granting access to a service. These factors may include something you know (e.g., your memorized password), something you have (e.g., your smartphone or a YubiKey), and something you are (e.g., your fingerprint or iris scan). CivicActions recommends you use multi-factor authentication for services that support it.
+Multi-Factor Authentication (MFA), sometimes known as Two-Factor Authentication (TFA or 2FA), greatly enhances login security by requiring two or more pieces of evidence (or factors) before granting access to a service. These factors may include something you know (e.g., your _memorized secret_), something you have (e.g., your smartphone or a YubiKey), and something you are (e.g., your fingerprint or iris scan).
 
-For example, as your password manager grows to have more passwords in it - not only CivicActions systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
+If you lose your second factor (say a Yubikey or your phone) you may not be able to unlock the service any more. For this reason it is crucially important that you have a [backup second factor](#multi-factor-redundancy-and-mfa-backup-codes) for each MFA-enabled service.
 
-CivicActions requires that its employees and contractors that are given access to CivicActions Services - that include Gmail, Google Drive, Gitlab, and Slack - use multi-factor authentication on their CivicActions Google Account.
+CivicActions requires MFA for access to your password manager, the CivicActions Google Workspace, GitHub, Gitlab and for any *privileged account* access.
 
 ### Multi-Factor Authenticators (MFA)
 
 There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below.
 
-Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Multi-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes)).
+Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up MFA on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes)).
 
 #### LastPass Authenticator
 
@@ -64,7 +65,7 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 #### YubiKey
 
-Once set up, your YubiKey greatly simplifies the process of Multi-Factor Authentication (MFA). While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches easily to your keychain _(and should only be inserted when authenticating)_.
+Once set up, your YubiKey greatly simplifies the process of Multi-Factor Authentication (MFA). While at home, keep the key plugged into an unused USB port and tap the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches to your keychain _(and should only be inserted when authenticating)_.
 
 See the [Yubikey page](./yubikey.md) for details on setting it up with various operating systems.
 
@@ -155,7 +156,7 @@ With more work captured in the cloud by Slack, Gmail, Google Drive, GitHub, etc.
 -   `~/.gnupg/`
 -   `~/.config`
 
-Consider committing your personalization files (like `~/.bashrc`) into a Git repository. Just make sure that you do _not_ commit any files that may contain private keys or passwords.
+Consider committing your personalization files (like `~/.bashrc`) into a Git repository. Please ensure that you do _not_ commit any files that may contain private keys or passwords.
 
 While it's preferable that you _not_ backup any company or client sensitive files or data, it is critical that such data is completely deleted from your machine(s) when you stop working for that client.
 
