@@ -115,7 +115,7 @@ If a system is believed to be compromised, either through theft, loss, remote ac
 
 ## Password Policy
 
-Strong passwords provide the basis for secure authentication to many systems and services. 
+Strong passwords provide the basis for secure authentication to many systems and services.
 
 To qualify as a strong password, it must be at least 16 characters long with multiple character types and no repetitions. A longer _passphrase_ consisting of several words in an order that make sense only to you can work well as a _memorized secret_.
 
@@ -126,13 +126,11 @@ All passwords at CivicActions must follow this policy, including passwords used 
 -   Accounts on any CivicActions or client site or service.
 -   Accounts on 3rd party vendor sites.
 
-CivicActions requires that you employ a unique, strong password for every service that you log into. For this reason, CivicActions requires use of a [Password Manager](../common-practices-tools/security#password-management-tools).
-
-Please see the [Security Awareness and Tools](../common-practices-tools/security/README.md) document for details on these subjects and more.
+CivicActions requires that you employ a unique, strong password for every service that you log into. For this reason, CivicActions requires use of a [Password Manager](../common-practices-tools/security/README.md#password-management-tools).
 
 ### Mitigation
 
-If you suspect a password has been compromised (for example, it was accidentally typed into an unencrypted chat session), [report the incident](../common-practices-tools/security/incidents/#reporting-an-incident) immediately - the Security Team will provide support. It is usually good practice to change the password yourself if possible.
+If you suspect a password has been compromised (for example, it was accidentally typed into an unencrypted chat session), [report the incident](../common-practices-tools/security/incidents.md#reporting-an-incident) immediately - the Security Team will provide support. It is usually good practice to change the password yourself if possible.
 
 -   This includes the case when a client sends a name/password pair in the clear in an email.
 

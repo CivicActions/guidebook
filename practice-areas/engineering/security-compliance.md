@@ -10,7 +10,7 @@ All engineers understand and abide by the [CivicActions Employee/Contractor Secu
 
 In particular:
 
--   We practice [Server & Site Security](../../company-policies/security.md#server-and-site-security)
+-   We practice [Server & Site Security](#server-and-site-security)
     -   using only sanitized databases
     -   taking care to not install restricted access files on development or personal instances outside the project defined security accreditation boundary
     -   and scrubbing unneeded data from our development systems
@@ -55,8 +55,8 @@ There are some instructions at <https://support.google.com/accounts/answer/18583
 
 -   If a service allows individual accounts, use only individual accounts and not shared credentials.
 -   Prefer services that allow individual accounts, services that allow MFA and secure password policies.
--   If a service only allows a single account, have a shared LastPass master account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day LastPass accounts for the 2-3 trusted people.
--   If the LastPass master account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
+-   If a service only allows a single account, have a shared LastPass account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day LastPass accounts for the 2-3 trusted people.
+-   If the shared LastPass account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
 -   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people leave.
 
 ### Private keys
