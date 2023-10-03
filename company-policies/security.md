@@ -160,3 +160,5 @@ We maintain a [Security Awareness and Tools](../common-practices-tools/security/
 -   Phishing and Social Engineering
 -   Backups
 -   Secure Delete Files and Wiping Disks
+
+Finally, in addition to the above policies, CivicActions Engineers -- who may have elevated privileges in specific environments -- are required to align with the [Engieering Security and Compliance](../practice-areas/engineering/security-compliance.md) guidelines.

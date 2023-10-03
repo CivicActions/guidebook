@@ -6,7 +6,7 @@ title: Security and compliance
 
 ## Security Policy
 
-All engineers understand and abide by the [CivicActions Employee/Contractor Security Policy](../../company-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../../company-policies/new-hire-orientation/security-training.md).
+All engineers understand and abide by the [CivicActions Information Security Policy](../../company-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../../company-policies/new-hire-orientation/security-training.md).
 
 In particular:
 
