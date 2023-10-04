@@ -30,11 +30,9 @@ In particular:
 
 ### As Drupal Developers
 
--   We follow [Drupal coding standards and best practices](https://www.drupal.org/developing/best-practices)
--   We write [Secure Code in Drupal 7](https://www.drupal.org/docs/7/security/writing-secure-code)
--   We understand [Security in Drupal 8](https://www.drupal.org/docs/8/security)
--   Note that alpha, beta and rc versions are not considered stable and not subject to security team support. In my experience in many cases it is preferable to run a dev than alpha/beta releases where there has been significant number of bug fixes done, and the security profile is identical.
--   Each dev release is tied to a specific Git commit which is tracked in our repository, and that commit is just as unchangeable as an alpha or beta release (all the latter has is a human readable label for the commit).
+-   We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standards) and best practices for [writing secure code](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal/writing-secure-code-for-drupal)
+-   We create and maintain [secure Drupal sites](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal)
+-   Note that `alpha`, `beta` and `rc` versions are not stable and not subject to security team support. It is often preferable to run a `dev` than `alpha/beta` releases where there has been significant number of bug fixes done, and the security profile is identical.
 -   We periodically audit sites to determine if the set of enabled modules are all still in use on the site.
 
 ## Privileged Access
@@ -47,9 +45,7 @@ In particular:
 
 ### Advanced: Connecting to MFA-enabled Services/Apps
 
-Some applications and services may need to connect to your CivicActions Google account but they might not be able to handle Multi-Factor Authentication (MFA). An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass MFA.
-
-There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other MFA-enabled services also support app passwords -- see their respective documentation.
+Some applications and services may need to connect to your CivicActions Google account but they might not be able to handle Multi-Factor Authentication (MFA). An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). App Passwords allow you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass MFA.
 
 ### IT: Sharing Service Accounts
 
@@ -57,7 +53,7 @@ There are some instructions at <https://support.google.com/accounts/answer/18583
 -   Prefer services that allow individual accounts, services that allow MFA and secure password policies.
 -   If a service only allows a single account, have a shared LastPass account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day LastPass accounts for the 2-3 trusted people.
 -   If the shared LastPass account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
--   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people leave.
+-   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people offboard from the project or company.
 
 ### Private keys
 
@@ -91,8 +87,8 @@ Developers and themers working on the site codebase (and committing code to Git)
 -   Ensure their own code and development practices follow accepted secure coding standard.
 -   Ensure the standard dev-qa-live process is always followed, such that all changes that may affect site security can be thoroughly tested before being made live.
 -   Ensure that external developers (client or 3rd party) working on the site codebase are either:
-    -   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.
-    -   OR: The client confirms understanding that we have neither assessed their skills nor are we reviewing their code. This scenario is best avoided, but is sometimes necessary if the site is being transitioned to another developer.
+    -   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to CivicActions code review.
+    -   OR: The client confirms understanding that we have neither assessed their skills nor are we reviewing their code.
 -   Review all contributed code they have not previously used for basic quality - this is not a formal security audit in most cases, but rather checking the usage stats, issue queue, skimming the module code for readability and adherence to good practices etc. Code that is actively used and maintained and follows best practices is less likely to have serious security issues.
 -   Check for security advisories ([drupal.org/security](https://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
 -   Understand common attack vectors and the best practices for preventing them, including:
@@ -127,24 +123,25 @@ Developers and themers working on the site server instance (SSH/shell, file syst
 IT team system administrators working on CivicActions servers must also:
 
 -   Take the utmost caution when working on server configuration - document and test each change.
--   Non-urgent yet risky changes (those with significant risk of introducing undesired side-effects) should only be made when the person expects to remain online and available for a while after the change.
+-   Non-urgent yet risky changes (those with significant risk of introducing undesired side-effects) should only be made when the person expects to remain online and available for at leat two hours after the change.
 -   Not work on site/user files as root - but "su" to the account first.
 -   Respect the privacy of server users, avoiding accessing others' personal data such as e-mails.
 -   Work with the IT team to ensure server and backup health is monitored and alerts are responded to promptly.
 -   Ensure offsite backups are transferred and stored only in encrypted form.
--   Ensure the Hurricane Electric and RimuHosting access list (that controls remote hands and physical server access) is maintained.
+-   Ensure the RimuHosting access list (that controls remote hands and physical server access) is maintained.
 
 ## Continuous Monitoring
 
 We use tools to support continuous monitoring for performance and efficiency, and to ensure proper operation and security. These tools include (not an exhaustive list):
 
 -   Event and error log capture: auditd (SELinux), fail2ban and AIDE.
--   Continuous monitoring dashboards: LogWatch, LogStash/GrayLog, Nagios, Cloudwatch, Pingdom, StatusCake, OpsGenie and New Relic.
--   Automated security scanning: OpenSCAP, OWASP ZAP, Trivy and Syft (for SBOM creation).
+-   Continuous monitoring dashboards: Cloudwatch, StatusCake, OpsGenie, Splunk and New Relic.
+-   Automated security scanning: OpenSCAP, OWASP ZAP, and Trivy.
+-   Supply chain and Software Bill of Materials (SBOM): Syft and DependencyTrack.
 
 ## Incident Response
 
 -   Every project has an Incident Response Team
 -   We ensure that at least one member of the Incident Response Team has access to the Internet at all times.
 -   We train new employees and perform yearly quizzes of employees on the Incident Response procedures.
--   Each project can extend or replace the default IRP.
+-   Each project can extend or replace the default [Incident Response Plan](../../common-practices-tools/security/incident-response-plan.md).
