@@ -16,7 +16,7 @@ The YubiKey is a hardware device manufactured by Yubico that provides a hardware
 ### Security Hints
 
 -   If you trust your environment (like at home) you can keep the YubiKey near or even plugged into your computer.
--   In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse). If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
+-   In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse), especially if step away from your computer, even briefly. If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
 -   Do not use SMS text messages for multi-factor authentication. Your MFA is only as strong as the weakest method you have configured.
 
 ## Enable YubiKey MFA for applications
