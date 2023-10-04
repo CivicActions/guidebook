@@ -75,13 +75,11 @@ nav:
       - common-practices-tools/gold-star-program.md
       - Security awareness and tools:
           - common-practices-tools/security/README.md
-          - Setting up and using Yubikey:
-              - common-practices-tools/security/yubikey/README.md
-              - common-practices-tools/security/yubikey/linux.md
-              - common-practices-tools/security/yubikey/macosx.md
+          - common-practices-tools/security/yubikey.md
           - common-practices-tools/security/drupal-rmf-support.md
           - common-practices-tools/security/encryption.md
           - common-practices-tools/security/gnupg.md
+          - common-practices-tools/security/securing-your-workspace.md
           - Incidents:
               - common-practices-tools/security/contingency-plan.md
               - common-practices-tools/security/incident-response-checklist.md

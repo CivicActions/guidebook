@@ -12,10 +12,7 @@ _This is currently - and probably always will be - a work in progress. Pull Requ
 
 The operating system and software applications on your laptop - and all computers, phones, tablets, etc. in your house - should be kept up to date with new versions and security patches that ensure it presents a minimal attack surface to potential adversaries. (This is mentioned in the [Security Policy](../../company-policies/security.md) but is worth repeating.)
 
-Additionally, your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time.
-
--   [GNU/Linux specific instructions](yubikey/linux.md)
--   [Mac OS X specific instructions](yubikey/macosx.md)
+Additionally, your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time. See [Securing Your Workspace](./securing-your-workspace.md) for more details.
 
 ## Password management tools
 
@@ -50,7 +47,7 @@ CivicActions requires that its employees and contractors that are given access t
 
 ### Multi-Factor Authenticators (MFA)
 
-There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. _(Note that Google Authenticator is no longer recommended as it does not support encrypted cloud backup.)_
+There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below.
 
 Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Multi-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "MFA Backup" mechanism (be sure to see the essential section below on [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes)).
 
@@ -69,7 +66,7 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 Once set up, your YubiKey greatly simplifies the process of Multi-Factor Authentication (MFA). While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches easily to your keychain _(and should only be inserted when authenticating)_.
 
--   See "[Let's get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use MFA with: [Gmail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
+See the [Yubikey page](./yubikey.md) for details on setting it up with various operating systems.
 
 While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Multi-Factor Redundancy and MFA Backup Codes](#multi-factor-redundancy-and-mfa-backup-codes).
 
@@ -115,7 +112,7 @@ Social engineering is the most common attack vector used to compromise computer 
         -   Watch out for an "Evil Twin" - a hotspot that looks good but could be an access point set up by an attacker (e.g., "StarbucksGuest" or "DeltaFreeWifi")
     -   Turn on your local firewall
     -   Use a VPN if possible
-        -   CivicActions has an [internal company VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) that has a static exit IP that can be whitelisted to CivicActions' client services
+        -   CivicActions has an [internal company VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) that has a static exit IP that can be allow-listed to CivicActions' client services
         -   If you always use HTTPS and SSH for connectivity, you are essentially creating a trusted VPN tunnel with every connection. There could still be metadata collection and local DNS spoofing, but [public Wi-Fi is now reasonably safe](https://www.eff.org/deeplinks/2020/01/why-public-wi-fi-lot-safer-you-think)
     -   As usual, never enter your name or password information:
         -   when on an insecure (non-HTTPS or SSL encrypted) connection, or
