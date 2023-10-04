@@ -502,3 +502,6 @@
 - from_url: /practice-areas/project-management/pm-role/
   to_url: /practice-areas/project-management/
   type: page
+- from_url: /common-practices-tools/security/yubikey/linux/
+  to_url: /common-practices-tools/security/securing-your-workspace/
+  type: page
