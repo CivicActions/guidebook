@@ -221,6 +221,23 @@ IT team system administrators working on CivicActions servers must also:
 -   Ensure offsite backups are transferred and stored only in encrypted form.
 -   Ensure the Hurricane Electric and RimuHosting access list (that controls remote hands and physical server access) is maintained.
 
+## Mobile Device Security
+
+Mobile devices are portable devices that connect to the internet, specifically devices like smartphones and tablet computers. Most (or all) mobile devices used at CivicActions are personal devices - this policy is intended to cover these personal devices, if they are used for CivicActions work.
+
+Securing mobile devices used for CivicActions work is crucial for safeguarding sensitive information and maintaining the integrity of our organization and our customer's data. The following are best practices for mobile device security (for more information see NIST SP 800-124 - [Guidelines for Managing the Security of Mobile Devices in the Enterprise](https://csrc.nist.gov/pubs/sp/800/124/r2/final)):
+
+1. Keep the device updated on all firmware and OS updates, including critical security updates.
+2. Enable security features to lock devices when not in use. Recommended security features include a password or 6-character pin, and biometric security (fingerprint, facial recognition, if available).
+3. The device must be set to automatically lock after a maximum of 5 minutes of inactivity. If security features make unlocking convenient then a shorter lock time is recommended.
+4. Verify that data is encrypted on the device. Ways to set this up by OS type:
+    - iOS - setup icloud account to enable data encryption
+    - Android - setup biometric/pin code to enable data encryption
+5. Do not "jailbreak" or "root" your mobile device, removing inherent OS security and exposing it to malware apps.
+6. Install apps from only secure sources (official app stores) and avoid side-loading apps.
+7. If a device used for CivicActions work is lost or stolen, please notify the security team immediately to document and assist in recovering or wiping the device.
+8. Follow [CivicActions' prohibited hardware and software policy](prohibited-hardware-and-software.md) to avoid using/installing items on the list.
+
 ## Security awareness and tools
 
 We maintain a [Security Awareness and Tools](../common-practices-tools/security/README.md) document that dives deeper into some additional topics, including:
