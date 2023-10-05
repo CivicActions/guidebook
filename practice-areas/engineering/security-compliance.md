@@ -18,18 +18,22 @@ In particular:
 ## As Developers
 
 We use a company identifiable email address for all company, client and service accounts
+
 -   based on your `firstname.lastname@civicactions.com` email address
--   to create multiple email addresses (that will be delivered to your main account) add a unique `+identifier` after your name  -- everything after the `+` is ignored by the mailer
+-   to create multiple email addresses (that will be delivered to your main account) add a unique `+identifier` after your name -- everything after the `+` is ignored by the mailer
     -   e.g. `first.lastname+project-admin@civicactions.com`
     -   and: `first.lastname+qa1@civicactions.com`
 
 When creating test or exploratory accounts on staging or production systems, we:
+
 -   use a user name derived from your name, e.g., `first.lastname` or `flastname` or `flastname-admin`
 
 We follow the principle of least privilege:
+
 -   an entity (person or process) must be able to access only the information and resources that are necessary for its legitimate purpose
 
 We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
+
 -   When necessary for new functionality, we strive to create generic modules and contribute them to the parent project
 -   Custom code must:
     -   have an associated Jira (or other ticketing system) ticket
@@ -40,6 +44,7 @@ We minimize custom code, always preferring to use community maintained modules a
 ### As Drupal Developers
 
 We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standards) and best practices for [writing secure code](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal/writing-secure-code-for-drupal)
+
 -   We create and maintain [secure Drupal sites](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal)
 -   We understand that `alpha`, `beta` and `rc` versions are not stable and not subject to security team support. It is often preferable to run a `dev` than `alpha/beta` releases where there has been significant number of bug fixes done, and the security profile is identical.
 -   We periodically audit sites to determine if the set of enabled modules are all still in use on the site.
@@ -47,6 +52,7 @@ We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standard
 ## Privileged Access
 
 We ensure that access to documents/sites/dashboards is limited to those that should have access.
+
 -   This includes our Google Docs!
 -   We ensure that users with enhanced privileges (to sites and/or servers)
     -   must use MFA for authentication/authorization
@@ -86,7 +92,7 @@ Usage of CivicActions developer accounts should be as follows:
 Web administrator account holders (Drupal, CiviCRM, Moodle, Ilias or other) must also:
 
 -   Be familiar with how to maintain configuration security
-    - For example, as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
+    -   For example, as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
 -   Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
 -   Test the site to ensure settings are correct after changing settings affecting content/data access control.
 -   Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
