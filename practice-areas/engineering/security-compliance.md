@@ -6,7 +6,7 @@ title: Security and compliance
 
 ## Security Policy
 
-All engineers understand and abide by the [CivicActions Information Security Policy](../../company-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../../company-policies/new-hire-orientation/security-training.md).
+All engineers understand and abide by the [CivicActions Information Security Policy](../../company-policies/security.md). Further, we take care to follow the guidance in the [Security Training](../../company-policies/new-hire-orientation/security-training.md).
 
 In particular:
 
@@ -17,10 +17,19 @@ In particular:
 
 ## As Developers
 
--   When creating test or exploratory accounts on staging or production systems, we:
-    -   use a user name derived from your name like `first.lastname` or `flastname` or `flastname-admin`
-    -   use your `civicactions.com` email address (can add an identifier, e.g. `first.lastname+project-admin@civicactions.com` -- everything after the `+` is ignored by the mailer)
--   We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
+We use a company identifiable email address for all company, client and service accounts
+-   based on your `firstname.lastname@civicactions.com` email address
+-   to create multiple email addresses (that will be delivered to your main account) add a unique `+identifier` after your name  -- everything after the `+` is ignored by the mailer
+    -   e.g. `first.lastname+project-admin@civicactions.com`
+    -   and: `first.lastname+qa1@civicactions.com`
+
+When creating test or exploratory accounts on staging or production systems, we:
+-   use a user name derived from your name, e.g., `first.lastname` or `flastname` or `flastname-admin`
+
+We follow the principle of least privilege:
+-   an entity (person or process) must be able to access only the information and resources that are necessary for its legitimate purpose
+
+We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
 -   When necessary for new functionality, we strive to create generic modules and contribute them to the parent project
 -   Custom code must:
     -   have an associated Jira (or other ticketing system) ticket
@@ -30,18 +39,18 @@ In particular:
 
 ### As Drupal Developers
 
--   We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standards) and best practices for [writing secure code](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal/writing-secure-code-for-drupal)
+We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standards) and best practices for [writing secure code](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal/writing-secure-code-for-drupal)
 -   We create and maintain [secure Drupal sites](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal)
--   Note that `alpha`, `beta` and `rc` versions are not stable and not subject to security team support. It is often preferable to run a `dev` than `alpha/beta` releases where there has been significant number of bug fixes done, and the security profile is identical.
+-   We understand that `alpha`, `beta` and `rc` versions are not stable and not subject to security team support. It is often preferable to run a `dev` than `alpha/beta` releases where there has been significant number of bug fixes done, and the security profile is identical.
 -   We periodically audit sites to determine if the set of enabled modules are all still in use on the site.
 
 ## Privileged Access
 
--   We ensure that access to documents/sites/dashboards is limited to those that should have access.
+We ensure that access to documents/sites/dashboards is limited to those that should have access.
 -   This includes our Google Docs!
 -   We ensure that users with enhanced privileges (to sites and/or servers)
     -   must use MFA for authentication/authorization
-    -   are appropriately adjusted upon separation from CivicActions.
+    -   are appropriately adjusted upon offboarding from a project or CivicActions.
 
 ### Advanced: Connecting to MFA-enabled Services/Apps
 
@@ -60,8 +69,8 @@ Some applications and services may need to connect to your CivicActions Google a
 -   SSH public/private key pairs are used to access CivicActions servers.
 -   GnuPG (PGP compatible) public/private key pairs may be used to transmit and store credentials to CivicActions client sites and internal services.
 -   The private key files themselves should be kept in as few places as possible (ideally just your primary computer; a home server is also acceptable for storage of a backup copy of the encrypted key, but not for use of the key).
--   Private keys should never be placed on external servers – if you need SSH access to one server from another server (typically for a large data transfer), generate a dedicated key pair for that purpose or tunnel SSH over SSH port forwarding (ask IT for instructions).
--   If you suspect a private key file (or its passphrase) has been compromised, inform IT immediately, so that we can revoke the corresponding public key on our servers.
+-   Private keys should never be placed on external servers – if you need SSH access to one server from another server (say for a large data transfer), generate a dedicated key pair for that purpose or tunnel SSH over SSH port forwarding (ask IT for instructions).
+-   If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident)immediately, so that IT can revoke the corresponding public key on affected servers.
 -   Keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
 -   Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
 
@@ -74,9 +83,10 @@ Usage of CivicActions developer accounts should be as follows:
 -   Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CTO.
 -   Use in any way harmful to CivicActions or our clients is forbidden.
 
-Web administrator account holders (Drupal, CiviCRM or other) must also:
+Web administrator account holders (Drupal, CiviCRM, Moodle, Ilias or other) must also:
 
--   Be familiar with how to maintain configuration security as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
+-   Be familiar with how to maintain configuration security
+    - For example, as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
 -   Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
 -   Test the site to ensure settings are correct after changing settings affecting content/data access control.
 -   Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
