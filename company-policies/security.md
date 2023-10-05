@@ -83,7 +83,7 @@ Usage of CivicActions user accounts should be as follows:
 -   Confidential information (other than personal information) should only be stored in areas restricted by access control, such as the project management area.
 -   Binary software executable files should not be distributed via internal collaboration systems, as we do not have anti-virus scanning in place. Uploading human readable source code and scripts (php, bash, perl etc.) is acceptable (but nevertheless should be considered a risk).
 
-In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as SVN/Git and MySQL database access. Usage for these accounts is covered in our server security policy, below.
+In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as SVN/Git and MySQL database access. Usage of these accounts is covered in the [Engineering Security and Compliance](../practice-areas/engineering/security-compliance.md) guidelines.
 
 ## Access Policy
 
