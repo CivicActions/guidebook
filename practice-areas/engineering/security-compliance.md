@@ -122,7 +122,7 @@ Developers and themers maintaining local sandbox copies of client sites must als
 
 -   Ensure that our standard tools for creating, sanitizing and transferring database dumps for sandboxes are used.
 -   Ensure that unsanitized mysql data (extracted via mysqldump or phpmyadmin) is not downloaded from the server to a local sandbox.
--   Ensure that all confidential data associated with a project (such as databases, database dumps and other files) are securely deleted from their system(s) when leaving or completing a project.
+-   Ensure that all [confidential information](../../company-policies/security.md#confidential-information-agreement) associated with a project (such as databases, database dumps, performace work statements (PWS) and other files) are securely deleted from their system(s) when offboarding from the leaving or completing a project.
 
 Developers and themers working on the site server instance (SSH/shell, file system, database) must also:
 
