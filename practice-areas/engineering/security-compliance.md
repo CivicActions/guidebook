@@ -61,16 +61,18 @@ We ensure that access to documents/sites/dashboards is limited to those that sho
 ### IT: Sharing Service Accounts
 
 Group accounts with shared passwords should be avoided.
+
 -   If a required service only allows a single account, LastPass password sharing or encrypted credential files can be used to share a password to a limited number of users on an "as needed" basis.
 -   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people offboard from the project or company.
 
 ### Private keys
 
 SSH public/private key pairs are used to access CivicActions servers and services we use, such as Amazon Web Services.
+
 -   RSA keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
 -   The private key must be protected with a passphrase that adheres to the CivicActions [Password Policy](../../company-policies/security.md#password-policy)
 -   Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
--   Private key files should be kept in as few places as possible, and never  on external servers
+-   Private key files should be kept in as few places as possible, and never on external servers
 -   If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident) immediately.
 
 ## Server and site security
