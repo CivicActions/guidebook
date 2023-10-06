@@ -58,27 +58,20 @@ We ensure that access to documents/sites/dashboards is limited to those that sho
     -   must use MFA for authentication/authorization
     -   are appropriately adjusted upon offboarding from a project or CivicActions.
 
-### Advanced: Connecting to MFA-enabled Services/Apps
-
-Some applications and services may need to connect to your CivicActions Google account but they might not be able to handle Multi-Factor Authentication (MFA). An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). App Passwords allow you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass MFA.
-
 ### IT: Sharing Service Accounts
 
--   If a service allows individual accounts, use only individual accounts and not shared credentials.
--   Prefer services that allow individual accounts, services that allow MFA and secure password policies.
--   If a service only allows a single account, have a shared LastPass account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day LastPass accounts for the 2-3 trusted people.
--   If the shared LastPass account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
+Group accounts with shared passwords should be avoided.
+-   If a required service only allows a single account, LastPass password sharing or encrypted credential files can be used to share a password to a limited number of users on an "as needed" basis.
 -   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people offboard from the project or company.
 
 ### Private keys
 
--   SSH public/private key pairs are used to access CivicActions servers.
--   GnuPG (PGP compatible) public/private key pairs may be used to transmit and store credentials to CivicActions client sites and internal services.
--   The private key files themselves should be kept in as few places as possible (ideally just your primary computer; a home server is also acceptable for storage of a backup copy of the encrypted key, but not for use of the key).
--   Private keys should never be placed on external servers – if you need SSH access to one server from another server (say for a large data transfer), generate a dedicated key pair for that purpose or tunnel SSH over SSH port forwarding (ask IT for instructions).
--   If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident)immediately, so that IT can revoke the corresponding public key on affected servers.
--   Keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
+SSH public/private key pairs are used to access CivicActions servers and services we use, such as Amazon Web Services.
+-   RSA keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
+-   The private key must be protected with a passphrase that adheres to the CivicActions [Password Policy](../../company-policies/security.md#password-policy)
 -   Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
+-   Private key files should be kept in as few places as possible, and never  on external servers
+-   If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident) immediately.
 
 ## Server and site security
 
