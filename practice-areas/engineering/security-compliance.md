@@ -97,14 +97,15 @@ Group accounts with shared passwords should be avoided.
 -   If a required service only allows a single account, LastPass password sharing or encrypted credential files can be used to share a password to a limited number of users on an "as needed" basis.
 -   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people offboard from the project or company.
 
-### External Developers
+### Incident Response
 
-Ensure that external developers (client or 3rd party) working on the site codebase are either:
+-   We are trained to recognize and report [security incidents](../../common-practices-tools/security/incidents.md).
+-   Every project has an Incident Response Team
+-   We ensure that at least one member of the Incident Response Team has access to the Internet at all times.
+-   We train new employees and perform yearly quizzes of employees on the Incident Response procedures.
+-   Each project can extend or replace the default [Incident Response Plan](../../common-practices-tools/security/incident-response-plan.md).
 
--   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to CivicActions code review, or
--   the client confirms understanding that we have neither assessed their skills nor are we reviewing their code.
-
-## Continuous Monitoring
+### Continuous Monitoring
 
 We use tools to support continuous monitoring for performance and efficiency, and to ensure proper operation and security. These tools include (not an exhaustive list):
 
@@ -112,10 +113,3 @@ We use tools to support continuous monitoring for performance and efficiency, an
 -   Continuous monitoring dashboards: Cloudwatch, StatusCake, OpsGenie, Splunk and New Relic.
 -   Automated security scanning: OpenSCAP, OWASP ZAP, and Trivy.
 -   Supply chain and Software Bill of Materials (SBOM): Syft and DependencyTrack.
-
-## Incident Response
-
--   Every project has an Incident Response Team
--   We ensure that at least one member of the Incident Response Team has access to the Internet at all times.
--   We train new employees and perform yearly quizzes of employees on the Incident Response procedures.
--   Each project can extend or replace the default [Incident Response Plan](../../common-practices-tools/security/incident-response-plan.md).
