@@ -8,31 +8,36 @@ title: Security and compliance
 
 All engineers understand and abide by the [CivicActions Information Security Policy](../../company-policies/security.md). Further, we take care to follow the guidance in the [Security Training](../../company-policies/new-hire-orientation/security-training.md).
 
-In particular:
+We follow the _Principle of Least Privilege_: an entity (person or process) must be able to access only the information and resources that are necessary for its legitimate purpose.
 
--   We practice [Server & Site Security](#server-and-site-security)
-    -   using only sanitized databases
-    -   taking care to not install restricted access files on development or personal instances outside the project defined security accreditation boundary
-    -   and scrubbing unneeded data from our development systems
+We ensure that all [confidential information](../../company-policies/security.md#confidential-information-agreement) associated with a project (such as databases, database dumps, performace work statements (PWS) and other files) are managed securely and deleted when the need to know lapses.
 
-## As Developers
+## Server and site security
 
-We use a company identifiable email address for all company, client and service accounts
+Developers, themers and others working on a project site must:
 
--   based on your `firstname.lastname@civicactions.com` email address
--   to create multiple email addresses (that will be delivered to your main account) add a unique `+identifier` after your name -- everything after the `+` is ignored by the mailer
-    -   e.g. `first.lastname+project-admin@civicactions.com`
-    -   and: `first.lastname+qa1@civicactions.com`
+-   Be familiar with how to maintain configuration security
+    -   For example, as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
+-   Confirm correct role permissions and authorizations after changing settings affecting content/data access control.
+-   Ensure their code and development practices follow accepted secure coding standard.
+-   Ensure all changes that may affect site security are thoroughly tested before being made live.
+-   Engage - both give and receive - peer review of contributed code.
+-   Check for security advisories (e.g., [drupal.org/security](https://drupal.org/security)) for libraries/modules/packages, ensure they are upgraded where necessary.
+-   Understand common attack vectors, such as:
+    -   [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
+    -   [OWASP Top 10 API Security Risks](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
 
-When creating test or exploratory accounts on staging or production systems, we:
+### As Drupal Developers
 
--   use a user name derived from your name, e.g., `first.lastname` or `flastname` or `flastname-admin`
+We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standards) and best practices for [writing secure code](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal/writing-secure-code-for-drupal)
 
-We follow the principle of least privilege:
+-   We create and maintain [secure Drupal sites](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal)
+-   We understand that `alpha`, `beta` and `rc` versions are not stable and not subject to security team support. It is often preferable to run a `dev` than `alpha/beta` releases where there has been significant number of bug fixes done, and the security profile is identical.
+-   We periodically audit sites to determine if the set of enabled modules are up-to-date and still in use on the site.
 
--   an entity (person or process) must be able to access only the information and resources that are necessary for its legitimate purpose
+### Code Creation
 
-We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
+We minimize custom code, always preferring to use community maintained modules and contribute patches when needed.
 
 -   When necessary for new functionality, we strive to create generic modules and contribute them to the parent project
 -   Custom code must:
@@ -41,33 +46,32 @@ We minimize custom code, always preferring to use community maintained modules a
     -   conform to coding standards (use static code analysis where possible (such as [DCQ](https://www.drupal.org/project/dcq))
     -   undergo security peer review
 
-### As Drupal Developers
+The project technical lead (or a designated lead engineer/lead themer or peer-review process) is responsible for reviewing all new/modified code each sprint, and ensuring it meets a high standard of quality.
 
-We follow [Drupal coding standards](https://www.drupal.org/docs/develop/standards) and best practices for [writing secure code](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal/writing-secure-code-for-drupal)
+Software that is not licensed under a CivicActions approved open source license may not be used on a project without prior approval from the legal team.
 
--   We create and maintain [secure Drupal sites](https://www.drupal.org/docs/administering-a-drupal-site/security-in-drupal)
--   We understand that `alpha`, `beta` and `rc` versions are not stable and not subject to security team support. It is often preferable to run a `dev` than `alpha/beta` releases where there has been significant number of bug fixes done, and the security profile is identical.
--   We periodically audit sites to determine if the set of enabled modules are all still in use on the site.
+### Account naming
 
-## Privileged Access
+We use a company identifiable email address and personally identifiable names for all company, client and service accounts:
 
-We ensure that access to documents/sites/dashboards is limited to those that should have access.
+-   based on your `firstname.lastname@civicactions.com` email address
+-   to create multiple email addresses (that will be delivered to your main account) add a unique `+identifier` after your name -- everything after the `+` is ignored by the mailer
+    -   e.g. `first.lastname+project-admin@civicactions.com`
+    -   and: `first.lastname+qa1@civicactions.com`
 
--   This includes our Google Docs!
--   We ensure that users with enhanced privileges (to sites and/or servers)
-    -   must use MFA for authentication/authorization
-    -   are appropriately adjusted upon offboarding from a project or CivicActions.
+When creating test or exploratory accounts on staging or production systems, we, use a user name derived from your name, e.g., `first.lastname` or `flastname` or `flastname-admin`
 
-### IT: Sharing Service Accounts
+### Privileged Access
 
-Group accounts with shared passwords should be avoided.
+Privileged access to applications, websites, source code, and servers (SSH/shell, file system, database) carries a high-level of responsibility and trust. We are familiar with and follow best practices and processes, engaging our professional development and developing our skills.
 
--   If a required service only allows a single account, LastPass password sharing or encrypted credential files can be used to share a password to a limited number of users on an "as needed" basis.
--   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people offboard from the project or company.
+Privileged account holders (Drupal, Moodle, Ilias, GNU/Linux SSH, etc.) must:
+-   Respect the privacy of site users, avoiding accessing personal data such as private messages
+-   Employ [Multi-Factor Authentication (MFA)](../../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa) to ensure access is granted only to authorized personnel.
 
 ### Private keys
 
-SSH public/private key pairs are used to access CivicActions servers and services we use, such as Amazon Web Services.
+SSH public/private key pairs are used to access CivicActions and client servers and services we use.
 
 -   RSA keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
 -   The private key must be protected with a passphrase that adheres to the CivicActions [Password Policy](../../company-policies/security.md#password-policy)
@@ -75,71 +79,28 @@ SSH public/private key pairs are used to access CivicActions servers and service
 -   Private key files should be kept in as few places as possible, and never on external servers
 -   If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident) immediately.
 
-## Server and site security
-
-Web administrator access to websites, working on source code, and access to servers (SSH/shell, file system, database), carries a high-level of responsibility and trust. You are expected to be familiar with and follow our best practices and processes, as well as maintain your skills and know your own limits.
-
-Usage of CivicActions developer accounts should be as follows:
-
--   Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CTO.
--   Use in any way harmful to CivicActions or our clients is forbidden.
-
-Web administrator account holders (Drupal, CiviCRM, Moodle, Ilias or other) must also:
-
--   Be familiar with how to maintain configuration security
-    -   For example, as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
--   Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
--   Test the site to ensure settings are correct after changing settings affecting content/data access control.
--   Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
--   Respect the privacy of site users, avoiding accessing personal data such as private messages.
-
-Developers and themers working on the site codebase (and committing code to Git) must also:
-
--   Ensure their own code and development practices follow accepted secure coding standard.
--   Ensure the standard dev-qa-live process is always followed, such that all changes that may affect site security can be thoroughly tested before being made live.
--   Ensure that external developers (client or 3rd party) working on the site codebase are either:
-    -   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to CivicActions code review.
-    -   OR: The client confirms understanding that we have neither assessed their skills nor are we reviewing their code.
--   Review all contributed code they have not previously used for basic quality - this is not a formal security audit in most cases, but rather checking the usage stats, issue queue, skimming the module code for readability and adherence to good practices etc. Code that is actively used and maintained and follows best practices is less likely to have serious security issues.
--   Check for security advisories ([drupal.org/security](https://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
--   Understand common attack vectors and the best practices for preventing them, including:
-    -   SQL injection, prevented by proper query construction and placeholder usage.
-    -   XSS (cross site scripting) attacks, prevented by ensuring user data is always sanitized as appropriate on output.
-    -   XSRF (cross site request forgery), mitigated by ensuring URLs that perform actions (including pages that process GET/querystrings) carry an unpredictable token included on URL generation.
-    -   Session hijacking, prevented by using SSL and correct site/session settings.
-    -   Data disclosure, prevented by carefully setting and testing access control, as well as using SSL as needed.
-    -   Password guessing attacks, mitigated by using strong passwords.
--   Software that is not licensed under an approved CivicActions open source license may not be used on a project without prior approval from the legal team.
-
-The project technical lead (or a designated lead engineer/lead themer or peer-review process) is responsible for reviewing all new/modified code each sprint, and ensuring it meets a high standard of quality.
-
-Developers and themers maintaining local sandbox copies of client sites must also:
-
--   Ensure that our standard tools for creating, sanitizing and transferring database dumps for sandboxes are used.
--   Ensure that unsanitized mysql data (extracted via mysqldump or phpmyadmin) is not downloaded from the server to a local sandbox.
--   Ensure that all [confidential information](../../company-policies/security.md#confidential-information-agreement) associated with a project (such as databases, database dumps, performace work statements (PWS) and other files) are securely deleted from their system(s) when offboarding from the leaving or completing a project.
-
-Developers and themers working on the site server instance (SSH/shell, file system, database) must also:
-
--   Follow best practices with respect to SSH keys, passphrases and passphrase caching (see above).
--   Access the server only by methods (e.g. SSH, SFTP, SCP) configured by designated admins. Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden, unless authorized in advance by the CTO.
--   Restrict SSH port forwarding to temporary use for the purpose of accessing the server MySQL from your own desktop.
--   Prefer the initiation of SSH connections from CivicActions servers to 3rd party servers, avoiding the reverse as much as possible.
--   Obtain prior approval from a member of the IT team before running non-standard software on a server instance. This includes:
-    -   Daemons (persistent, long running processes)
-    -   Binary software (compiled on the server instance or elsewhere)
-    -   Web accessible scripts/CGIs that do not use solely an established framework
--   Inform the IT team as soon as possible if unusual resource usage is anticipated, so that we can monitor resource utilization and ensure backup processes run correctly. This can include high traffic events, large data/media file uploads or high CPU/RAM usage (e.g. during large imports).
+### IT Team specifics
 
 IT team system administrators working on CivicActions servers must also:
 
 -   Take the utmost caution when working on server configuration - document and test each change.
 -   Non-urgent yet risky changes (those with significant risk of introducing undesired side-effects) should only be made when the person expects to remain online and available for at leat two hours after the change.
--   Not work on site/user files as root - but "su" to the account first.
--   Respect the privacy of server users, avoiding accessing others' personal data such as e-mails.
+-   Minimize the use of root or other group accounts
 -   Work with the IT team to ensure server and backup health is monitored and alerts are responded to promptly.
--   Ensure offsite backups are transferred and stored only in encrypted form.
--   Ensure the RimuHosting access list (that controls remote hands and physical server access) is maintained.
+-   Ensure system backups are logically air-gapped so that they cannot be corrupted or destroyed by a bad actor.
+
+### Sharing Service Accounts
+
+Group accounts with shared passwords should be avoided.
+
+-   If a required service only allows a single account, LastPass password sharing or encrypted credential files can be used to share a password to a limited number of users on an "as needed" basis.
+-   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people offboard from the project or company.
+
+### External Developers
+
+Ensure that external developers (client or 3rd party) working on the site codebase are either:
+-   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to CivicActions code review, or
+-   the client confirms understanding that we have neither assessed their skills nor are we reviewing their code.
 
 ## Continuous Monitoring
 
