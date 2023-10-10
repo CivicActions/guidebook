@@ -66,6 +66,7 @@ When creating test or exploratory accounts on staging or production systems, we,
 Privileged access to applications, websites, source code, and servers (SSH/shell, file system, database) carries a high-level of responsibility and trust. We are familiar with and follow best practices and processes, engaging our professional development and developing our skills.
 
 Privileged account holders (Drupal, Moodle, Ilias, GNU/Linux SSH, etc.) must:
+
 -   Respect the privacy of site users, avoiding accessing personal data such as private messages
 -   Employ [Multi-Factor Authentication (MFA)](../../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa) to ensure access is granted only to authorized personnel.
 
@@ -99,6 +100,7 @@ Group accounts with shared passwords should be avoided.
 ### External Developers
 
 Ensure that external developers (client or 3rd party) working on the site codebase are either:
+
 -   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to CivicActions code review, or
 -   the client confirms understanding that we have neither assessed their skills nor are we reviewing their code.
 
