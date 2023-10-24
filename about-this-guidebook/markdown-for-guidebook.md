@@ -20,7 +20,7 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## Format auto-correct
 
--   Many common Markdown formatting issues will be automatically corrected after you submit your Pull Request by the FOSS [Restyler](https://restyled.io/).
+-   Many common Markdown formatting issues will be automatically corrected after you submit your Pull Request.
 -   This applies the FOSS tool [Prettier](https://prettier.io/) using the default configuration, which is our canonical standard.
 
 ## Markdown checking (linter)
