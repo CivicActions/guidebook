@@ -2662,18 +2662,19 @@ retext-simplify@^7.2.0:
     unified "^10.0.0"
     unist-util-position "^4.0.0"
 
-retext-spell@^5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-5.3.0.tgz#c5b579d4d1abd4d7603f6cdc2d3f5a2d702e1133"
-  integrity sha512-b4LLp5S7ScmE+qJ2gu7FKfJICcfIK/UYIn1L84gJNRjDJyVIXWgdqQ7kgoqduP1mH3fFiKz3YVyNS4hD3XTlWw==
+retext-spell@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-6.0.0.tgz#a60ce964a225db7534d6ca0a30e1be46d66d1981"
+  integrity sha512-6f8eXNjMxEUd0Kv8pZVtEzpURDv4xf+/E82bkt5v5AEahNuaS8ntboy68O2RjE65Y0gK9+kJpBZQYcJwumA4gQ==
   dependencies:
-    "@types/nlcst" "^1.0.0"
-    nlcst-is-literal "^2.0.0"
-    nlcst-to-string "^3.0.0"
+    "@types/nlcst" "^2.0.0"
+    nlcst-is-literal "^3.0.0"
+    nlcst-to-string "^4.0.0"
     nspell "^2.0.0"
     quotation "^2.0.0"
-    unified "^10.0.0"
-    unist-util-visit "^4.0.0"
+    unified "^11.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
 
 retext-usage@^0.5.0:
   version "0.5.0"
