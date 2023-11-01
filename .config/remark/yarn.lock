@@ -161,7 +161,7 @@
   resolved "https://registry.yarnpkg.com/@types/text-table/-/text-table-0.2.2.tgz#774c90cfcfbc8b4b0ebb00fecbe861dc8b1e8e26"
   integrity sha512-dGoI5Af7To0R2XE8wJuc6vwlavWARsCh3UKJPjWs1YEqGUqfgBI/j/4GX0yf19/DsDPPf0YAXWAp8psNeIehLg==
 
-"@types/unist@*", "@types/unist@^2.0.0", "@types/unist@^2.0.6":
+"@types/unist@*", "@types/unist@^2.0.0":
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
@@ -2596,17 +2596,15 @@ retext-profanities@^7.2.2:
     unified "^10.0.0"
     unist-util-position "^4.0.0"
 
-retext-quotes@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/retext-quotes/-/retext-quotes-5.2.0.tgz#1378a2d743a4f9c3acaa566240cacc6e820162b7"
-  integrity sha512-Em2zjsqb6jX0lc8h8GsFZpyO9m1seoA0TzBnq6p9Y6u/hv2fMyhL8+15W7ZXTNbPul6oATnlGj8vGSqWp9+Uzg==
+retext-quotes@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/retext-quotes/-/retext-quotes-6.0.0.tgz#f3b41d95c020d6e695feafaa23338d201ad19c32"
+  integrity sha512-LvWVCSqqvDQvIT8WPXryUBrmgMl7EO3pb4wenJ0NNywpy3/4Kbc3rGULlfsq7K80xEARQ239ujWu9nUqdMTVLA==
   dependencies:
-    "@types/nlcst" "^1.0.0"
-    "@types/unist" "^2.0.6"
-    nlcst-to-string "^3.0.0"
-    unified "^10.0.0"
-    unist-util-is "^5.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/nlcst" "^2.0.0"
+    nlcst-to-string "^4.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
 
 retext-readability@^7.2.0:
   version "7.2.0"
