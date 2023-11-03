@@ -81,8 +81,8 @@
     "retext-readability": "^7.2.0",
     "retext-repeated-words": "^4.2.0",
     "retext-sentence-spacing": "^6.0.0",
-    "retext-simplify": "^7.2.0",
-    "retext-spell": "^5.3.0",
+    "retext-simplify": "^8.0.0",
+    "retext-spell": "^6.0.0",
     "retext-usage": "^0.5.0"
   }
 }
