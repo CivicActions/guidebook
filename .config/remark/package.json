@@ -71,7 +71,7 @@
     "remark-preset-prettier": "^2.0.1",
     "remark-retext": "^5.0.1",
     "remark-validate-links": "^12.1.1",
-    "retext-contractions": "^5.2.0",
+    "retext-contractions": "^6.0.0",
     "retext-english": "^4.1.0",
     "retext-equality": "^7.0.0",
     "retext-indefinite-article": "^4.3.0",
