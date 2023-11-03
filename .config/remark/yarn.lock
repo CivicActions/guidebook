@@ -2365,7 +2365,7 @@ remark-lint@^9.0.0, remark-lint@^9.1.2:
     remark-message-control "^7.0.0"
     unified "^10.1.0"
 
-remark-message-control@^7.0.0, remark-message-control@^7.1.1:
+remark-message-control@^7.0.0:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/remark-message-control/-/remark-message-control-7.1.1.tgz#71e9b757b835fad2ac14fafa8b432f51b9b9bf52"
   integrity sha512-xKRWl1NTBOKed0oEtCd8BUfH5m4s8WXxFFSoo7uUwx6GW/qdCy4zov5LfPyw7emantDmhfWn5PdIZgcbVcWMDQ==
@@ -2375,6 +2375,16 @@ remark-message-control@^7.0.0, remark-message-control@^7.1.1:
     unified "^10.0.0"
     unified-message-control "^4.0.0"
     vfile "^5.0.0"
+
+remark-message-control@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/remark-message-control/-/remark-message-control-8.0.0.tgz#1d5880f33c05a65fcd60dcf0572b8198e9935d97"
+  integrity sha512-brpzOO+jdyE/mLqvqqvbogmhGxKygjpCUCG/PwSCU43+JZQ+RM+sSzkCWBcYvgF3KIAVNIoPsvXjBkzO7EdsYQ==
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    mdast-comment-marker "^3.0.0"
+    unified-message-control "^5.0.0"
+    vfile "^6.0.0"
 
 remark-normalize-headings@^4.0.0:
   version "4.0.0"
@@ -2718,6 +2728,11 @@ smog-formula@^2.0.0:
   resolved "https://registry.yarnpkg.com/smog-formula/-/smog-formula-2.0.0.tgz#2b87bb213d4edaca7b0b0e43e0a1731a7e8ba176"
   integrity sha512-9/WOHSU00e52WAGNtw71uYK+oa3lalZgFx/kyDpCqhH0fYXPT5D8h4sh17bdau7roFmV/7oW0u7N16KZpF+dGg==
 
+space-separated-tokens@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/space-separated-tokens/-/space-separated-tokens-2.0.2.tgz#1ecd9d2350a3844572c3f4a312bceb018348859f"
+  integrity sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==
+
 spache-formula@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/spache-formula/-/spache-formula-2.0.0.tgz#6e9e1a587e996b9021a42e67a4729894681a5a14"
@@ -2871,6 +2886,20 @@ unified-message-control@^4.0.0:
     vfile "^5.0.0"
     vfile-location "^4.0.0"
     vfile-message "^3.0.0"
+
+unified-message-control@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/unified-message-control/-/unified-message-control-5.0.0.tgz#7268a9a5d695c2591149ebe35e37eb200b852d7e"
+  integrity sha512-B2cSAkpuMVVmPP90KCfKdBhm1e9KYJ+zK3x5BCa0N65zpq1Ybkc9C77+M5qwR8FWO7RF3LM5QRRPZtgjW6DUCw==
+  dependencies:
+    "@types/unist" "^3.0.0"
+    devlop "^1.0.0"
+    space-separated-tokens "^2.0.0"
+    unist-util-is "^6.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
+    vfile-location "^5.0.0"
+    vfile-message "^4.0.0"
 
 unified@^10.0.0, unified@^10.1.0:
   version "10.1.2"
@@ -3054,6 +3083,14 @@ vfile-location@^4.0.0:
   dependencies:
     "@types/unist" "^2.0.0"
     vfile "^5.0.0"
+
+vfile-location@^5.0.0:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-5.0.2.tgz#220d9ca1ab6f8b2504a4db398f7ebc149f9cb464"
+  integrity sha512-NXPYyxyBSH7zB5U6+3uDdd6Nybz6o6/od9rk8bp9H8GR3L+cm/fC0uUTbqBmUTnMCUDslAGBOIKNfvvb+gGlDg==
+  dependencies:
+    "@types/unist" "^3.0.0"
+    vfile "^6.0.0"
 
 vfile-message@^3.0.0:
   version "3.1.2"
