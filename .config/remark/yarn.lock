@@ -2529,16 +2529,16 @@ remark@^14.0.0:
     remark-stringify "^10.0.0"
     unified "^10.0.0"
 
-retext-contractions@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/retext-contractions/-/retext-contractions-5.2.0.tgz#7435fdf0268543b7c8e846070a208241929756dc"
-  integrity sha512-G88PLbzHdjTBtgBFlc0Gh2uQPafJ3LpeMaBgKdS+j3hxHEVmlDZeMHRvx/5gRMyxj/QjFH0qifMM94+a/UVy6g==
+retext-contractions@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/retext-contractions/-/retext-contractions-6.0.0.tgz#012ca4d57c0f111d5e16c972e5314e2b5174794c"
+  integrity sha512-blp2hHaiXAAEOAa2p//h54VbEiutklptyPKvNa7ev0MAwGkG+xW026H13KSC5TW0WPFA0wWVwYl7Edh1VbD45A==
   dependencies:
-    "@types/nlcst" "^1.0.0"
-    nlcst-is-literal "^2.0.0"
-    nlcst-to-string "^3.0.0"
-    unified "^10.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/nlcst" "^2.0.0"
+    nlcst-is-literal "^3.0.0"
+    nlcst-to-string "^4.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.1"
 
 retext-english@^4.1.0:
   version "4.1.0"
@@ -3144,7 +3144,7 @@ vfile@^5.0.0, vfile@^5.1.0:
     unist-util-stringify-position "^3.0.0"
     vfile-message "^3.0.0"
 
-vfile@^6.0.0:
+vfile@^6.0.0, vfile@^6.0.1:
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/vfile/-/vfile-6.0.1.tgz#1e8327f41eac91947d4fe9d237a2dd9209762536"
   integrity sha512-1bYqc7pt6NIADBJ98UiG0Bn/CHIVOoZ/IyEkqIruLg0mE1BKzkOXY2D6CSqQIcKqgadppE5lrxgWXJmXd7zZJw==
