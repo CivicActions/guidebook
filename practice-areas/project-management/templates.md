@@ -79,7 +79,7 @@ This template is used as a preliminary guide when beginning a project. Key point
 
 This deck serves as a starting place for all key topics on any Kickoff call.
 
-[Kickoff deck](https://docs.google.com/presentation/d/18ZN9EP34qLrsWjE7WhsfyRH54DTV3jOA3rRWzXY7bKM/edit)
+[Kickoff deck](https://docs.google.com/presentation/d/1GV3fpaah9gGd-4VfR8iyiBk4ivDp-TT3ro8YfNLwzEw/edit#slide=id.gde6e9fa718_0_3)
 
 ## Meeting notes
 
