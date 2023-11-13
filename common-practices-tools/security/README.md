@@ -118,7 +118,7 @@ Social engineering is the most common attack vector used to compromise computer 
     -   As usual, never enter your name or password information:
         -   when on an insecure (non-HTTPS or SSL encrypted) connection, or
         -   to a site that you have not verified is correct (by examining at the URL)
-    -   [More on public Wi-Fi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
+    -   [More on public Wi-Fi network safety (from FTC)](https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know)
 
 ## Keep your systems up-to-date
 
