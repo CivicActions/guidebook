@@ -174,4 +174,4 @@ The companion to the Legal Wrapper, with all details needed for the Project Mana
 
 Once completed, the Project Management Wrapper is owned by our practice area, and retained in the project Internal folder/ Wrapper. The Wrappers are transparent for all of CivicActions, unless prohibited by contractual specifications, via the [Shared Folder shortcuts](https://drive.google.com/drive/folders/1ov5TOCOsnvynIDxtFPdcDkNC9qwB6c2K).
 
-[Project Management Wrapper](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#heading=h.2fgd0t58pes3)
+[Project Management Wrapper](https://docs.google.com/document/d/1X6ZkPu2zeGx9NaFUGvOEIK0s20x7LD2tRzOG9QgpuBc/edit#heading=h.2fgd0t58pes3)
