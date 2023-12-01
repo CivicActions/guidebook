@@ -2636,16 +2636,16 @@ retext-readability@^7.2.0:
     unified "^10.0.0"
     unist-util-visit "^4.0.0"
 
-retext-repeated-words@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/retext-repeated-words/-/retext-repeated-words-4.2.0.tgz#1651c7e80356d2d9044f09eb17d6f82a327a018a"
-  integrity sha512-Tle40/5Xy6KxI94s4XRqGXcj6aWUeCoQZUGQto8OjZP98t4tKVDRVG3QGodF633hVOEiN1vYqj0Zegqoe8XOaw==
+retext-repeated-words@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/retext-repeated-words/-/retext-repeated-words-5.0.0.tgz#f7093d7a442d7d8d13a3314ad35e10b90945d5e9"
+  integrity sha512-PY8Zt+4Akv78OgZdwSvbN6fl2Eg3UMVz/uppEEVNO/sGUi2N1t8YOPi+F2twvlVSjOFMIPIBueceRfteSOsAWw==
   dependencies:
-    "@types/nlcst" "^1.0.0"
-    nlcst-to-string "^3.0.0"
-    unified "^10.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/nlcst" "^2.0.0"
+    nlcst-to-string "^4.0.0"
+    unist-util-position "^5.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
 
 retext-sentence-spacing@^6.0.0:
   version "6.0.0"
