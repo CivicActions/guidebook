@@ -2635,25 +2635,25 @@ retext-quotes@^6.0.0:
     unist-util-visit "^5.0.0"
     vfile "^6.0.0"
 
-retext-readability@^7.2.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/retext-readability/-/retext-readability-7.2.0.tgz#3f5512888c652a433797507b31e664e7fc1099c8"
-  integrity sha512-AgrhXCnldut8wPSVT8cGiq5htkNkfdcuC0oFqDpu4FCxgYXGI464mTS8uMNYBMwrv/l1baBP8RisKp7kU28IaA==
+retext-readability@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/retext-readability/-/retext-readability-8.0.0.tgz#634cb48a9d7e2693e81d5d195ab2ccc84ed2b94f"
+  integrity sha512-fGxJLap12lerQnU+4746oc6jYBRmvdud1aVNzagKwX10etXV4UWuFSl8bjQCbboT5fq74ImR8Mt1UmAGSUPyhw==
   dependencies:
-    "@types/nlcst" "^1.0.0"
+    "@types/nlcst" "^2.0.0"
     automated-readability "^2.0.0"
     coleman-liau "^2.0.0"
     dale-chall "^2.0.0"
     dale-chall-formula "^2.0.0"
     flesch "^2.0.0"
     gunning-fog "^2.0.0"
-    nlcst-to-string "^3.0.0"
+    nlcst-to-string "^4.0.0"
     smog-formula "^2.0.0"
     spache "^2.0.0"
     spache-formula "^2.0.0"
     syllable "^5.0.0"
-    unified "^10.0.0"
-    unist-util-visit "^4.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
 
 retext-repeated-words@^5.0.0:
   version "5.0.0"
