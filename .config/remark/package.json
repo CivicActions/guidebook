@@ -79,7 +79,7 @@
     "retext-profanities": "^7.2.2",
     "retext-quotes": "^6.0.0",
     "retext-readability": "^7.2.0",
-    "retext-repeated-words": "^4.2.0",
+    "retext-repeated-words": "^5.0.0",
     "retext-sentence-spacing": "^6.0.0",
     "retext-simplify": "^8.0.0",
     "retext-spell": "^6.0.0",
