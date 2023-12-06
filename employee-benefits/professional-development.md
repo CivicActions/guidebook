@@ -47,7 +47,7 @@ This budget can be used a number of things:
 -   [Travel and accommodation for attending conferences](../company-policies/travel-time-tracking-and-expenses.md)
 -   Other costs incurred from you becoming a smarter, more awesomer version of you
 
-There are some limitations on the prodev budget usage. Hardware purchases are not covered under the prodev stipend. For spending amounts over $50, you'll need to get [approval in advance](../company-policies/expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way through Unanet, under the "CivicActions -> Professional development" project. 
+There are some limitations on the prodev budget usage. Hardware purchases are not covered under the prodev stipend. For spending amounts over $50, you'll need to get [approval in advance](../company-policies/expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way through Unanet, under the "CivicActions -> Professional development" project.
 
 Remember that your budget does **not** carry over at the end of the year. So get busy learning something! Use it or lose it.
 
