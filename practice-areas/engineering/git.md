@@ -101,7 +101,7 @@ _Note: your project may include other Git workflows. Please review your project 
 
 Compared to other documented workflows:
 
--   [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - similar, although we prefer tags over environment branches
+-   [GitLab Flow](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/) - similar, although we prefer tags over environment branches
 -   [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - similar, although we prefer rebase/fast-foward merges and don't deploy feature branches into production (but to review environments instead)
 -   [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) - not very similar: ours is much simpler and avoids long lived branches and repeated merges
 
