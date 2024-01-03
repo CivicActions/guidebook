@@ -2721,17 +2721,16 @@ retext-equality@^7.0.0:
     unist-util-visit "^5.0.0"
     vfile "^6.0.0"
 
-retext-indefinite-article@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/retext-indefinite-article/-/retext-indefinite-article-4.3.0.tgz#9054b79504e883ace978c9ac56cf9119717b8a5d"
-  integrity sha512-NdVOT0pR68ZhC/Eph/eg2z92zwC9H3DzXkEaiaIs0aDAnNBVzJT/DeRFYDTEMDWINnEVTApuGoCl9mqciUUsAw==
+retext-indefinite-article@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/retext-indefinite-article/-/retext-indefinite-article-5.0.0.tgz#4e3c5c534423f11dd158ced5d9b22b46c96a9071"
+  integrity sha512-vro0uKcT685qTUy2IWpJiW786JULrs5KK9jSbNEzHq2ln8PV/uQqqlzueSF4wpOtBUl1JzEPetH9hIDdzQ2ypA==
   dependencies:
-    "@types/nlcst" "^1.0.0"
-    format "^0.2.0"
-    nlcst-to-string "^3.0.0"
+    "@types/nlcst" "^2.0.0"
+    nlcst-to-string "^4.0.0"
     number-to-words "^1.0.0"
-    unified "^10.0.0"
-    unist-util-visit "^4.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
 
 retext-intensify@^6.2.0:
   version "6.2.0"
