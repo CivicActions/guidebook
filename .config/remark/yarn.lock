@@ -2732,19 +2732,19 @@ retext-indefinite-article@^5.0.0:
     unist-util-visit "^5.0.0"
     vfile "^6.0.0"
 
-retext-intensify@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/retext-intensify/-/retext-intensify-6.2.0.tgz#1b8eb86dfb09c842929b66342d49657c104f8066"
-  integrity sha512-zfaJO0xfU7ABfj3z9Riv4YvSVeBcF2IXRhXqvqsRG06IEKaAqAu6h1kYOAtf/p6yk63kRfpeHJka2iJ12vchfA==
+retext-intensify@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/retext-intensify/-/retext-intensify-7.0.0.tgz#3b37089ee9907e8bf77fba0cedeb70f8cdea80a8"
+  integrity sha512-wzhhiuCXYViQbvR9AdNhCeeDf3C9ImTtjwIPCYc2EL37SfMQ94WARbKaUytJO+DWsRQLlpztwwR3JyOhGBnsag==
   dependencies:
-    "@types/nlcst" "^1.0.0"
+    "@types/nlcst" "^2.0.0"
     fillers "^2.0.0"
     hedges "^2.0.0"
-    nlcst-search "^3.0.0"
-    nlcst-to-string "^3.0.0"
+    nlcst-search "^4.0.0"
+    nlcst-to-string "^4.0.0"
     quotation "^2.0.0"
-    unified "^10.0.0"
-    unist-util-position "^4.0.0"
+    unist-util-position "^5.0.0"
+    vfile "^6.0.1"
     weasels "^2.0.0"
 
 retext-profanities@^7.2.2:
