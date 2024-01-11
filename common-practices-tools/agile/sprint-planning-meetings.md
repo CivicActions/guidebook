@@ -44,4 +44,4 @@ The Sprint Planning Meeting is arguably the most important meeting of a sprint c
 ## Additional Resources
 
 -   [Scrum Training Series Video](http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm)
--   [A Sprint Planning Cheat Sheet](http://www.leadingagile.com/2012/08/simple-cheat-sheet-to-sprint-planning-meeting/)
+-   [A Sprint Planning Cheat Sheet](https://www.leadingagile.com/simple-cheat-sheet-to-sprint-planning-meeting/)
