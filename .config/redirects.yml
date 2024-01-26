@@ -91,9 +91,6 @@
 - from_url: /050-how-we-work/balance-scores/
   to_url: /common-practices-tools/balance-scores/
   type: page
-- from_url: /050-how-we-work/gold-star-program/
-  to_url: /common-practices-tools/gold-star-program/
-  type: page
 - from_url: /050-how-we-work/tools/skills-base/
   to_url: /common-practices-tools/skills-base/
   type: page
