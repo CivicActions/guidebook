@@ -4,22 +4,32 @@ title: People planning
 
 # What is people planning?
 
-At CivicActions, we talk about people planning, not resource planning. People planning should share the request, the impact, the risks, and the constraints. It's important that we be transparent about why someone is the best fit for staffing a project. [Review the people planning presentation slidedeck](https://docs.google.com/presentation/d/1r-vcHcygxP5x0B7ZqUy1DVnlH7H3Fk7HjWVFS_LnzbU).
+At CivicActions, we talk about people planning, not resource planning. People planning should share the request, the impact, the risks, and the constraints. It's important that we be transparent about why someone is the best fit for staffing a project.
 
 When discussing staffing for a new project, we consider:
 
 -   Does the skill set match?
--   What does Forecast look like?
+-   What does our forecast look like?
 -   Is the person willing and interested in the project?
 
-## Slack people-planning channel
+## How we do people-planning
 
-People planning is largely managed on slack, in the #people-planning channel. Anyone is welcome to join this channel and participate in conversations. This channel is often used by project managers to ask for support, or to offer up a team member who is about to have available time for a new project. When a team member is the named person, we use @ mentions to include them in the conversation. After decisions are made, a project manager updates Forecast and communicates with impacted teams about upcoming changes.
+### New Projects
 
-## PM People planning calls
+When a new project is being planned, we usually identify key personnel who will be bid on a project. Before the project is won we establish a plan that usually involves a mix of hiring and moving people internally. During this process, many people are involved in ensuring minimal disruption for transitions.
 
-Every other Thursday, CivicActions project managers meet to discuss people planning needs for their projects. This call is open to anyone who wants to join, to discuss needs or ask questions. This is also a place to get more specific about conversations started on slack.
+### Vacancies on current projects
+
+If a spot becomes available on a current project we may decide to fill it internally or with a new hire depending on several factors: urgency, skills, team member opportunity and desire. During this process, we start by talking to Directors and managers who in turn talk to team members who may be a good fit. From there we talk to projectg managers whose project may be affected by a move.
 
 ## Forecasting in Unanet
 
 Project managers are tasked with keeping Unanet People Plans up to date with team member allocations and durations.
+
+## Tools
+
+The tools below help us to do people planning efficiently and we ask that team members update them on an annual basis:
+
+-   Skillsbase - We search Skillsbase to see who has skills for certain roles.
+-   Resumes - We use the templated CivicActions resumes to submit on new work when applicable.
+-   Development Plans - Team members create Development Plans in Culture Amp that help them and their managers find opportunities within the company to further growth.
