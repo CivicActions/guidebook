@@ -20,7 +20,7 @@ When a new project is being planned, we usually identify key personnel who will 
 
 ### Vacancies on current projects
 
-If a spot becomes available on a current project we may decide to fill it internally or with a new hire depending on several factors: urgency, skills, team member opportunity and desire. During this process, we start by talking to Directors and managers who in turn talk to team members who may be a good fit. From there we talk to projectg managers whose project may be affected by a move.
+If a spot becomes available on a current project we may decide to fill it internally or with a new hire depending on several factors: urgency, skills, team member opportunity and desire. During this process, we start by talking to Directors and managers who in turn talk to team members who may be a good fit. From there we talk to project managers whose project may be affected by a move.
 
 ## Forecasting in Unanet
 
