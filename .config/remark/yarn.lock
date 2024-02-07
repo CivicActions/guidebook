@@ -1515,15 +1515,6 @@ nlcst-is-literal@^1.1.0:
   dependencies:
     nlcst-to-string "^2.0.0"
 
-nlcst-is-literal@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/nlcst-is-literal/-/nlcst-is-literal-2.1.0.tgz#bb149ffa40a31c0014eeea2da605381ef40f049f"
-  integrity sha512-jaEIXvIreWx4lfkRa+B3toTTxQgDxnECncbEQVSUVfRWxamQFbRHgxyfrt0aMnuoq5AMd3CQHl5SHGGruOUOdQ==
-  dependencies:
-    "@types/nlcst" "^1.0.0"
-    "@types/unist" "^2.0.0"
-    nlcst-to-string "^3.0.0"
-
 nlcst-is-literal@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/nlcst-is-literal/-/nlcst-is-literal-3.0.0.tgz#ec2837d652627389f70e14443e6d9a23904c58a2"
@@ -1539,14 +1530,6 @@ nlcst-normalize@^2.1.0:
   integrity sha512-xSqTKv8IHIy3n/orD7wj81BZljLfbrTot0Pv64MYUnQUXfDbi1xDSpJR4qEmbFWyFoHsmivcOdgrK+o7ky3mcw==
   dependencies:
     nlcst-to-string "^2.0.0"
-
-nlcst-normalize@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/nlcst-normalize/-/nlcst-normalize-3.1.0.tgz#444887980df77b832ee3b898fbd9d52a49dc3098"
-  integrity sha512-kRWfUwtffmU26wPAJ25St5rec29PhV8F6dKaa7PxGhH3uytsGakfLyOEEm1mULzWOdfyDb03aE+OKp7h0OJuhA==
-  dependencies:
-    "@types/nlcst" "^1.0.0"
-    nlcst-to-string "^3.0.0"
 
 nlcst-normalize@^4.0.0:
   version "4.0.0"
@@ -1564,17 +1547,6 @@ nlcst-search@^1.0.0:
     nlcst-is-literal "^1.1.0"
     nlcst-normalize "^2.1.0"
     unist-util-visit "^1.0.0"
-
-nlcst-search@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/nlcst-search/-/nlcst-search-3.1.0.tgz#4517cdbb0860282cbb3e5287953c6cd5ee43bcf1"
-  integrity sha512-d+0fXxF0d5oFAeeyuoGbIYcbiixE9Xt/lsmt491jjPyabXRoIRBE0++U+G8kbDyJFRk1bMQnGFpMCzeoMlDYfQ==
-  dependencies:
-    "@types/nlcst" "^1.0.0"
-    "@types/unist" "^2.0.0"
-    nlcst-is-literal "^2.0.0"
-    nlcst-normalize "^3.0.0"
-    unist-util-visit "^4.0.0"
 
 nlcst-search@^4.0.0:
   version "4.0.0"
@@ -2747,19 +2719,19 @@ retext-intensify@^7.0.0:
     vfile "^6.0.1"
     weasels "^2.0.0"
 
-retext-profanities@^7.2.2:
-  version "7.2.2"
-  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-7.2.2.tgz#59e8e86439c02228f164bc3faf83b371c75ce83f"
-  integrity sha512-nwrR987v3m7+JQ8wyK8oE+adqS1aYUyHyf+k6omflI/8PL9Slbp/39YieTJJvrmR0udBe2iV7aURXW5/3Uj12w==
+retext-profanities@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-8.0.0.tgz#5789aa9cfb3e643ef89c6996e02b1b10d3be568e"
+  integrity sha512-fuKCUqpXnzSimirk5iBL3vwJJhxzypxMiEfI6FHJ3xafsD8KfPjdd7v0z65PHf+VuekGAIGv4wW34UAM1w9ihw==
   dependencies:
-    "@types/nlcst" "^1.0.0"
+    "@types/nlcst" "^2.0.0"
     cuss "^2.0.0"
-    nlcst-search "^3.0.0"
-    nlcst-to-string "^3.0.0"
+    nlcst-search "^4.0.0"
+    nlcst-to-string "^4.0.0"
     pluralize "^8.0.0"
     quotation "^2.0.0"
-    unified "^10.0.0"
-    unist-util-position "^4.0.0"
+    unist-util-position "^5.0.0"
+    vfile "^6.0.0"
 
 retext-quotes@^6.0.0:
   version "6.0.0"
