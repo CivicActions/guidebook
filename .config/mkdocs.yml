@@ -126,6 +126,7 @@ nav:
               - practice-areas/engineering/tech-lead/README.md
           - practice-areas/engineering/text-editors-ides.md
       - Project management:
+          - practice-areas/project-management/accessibility-guidelines.md
           - practice-areas/project-management/project-management-checklists.md
           - practice-areas/project-management/growth-mindset.md
           - practice-areas/project-management/contract-expiration-tracking.md
