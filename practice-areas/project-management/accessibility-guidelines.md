@@ -1,10 +1,10 @@
 ---
-** title: Accessibility guidelines**
+title: Accessibility guidelines
 ---
 
-** # Project management accessibility guidelines**
+# Project management accessibility guidelines
 
-** ## Best practices for meetings**
+## Best practices for meetings
 
 - Default to captions enabled for Zoom/Teams calls
 - Default to camera on in Zoom/Teams calls
