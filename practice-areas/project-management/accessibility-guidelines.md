@@ -6,6 +6,6 @@ title: Accessibility guidelines
 
 ## Best practices for meetings
 
-- Default to captions enabled for Zoom/Teams calls
-- Default to camera on in Zoom/Teams calls
-- Provide meeting agendas, participant names, assignments in advance via meeting attachment or email
+-   Default to captions enabled for Zoom/Teams calls
+-   Default to camera on in Zoom/Teams calls
+-   Provide meeting agendas, participant names, assignments in advance via meeting attachment or email
