@@ -23,7 +23,7 @@ CivicActions is considered closed on the following holidays:
 | Day after Thanksgiving              | The Friday after Thanksgiving |
 | Christmas Day                       | December 25th\*               |
 
-\*If a holiday falls on a the weekend, the US office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
+\*If a holiday falls on a weekend, the US office observes on the preceding Friday for Saturday holidays and the following Monday for Sunday holidays.
 
 Employees are not encouraged to work on these holidays. If you feel it's necessary to work on a holiday, hourly, non-exempt employees will be compensated at their normal hourly rate, and will receive overtime where appropriate.
 
