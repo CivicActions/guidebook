@@ -19,11 +19,12 @@ build:
       # Configure git authentication
       - git config --global credential.helper store
       - echo "https://${GH_TOKEN}:@github.com" > $HOME/.git-credentials
+      # Install packages
       # VIRTUAL_ENV needs to be set manually for now.
       # See https://github.com/readthedocs/readthedocs.org/pull/11152/
       - VIRTUAL_ENV=$READTHEDOCS_VIRTUALENV_PATH poetry -C .config/mkdocs/ install
     pre_build:
-      # Symlink all files to a .docs directory so we can build outside the root
+      # Symlink all files to a .docs directory, so we can build outside the root
       - ln -sfT . .docs
 
 mkdocs:
