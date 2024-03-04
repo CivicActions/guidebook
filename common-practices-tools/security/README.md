@@ -171,7 +171,7 @@ When you delete a file, it doesn't actually go away. Usually, all that occurs is
 
 GNU/Linux:
 
--   [How to delete file(s) in secure manner?](http://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner) (Ask Ubuntu)
+-   [How to delete file(s) in secure manner?](https://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner) (Ask Ubuntu)
 -   [How to: Delete your Data Securely on Linux](https://ssd.eff.org/en/module/how-delete-your-data-securely-linux) (from the EFF Surveillance Self-Defense guide)
 
 MacOS:
