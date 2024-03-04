@@ -87,6 +87,10 @@ When you have a technical issue with your home network, power and personal equip
 
 Employees of CivicActions, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
 
+## Bereavement Leave
+
+CivicActions is committed to supporting team members during difficult times of personal loss. Eligible team members are entitled to up to 14 days of paid bereavement leave per occurrence. Bereavement leave can be used for the death of an immediate family member, defined as a spouse or domestic partner, child, stepchild, parent, stepparent, sibling, grandparent, or grandchild. Additionally, team members may use up to 7 days of paid bereavement leave for the death of a close friend or significant other as determined by the PeopleOps department. For more details, view our [Bereavement Policy](https://docs.google.com/document/d/1qhWwqjestb0BBliwITOHUhGyPqt0T1J9NRAverkpJek/edit?usp=sharing).
+
 ## Medical insurance
 
 To be updated with information from PEO Canada
