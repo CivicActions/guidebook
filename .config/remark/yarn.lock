@@ -2796,10 +2796,10 @@ retext-simplify@^8.0.0:
     unist-util-position "^5.0.0"
     vfile "^6.0.0"
 
-retext-spell@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-6.0.0.tgz#a60ce964a225db7534d6ca0a30e1be46d66d1981"
-  integrity sha512-6f8eXNjMxEUd0Kv8pZVtEzpURDv4xf+/E82bkt5v5AEahNuaS8ntboy68O2RjE65Y0gK9+kJpBZQYcJwumA4gQ==
+retext-spell@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-6.1.0.tgz#67f309521f6fd9305c534fa2fa62cf227742f8e2"
+  integrity sha512-gUW1hrMIlm5pVI/tOZ/q+nb9hgBRf9DflQxNHdaJHDi3V5Ku8f2fg5OlMnX29NzIKq+NACNDeyGuGf+y2TgRLw==
   dependencies:
     "@types/nlcst" "^2.0.0"
     nlcst-is-literal "^3.0.0"
