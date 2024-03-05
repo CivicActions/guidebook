@@ -2,10 +2,10 @@
   "type": "module",
   "dependencies": {
     "markdown-link-check": "^3.11.2",
-    "prettier": "^3.1.0",
-    "remark-cli": "^11.0.0",
+    "prettier": "^3.2.5",
+    "remark-cli": "^12.0.0",
     "remark-comment-config": "^8.0.0",
-    "remark-frontmatter": "^4.0.1",
+    "remark-frontmatter": "^5.0.0",
     "remark-lint": "^9.1.2",
     "remark-lint-blockquote-indentation": "^3.1.2",
     "remark-lint-checkbox-character-style": "^4.1.2",
@@ -74,15 +74,15 @@
     "retext-contractions": "^6.0.0",
     "retext-english": "^4.1.0",
     "retext-equality": "^7.0.0",
-    "retext-indefinite-article": "^4.3.0",
-    "retext-intensify": "^6.2.0",
-    "retext-profanities": "^7.2.2",
+    "retext-indefinite-article": "^5.0.0",
+    "retext-intensify": "^7.0.0",
+    "retext-profanities": "^8.0.0",
     "retext-quotes": "^6.0.0",
     "retext-readability": "^8.0.0",
     "retext-repeated-words": "^5.0.0",
     "retext-sentence-spacing": "^6.0.0",
     "retext-simplify": "^8.0.0",
-    "retext-spell": "^6.0.0",
+    "retext-spell": "^6.1.0",
     "retext-usage": "^0.5.0"
   }
 }
