@@ -1,6 +1,6 @@
 {
   "settings": {
-    "listItemIndent": "1",
+    "listItemIndent": "tab",
     "bullet": "-",
     "strong": "*",
     "emphasis": "_",

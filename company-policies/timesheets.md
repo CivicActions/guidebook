@@ -117,7 +117,9 @@ To get help with timesheets, project codes, and using Unanet:
 
 -   Join #unanet in Slack and ping @unanet_support
 -   View pinned items in the #unanet slack channel
--   Search the [Unanet Knowledge Center](https://knowledgecenter.unanet.com/display/kb/End+User+Training)
+-   Search the [Unanet knowledge center from the support center (requires account)](https://support.unanet.com/)
 -   [Instructions](https://docs.google.com/presentation/d/1IEl3c8pOAYz5KNM4tVDemjvx5O-5m5WF21r4saANsFw/edit#slide=id.gce3d6a447a_0_89) (deck)
 -   [Time Off policy (US)](../employee-benefits/README.md)
 -   [Time Off policy (Canada)](../employee-benefits/canada-benefits-policy.md)
+-   [Timekeeping policy](https://drive.google.com/file/d/1m18Ellyi_llWCPI6dm4FoNKqBXIoV18b/view?usp=sharing)
+-   [Timekeeping FAQs](https://drive.google.com/file/d/1_liB4o8iQ93qLATThnxpjfyXmvyguHFQ/view?usp=sharing)

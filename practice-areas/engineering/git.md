@@ -13,12 +13,12 @@ Here are some references to review if you are unfamiliar with it.
 -   [Pro Git book](https://git-scm.com/)
 -   [Github resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 -   [Getting Git Right](https://www.atlassian.com/git/)
--   [Version Control with Git book](http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)
+-   [Version Control with Git book](https://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)
 
 Here are more advanced resources to learn "how Git works" at a lower level, which is helpful for building your mental model for using rebasing, reflog, etc.
 
 -   <https://www.youtube.com/watch?v=MYP56QJpDr4>
--   [Non-video companion to the first half](http://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
+-   [Non-video companion to the first half](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
 ## Git best practices
 
@@ -101,7 +101,7 @@ _Note: your project may include other Git workflows. Please review your project 
 
 Compared to other documented workflows:
 
--   [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - similar, although we prefer tags over environment branches
+-   [GitLab Flow](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/) - similar, although we prefer tags over environment branches
 -   [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - similar, although we prefer rebase/fast-foward merges and don't deploy feature branches into production (but to review environments instead)
 -   [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) - not very similar: ours is much simpler and avoids long lived branches and repeated merges
 
@@ -221,7 +221,7 @@ To make things easier, from the docs:
 >
 > -   For Mac users, the [GPG Suite](https://gpgtools.org/) allows you to store your GPG key passphrase in the Mac OS Keychain.
 > -   For Windows users, the [Gpg4win](https://www.gpg4win.org/) integrates with other Windows tools.
->     You can also manually configure [gpg-agent](http://linux.die.net/man/1/gpg-agent) to save your GPG key passphrase, but this doesn't integrate with Mac OS Keychain like ssh-agent and requires more setup."
+>     You can also manually configure [gpg-agent](https://linux.die.net/man/1/gpg-agent) to save your GPG key passphrase, but this doesn't integrate with Mac OS Keychain like ssh-agent and requires more setup."
 
 Set a long cache time for the gpg-agent, so that you don't have to enter the passphrase every time:
 

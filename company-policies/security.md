@@ -1,6 +1,6 @@
 ---
 title: Security Policy
-version: 1.1.4
+version: 1.1.5
 ---
 
 # CivicActions Information Security Policy
@@ -83,7 +83,7 @@ Usage of CivicActions user accounts should be as follows:
 -   Confidential information (other than personal information) should only be stored in areas restricted by access control, such as the project management area.
 -   Binary software executable files should not be distributed via internal collaboration systems, as we do not have anti-virus scanning in place. Uploading human readable source code and scripts (php, bash, perl etc.) is acceptable (but nevertheless should be considered a risk).
 
-In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as SVN/Git and MySQL database access. Usage for these accounts is covered in our server security policy, below.
+In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as SVN/Git and MySQL database access. Usage of these accounts is covered in the [Engineering Security and Compliance](../practice-areas/engineering/security-compliance.md) guidelines.
 
 ## Access Policy
 
@@ -115,118 +115,50 @@ If a system is believed to be compromised, either through theft, loss, remote ac
 
 ## Password Policy
 
-Passwords are used to protect many of our systems and services.
+Strong passwords provide the basis for secure authentication to many systems and services.
+
+For a password to be compliant with the CivicActions "strong password" policy, it must be 12 characters or longer and not based on a dictionary word, your name or the application you are logging in to. If under 16 characters (e.g, 12-15 characters) it _must_ be paired with a second factor (see [Multi-Factor Authentication](../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa). A longer _passphrase_ consisting of several words in an order that make sense only to you can work well as a _memorized secret_.
 
 All passwords at CivicActions must follow this policy, including passwords used for:
 
--   Personal computers or devices that access CivicActions services or store confidential information.
--   Passphrases used for your password manager, PGP or SSH encryption keys.
--   Personal accounts on any CivicActions internal or client site or service.
--   CivicActions accounts on 3rd party vendor sites.
+-   Personal computers or devices that access CivicActions or client services or store confidential information.
+-   Your password manager, PGP and SSH encryption keys.
+-   Accounts on any CivicActions or client site or service.
+-   Accounts on 3rd party vendor sites.
 
-### Password managers and two-factor authentication
-
-CivicActions requires unique, strong passwords for every service that you log into. For this reason, CivicActions requires use of a password manager and recommends LastPass as it is currently the most full-featured password manager. Note that LastPass is required for use by IT staff and management.
-
-Use both a unique, strong password (or multi-word passphrase) _and_ multi-factor authentication (MFA) to secure your password manager.
-
-CivicActions supplies all employees with a YubiKey as a handy _second factor_ for secure authentication, and we require multi-factor authentication for access to your password manager, the CivicActions GSuite of applications, GitHub and GitLab. You can also use second factor authentication apps such as Authy and LastPass Authenticator, and in fact, for backup reasons we suggest using more than one second factor.
-
-Please see the [Security Awareness and Tools](../common-practices-tools/security/README.md) document for details on these subjects and more.
-
-### Some password exceptions
-
--   On occasion, "starter" passwords for new accounts on web sites may be transmitted/stored in clear text, on condition that the recipient immediately logs in and sets a new strong password. Both the starter and new passwords must adhere to the strong password policy. If possible it is preferable to use a "one time" login link, or transmit "starter" passwords with GnuPG or via phone, email, SMS, Slack, etc. When transmitting a password electronically in clear text, do not include the username or website URL in the same message or thread.
--   The MySQL password is stored in clear text form on the instance for usage by the application (e.g. Drupal) and deployment/testing scripts (e.g. drush).
--   The "basic auth" pop-up credentials used on dev/qa and pre-launch instances of client sites can be stored in plain text on the protected project management system, for easy client reference.
--   There are a few 3rd party services for which we have shared accounts but store no confidential information, for example, CrossBrowserTesting.com. These passwords can be stored/transmitted in clear text within the team.
+CivicActions requires that you employ a unique, strong password for every service that you log into. For this reason, CivicActions requires use of a [Password Manager](../common-practices-tools/security/README.md#password-management-tools).
 
 ### Mitigation
 
--   If you suspect a password has been compromised (for example, it was accidentally typed into an unencrypted chat session), change the password immediately yourself if possible, or inform IT right away, so that the password can be changed by a sysadmin.
-    -   This includes the case when a client sends a name/password pair in the clear in an email.
+If you suspect a password has been compromised (for example, it was accidentally typed into an unencrypted chat session), [report the incident](../common-practices-tools/security/incidents.md#reporting-an-incident) immediately - the Security Team will provide support. It is usually good practice to change the password yourself if possible.
 
-### Private keys
+-   This includes the case when a client sends a name/password pair in the clear in an email.
 
--   SSH public/private key pairs are used to access CivicActions servers.
--   GnuPG (PGP compatible) public/private key pairs may be used to transmit and store credentials to CivicActions client sites and internal services.
--   The private key files themselves should be kept in as few places as possible (ideally just your primary computer; a home server is also acceptable for storage of a backup copy of the encrypted key, but not for use of the key).
--   Private keys should never be placed on external servers – if you need SSH access to one server from another server (typically for a large data transfer), generate a dedicated key pair for that purpose or tunnel SSH over SSH port forwarding (ask IT for instructions).
--   If you suspect a private key file (or its passphrase) has been compromised, inform IT immediately, so that we can revoke the corresponding public key on our servers.
--   Keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
--   Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
+## Mobile Device Security
 
-## Server and site security
+Mobile devices are portable devices that connect to the internet, specifically devices like smartphones and tablet computers. Most (or all) mobile devices used at CivicActions are personal devices - this policy is intended to cover these personal devices, if they are used for CivicActions work.
 
-Web administrator access to websites, working on source code, and access to servers (SSH/shell, file system, database), carries a high-level of responsibility and trust. You are expected to be familiar with and follow our best practices and processes, as well as maintain your skills and know your own limits.
+Securing mobile devices used for CivicActions work is crucial for safeguarding sensitive information and maintaining the integrity of our organization and our customer's data. The following are best practices for mobile device security (for more information see NIST SP 800-124 - [Guidelines for Managing the Security of Mobile Devices in the Enterprise](https://csrc.nist.gov/pubs/sp/800/124/r2/final)):
 
-Usage of CivicActions developer accounts should be as follows:
-
--   Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CTO.
--   Use in any way harmful to CivicActions or our clients is forbidden.
-
-Web administrator account holders (Drupal, CiviCRM or other) must also:
-
--   Be familiar with how to maintain configuration security as described in Drupal's [securing your site](https://drupal.org/security/secure-configuration) page.
--   Test the site after changing site permissions, by logging in as a user with each affected role and ensuring that access is limited correctly.
--   Test the site to ensure settings are correct after changing settings affecting content/data access control.
--   Avoid the use of PHP in the web administration interface when at all possible (as this code is harder to find and hence audit).
--   Respect the privacy of site users, avoiding accessing personal data such as private messages.
-
-Developers and themers working on the site codebase (and committing code to Git) must also:
-
--   Ensure their own code and development practices follow accepted secure coding standards as described in the Guidebook under [Engineering > Security and Compliance](../practice-areas/engineering/security-compliance.md).
--   Ensure the standard dev-qa-live process is always followed, such that all changes that may affect site security can be thoroughly tested before being made live.
--   Ensure that external developers (client or 3rd party) working on the site codebase are either:
-    -   A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.
-    -   OR: The client confirms understanding that we have neither assessed their skills nor are we reviewing their code. This scenario is best avoided, but is sometimes necessary if the site is being transitioned to another developer.
--   Review all contributed code they have not previously used for basic quality - this is not a formal security audit in most cases, but rather checking the usage stats, issue queue, skimming the module code for readability and adherence to good practices etc. Code that is actively used and maintained and follows best practices is less likely to have serious security issues.
--   Check for security advisories ([drupal.org/security](https://drupal.org/security)) for modules used on each active development site and ensure they are upgraded where necessary, before the site is made live.
--   Understand common attack vectors and the best practices for preventing them, including:
-    -   SQL injection, prevented by proper query construction and placeholder usage.
-    -   XSS (cross site scripting) attacks, prevented by ensuring user data is always sanitized as appropriate on output.
-    -   XSRF (cross site request forgery), mitigated by ensuring URLs that perform actions (including pages that process GET/querystrings) carry an unpredictable token included on URL generation.
-    -   Session hijacking, prevented by using SSL and correct site/session settings.
-    -   Data disclosure, prevented by carefully setting and testing access control, as well as using SSL as needed.
-    -   Password guessing attacks, mitigated by using strong passwords.
--   Software that is not licensed under an approved CivicActions open source license may not be used on a project without prior approval from the legal team.
-
-The project technical lead (or a designated lead engineer/lead themer or peer-review process) is responsible for reviewing all new/modified code each sprint, and ensuring it meets a high standard of quality.
-
-Developers and themers maintaining local sandbox copies of client sites must also:
-
--   Ensure that our standard tools for creating, sanitizing and transferring database dumps for sandboxes are used.
--   Ensure that unsanitized mysql data (extracted via mysqldump or phpmyadmin) is not downloaded from the server to a local sandbox.
--   Ensure that all confidential data associated with a project (such as databases, database dumps and other files) are securely deleted from their system(s) when leaving or completing a project.
-
-Developers and themers working on the site server instance (SSH/shell, file system, database) must also:
-
--   Follow best practices with respect to SSH keys, passphrases and passphrase caching (see above).
--   Access the server only by methods (e.g. SSH, SFTP, SCP) configured by designated admins. Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden, unless authorized in advance by the CTO.
--   Restrict SSH port forwarding to temporary use for the purpose of accessing the server MySQL from your own desktop.
--   Prefer the initiation of SSH connections from CivicActions servers to 3rd party servers, avoiding the reverse as much as possible.
--   Obtain prior approval from a member of the IT team before running non-standard software on a server instance. This includes:
-    -   Daemons (persistent, long running processes)
-    -   Binary software (compiled on the server instance or elsewhere)
-    -   Web accessible scripts/CGIs that do not use solely an established framework
--   Inform the IT team as soon as possible if unusual resource usage is anticipated, so that we can monitor resource utilization and ensure backup processes run correctly. This can include high traffic events, large data/media file uploads or high CPU/RAM usage (e.g. during large imports).
-
-IT team system administrators working on CivicActions servers must also:
-
--   Take the utmost caution when working on server configuration - document and test each change.
--   Non-urgent yet risky changes (those with significant risk of introducing undesired side-effects) should only be made when the person expects to remain online and available for a while after the change.
--   Not work on site/user files as root - but "su" to the account first.
--   Respect the privacy of server users, avoiding accessing others' personal data such as e-mails.
--   Work with the IT team to ensure server and backup health is monitored and alerts are responded to promptly.
--   Ensure offsite backups are transferred and stored only in encrypted form.
--   Ensure the Hurricane Electric and RimuHosting access list (that controls remote hands and physical server access) is maintained.
+1. Keep the device updated on all firmware and OS updates, including critical security updates.
+2. Enable security features to lock devices when not in use. Recommended security features include a password or 6-character pin, and biometric security (fingerprint, facial recognition, if available).
+3. The device must be set to automatically lock after a maximum of 5 minutes of inactivity. If security features make unlocking convenient then a shorter lock time is recommended.
+4. Verify that data is encrypted on the device. Ways to set this up by OS type:
+    - iOS - setup icloud account to enable data encryption
+    - Android - setup biometric/pin code to enable data encryption
+5. Do not "jailbreak" or "root" your mobile device, removing inherent OS security and exposing it to malware apps.
+6. Install apps from only secure sources (official app stores) and avoid side-loading apps.
+7. If a device used for CivicActions work is lost or stolen, please notify the security team immediately to document and assist in recovering or wiping the device.
+8. Follow [CivicActions' prohibited hardware and software policy](prohibited-hardware-and-software.md) to avoid using/installing items on the list.
 
 ## Security awareness and tools
 
-We maintain a [Security Awareness and Tools](../common-practices-tools/security/README.md) document that dives deeper into some additional topics, including:
+We maintain a [Security Awareness and Tools](../common-practices-tools/security/README.md) document that dives deeper into these and some additional topics, including:
 
 -   Password Management Tools
--   Two Factor Authentication
+-   Multi-Factor Authentication
 -   Phishing and Social Engineering
 -   Backups
 -   Secure Delete Files and Wiping Disks
+
+Finally, in addition to the above policies, CivicActions Engineers -- who may have elevated privileges in specific environments -- are required to align with the [Engineering Security and Compliance](../practice-areas/engineering/security-compliance.md) guidelines.

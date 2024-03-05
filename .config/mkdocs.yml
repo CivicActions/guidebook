@@ -72,16 +72,13 @@ nav:
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
-      - common-practices-tools/gold-star-program.md
       - Security awareness and tools:
           - common-practices-tools/security/README.md
-          - Setting up and using Yubikey:
-              - common-practices-tools/security/yubikey/README.md
-              - common-practices-tools/security/yubikey/linux.md
-              - common-practices-tools/security/yubikey/macosx.md
+          - common-practices-tools/security/yubikey.md
           - common-practices-tools/security/drupal-rmf-support.md
           - common-practices-tools/security/encryption.md
           - common-practices-tools/security/gnupg.md
+          - common-practices-tools/security/securing-your-workspace.md
           - Incidents:
               - common-practices-tools/security/contingency-plan.md
               - common-practices-tools/security/incident-response-checklist.md
@@ -98,6 +95,7 @@ nav:
           - common-practices-tools/software-and-support/google-meet.md
           - common-practices-tools/software-and-support/jira.md
           - common-practices-tools/software-and-support/markdown.md
+          - common-practices-tools/software-and-support/sauce-labs.md
           - common-practices-tools/software-and-support/slack.md
           - common-practices-tools/software-and-support/trello.md
           - common-practices-tools/software-and-support/zoom.md
@@ -114,6 +112,11 @@ nav:
           - practice-areas/engineering/accessibility.md
           - Drupal:
               - practice-areas/engineering/drupal/README.md
+              - practice-areas/engineering/drupal/drupal-for-everyone.md
+              - practice-areas/engineering/drupal/drupal-for-project-teams.md
+              - practice-areas/engineering/drupal/drupal-for-engineers.md
+              - practice-areas/engineering/drupal/drupal-for-drupal-engineers.md
+              - practice-areas/engineering/drupal/drupal-glossary.md
               - practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
               - practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - practice-areas/engineering/git.md
