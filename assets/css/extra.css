@@ -19,7 +19,7 @@ a.md-tabs__link:focus,
 a.md-tabs__link:hover {
   text-decoration: underline;
 }
-a.md-tabs__link.md-tabs__link--active {
+.md-tabs__item--active a {
   font-weight: bold;
   text-decoration: underline;
 }
