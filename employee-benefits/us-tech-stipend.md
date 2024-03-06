@@ -15,7 +15,7 @@ As part of CivicActions commitment to work/life balance and our movement toward 
     1. The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date.
     1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period.
 
--   "Payment Amount" - The Payment Amount as of February 1, 2024 is $816.00 - $1,197.00 USD. The amount will be reviewed annually.
+-   "Payment Amount" - The Payment Amount as of January 1, 2024 is $816 USD ($1,103 CAD) for team members who are issued managed devices and $1,197 USD ($1,618 CAD) for team members who bring their own device. The amount will be reviewed annually.
 
 ## Policy
 
