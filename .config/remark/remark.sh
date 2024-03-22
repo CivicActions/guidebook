@@ -17,6 +17,11 @@ export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md')
 
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
+
+  # For reviewdog we removed '-f=remark-lint' option because the remark output format changed. A fix has been submitted
+  # at https://github.com/reviewdog/errorformat/pull/146. Once the fix is merged and deployed to a new version of
+  # reviewdog we can put the option back and remove -efm options.
+
   remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -efm="%-P%f" \
       -efm="%#%l:%c %# %trror %m" \
