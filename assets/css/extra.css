@@ -19,12 +19,18 @@ a.md-tabs__link:focus,
 a.md-tabs__link:hover {
   text-decoration: underline;
 }
-a.md-tabs__link.md-tabs__link--active {
+.md-tabs__item--active a {
   font-weight: bold;
   text-decoration: underline;
 }
 .md-content__inner a {
   text-decoration: underline;
+}
+[data-md-color-scheme="default"] .md-content__inner a:focus,
+[data-md-color-scheme="default"] .md-content__inner a:hover,
+[data-md-color-scheme="default"] .md-nav__link[href]:hover,
+[data-md-color-scheme="default"] .md-nav__link[href]:focus {
+  color: #3440e4;
 }
 .md-copyright {
   color: #ffffff;
