@@ -26,6 +26,10 @@ a.md-tabs__link:hover {
 .md-content__inner a {
   text-decoration: underline;
 }
+[data-md-color-scheme="default"] .md-content__inner a:focus,
+[data-md-color-scheme="default"] .md-content__inner a:hover {
+  color: #3440e4;
+}
 .md-copyright {
   color: #ffffff;
 }
