@@ -18,7 +18,11 @@ export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md')
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
   remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
-    reviewdog -f=remark-lint \
+    reviewdog -efm="%-P%f" \
+      -efm="%#%l:%c %# %trror %m" \
+      -efm="%#%l:%c %# %tarning %m" \
+      -efm="%-Q" \
+      -efm="%-G%.%#" \
       -name="remark-lint-suggestions" \
       -reporter="github-pr-check" \
       -fail-on-error="false" \
@@ -26,7 +30,11 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
       -tee
 
   remark --rc-path=/usr/src/remarkrc.problem --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
-    reviewdog -f=remark-lint \
+    reviewdog -efm="%-P%f" \
+      -efm="%#%l:%c %# %trror %m" \
+      -efm="%#%l:%c %# %tarning %m" \
+      -efm="%-Q" \
+      -efm="%-G%.%#" \
       -name="remark-lint-problem" \
       -reporter="github-pr-check" \
       -fail-on-error="true" \
