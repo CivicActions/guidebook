@@ -11,12 +11,10 @@ practice-areas/engineering/* @CivicActions/engineering  @CivicActions/docs
 practice-areas/project-management/* @CivicActions/pm  @CivicActions/docs
 common-practices-tools/security/* @CivicActions/security  @CivicActions/docs
 
-# Require management approval to change CODEOWNERS
-CODEOWNERS @CivicActions/management
-
-# Legal review is REQUIRED for all changes to these sections
-company-policies/* @CivicActions/legal
-employee-benefits/* @CivicActions/legal
+# Policy review is REQUIRED for all changes to these sections
+CODEOWNERS @CivicActions/policy
+company-policies/* @CivicActions/policy
+employee-benefits/* @CivicActions/policy
 
 # Changes to mkdocs configuration requires docs team review.
 .config/mkdocs.yml @CivicActions/docs
