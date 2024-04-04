@@ -71,7 +71,7 @@ Our design team spends most of our time on billable projects, but we recognize t
 
 ## Professional development
 
-We've included some possible professional development resources below. You have $1200 per year (after your 90-day intro period) to spend on [professional development](../../professional-development/README.md). Professional development conferences, courses, and webinars that align with your current or growth-level path can contribute to your yearly utilization targets, but you don't have to use your professional development for our practice area only.
+We've included some possible professional development resources below. You have $1200 per year (after your 90-day intro period) to spend on [professional development](../../professional-development.md). Professional development conferences, courses, and webinars that align with your current or growth-level path can contribute to your yearly utilization targets, but you don't have to use your professional development for our practice area only.
 
 -   [Nielsen-Norman Group courses](https://www.nngroup.com/training/)
 -   [Innovate(us)](https://course.innovate-us.org/)
