@@ -4,7 +4,7 @@ title: Design practice area
 
 # Design practice area
 
-The CivicActions design team works with our clients on projects and partners with our other [internal practice areas](https://guidebook.civicactions.com/en/latest/practice-areas/). Our design area includes content designers, product designers, design educators, and service designers. We use the **#just-design** slack channel for our communications and the **#design** slack channel to communicate across other practice areas. We have regular All Creatives Calls (ACC) and post bi-monthly slack announcements.
+The CivicActions design team works with our clients on projects and partners with our other [internal practice areas](../../practice-areas/README.md). Our design area includes content designers, product designers, design educators, and service designers. We use the **#just-design** slack channel for our communications and the **#design** slack channel to communicate across other practice areas. We have regular All Creatives Calls (ACC) and post bi-monthly slack announcements.
 
 ## Individual Contributor Levels
 
@@ -71,7 +71,7 @@ Our design team spends most of our time on billable projects, but we recognize t
 
 ## Professional development
 
-We've included some possible professional development resources below. You have $1200 per year (after your 90-day intro period) to spend on [professional development](https://guidebook.civicactions.com/en/latest/employee-benefits/professional-development/). Professional development conferences, courses, and webinars that align with your current or growth-level path can contribute to your yearly utilization targets, but you don't have to use your professional development for our practice area only.
+We've included some possible professional development resources below. You have $1200 per year (after your 90-day intro period) to spend on [professional development](../../professional-development/README.md). Professional development conferences, courses, and webinars that align with your current or growth-level path can contribute to your yearly utilization targets, but you don't have to use your professional development for our practice area only.
 
 -   [Nielsen-Norman Group courses](https://www.nngroup.com/training/)
 -   [Innovate(us)](https://course.innovate-us.org/)
