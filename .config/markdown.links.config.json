@@ -72,6 +72,12 @@
     },
     {
       "pattern": "^https://askubuntu.com/.*"
+    },
+    {
+      "pattern": "^https://leaders.centercentre.com/.*"
+    },
+    {
+      "pattern": "^https://www.optimalworkshop.com/.*"
     }
   ],
   "NOTE: We replace absolute links with a use-relative-links-to-md-files-only since these are (nearly) always mistakes and should link to the relative .md file instead": "",
