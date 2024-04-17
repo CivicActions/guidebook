@@ -32,7 +32,7 @@ When you first log in you will need to go through a short onboarding:
 Notes:
 
 -   If you have specific additional skills you can add these (after the initial self-assessment) by navigating to [your skills tab](https://app.skills-base.com/people/view#skills) and clicking "Add a skill".
--   If you normally work in more than one of the teams listed then open a [support ticket](software-and-support/support.md#to-request-support) to request those be added to your user.
+-   If you normally work in more than one of the teams listed then open a [support ticket](software-and-support/README.md#to-request-support) to request those be added to your user.
 -   If you work in an internal department, select the "CivicActions" team.
 -   Skills Base does support supervisor assessments, but we are not currently using that functionality.
 
@@ -126,7 +126,7 @@ The easiest way to do this is using the "People finder" in the sidebar. You can 
 
 ## If you have other needs
 
-There is a custom report builder that can be used to answer many other queries we might have. Open a [support ticket](software-and-support/support.md#to-request-support) and describe what you are looking for!
+There is a custom report builder that can be used to answer many other queries we might have. Open a [support ticket](software-and-support/README.md#to-request-support) and describe what you are looking for!
 
 ## Managing the skills catalog
 
@@ -140,7 +140,7 @@ Note that the categories of skills [do not correspond 1-1 with teams](https://su
 
 In some cases, there may be some cross-over or duplication of skills between two teams. In this case, both teams will need to work together to identify how to refactor the catalog to ensure it is logical and avoids duplicate skills or overlap. The IT department can help facilitate these changes as needed.
 
--   Open a [support ticket](software-and-support/support.md#to-request-support) to request access to manage skills.
+-   Open a [support ticket](software-and-support/README.md#to-request-support) to request access to manage skills.
 -   Request training from IT if you haven't done this before.
 -   Spend time becoming familiar with the catalog as a whole and search for similar skills before adding new ones.
 -   Add descriptions to each skill wherever possible.

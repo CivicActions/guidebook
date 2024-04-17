@@ -21,7 +21,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
     Find out when CivicActions is closed
 
-    [:octicons-arrow-right-24: US holidays](employee-benefits/us-benefits-policy.md#holidays)
+    [:octicons-arrow-right-24: US holidays](employee-benefits/README.md#holidays)
     [:octicons-arrow-right-24: Canadian holidays](employee-benefits/canada-benefits-policy.md#holidays)
 
 - :fontawesome-solid-laptop:{ .lg .middle } **Technology stipend**
@@ -57,7 +57,7 @@ civicactions.com
 
 ## License
 
-Copyright 2017-2023 CivicActions.
+Copyright 2017-2024 CivicActions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 

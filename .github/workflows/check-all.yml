@@ -11,7 +11,7 @@ jobs:
   check-all:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Check all links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
@@ -24,7 +24,7 @@ jobs:
           command: remark-all.sh
       - name: Send GitHub Action trigger data to Slack workflow
         id: slack
-        uses: slackapi/slack-github-action@v1.24.0
+        uses: slackapi/slack-github-action@v1.25.0
         if: failure()
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}

@@ -5,7 +5,7 @@ updated: February 24, 2023
 
 # Expenses
 
-Employees should submit expense reports within five (5) business days after returning from a business trip or after incurring the expense(s). Expense reports submitted more than 30 days late may not be processed and paid without approval from the CFO. Outstanding expense reports are justification for CivicActions to withhold travel advances for subsequent trips.
+Employees should submit expense reports within five (5) business days after returning from a business trip or after incurring the expense(s). Expense reports submitted more than 30 days late may not be processed and paid without approval from the Finance Team. Outstanding expense reports are justification for CivicActions to withhold travel advances for subsequent trips.
 
 All expense reports must be accurately completed with original receipts that matches each item on the expense report. There is no dollar threshold for required receipts. For those items that do not have a receipt, an explanation must be provided and the employee must attach an approval email (PDF) to indicate that he or she approves the expense to be reimbursed without the receipt. Management reserves the right to disallow reimbursement for expenses without receipts. Expense Reports must be properly approved in order to be processed for reimbursement.
 
@@ -46,7 +46,7 @@ IMPORTANT NOTE: when your expense Request is approved, Unanet automatically chan
 -   Treat company money like you would your own money, use it to work smarter and spend it with wisdom and care.
 -   Please book as early as possible - for flights and accommodation this can make a big difference!
 -   Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
--   Your Project Manager and the Officer Manager will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
+-   Your Project Manager and the Finance Team will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
 -   Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides.
 -   If you are purchasing multiple "under $50" items in a short timespan, please consider that a single purchase and request approval first.
 

@@ -4,33 +4,24 @@ title: Trello
 
 # Trello
 
-## Overview
+Trello is a collaborative task and project management tool that we use extensively at CivicActions. CivicActions has a free [team Trello account](https://trello.com/civicactions) that we use for both internal and client projects.
 
-Trello is easy and intuitive. Install the extensions listed in that section below, and you'll figure out everything else you need to know as you go along.
-
-If you like to live on the edge, skip this reading, but promise to come back in a week or two, maybe when you're a few days into a project that uses Trello, and read it.
-
--   Introduction [video](https://www.youtube.com/watch?v=xky48zyL9iA)
-
-## About Trello
-
-Trello is a collaborative task and project management tool that we use extensively at CivicActions. CivicActions has a free [team Trello account](https://trello.com/civicactions) that we utilize for both internal and client projects.
-
-Trello is very easy to use, and a robust feature set whose intuitive UI means the features don't get in the way of getting work done. It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation.
+The tool is very easy to use, with a robust feature set whose intuitive UI means the features don't get in the way of getting work done. It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation.
 
 -   Review the getting started [guide](https://trello.com/guide)
+-   [Take a video tour of Trello](https://www.youtube.com/watch?v=AyfupeWS0yY)
 -   "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
 -   Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the "?" shortcut to bring up that page any time
 
-## The Basics (Naming Conventions and the general idea)
+## Trello basics
 
 Trello has "boards" where work is tracked, using the metaphor of a whiteboard with columns taped with masking tape, and index card or sticky notes.
 
-Work can be done by any member of the board, who need to be added by admins. Sometimes it's easier to have multiple admins from the CivicActions team.
+Work can be done by any member of the board whose been added by a board administrator.
 
 On each board there are "lists" which contain "cards". The only requirement for a card is a title, which is often written as a user story, or bug report, or other actionable task. This title shows up on the "front" of the card. When you click on the card it shows the "back" of the card (the metaphor is an index card on a whiteboard). The back of the card contain subtasks (often organized on checklist items), attachments, due dates, colored labels (categories), and comments (conversation in which you can @mention other members of the board). Cards can also contain references to GitHub pull requests, images (which can appear on the "front" of the card), and can be assigned to one or more people (either directly from the card, or by dragging and dropping their face from the right sidebar). All this data is summed up with icons on the front of the card.
 
-Generally, cards move from left to right on a Trello board, through a series of lists, with the "Done" list at the far right. On many projects, you'll see lists like "Backlog", "Blocked", "Doing", "Code Review", "Ready for Client Review", "Approved", etc. The names of these lists tend to change project-to-project, and sometimes sprint-to-sprint, but the basic patterns are the same.
+Generally, cards move from left to right on a Trello board, through a series of lists, with the "Done" list at the far right. On many projects, you'll see lists like "Backlog", "Blocked", "Doing", "Code Review", "Ready for Client Review", "Approved", etc. The names of these lists tend to change from project to project, and sometimes sprint to sprint, but the basic patterns are the same.
 
 ## Using Trello for Agile projects
 
@@ -77,5 +68,5 @@ The Trello integration for Slack is a great add-on for providing clickable summa
 
 ## Tips and tricks
 
--   Learn the keyboard shortcuts! They are awesome, especially for adding labels, assigning cards, voting, archiving, navigating through cards, filtering cards, and saving text in any field. Shortcut "?" brings up list of keyboard shortcuts
--   You can star your most used boards, which puts them at the top of trello.com
+-   Learn the keyboard shortcuts! They are awesome, especially for adding labels, assigning cards, voting, archiving, navigating through cards, filtering cards, and saving text in any field. Shortcut "?" brings up list of keyboard shortcuts.
+-   You can star your most used boards, which puts them at the top of trello.com.

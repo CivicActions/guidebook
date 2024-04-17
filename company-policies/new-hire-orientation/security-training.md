@@ -11,20 +11,20 @@ As a requirement for employment, every employee must review and acknowledge the 
 -   [Acceptable Use Policy](../security.md#acceptable-use-policy)
 -   [Access Policy](../security.md#access-policy)
 -   [Password Policy](../security.md#password-policy)
--   [Server & Site Security](../security.md#server-and-site-security)
+-   [Server & Site Security](../../practice-areas/engineering/security-compliance.md#server-and-site-security)
 
 <!-- TODO: include link to digital document signing -->
 
 ## Security Awareness
 
-Every employee and contractor at CivicActions practices safe and secure computing in the course of their work. We enhance our [Security Awareness with Tools](../../common-practices-tools/security/awareness.md) by:
+Every employee and contractor at CivicActions practices safe and secure computing in the course of their work. We enhance our [Security Awareness with Tools](../../common-practices-tools/security/README.md) by:
 
--   [Securing our Laptops](../../common-practices-tools/security/awareness.md#securing-your-laptop)
--   [Using Password Management Tools](../../common-practices-tools/security/awareness.md#password-management-tools)
--   [Using Multi-Factor Authentication](../../common-practices-tools/security/awareness.md#use-multi-factor-authentication-mfa)
--   [Increasing our awareness of Phishing and Social Engineering](../../common-practices-tools/security/awareness.md#phishing-and-social-engineering)
--   [Keeping our Personal Systems up-to-date](../../common-practices-tools/security/awareness.md#keep-your-systems-up-to-date)
--   [Employing Disk Encryption and Secure Storage Management](../../common-practices-tools/security/awareness.md#disk-encryption-and-storage-management)
+-   [Securing our Laptops](../../common-practices-tools/security/README.md#securing-your-laptop)
+-   [Using Password Management Tools](../../common-practices-tools/security/README.md#password-management-tools)
+-   [Using Multi-Factor Authentication](../../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa)
+-   [Increasing our awareness of Phishing and Social Engineering](../../common-practices-tools/security/README.md#phishing-and-social-engineering)
+-   [Keeping our Personal Systems up-to-date](../../common-practices-tools/security/README.md#keep-your-systems-up-to-date)
+-   [Employing Disk Encryption and Secure Storage Management](../../common-practices-tools/security/README.md#disk-encryption-and-storage-management)
 
 When moving through these steps, please update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing) -- if you need help, the Security Team has daily "Security Hours" scheduled in the calendar, or just ask in [`#general`](https://civicactions.slack.com/messages/general).
 

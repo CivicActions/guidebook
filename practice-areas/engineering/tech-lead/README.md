@@ -8,7 +8,7 @@ CivicActions technical team leaders are known as "Tech Leads" (TL). The Tech Lea
 
 ## General responsibilities
 
-A TL's role definition and responsibilities will vary by project. Responsibilities can also be shared amongst other team members including engineers, project managers, product owners, designers, and assistant technical leads. They will include items from these lists:
+A TL's role definition and responsibilities will vary by project. Responsibilities can also be shared amongst other team members including engineers, project managers, product owners, designers, and associate technical leads. They will include items from these lists:
 
 ### Key
 
@@ -184,9 +184,9 @@ Any of the following technical leadership roles may be employed on a project tea
 
 Technical Lead is the de facto role for a project engineering lead, commonly responsible for leading a team of engineers and responsible for the technical direction of a project (or a single project engineering team on projects with multiple engineering teams)
 
-### Assistant Technical Lead (ATL)
+### Associate Technical Lead (ATL)
 
-The Assistant Technical Lead project role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the project team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL project role is commonly an internally-identified project role whereas the other technical leadership project roles may be defined in the contract.
+The Associate Technical Lead project role is the first step for an engineer to grow into a Technical Lead as part of their professional development. The ATL supports the TL on the project team with a mutually-agreed upon division of responsibilities. A common division of labor is for the ATL to focus on internal team activities (including code reviews, code management, ticket refinement, etc.) so the TL can support more external activities (including meetings, stakeholder support, communications, coordination with other teams, etc.). The ATL project role is commonly an internally-identified project role whereas the other technical leadership project roles may be defined in the contract.
 
 ## FAQs
 
@@ -204,7 +204,7 @@ This is a project role, which means that:
 -   An individual could be hired to fulfil the project role.
 -   An individual could show interest and experience and volunteer for the project role.
 -   An individual who has experience can be asked to take on the project role.
--   An individual can first step into the Assistant Technical Lead project role and work towards gaining experience with the different responsibilities before they take on the TL project role.
+-   An individual can first step into the Associate Technical Lead project role and work towards gaining experience with the different responsibilities before they take on the TL project role.
 
 ### What are some personal OKRs that I can use to gain experience to become a TL or as an ATL?
 

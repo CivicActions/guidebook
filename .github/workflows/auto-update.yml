@@ -7,8 +7,8 @@ on:
 jobs:
   Auto:
     name: Auto-update
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: tibdex/auto-update@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}

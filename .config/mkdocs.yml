@@ -7,7 +7,7 @@ nav:
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
       - Diversity, Equity, Inclusion, and Accessibility (DEIA):
-          - about-civicactions/diversity-equity-inclusion/purpose.md
+          - about-civicactions/diversity-equity-inclusion/README.md
           - about-civicactions/diversity-equity-inclusion/defining-dei.md
           - about-civicactions/diversity-equity-inclusion/affinity-channels.md
           - about-civicactions/diversity-equity-inclusion/deia-get-involved.md
@@ -18,7 +18,8 @@ nav:
           - about-civicactions/our-structuremanagement-ops.md
       - about-civicactions/annual-summit.md
   - Employee benefits:
-      - employee-benefits/us-benefits-policy.md
+      - employee-benefits/README.md
+      - Personal Time Off (US employees): employee-benefits/README.md
       - employee-benefits/us-compensation.md
       - employee-benefits/us-tech-stipend.md
       - employee-benefits/canada-benefits-policy.md
@@ -27,15 +28,18 @@ nav:
       - employee-benefits/employee-referral-bonus.md
       - employee-benefits/on-call-stipend.md
   - Company policies:
+      - company-policies/README.md
       - company-policies/expenses.md
       - company-policies/travel-time-tracking-and-expenses.md
       - company-policies/timesheets.md
       - company-policies/security.md
+      - company-policies/timekeeping-policies.md
       - Employment policies (US employees):
           - company-policies/employment/us/employment.md
           - company-policies/employment/us/introductory-period.md
           - company-policies/anti-harassment-policies.md
           - company-policies/covid19-safety.md
+      - company-policies/prohibited-hardware-and-software.md
       - company-policies/code-of-conduct.md
       - company-policies/employment/workplace-guidelines.md
       - company-policies/annual-review-process.md
@@ -43,7 +47,8 @@ nav:
       - company-policies/employment/leaving-civicactions.md
       - company-policies/health-safety-security.md
       - New hire orientation:
-          - company-policies/new-hire-orientation/welcome.md
+          - company-policies/new-hire-orientation/README.md
+          - Welcome to CivicActions: company-policies/new-hire-orientation/README.md
           - company-policies/new-hire-orientation/buddy-program.md
           - company-policies/new-hire-orientation/elevator-pitch.md
           - company-policies/new-hire-orientation/intro-open-source.md
@@ -58,7 +63,7 @@ nav:
   - Our practices and tools:
       - common-practices-tools/README.md
       - Agile:
-          - common-practices-tools/agile/agile-overview.md
+          - common-practices-tools/agile/README.md
           - common-practices-tools/agile/agile-practices.md
           - common-practices-tools/agile/backlog-refinement.md
           - common-practices-tools/agile/daily-scrum-calls.md
@@ -70,16 +75,13 @@ nav:
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
-      - common-practices-tools/gold-star-program.md
       - Security awareness and tools:
-          - common-practices-tools/security/awareness.md
-          - Setting up and using Yubikey:
-              - common-practices-tools/security/yubikey/README.md
-              - common-practices-tools/security/yubikey/linux.md
-              - common-practices-tools/security/yubikey/macosx.md
+          - common-practices-tools/security/README.md
+          - common-practices-tools/security/yubikey.md
           - common-practices-tools/security/drupal-rmf-support.md
           - common-practices-tools/security/encryption.md
           - common-practices-tools/security/gnupg.md
+          - common-practices-tools/security/securing-your-workspace.md
           - Incidents:
               - common-practices-tools/security/contingency-plan.md
               - common-practices-tools/security/incident-response-checklist.md
@@ -87,7 +89,7 @@ nav:
               - common-practices-tools/security/incidents.md
       - common-practices-tools/skills-base.md
       - Software and support:
-          - common-practices-tools/software-and-support/support.md
+          - common-practices-tools/software-and-support/README.md
           - company-policies/new-hire-orientation/bookmarks.md
           - common-practices-tools/software-and-support/email.md
           - common-practices-tools/software-and-support/github.md
@@ -96,6 +98,7 @@ nav:
           - common-practices-tools/software-and-support/google-meet.md
           - common-practices-tools/software-and-support/jira.md
           - common-practices-tools/software-and-support/markdown.md
+          - common-practices-tools/software-and-support/sauce-labs.md
           - common-practices-tools/software-and-support/slack.md
           - common-practices-tools/software-and-support/trello.md
           - common-practices-tools/software-and-support/zoom.md
@@ -103,16 +106,22 @@ nav:
   - Practice areas:
       - practice-areas/README.md
       - Accessibility:
-          - practice-areas/accessibility/accessibility-practice-area.md
+          - practice-areas/accessibility/README.md
           - practice-areas/accessibility/accessibility-how-to.md
       - Design and research:
           - practice-areas/design-and-research/README.md
       - Engineering:
           - practice-areas/engineering/engineering-calls.md
           - practice-areas/engineering/accessibility.md
-          - practice-areas/engineering/drupal-practice-area.md
-          - practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
-          - practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
+          - Drupal:
+              - practice-areas/engineering/drupal/README.md
+              - practice-areas/engineering/drupal/drupal-for-everyone.md
+              - practice-areas/engineering/drupal/drupal-for-project-teams.md
+              - practice-areas/engineering/drupal/drupal-for-engineers.md
+              - practice-areas/engineering/drupal/drupal-for-drupal-engineers.md
+              - practice-areas/engineering/drupal/drupal-glossary.md
+              - practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+              - practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - practice-areas/engineering/git.md
           - practice-areas/engineering/security-compliance.md
           - Tech Lead:
@@ -135,14 +144,16 @@ nav:
           - practice-areas/project-management/onboarding-new-project-team-member.md
           - practice-areas/project-management/planning-onsite-meetings.md
           - practice-areas/project-management/project-calendar.md
-          - practice-areas/project-management/pm-role.md
+          - practice-areas/project-management/README.md
           - practice-areas/project-management/starting-new-project.md
           - practice-areas/project-management/team-working-agreements-instructions.md
           - practice-areas/project-management/templates.md
           - practice-areas/project-management/pm-training.md
           - practice-areas/project-management/pm-unanet-tasks.md
       - Project support:
-          - practice-areas/help-desk/helpdesk.md
+          - practice-areas/help-desk/README.md
+          - Overview: practice-areas/help-desk/README.md
+          - practice-areas/help-desk/project-support-accessibility-guidelines.md
           - practice-areas/help-desk/help-desk-agile.md
           - practice-areas/help-desk/working-practices.md
           - practice-areas/help-desk/project-support-checklist.md

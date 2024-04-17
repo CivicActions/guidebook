@@ -45,6 +45,9 @@
       "pattern": "^https://identity.trinet.com/.*"
     },
     {
+      "pattern": "^https://.*.ecosia.org/.*"
+    },
+    {
       "NOTE: Intentional absolute self links below": "",
       "pattern": "^https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/$"
     },
@@ -53,6 +56,22 @@
     },
     {
       "pattern": "^https://guidebook.civicactions.com/en/latest/$"
+    },
+    {
+      "NOTE: Unreliable sites below": "",
+      "pattern": "^https://nedjo.ca/.*"
+    },
+    {
+      "pattern": "^http://linux.die.net/.*"
+    },
+    {
+      "pattern": "^https://linux.die.net/.*"
+    },
+    {
+      "pattern": "^https://duckduckgo.com/.*"
+    },
+    {
+      "pattern": "^https://askubuntu.com/.*"
     }
   ],
   "NOTE: We replace absolute links with a use-relative-links-to-md-files-only since these are (nearly) always mistakes and should link to the relative .md file instead": "",

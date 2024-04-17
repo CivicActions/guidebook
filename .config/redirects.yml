@@ -91,9 +91,6 @@
 - from_url: /050-how-we-work/balance-scores/
   to_url: /common-practices-tools/balance-scores/
   type: page
-- from_url: /050-how-we-work/gold-star-program/
-  to_url: /common-practices-tools/gold-star-program/
-  type: page
 - from_url: /050-how-we-work/tools/skills-base/
   to_url: /common-practices-tools/skills-base/
   type: page
@@ -462,4 +459,46 @@
   type: page
 - from_url: /practice-areas/design-and-research/design-research-methods
   to_url: /practice-areas/design-and-research/
+  type: page
+- from_url: /practice-areas/engineering/drupal-practice-area/
+  to_url: /practice-areas/engineering/drupal/
+  type: page
+- from_url: /practice-areas/engineering/drupal-developer-tips-for-getting-the-most-out-of-open-source/
+  to_url: /practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source/
+  type: page
+- from_url: /practice-areas/engineering/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
+  to_url: /practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development/
+  type: page
+- from_url: /employee-benefits/us-benefits-policy/
+  to_url: /employee-benefits/
+  type: page
+- from_url: /practice-areas/accessibility/
+  to_url: /practice-areas/accessibility/accessibility-practice-area/
+  type: page
+- from_url: /practice-areas/accessibility/accessibility-practice-area/
+  to_url: /practice-areas/accessibility/
+  type: page
+- from_url: /about-civicactions/diversity-equity-inclusion/purpose/
+  to_url: /about-civicactions/diversity-equity-inclusion/
+  type: page
+- from_url: /common-practices-tools/security/awareness/
+  to_url: /common-practices-tools/security/
+  type: page
+- from_url: /common-practices-tools/agile/agile-overview/
+  to_url: /common-practices-tools/agile/
+  type: page
+- from_url: /common-practices-tools/software-and-support/support/
+  to_url: /common-practices-tools/software-and-support/
+  type: page
+- from_url: /practice-areas/help-desk/helpdesk/
+  to_url: /practice-areas/help-desk/
+  type: page
+- from_url: /company-policies/new-hire-orientation/welcome/
+  to_url: /company-policies/new-hire-orientation/
+  type: page
+- from_url: /practice-areas/project-management/pm-role/
+  to_url: /practice-areas/project-management/
+  type: page
+- from_url: /common-practices-tools/security/yubikey/linux/
+  to_url: /common-practices-tools/security/securing-your-workspace/
   type: page

@@ -79,7 +79,7 @@ This template is used as a preliminary guide when beginning a project. Key point
 
 This deck serves as a starting place for all key topics on any Kickoff call.
 
-[Kickoff deck](https://docs.google.com/presentation/d/18ZN9EP34qLrsWjE7WhsfyRH54DTV3jOA3rRWzXY7bKM/edit)
+[Kickoff deck](https://docs.google.com/presentation/d/1GV3fpaah9gGd-4VfR8iyiBk4ivDp-TT3ro8YfNLwzEw)
 
 ## Meeting notes
 
@@ -95,11 +95,11 @@ Another template requiring close collaboration with Program Management and Sales
 
 [Mod/ Pricing justification: Another option](https://docs.google.com/document/d/1lO7pivRJIACYzJs-5GaKmwsdoGBLOfEZHkxhtAeheXk/edit)
 
-## Monthly status report
+## Monthly/ Bi-Weekly/ Weekly status report
 
-A guiding document to build Monthly status reports (aka MSRs) within CivicActions branding.
+A guiding document to build status reports within CivicActions branding.
 
-[Monthly status report](https://docs.google.com/document/d/1CwouwFIhRpSpBXFfrtJ-S7J5_K7pm7XkQH_t1Jxar1o/edit)
+[Monthly status report](https://docs.google.com/document/d/1ebY82ojW6BDEcF8oY1Umll5efleyPhsXd-vMaJ2UAxE/edit)
 
 ## Out of Office (OOO) coverage
 
@@ -107,7 +107,7 @@ A few templates that support Project Managers and team members for OOO planning 
 
 ### Project Managers
 
-[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit#heading=h.3uhyu8z8uyfi)
+[Project Manager coverage plan](https://docs.google.com/document/d/1NRTpzfLi3onlV6IybPhNWtX1C24vqNAYNL51QFcStbA/edit)
 
 [Returning Project Manager/ handoff](https://docs.google.com/document/d/1gipi6rkYyJdPDkbfcfqSGSPHcy4EnngsqaGiqd-EAfA/edit)
 
@@ -115,17 +115,17 @@ A few templates that support Project Managers and team members for OOO planning 
 
 Reminder about [Out of Office (OOO) procedure](leave-requests-and-stepping-away.md)
 
-[All resources coverage plan](https://docs.google.com/document/d/12bydtX5Dj6C_L-o5O_Tj2OsdbjgSzzhnIr66zssiyyg/edit#)
+[OOO Template](https://docs.google.com/document/d/1dOH4TgiZmd44CSBUmZB451V8aw9BT8SBDiEYyUXTh3U/edit)
 
 ## Production users
 
-To maintain the integrity of all Production systems, this template is an efficiant way to track access rights for quarterly reviews.
+To maintain the integrity of all Production systems, this template is an efficient way to track access rights for quarterly reviews.
 
 [Production users](https://docs.google.com/spreadsheets/d/1RJDY64ZLhUYnX3kM7QrfEJaCUW_VLflXLJ9VZgGn6ZI/edit#gid=0)
 
 ## Project brief (aka Onboarding deck)
 
-All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of provide an overarching view of the projects.
+All projects intend to have an Onboarding deck for both CivicActions and partners, with the purpose of providing an overarching view of the projects.
 
 [Project brief](https://docs.google.com/presentation/d/1Vk7DKxe5Sop6T3JhudOcLGCffH8XJXDiX8WtBbH3Te0/edit#slide=id.gd85224ffcd_0_0)
 
@@ -141,9 +141,9 @@ A great resource that explains project and product management duties to the team
 
 [Project and Product Management hacks](https://docs.google.com/presentation/d/1iNm4p0KZjxst5S35DRQ1v7UyNM2dz0p6OVtDGowuA80/edit#slide=id.g11625fcf513_0_96)
 
-## Quarterly high level accomplishmnents
+## Quarterly high-level accomplishments
 
-Another useful template from Program Management, shared with the practice area. The objective is to tie into bi-weekly and monthly reporting, consolidating total value delivered to the client.
+Another useful template from Program Management, shared with the practice area. The objective is to tie into bi-weekly and monthly reporting, consolidating the total value delivered to the client.
 
 [Quarterly high level accomplishments](https://docs.google.com/document/d/1LdVPprGckT9XPc5EDQt-fKsR_3xK9cRba2NLf2rk5TE/edit)
 
@@ -161,15 +161,9 @@ A template that allows teams to unite around their core tenets. See [instruction
 
 [Elected priorities](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit)
 
-## Weekly status report
-
-This template is used as a guide for Project Managers to send weekly status updates to their Product Owner / client.
-
-[Weekly status report](https://docs.google.com/a/civicactions.net/document/d/1ZFOjwys-jz8WCrqzBatCYB5_4e9v3W1kBR5yFo8NJgc/edit?usp=sharing)
-
 ## Wrapper/ Legal
 
-A template required for each project and managed by our Legal team. This is updated quarterly to confirm alignment with all current contract details.
+A template is required for each project and is managed by our Legal team. This is updated quarterly to confirm alignment with all current contract details.
 Once completed, the Legal Wrapper is owned by our Legal team, retained in their folders, and is read-only. It is transparent, however, for all of CivicActions via the [Client Contract Index](https://docs.google.com/spreadsheets/d/1vEcmuGy2ZZEBIAWYxKvqpaUvEIj1iVzamPduMnHqQ1A/edit#gid=775617810).
 
 [Legal Wrapper](https://docs.google.com/document/d/1BTkjJ2N8iPPsuxjb3cLfaqe30nfVQHSgs8cuWaFKalw/edit)
@@ -178,6 +172,6 @@ Once completed, the Legal Wrapper is owned by our Legal team, retained in their 
 
 The companion to the Legal Wrapper, with all details needed for the Project Manager. This is also updated quarterly to confirm current contact details are accurate.
 
-Once completed, the Project Management Wrapper is owned by our practice area, retained in the project Internal folder/ Wrapper. The Wrappers are transparent for all of CivicActions, unless prohibited by contractual specifications, via the [Shared Folder shortcuts](https://drive.google.com/drive/folders/1ov5TOCOsnvynIDxtFPdcDkNC9qwB6c2K).
+Once completed, the Project Management Wrapper is owned by our practice area, and retained in the project Internal folder/ Wrapper. The Wrappers are transparent for all of CivicActions, unless prohibited by contractual specifications, via the [Shared Folder shortcuts](https://drive.google.com/drive/folders/1ov5TOCOsnvynIDxtFPdcDkNC9qwB6c2K).
 
-[Project Management Wrapper](https://docs.google.com/document/d/1eh6L6IiBF6DbOKzIPM2pRZXhBFBb0hbVVtq-f8HlxEQ/edit#heading=h.2fgd0t58pes3)
+[Project Management Wrapper](https://docs.google.com/document/d/1X6ZkPu2zeGx9NaFUGvOEIK0s20x7LD2tRzOG9QgpuBc/edit#heading=h.2fgd0t58pes3)

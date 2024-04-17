@@ -222,7 +222,7 @@ def update_redirects(renames):
 
         if existing_redirect:
             existing_redirect["to_url"] = new_url
-        else:
+        elif old_url != new_url:
             new_redirect = {
                 "type": "page",
                 "from_url": old_url,

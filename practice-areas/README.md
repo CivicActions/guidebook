@@ -23,17 +23,17 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 ## Directory
 
-| Name                                                          | Leads                                                                                        | Slack                  | Meets                                |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
-| [Accessibility](accessibility/accessibility-practice-area.md) | Laura Flannery, Mike Gifford                                                                 | #accessibility         | Twice monthly                        |
-| Data Science                                                  |                                                                                              | #datascience           |                                      |
-| Design                                                        | Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                             | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
-| DevSecOps                                                     | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
-| Diversity, Equity, Inclusion and Accessibility                | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
-| [Drupal](engineering/drupal-practice-area.md)                 | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
-| Frontend                                                      | Dan Goodwin, Eric Huffman, Iris Ibekwe                                                       | #engineering-frontend  | Biweekly                             |
-| Product Management                                            | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
-| Project Management                                            | Heidi Harting-Rex                                                                            | #projectmanagement     | Biweekly                             |
-| Quality Assurance                                             | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
-| [Tech Lead](engineering/tech-lead/README.md)                  |                                                                                              | #engineering-techlead  | Monthly                              |
-| Workforce Transformation                                      | Chianti Lomax                                                                                | #eduservices           |                                      |
+| Name                                           | Leads                                                                                        | Slack                  | Meets                                |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
+| [Accessibility](accessibility/README.md)       | Laura Flannery, Mike Gifford                                                                 | #accessibility         | Twice monthly                        |
+| Data Science                                   |                                                                                              | #datascience           |                                      |
+| Design                                         | Emily Ryan, Jenna Waszak, Kelly Smith, Val Runde                                             | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| DevSecOps                                      | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
+| Diversity, Equity, Inclusion and Accessibility | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
+| [Drupal](engineering/drupal/README.md)         | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
+| Frontend                                       | Dan Goodwin, Eric Huffman, Iris Ibekwe                                                       | #engineering-frontend  | Biweekly                             |
+| Product Management                             | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
+| Project Management                             | Heidi Harting-Rex                                                                            | #projectmanagement     | Biweekly                             |
+| Quality Assurance                              | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
+| [Tech Lead](engineering/tech-lead/README.md)   |                                                                                              | #engineering-techlead  | Monthly                              |
+| Workforce Transformation                       | Chianti Lomax                                                                                | #eduservices           |                                      |
