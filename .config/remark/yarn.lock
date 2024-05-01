@@ -2348,7 +2348,7 @@ remark-lint-no-empty-url@^3.1.2:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-file-name-articles@^2.0.0, remark-lint-no-file-name-articles@^2.1.2:
+remark-lint-no-file-name-articles@^2.0.0:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-articles/-/remark-lint-no-file-name-articles-2.1.2.tgz#cb5823ef460a651f8486f11491d23d017724904c"
   integrity sha512-kM4vwBkne7f9euDKsuyxTtrsiafjH+KOwu8ZmuSVWh5U+u0EMcPyN5fxfaQIW+5FkrJA1jwnRu7ciXJBJt74Og==
@@ -2356,6 +2356,14 @@ remark-lint-no-file-name-articles@^2.0.0, remark-lint-no-file-name-articles@^2.1
     "@types/mdast" "^3.0.0"
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
+
+remark-lint-no-file-name-articles@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-articles/-/remark-lint-no-file-name-articles-3.0.0.tgz#3061b26a0992331a93c5082f8f2826d5f2c17a2a"
+  integrity sha512-il4IseupahbV2TVfFjfDVL/EQw7jBWVlMVsv4K2cgl5uPIjiCjFGQypqKnWl6pZDN0oNOs/DE8gBdyuDjldJaA==
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    unified-lint-rule "^3.0.0"
 
 remark-lint-no-file-name-consecutive-dashes@^2.0.0, remark-lint-no-file-name-consecutive-dashes@^2.1.2:
   version "2.1.2"
