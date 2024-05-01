@@ -1095,6 +1095,13 @@ mdast-util-heading-style@^2.0.0:
   dependencies:
     "@types/mdast" "^3.0.0"
 
+mdast-util-heading-style@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-heading-style/-/mdast-util-heading-style-3.0.0.tgz#f1a02b2d0950e8535713f54de5ee0eea82413f51"
+  integrity sha512-tsUfM9Kj9msjlemA/38Z3pvraQay880E3zP2NgIthMoGcpU9bcPX9oSM6QC/+eFXGGB4ba+VCB1dKAPHB7Veug==
+  dependencies:
+    "@types/mdast" "^4.0.0"
+
 mdast-util-mdx-expression@^1.1.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.2.1.tgz#3195450498c438fbdb82838c23d9b3f8b23174da"
@@ -2149,7 +2156,7 @@ remark-lint-heading-increment@^3.0.0, remark-lint-heading-increment@^3.1.2:
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-heading-style@^3.0.0, remark-lint-heading-style@^3.1.2:
+remark-lint-heading-style@^3.0.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/remark-lint-heading-style/-/remark-lint-heading-style-3.1.2.tgz#62a191d14889be41d8cc8c8e0a150b6249d74286"
   integrity sha512-0RkcRPV/H2bPFgeInzBkK1cWUwtFTm83I+Db/Z5tDY02GzKOosHLvxtJyj/1391/opAH1LYbHtHWffir99IUgw==
@@ -2160,6 +2167,19 @@ remark-lint-heading-style@^3.0.0, remark-lint-heading-style@^3.1.2:
     unified-lint-rule "^2.0.0"
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
+
+remark-lint-heading-style@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-heading-style/-/remark-lint-heading-style-4.0.0.tgz#9c7b5b8fb210132ac2db8e541efc10569c2cef66"
+  integrity sha512-dQ6Jul5K0+aNUvrq4W7H0+osSoC9hsmwHZqBFq000+eMP/hWJqI8tuudw1rap8HHYuOsKLRbB5q+Fr7G+3Vw+Q==
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    mdast-util-heading-style "^3.0.0"
+    mdast-util-phrasing "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-position "^5.0.0"
+    unist-util-visit-parents "^6.0.0"
+    vfile-message "^4.0.0"
 
 remark-lint-link-title-style@^3.0.0, remark-lint-link-title-style@^3.1.2:
   version "3.1.2"
