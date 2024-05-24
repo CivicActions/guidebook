@@ -502,3 +502,6 @@
 - from_url: /common-practices-tools/security/yubikey/linux/
   to_url: /common-practices-tools/security/securing-your-workspace/
   type: page
+- from_url: /.github/workflows/check-all.yml/
+  to_url: /.github/workflows/link-check-all.yml/
+  type: page
