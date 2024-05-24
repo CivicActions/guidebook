@@ -18,6 +18,24 @@ jobs:
           config-file: ".config/markdown.links.config.json"
           use-quiet-mode: "yes"
           use-verbose-mode: "yes"
+
+on:
+  pull_request:
+
+jobs:
+  check-links:
+    name: runner / linkspector
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run linkspector on all links
+        uses: umbrelladocs/action-linkspector@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-check
+          fail_on_error: true
+          config_file: .config/linkspector.yml
+          filter_mode: nofilter
       - name: Run remark-lint on all files
         uses: ./.config/remark/
         with:
