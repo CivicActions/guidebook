@@ -8,21 +8,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  check-all:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Check all links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          config-file: ".config/markdown.links.config.json"
-          use-quiet-mode: "yes"
-          use-verbose-mode: "yes"
-
-on:
-  pull_request:
-
-jobs:
   check-links:
     name: runner / linkspector
     runs-on: ubuntu-latest
