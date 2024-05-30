@@ -31,7 +31,7 @@ Each member of the project Support team will complete - within the first ninety 
 
 ## Accessible websites and web content
 
-Our goal at CivicActions is to achieve or exceed the latest [Web Content Accessibility Guidelines (WCAG) 2.1 Level AA](https://www.w3.org/TR/WCAG21/) for all our websites. WCAG is recognized globally as standard best practice and is backward compatible with previous versions. It also incorporates the criteria for digital content included in [Section 508 of the Rehabilitation Act[(https://www.access-board.gov/ict).
+Our goal at CivicActions is to achieve or exceed the latest [Web Content Accessibility Guidelines (WCAG) 2.1 Level AA](https://www.w3.org/TR/WCAG21/) for all our websites. WCAG is recognized globally as standard best practice and is backward compatible with previous versions. It also incorporates the criteria for digital content included in [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict).
 
 ## Information and communication
 
