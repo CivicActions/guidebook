@@ -2106,7 +2106,7 @@ remark-lint-definition-case@^3.0.0, remark-lint-definition-case@^3.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-definition-spacing@^3.0.0, remark-lint-definition-spacing@^3.1.2:
+remark-lint-definition-spacing@^3.0.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-3.1.2.tgz#8055497c0b293fa0a803f1a156d555e340fd4dc3"
   integrity sha512-l058jAKfZfCOmlbIzoTll+CrZm9Bh42ZVCHcODPSZC8Yx4terCKgIoks+RWJDEdUbEw0YQoYvPc59ZVmp3BIew==
@@ -2116,6 +2116,18 @@ remark-lint-definition-spacing@^3.0.0, remark-lint-definition-spacing@^3.1.2:
     unified-lint-rule "^2.0.0"
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
+
+remark-lint-definition-spacing@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-4.0.0.tgz#c12a74bb079efc27d57a852337d87cc42ddc7e50"
+  integrity sha512-t6nP8unz6z/DLBTWeOmDFHPFbX3E2PbNgt2fTazRbVnMC6z3o25hBzg5hI6DL0MPt2ZTRX++rJsGRjb+vgh/tQ==
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    longest-streak "^3.0.0"
+    mdast-util-phrasing "^4.0.0"
+    pluralize "^8.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-emphasis-marker@^3.0.0, remark-lint-emphasis-marker@^3.1.2:
   version "3.1.2"
