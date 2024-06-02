@@ -2550,20 +2550,6 @@ remark-lint-no-file-name-outer-dashes@^2.0.0, remark-lint-no-file-name-outer-das
     unified "^10.0.0"
     unified-lint-rule "^2.0.0"
 
-remark-lint-no-heading-content-indent@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-content-indent/-/remark-lint-no-heading-content-indent-4.1.2.tgz#fdc57ed0b40209ed09d25366b61d445399f1562b"
-  integrity sha512-TTxFsm1f4ZHFxZQCuz7j0QK4RvP6oArTiwazKLr16yaZe1608ypogMek4A30j2xX8WuO9+2uBzLXCY5OBo5x5Q==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-util-heading-style "^2.0.0"
-    pluralize "^8.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
 remark-lint-no-heading-content-indent@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/remark-lint-no-heading-content-indent/-/remark-lint-no-heading-content-indent-5.0.0.tgz#a83956dab3675dfe032ac1a7523d874be6185121"
