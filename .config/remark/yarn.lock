@@ -2498,16 +2498,14 @@ remark-lint-no-emphasis-as-heading@^3.0.0, remark-lint-no-emphasis-as-heading@^3
     unist-util-generated "^2.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-empty-url@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-empty-url/-/remark-lint-no-empty-url-3.1.2.tgz#1ef952b79ef6ee699d23f649116babf53e969d8a"
-  integrity sha512-uu1ka/jNC5fQlLb1tKp3NLfb/0DpS9vLMmxJ8JU7iC8AurMTpI8yk/rpHr3NHz59pfGWboHjXOCE8n6q55VENw==
+remark-lint-no-empty-url@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-empty-url/-/remark-lint-no-empty-url-4.0.0.tgz#2c3039150c281df17f6f39328e8a42598f962756"
+  integrity sha512-2zJxrSnL42wGe+CSZepBzoj8d/FeL/QU8GM6TEO/5qGfXwvJD7s2v6q074UJU0CAaWlWRqSxElescwk3yGQddA==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-no-file-name-articles@^2.0.0:
   version "2.1.2"
