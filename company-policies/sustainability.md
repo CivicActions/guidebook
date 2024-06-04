@@ -13,11 +13,11 @@ Sustainability has been one of the consistent threads in our work over the last 
 
 ### We believe
 
--   Our ecosystem is interdependent
--   Using science, we can understand environmental systems and effectively address issues
--   Promoting habitat and diversity, supports ecological systems
--   Environmental challenges have social and political impacts
--   The impact of climate change will disproportionately affect disadvantaged groups
+- Our ecosystem is interdependent
+- Using science, we can understand environmental systems and effectively address issues
+- Promoting habitat and diversity, supports ecological systems
+- Environmental challenges have social and political impacts
+- The impact of climate change will disproportionately affect disadvantaged groups
 
 ## CivicActions' Sustainability Goals and Policies
 
@@ -49,7 +49,7 @@ We are building a Sustainability Pledge that will allow us to have regular repor
 
 Using tools like Google Lighthouse we assess the performance of our work. Performance has a strong correlation with energy efficiency, which is a major aspect of digital sustainability.
 
-# Training and Education
+## Training and Education
 
 Our team is beginning to take on Earth Day activities to help raise awareness within the company. We have started the process of building a Sustainability Onboarding Workshop to help raise awareness of the importance of sustainability.
 
@@ -59,8 +59,8 @@ Please engage in the #sustainability Slack channel.
 
 ## Resources
 
--   [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.awardaroo.io/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
--   [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
+- [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.awardaroo.io/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
+- [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
 
 ## Revision and Updates
 
