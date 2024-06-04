@@ -13,11 +13,11 @@ Sustainability has been one of the consistent threads in our work over the last 
 
 ### We believe
 
--   Our ecosystem is interdependent
--   Using science, we can understand environmental systems and effectively address issues
--   Promoting habitat and diversity, supports ecological systems
--   Environmental challenges have social and political impacts
--   The impact of climate change will disproportionately affect disadvantaged groups
+* Our ecosystem is interdependent
+* Using science, we can understand environmental systems and effectively address issues
+* Promoting habitat and diversity, supports ecological systems
+* Environmental challenges have social and political impacts
+* The impact of climate change will disproportionately affect disadvantaged groups
 
 ## CivicActions' Sustainability Goals and Policies
 
@@ -59,8 +59,8 @@ Please engage in the #sustainability Slack channel.
 
 ## Resources
 
--   [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.awardaroo.io/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
--   [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
+* [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.awardaroo.io/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
+* [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
 
 ## Revision and Updates
 
