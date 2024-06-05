@@ -4,12 +4,16 @@ on:
   pull_request:
 
 jobs:
-  markdown-link-check:
+  check-links:
+    name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
         with:
-          config-file: ".config/markdown.links.config.json"
-          use-quiet-mode: "yes"
-          use-verbose-mode: "yes"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          fail_on_error: true
+          config_file: .config/linkspector.yml
+          filter_mode: added
