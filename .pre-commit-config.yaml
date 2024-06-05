@@ -47,7 +47,7 @@ repos:
         args:
           - "--config=.config/pre-commit-search-and-replace.yaml"
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.6
+    rev: v2.3.0
     hooks:
       - id: codespell
         types: [markdown]
