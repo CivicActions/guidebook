@@ -47,11 +47,11 @@ As a services company, our biggest expenses are also our biggest asset, our staf
 
 We are building a Sustainability Pledge that will allow us to have regular reporting and metrics for the company.
 
-Using tools like Google Lighthouse we assess the performance of our work. Performance has a strong correlation with energy efficiency, which is a major aspect of digital sustainability.
+Using tools like Google Lighthouse we assess the performance of our work. Performance has a strong correlation with energy efficiency. Energy consumption is a significant aspect of digital sustainability.
 
 ## Training and Education
 
-Our team is beginning to take on Earth Day activities to help raise awareness within the company. We have started the process of building a Sustainability Onboarding Workshop to help raise awareness of the importance of sustainability.
+Our team is beginning to take on Earth Day activities to help raise awareness within the company. We have started the process of building a Sustainability Onboarding Workshop. This will help raise awareness of the importance of sustainability.
 
 ## Communication and Feedback
 
