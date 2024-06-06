@@ -29,3 +29,7 @@ build:
 
 mkdocs:
   configuration: .config/mkdocs.yml
+
+submodules:
+  include: all
+  recursive: true
