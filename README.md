@@ -53,11 +53,11 @@ Lafayette, CA 94549
 
 510.408.7510 | main
 888.714.7388 | fax
-civicactions.com
+[CivicActions.com](https://civicactions.com)
 
 ## License
 
-Copyright 2017-2023 CivicActions.
+Copyright 2017-2024 CivicActions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 
