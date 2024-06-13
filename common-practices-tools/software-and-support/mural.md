@@ -10,7 +10,7 @@ The following is a general overview of Mural, but each project may have specific
 
 CivicActions uses [Mural](https://app.mural.co/t/civicactions3117) as a digital workspace for visual collaboration. It's particularly useful for brainstorming, planning, and design thinking projects. Mural allows teams to work together in real-time, regardless of their geographical locations, and is a powerful tool for enhancing collaborative efforts.
 
-[![CivicActions Mural Account](https://img.shields.io/badge/Mural_Account-0F6460?style=for-the-badge&logo=mural)](https://app.mural.co/t/civicactions3117) [![#mural Slack Channel](https://img.shields.io/badge/Slack_Channel-D83933?style=for-the-badge&logo=slack)](https://civicactions.slack.com/archives/C06PASS8S6M)
+[![CivicActions Mural Account](https://img.shields.io/badge/Mural_Account-0F6460?style=for-the-badge&logo=mural)](https://app.mural.co/t/civicactions3117) [![Mural Slack Channel](https://img.shields.io/badge/Slack-Mural_Channel-D83933?style=for-the-badge&logo=slack)](https://civicactions.slack.com/archives/C06PASS8S6M)
 
 ## Rooms & Folders
 
@@ -49,4 +49,4 @@ If your project has a specific use case or if you have ideas for improving our M
 ## Additional Resources
 
 -   [Mural Docs](https://support.mural.co/s/)
--   [\#mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)
+-   [Mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)
