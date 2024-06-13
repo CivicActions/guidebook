@@ -37,7 +37,7 @@ If you need to invite an external user, modify your Mural license, or perform an
 
 ## Enhancing Templates and Use Cases
 
-If your project has a specific use case or if you have ideas for improving our Mural templates, please share your suggestions in the [\#mural](https://civicactions.slack.com/archives/C06PASS8S6M) or [\#how-we-work](https://civicactions.slack.com/archives/C02HFM4KR) Slack channel by clicking the 🎫 emoji or submit a feature improvement through our [support portal](https://team.support.civicactions.com/servicedesk/customer/portal/4/create/79). _You should probably_ [**submit a ticket 🤠🧠**](https://team.support.civicactions.com/servicedesk/customer/portal/4/create/79)
+If your project has a specific use case or if you have ideas for improving our Mural templates, please share your suggestions in the [\#mural](https://civicactions.slack.com/archives/C06PASS8S6M) or [\#how-we-work](https://civicactions.slack.com/archives/C02HFM4KR) Slack channel by clicking the 🎫 emoji or submit a feature improvement through our [support portal](https://team.support.civicactions.com/servicedesk/customer/portal/4/create/79).
 
 ## General Recommendations
 
