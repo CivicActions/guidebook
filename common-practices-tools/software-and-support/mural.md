@@ -10,7 +10,6 @@ The following is a general overview of Mural, but each project may have specific
 
 CivicActions uses [Mural](https://app.mural.co/t/civicactions3117) as a digital workspace for visual collaboration. It's particularly useful for brainstorming, planning, and design thinking projects. Mural allows teams to work together in real-time, regardless of their geographical locations, and is a powerful tool for enhancing collaborative efforts.
 
-
 <div align="center">
   <a href="https://app.mural.co/t/civicactions3117">
     <img src="https://img.shields.io/badge/Mural_Account-0F6460?style=for-the-badge&logo=mural" alt="CivicActions Mural Account">
@@ -21,6 +20,7 @@ CivicActions uses [Mural](https://app.mural.co/t/civicactions3117) as a digital 
 </div>
 
 ## Rooms & Folders
+
 To organize content and properly manage access, we use Mural [rooms](https://support.mural.co/s/article/rooms-in-mural) & [folders](https://support.mural.co/s/article/About-folders).
 
 ### Rooms
@@ -30,7 +30,6 @@ Each project at CivicActions has its own dedicated room in Mural. Within these r
 You can find the Mural rooms by going [here](https://app.mural.co/t/civicactions3117/rooms) or clicking **Rooms** under the CivicActions workspace.
 
 ![Mural Rooms](../../assets/images/pick-me-mural.png)
-
 
 ### Inviting External Users
 
@@ -50,11 +49,11 @@ If your project has a specific use case or if you have ideas for improving our M
 
 ## General Recommendations
 
-- **Utilize Templates:** Start your murals with CivicActions-specific templates to save time and ensure consistency.
-- **Collaborative Spaces:** Make full use of Mural's collaborative tools to engage every team member.
-- **Stay Organized:** Keep your murals organized within folders and sub-folders to enhance accessibility and workflow.
-
+-   **Utilize Templates:** Start your murals with CivicActions-specific templates to save time and ensure consistency.
+-   **Collaborative Spaces:** Make full use of Mural's collaborative tools to engage every team member.
+-   **Stay Organized:** Keep your murals organized within folders and sub-folders to enhance accessibility and workflow.
 
 ## Additional Resources
-- [Mural Docs](https://support.mural.co/s/)
-- [\#mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)
+
+-   [Mural Docs](https://support.mural.co/s/)
+-   [\#mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)
