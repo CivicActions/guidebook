@@ -18,15 +18,15 @@ To organize content and properly manage access, we use Mural [rooms](https://sup
 
 ### Rooms
 
-Each project at CivicActions has its own dedicated room in Mural. Within these rooms, you can find various folders that organize the murals pertinent to that project. If your project does not have a room, or if you need any modifications, you can submit a ticket on the CivicActions support portal [here](https://team.support.civicactions.com/servicedesk/customer/portal/4/group/15/create/59).
+Each project at CivicActions has its own dedicated room in Mural. Within these rooms, you can find various folders that organize the murals pertinent to that project. If your project does not have a room, or if you need any modifications, you can create a room youself. If you have any issue with creating a room, please submit a ticket on the CivicActions support portal [here](https://team.support.civicactions.com/servicedesk/customer/portal/4/group/15/create/59).
 
 You can find the Mural rooms by going [here](https://app.mural.co/t/civicactions3117/rooms) or clicking **Rooms** under the CivicActions workspace.
 
 ![Mural Rooms](../../assets/images/pick-me-mural.png)
 
-### Inviting External Users
+### External Users
 
-When working with external users such as government officials, you can invite them to specific project rooms without granting access to non-project rooms or folders. This ensures that sensitive information remains secure while facilitating collaboration with external partners. To request a new external, or any user, [**submit a ticket**](https://team.support.civicactions.com/servicedesk/customer/portal/4/group/14/create/53).
+The easiest way to work with external users is to share a link to the Mural. If additional security is needed, then you have the ability to add a password. If additional, persistent access is required, you can invite them to specific project rooms without granting access to non-project rooms or folders. This ensures that sensitive information remains secure while facilitating collaboration with external partners. To request a new external, or any user, [**submit a ticket**](https://team.support.civicactions.com/servicedesk/customer/portal/4/group/14/create/53).
 
 ### Organizing Murals
 
