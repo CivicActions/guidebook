@@ -2,7 +2,7 @@
 
 FROM node:18-alpine
 
-ENV REVIEWDOG_VERSION=v0.13.1
+ENV REVIEWDOG_VERSION=v0.18.1
 
 RUN \
   apk add --update \
