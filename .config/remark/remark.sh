@@ -23,11 +23,7 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   # reviewdog we can put the option back and remove -efm options.
 
   remark --rc-path=/usr/src/remarkrc.suggestion --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
-    reviewdog -efm="%-P%f" \
-      -efm="%#%l:%c %# %trror %m" \
-      -efm="%#%l:%c %# %tarning %m" \
-      -efm="%-Q" \
-      -efm="%-G%.%#" \
+    reviewdog -f=remark-lint \
       -name="remark-lint-suggestions" \
       -reporter="github-pr-check" \
       -fail-on-error="false" \
@@ -35,11 +31,7 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
       -tee
 
   remark --rc-path=/usr/src/remarkrc.problem --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
-    reviewdog -efm="%-P%f" \
-      -efm="%#%l:%c %# %trror %m" \
-      -efm="%#%l:%c %# %tarning %m" \
-      -efm="%-Q" \
-      -efm="%-G%.%#" \
+    reviewdog -f=remark-lint \
       -name="remark-lint-problem" \
       -reporter="github-pr-check" \
       -fail-on-error="true" \
