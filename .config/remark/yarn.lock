@@ -2927,20 +2927,6 @@ remark-lint-no-tabs@^3.1.2:
     unified-lint-rule "^2.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-no-undefined-references@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-undefined-references/-/remark-lint-no-undefined-references-4.2.1.tgz#191fbd4f05162b2595765351bcc75a41919e2fab"
-  integrity sha512-HdNg5b2KiuNplcuVvRtsrUiROw557kAG1CiZYB7jQrrVWFgd86lKTa3bDiywe+87dGrGmHd3qQ28eZYTuHz2Nw==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    micromark-util-normalize-identifier "^1.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-    vfile-location "^4.0.0"
-
 remark-lint-no-undefined-references@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/remark-lint-no-undefined-references/-/remark-lint-no-undefined-references-5.0.0.tgz#2155f00a95b793ecac1921f7b45ce7c5d6087256"
