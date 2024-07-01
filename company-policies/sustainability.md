@@ -13,11 +13,11 @@ Sustainability has been one of the consistent threads in our work over the last 
 
 ### We believe
 
-- Our ecosystem is interdependent
-- Using science, we can understand environmental systems and effectively address issues
-- Promoting habitat and diversity, supports ecological systems
-- Environmental challenges have social and political impacts
-- The impact of climate change will disproportionately affect disadvantaged groups
+-   Our ecosystem is interdependent
+-   Using science, we can understand environmental systems and effectively address issues
+-   Promoting habitat and diversity, supports ecological systems
+-   Environmental challenges have social and political impacts
+-   The impact of climate change will disproportionately affect disadvantaged groups
 
 ## CivicActions' Sustainability Goals and Policies
 
@@ -45,13 +45,13 @@ As a services company, our biggest expenses are also our biggest asset, our staf
 
 ## e-Waste and Recycling
 
-CivicActions understands the importance of recycling, particularly for electronics. The environmental cost of e-waste is high, and we promote recycling of digital devices. For computers provided by CivicActions we will first ensure for proper data sanitization.  For working devices we prefer reuse/donation or if it isn’t working that it get fixed or used for parts. If for some reason this isn’t an option, staff will be instructed to deposit in a reputable e-waste recycling stream for component based recycling.
+CivicActions understands the importance of recycling, particularly for electronics. The environmental cost of e-waste is high, and we promote recycling of digital devices. For computers provided by CivicActions we will first ensure for proper data sanitization. For working devices we prefer reuse/donation or if it isn't working that it get fixed or used for parts. If for some reason this isn't an option, staff will be instructed to deposit in a reputable e-waste recycling stream for component based recycling.
 
 ## Sustainable Procurement
 
-When engaging with a new client, we will identify their sustainability efforts. Sustainability commitments of our vendors will be recorded in a central vendor list. Additionally, on an annual basis, the vendor list is reviewed as part of the Supply-Chain Risk Management Process (A process to proactively identify and address disruptive supply chain issues). At this time, we would re-assess the vendors' sustainability commitments. 
+When engaging with a new client, we will identify their sustainability efforts. Sustainability commitments of our vendors will be recorded in a central vendor list. Additionally, on an annual basis, the vendor list is reviewed as part of the Supply-Chain Risk Management Process (A process to proactively identify and address disruptive supply chain issues). At this time, we would re-assess the vendors' sustainability commitments.
 
-When selecting new vendors, we will strive to support those which align to Science-Based Targets. 
+When selecting new vendors, we will strive to support those which align to Science-Based Targets.
 
 ## Reporting and Metrics
 
