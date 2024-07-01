@@ -1157,6 +1157,19 @@ mdast-util-heading-style@^3.0.0:
   dependencies:
     "@types/mdast" "^4.0.0"
 
+mdast-util-math@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-math/-/mdast-util-math-3.0.0.tgz#8d79dd3baf8ab8ac781f62b8853768190b9a00b0"
+  integrity sha512-Tl9GBNeG/AhJnQM221bJR2HPvLOSnLE/T9cJI9tlc6zwQk2nPk/4f0cHkOdEixQPC/j8UtKDdITswvLAy1OZ1w==
+  dependencies:
+    "@types/hast" "^3.0.0"
+    "@types/mdast" "^4.0.0"
+    devlop "^1.0.0"
+    longest-streak "^3.0.0"
+    mdast-util-from-markdown "^2.0.0"
+    mdast-util-to-markdown "^2.1.0"
+    unist-util-remove-position "^5.0.0"
+
 mdast-util-mdx-expression@^1.1.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.2.1.tgz#3195450498c438fbdb82838c23d9b3f8b23174da"
@@ -1257,7 +1270,7 @@ mdast-util-to-markdown@^1.0.0:
     unist-util-visit "^4.0.0"
     zwitch "^2.0.0"
 
-mdast-util-to-markdown@^2.0.0:
+mdast-util-to-markdown@^2.0.0, mdast-util-to-markdown@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/mdast-util-to-markdown/-/mdast-util-to-markdown-2.1.0.tgz#9813f1d6e0cdaac7c244ec8c6dabfdb2102ea2b4"
   integrity sha512-SR2VnIEdVNCJbP6y7kVTJgPLifdr8WEU440fQec7qHoHOUz/oJ2jmNRqdDQ3rbiStOXb2mCDGTuwsK5OPUgYlQ==
@@ -2780,17 +2793,19 @@ remark-lint-no-literal-urls@^4.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-missing-blank-lines@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-missing-blank-lines/-/remark-lint-no-missing-blank-lines-3.1.2.tgz#f01899364fbf0eb7f041a601cdb2c34d7f4ff6a8"
-  integrity sha512-lgCfePH7MVCW6KAKUag8HFYC2oPbeLwZmNUzbAZLN263lerWcAMjsHkNnf26v8MkH8+IoJsTqwdqpel7I+dxtQ==
+remark-lint-no-missing-blank-lines@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-missing-blank-lines/-/remark-lint-no-missing-blank-lines-4.0.0.tgz#aaf4ca9c1c8b440453cab7e1d842c4b3e9ef5b0c"
+  integrity sha512-Qb/uX8VpYDKaDG79z8lLoHTt3z7oUmeD8WzMZiQ7U1spP5UmpB0CMp+Vs1Ow2Xz1u4lutoHwQW13QTGTxP53Kw==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    mdast-util-directive "^3.0.0"
+    mdast-util-math "^3.0.0"
+    mdast-util-mdx "^3.0.0"
+    mdast-util-phrasing "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-position "^5.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-no-multiple-toplevel-headings@^3.1.2:
   version "3.1.2"
