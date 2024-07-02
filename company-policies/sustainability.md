@@ -61,7 +61,7 @@ Using tools like Google Lighthouse, we assess the performance of our work. Perfo
 
 ## Training and Education
 
-Our team is beginning to take on Earth Day activities to help raise awareness within the company. We have started the process of building a Sustainability Onboarding Workshop. This will help raise awareness of the importance of sustainability.
+We have provided a Sustainability Onboarding Workshop for all staff and will continue to provide it as we hire new staff. We will also continue to build awareness through activities like Earth Day to help raise awareness within the company. This will help build on the current culture which embraces sustainability.
 
 ## Communication and Feedback
 
