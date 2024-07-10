@@ -15,7 +15,6 @@ Our regular feedback and review cycles help us accomplish this. The process isn'
 
 We have an annual review season and reviews are delivered in the last two weeks of April. In Culture Amp, you will do a self reflection about the previous year and two of your peers will give you feedback. Your manager will take that feedback and complete their review as well. Your manager will meet with you to discuss the feedback and any compensation changes and data about your hours and utilization over the past year.
 
-
 ## When it happens
 
 The review season starts in January and concludes in April with reviews being delivered. Below are the phases and who is involved in each phase.
