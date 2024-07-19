@@ -1,6 +1,6 @@
 ---
 title: Sustainability
-updated: July 1, 2024
+updated: July 19, 2024
 ---
 
 # Sustainability
@@ -55,7 +55,7 @@ When selecting new vendors, we will strive to support those which align to Scien
 
 ## Reporting and Metrics
 
-We have a Sustainability Pledge that will allow us to have regular reporting and metrics for the company.
+We have a [Sustainability Pledge](https://civicactions.com/sustainability/) that will allow us to have regular reporting and metrics for the company.
 
 Using tools like Google Lighthouse, we assess the performance of our work. Performance has a strong correlation with energy efficiency. Energy consumption is a significant aspect of digital sustainability.
 
