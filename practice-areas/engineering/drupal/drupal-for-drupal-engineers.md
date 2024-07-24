@@ -20,8 +20,8 @@ If you need to create your own fix update the issue accordingly.
 
 Your project's technical lead can show you where any patch files are stored in your project and explain how they are applied.
 
-- [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
-- [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
+-   [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
+-   [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
 
 ## Version control and the code review process
 
