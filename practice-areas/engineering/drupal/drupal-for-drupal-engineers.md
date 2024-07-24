@@ -10,15 +10,15 @@ We strictly follow established coding standards. Standardized code is more reada
 
 ## Contributing upstream
 
-Whenever practical, we want to contribute our changes back to the Drupal community. If a change requires us to patch core or a contributed module, that patch should also be attached to a drupal.org issue.
+Whenever practical, we want to contribute our changes back to the Drupal community. If a change requires us to patch core or a contributed module, that patch should also be attached to a drupal.org issue or the changes submitted via a merge request.
 
-First, search the Drupal project for an issue matching the change you need to make. There may already be a patch providing the functionality.
+First, search the Drupal project for an issue matching the change you need to make. There may already be a fix providing the functionality.
 
-If you end up using an existing patch, drop a comment indicating that you tested the patch and that it is working (or not) for you. This will help move the issue along its lifecycle.
+If you end up using an existing fix, drop a comment indicating that you tested it and that it is working (or not) for you. This will help move the issue along its lifecycle.
 
-If you need to create your own patch, attach it to the issue and update it accordingly. Ensure that the patch file is named according to convention and includes the issue number so that it is convenient to find.
+If you need to create your own fix update the issue accordingly.
 
-Your project's technical lead can show you where patch files are stored in your project and explain how they are applied.
+Your project's technical lead can show you where any patch files are stored in your project and explain how they are applied.
 
 - [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
 - [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
