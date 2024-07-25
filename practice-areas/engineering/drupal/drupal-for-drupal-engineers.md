@@ -6,22 +6,22 @@ title: Drupal for Drupal engineers
 
 ## Follow coding standards
 
-We strictly follow established coding standards. Standardized code is more readable and easier to maintain. See the Drupal docs for the latest guidelines: https://www.drupal.org/docs/develop/standards
+We strictly follow established coding standards. Standardized code is more readable and easier to maintain. See the [Drupal docs for the latest guidelines](https://www.drupal.org/docs/develop/standards).
 
 ## Contributing upstream
 
-Whenever practical, we want to contribute our changes back to the Drupal community. If a change requires us to patch core or a contributed module, that patch should also be attached to a drupal.org issue.
+Whenever practical, we want to contribute our changes back to the Drupal community. If a change requires us to patch core or a contributed module, that patch should also be attached to a drupal.org issue or the changes submitted via a merge request.
 
-First, search the Drupal project for an issue matching the change you need to make. There may already be a patch providing the functionality.
+First, search the Drupal project for an issue matching the change you need to make. There may already be a fix providing the functionality.
 
-If you end up using an existing patch, drop a comment indicating that you tested the patch and that it is working (or not) for you. This will help move the issue along its lifecycle.
+If you end up using an existing fix, drop a comment indicating that you tested it and that it is working (or not) for you. This will help move the issue along its lifecycle.
 
-If you need to create your own patch, attach it to the issue and update it accordingly. Ensure that the patch file is named according to convention and includes the issue number so that it is convenient to find.
+If you need to create your own fix update the issue accordingly.
 
-Your project's technical lead can show you where patch files are stored in your project and explain how they are applied.
+Your project's technical lead can show you where any patch files are stored in your project and explain how they are applied.
 
-https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue
-https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal
+-   [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
+-   [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
 
 ## Version control and the code review process
 
@@ -52,16 +52,16 @@ The monthly meeting itself is normally scheduled early in the month and follows 
 
 These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
-More recently, we've been adding agenda items and notes to this document: 2022 Drupal Practice Area Meetings and Agendas to structure our conversations.
+More recently, we've been adding agenda items and notes to this document: [2022 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/129pvtjRwknQcMcsgwMfAHKGViXpQC6cElw-AIqzussU/edit?tab=t.0#heading=h.tnwg29sodagt) to structure our conversations.
 
 ### Drupal practice area OKRs
 
-CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: https://www.amazon.com/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=sr_1_1
+CivicActions adopted a standard practice of setting Objectives and Key Results in 2020, based on learnings gleaned from this book: [https://www.amazon.com/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=sr_1_1](https://www.amazon.com/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=sr_1_1)
 
 We are still in the process of optimizing our practices in this area. Drupal practice area OKRs have been developed that align with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
 
--   Trello board: https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs
--   Culture amp: https://civicactions.cultureamp.com/performance/new_goals/department
+-   Trello board (read-only): [https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
+-   Culture amp: [https://civicactions.cultureamp.com/performance/new_goals/department](https://civicactions.cultureamp.com/performance/new_goals/department)
 
 ### Skillsbase: Complete a self-assessment of your Drupal skills
 
@@ -86,10 +86,10 @@ We encourage all CivicActioners to give back to the Drupal community (see commun
 
 Update your drupal.org profile
 
-1. Go to https://drupal.org/.
+1. Go to [https://drupal.org/](https://drupal.org/).
 2. Log into your drupal.org account (create one if you do not have one).
 3. Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
-4. Align your role with CivicActions in the "Contributor roles" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support". See https://www.drupal.org/community/contributor-guide/find-your-role for more details.
+4. Align your role with CivicActions in the "Contributor roles" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support". See [https://www.drupal.org/community/contributor-guide/find-your-role](https://www.drupal.org/community/contributor-guide/find-your-role) for more details.
 
 ### Contribution to drupal.org modules and themes
 
@@ -97,7 +97,7 @@ If you have created or are creating a module or a theme and use CivicActions tim
 
 ![supporting organizations](../../../assets/images/drupal-pa-support-org-screenshot.png)
 
-Adding the organization will ensure that the module and theme will also be attributed to CivicActions. Examples of that can be seen under https://www.drupal.org/civicactions#projects-supported.
+Adding the organization will ensure that the module and theme will also be attributed to CivicActions. Examples of that can be seen under [https://www.drupal.org/civicactions#projects-supported](https://www.drupal.org/civicactions#projects-supported).
 
 ### Contributing to drupal.org issues
 
@@ -105,7 +105,7 @@ If you are contributing to drupal.org issues for CivicActions and our customers,
 
 ![attribute organization](../../../assets/images/drupal-pa-contribution-attribution-screenshot.png)
 
-Checking the box and adding the organization and customer will ensure that any credit you receive will also be attributed to CivicActions and the customer. Examples of that can be seen under https://www.drupal.org/civicactions#org-page-issue-credit.
+Checking the box and adding the organization and customer will ensure that any credit you receive will also be attributed to CivicActions and the customer. Examples of that can be seen under [https://www.drupal.org/civicactions#org-page-issue-credit](https://www.drupal.org/civicactions#org-page-issue-credit).
 
 ### External Resources
 
