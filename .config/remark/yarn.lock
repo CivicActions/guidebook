@@ -2258,19 +2258,7 @@ remark-lint-file-extension@^3.0.0:
     quotation "^2.0.0"
     unified-lint-rule "^3.0.0"
 
-remark-lint-final-definition@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-final-definition/-/remark-lint-final-definition-3.1.2.tgz#9a147b456df3049b8f32570265736a6cfea19a5a"
-  integrity sha512-3O3JT6xqlrgq+UjhMPxshgMtwXn99w0BEO9JwbDls49N0XCu0n22Pq1n6X3tEVzskPLo3YYyVYfW2Z2C2rneKQ==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-final-definition@^4.0.0:
+remark-lint-final-definition@^4.0.0, remark-lint-final-definition@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/remark-lint-final-definition/-/remark-lint-final-definition-4.0.1.tgz#3cdad27cdc03491666efdad24bf03469a70f33f4"
   integrity sha512-51T9oSdA7wuhjSdgGo0snO1BY39Igt9cJQi7XpgtgFsbfQk8zSSAUAc/rLabY6+YCTpcPs6qmwvLXZ4mPX6Qlg==
