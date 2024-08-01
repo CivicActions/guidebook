@@ -3270,10 +3270,10 @@ retext-english@^4.1.0:
     unherit "^3.0.0"
     unified "^10.0.0"
 
-retext-equality@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-7.0.0.tgz#76cb22df320ca1ff881f74642a2fc5e99b676a3a"
-  integrity sha512-ZbrjgdgREO7EyEqvLDYnHTsMa8qxTZj+ijT61Grw8X6w0ZsbwajjQdQw+Wwd24Uqt7rlrqYs38NunoyrH8zbCg==
+retext-equality@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-7.1.0.tgz#94dd4f793307342e3405f7f1228b3d9af47dae03"
+  integrity sha512-YzrGxIfubNetpi5xEZXFaWKaQNdDHYal0JNaIllTRO+vkjO0FRuGgLoYixR1BYR3vx7k6p7c+MdVM1NxTlC+MQ==
   dependencies:
     "@types/nlcst" "^2.0.0"
     devlop "^1.0.0"
