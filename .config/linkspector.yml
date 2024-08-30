@@ -1,3 +1,6 @@
 dirs:
   - .
 useGitIgnore: true
+ignorePatterns:
+  # NOTE: Sites with captcha protection below
+  - pattern: "^https://.*drupal.org/.*"
