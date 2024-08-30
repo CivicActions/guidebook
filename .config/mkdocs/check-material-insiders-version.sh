@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Source an env file if it exists.
+if [ -f .env ]; then
+  source .env
+fi
+
+# Check environment.
+if [ -z "${GH_TOKEN:-}" ]; then
+  echo "Github token for material-insiders access needed. Ask in #docs channel for access." 1>&2
+  exit 1
+fi
+
+material_insiders_repo="https://github.com/squidfunk/mkdocs-material-insiders.git"
+
+# Get latest tag from material-insiders git repo.
+# Got solution from https://stackoverflow.com/questions/29780641/how-to-clone-latest-tag-in-a-git-repo.
+latest_tag=$(git ls-remote --tags --exit-code --refs "$material_insiders_repo" \
+  | sed -E 's/^[[:xdigit:]]+[[:space:]]+refs\/tags\/(.+)/\1/g' \
+  | sort --version-sort | tail -n1)
+
+# Get latest installed tag from poetry.
+installed_tag=$(poetry -C .config/mkdocs/ show mkdocs-material | awk '/version/ { print $3 }' | sed 's/+insiders./-insiders-/')
+
+# Compare tags
+if [ "$latest_tag" = "$installed_tag" ]; then
+  echo "Latest material-insiders version $latest_tag already installed."
+else
+  echo "Newer material-insiders version available: $latest_tag. Installing..."
+  poetry -C .config/mkdocs/ add git+$material_insiders_repo#"$latest_tag"
+fi

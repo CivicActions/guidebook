@@ -7,8 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.0.6-insiders-4.28.1"}
-mkdocs-git-revision-date-localized-plugin = "^1.2.6"
+mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.5.28-insiders-4.53.11"}
+mkdocs-git-revision-date-localized-plugin = "^1.2.7"
+pymdown-extensions = "^10.9"
 
 
 [build-system]
