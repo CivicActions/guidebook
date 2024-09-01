@@ -22,11 +22,20 @@ fi
 # Register gh as a git credential helper, so we can use GH_TOKEN securely.
 gh auth setup-git
 
+# Symlink all files to a .docs directory so we can build outside the root.
+# We leave the symlink in place, in case the user needs to run mkdocs again locally.
+if [ ! -e .docs ]; then
+  ln -s . .docs
+fi
+
+# Install packages.
+poetry -C .config/mkdocs/ --quiet install
+
 material_insiders_repo="https://github.com/squidfunk/mkdocs-material-insiders.git"
 
 # Get latest tag from material-insiders git repo.
 # Got solution from https://stackoverflow.com/questions/29780641/how-to-clone-latest-tag-in-a-git-repo.
-latest_tag=$(git ls-remote --tags --exit-code --refs "$material_insiders_repo" \
+latest_tag=$(git ls-remote --verbose --tags --exit-code --refs "$material_insiders_repo" \
   | sed -E 's/^[[:xdigit:]]+[[:space:]]+refs\/tags\/(.+)/\1/g' \
   | sort --version-sort | tail -n1)
 
