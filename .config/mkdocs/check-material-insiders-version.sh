@@ -39,13 +39,19 @@ latest_tag=$(git ls-remote --tags --exit-code --refs "${material_insiders_repo}"
   | sed -E 's/^[[:xdigit:]]+[[:space:]]+refs\/tags\/(.+)/\1/g' \
   | sort --version-sort | tail -n1)
 
+echo $latest_tag
+
 # Get latest installed tag from poetry.
 installed_tag=$(poetry -C .config/mkdocs/ show mkdocs-material | awk '/version/ { print $3 }' | sed 's/+insiders./-insiders-/')
 
+echo $installed_tag
+
 # Compare tags
-if [ "$latest_tag" = "$installed_tag" ]; then
-  echo "Latest material-insiders version ${latest_tag} already installed."
-else
-  echo "Newer material-insiders version available: ${latest_tag}. Installing..."
-  poetry -C .config/mkdocs/ add git+${material_insiders_repo}#"${latest_tag}"
+if [ ! -z "$latest_tag" ]; then
+  if [ "$latest_tag" = "$installed_tag" ]; then
+    echo "Latest material-insiders version ${latest_tag} already installed."
+  else
+    echo "Newer material-insiders version available: ${latest_tag}. Installing..."
+    poetry -C .config/mkdocs/ add git+${material_insiders_repo}#"${latest_tag}"
+  fi
 fi
