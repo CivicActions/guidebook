@@ -10,6 +10,17 @@ if [ -z "${GH_TOKEN:-}" ]; then
   echo "Github token for material-insiders access needed. Ask in #docs channel for access." 1>&2
   exit 1
 fi
+if ! gh --version &> /dev/null; then
+  echo "Github CLI is required: https://cli.github.com/" 1>&2
+  exit 2
+fi
+if ! poetry --version &> /dev/null; then
+  echo "Poetry is required: https://python-poetry.org/" 1>&2
+  exit 3
+fi
+
+# Register gh as a git credential helper, so we can use GH_TOKEN securely.
+gh auth setup-git
 
 material_insiders_repo="https://github.com/squidfunk/mkdocs-material-insiders.git"
 
