@@ -22,12 +22,6 @@ fi
 # Register gh as a git credential helper, so we can use GH_TOKEN securely.
 gh auth setup-git
 
-# Symlink all files to a .docs directory so we can build outside the root.
-# We leave the symlink in place, in case the user needs to run mkdocs again locally.
-if [ ! -e .docs ]; then
-  ln -s . .docs
-fi
-
 # Install packages.
 poetry -C .config/mkdocs/ --quiet install
 
@@ -39,7 +33,7 @@ latest_tag=$(git ls-remote --tags --exit-code --refs "${material_insiders_repo}"
   | sed -E 's/^[[:xdigit:]]+[[:space:]]+refs\/tags\/(.+)/\1/g' \
   | sort --version-sort | tail -n1)
 
-echo $latest_tag
+#echo $latest_tag
 
 # Get latest installed tag from poetry.
 installed_tag=$(poetry -C .config/mkdocs/ show mkdocs-material | awk '/version/ { print $3 }' | sed 's/+insiders./-insiders-/')
