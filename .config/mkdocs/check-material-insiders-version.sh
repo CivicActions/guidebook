@@ -44,7 +44,7 @@ echo $latest_tag
 # Get latest installed tag from poetry.
 installed_tag=$(poetry -C .config/mkdocs/ show mkdocs-material | awk '/version/ { print $3 }' | sed 's/+insiders./-insiders-/')
 
-echo $installed_tag
+#echo $installed_tag
 
 # Compare tags
 if [ ! -z "$latest_tag" ]; then
@@ -54,4 +54,7 @@ if [ ! -z "$latest_tag" ]; then
     echo "Newer material-insiders version available: ${latest_tag}. Installing..."
     poetry -C .config/mkdocs/ add git+${material_insiders_repo}#"${latest_tag}"
   fi
+else
+  echo "Check material insiders version script failed." 1>&2
+  exit 4
 fi
