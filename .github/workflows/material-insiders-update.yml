@@ -32,3 +32,4 @@ jobs:
           title: Update material insiders version to latest version
           body: Verify the new version works and there are no side effects (theme color reverting). Confirm all checks are passing.
           branch: update-material-insiders
+          branch-suffix: timestamp
