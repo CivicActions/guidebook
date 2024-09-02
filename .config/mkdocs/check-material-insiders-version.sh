@@ -35,7 +35,7 @@ material_insiders_repo="https://github.com/squidfunk/mkdocs-material-insiders.gi
 
 # Get latest tag from material-insiders git repo.
 # Got solution from https://stackoverflow.com/questions/29780641/how-to-clone-latest-tag-in-a-git-repo.
-latest_tag=$(git ls-remote --tags --exit-code --refs "https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git" \
+latest_tag=$(git ls-remote --tags --exit-code --refs "${material_insiders_repo}" \
   | sed -E 's/^[[:xdigit:]]+[[:space:]]+refs\/tags\/(.+)/\1/g' \
   | sort --version-sort | tail -n1)
 
