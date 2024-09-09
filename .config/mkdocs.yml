@@ -177,7 +177,7 @@ edit_uri: edit/master/
 theme:
   name: material
   custom_dir: theme_overrides
-  language: custom
+  language: en
   features:
     - navigation.tabs
     - navigation.indexes
