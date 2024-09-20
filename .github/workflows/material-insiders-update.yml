@@ -1,0 +1,35 @@
+name: Checking material insiders update
+
+on:
+  # Automatic check monthly
+  schedule:
+    - cron: "0 10 1 * *"
+  # Manually triggered using GitHub's UI
+  workflow_dispatch:
+
+jobs:
+  mkdocs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: snok/install-poetry@v1
+        with:
+          version: 1.3.2
+      - name: Run material insiders script to check version.
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: ./.config/mkdocs/check-material-insiders-version.sh
+      - name: Create pull request if there is a new version
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: Update material insiders version to latest version
+          title: Update material insiders version to latest version
+          body: Verify the new version works and there are no side effects (theme color reverting). Confirm all checks are passing.
+          branch: update-material-insiders
+          branch-suffix: timestamp
