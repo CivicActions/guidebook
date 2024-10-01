@@ -378,7 +378,7 @@ dev = ["click", "codecov", "mkdocs-gen-files", "mkdocs-git-authors-plugin", "mkd
 
 [[package]]
 name = "mkdocs-material"
-version = "9.5.34+insiders.4.53.12"
+version = "9.5.39+insiders.4.53.14"
 description = "Documentation that simply works"
 optional = false
 python-versions = ">=3.8"
@@ -407,8 +407,8 @@ recommended = ["mkdocs-minify-plugin (>=0.7,<1.0)", "mkdocs-redirects (>=1.2,<2.
 [package.source]
 type = "git"
 url = "https://github.com/squidfunk/mkdocs-material-insiders.git"
-reference = "9.5.34-insiders-4.53.12"
-resolved_reference = "42c19dc205afd95d50fe712887506b9fd8b702db"
+reference = "9.5.39-insiders-4.53.14"
+resolved_reference = "25369a5f44f22bd492a4be64b408e41a9257fea2"
 
 [[package]]
 name = "mkdocs-material-extensions"
@@ -799,4 +799,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "4a6bc7e3cd0b823a4fecbadbcad73dc72e44a804b400d6fb97257e847b1400e8"
+content-hash = "21ed757d3047f0ec3cf0a28c807f9ea05784e738e4e34b18b270e2420becc290"
