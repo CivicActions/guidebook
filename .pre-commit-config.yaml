@@ -43,6 +43,7 @@ repos:
     rev: v1.1.5
     hooks:
       - id: search-and-replace
+        language_version: default
         types: [markdown]
         args:
           - "--config=.config/pre-commit-search-and-replace.yaml"
