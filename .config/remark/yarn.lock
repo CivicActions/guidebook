@@ -2695,17 +2695,10 @@ remark-lint-no-html@^4.0.0:
     unified-lint-rule "^3.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-inline-padding@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-inline-padding/-/remark-lint-no-inline-padding-4.1.2.tgz#f1e8bd21694f9f773078ff977934edea8ffd842d"
-  integrity sha512-dGyhWsiqCZS3Slob0EVBUfsFBbdpMIBCvb56LlCgaHbnLsnNYx8PpF/wA5CgsN8BXIbXfRpyPB5cIJwIq5taYg==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-util-to-string "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-visit "^4.0.0"
+remark-lint-no-inline-padding@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-inline-padding/-/remark-lint-no-inline-padding-5.0.0.tgz#3039596eaf208728c4cca575754270309f356069"
+  integrity sha512-d88MYpPv4SAWUBmB6QS6gU4vgg5y66IesjijwQT0yg4HwENcO5IbMLs3WDqo6w53DOQPqw+MmDRszP9XaEePIw==
 
 remark-lint-no-literal-urls@^3.1.2:
   version "3.1.2"
