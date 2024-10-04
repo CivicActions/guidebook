@@ -118,7 +118,9 @@ If a system is believed to be compromised, either through theft, loss, remote ac
 
 Strong passwords provide the basis for secure authentication to many systems and services.
 
-For a password to be compliant with the CivicActions "strong password" policy, it must be 12 characters or longer and not based on a dictionary word, your name or the application you are logging in to. If under 16 characters (e.g, 12-15 characters) it _must_ be paired with a second factor (see [Multi-Factor Authentication](../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa). A longer _passphrase_ consisting of several words in an order that make sense only to you can work well as a _memorized secret_.
+For a password to be compliant with the CivicActions "strong password" policy, it must be 16 characters or longer and not based on a dictionary word, your name or the application you are logging in to. A longer _passphrase_ consisting of several words in an order that make sense only to you can work well as a _memorized secret_.
+
+We strongly recommend employing [Multi-Factor Authentication](../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa) wherever possible, particularly with any account that has elevated privileges or access to high value assets (note: this can include your personal bank account, etc.)
 
 All passwords at CivicActions must follow this policy, including passwords used for:
 
