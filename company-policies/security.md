@@ -1,6 +1,6 @@
 ---
 title: Security Policy
-version: 1.1.5
+version: 1.1.6
 ---
 
 # CivicActions Information Security Policy
@@ -26,12 +26,14 @@ CivicActions does most things out in the open, and we strive to reduce the amoun
 
 You further agree that you will promptly notify your manager if you know of unauthorized use of Confidential Information.
 
-"Confidential Information" means information or material which is proprietary to CivicActions and not generally known outside CivicActions, including information or material that you create, learn, or obtain, as well as information we receive in confidence from third parties. For example, this may include without limitation any information disclosed that is subject to applicable non-disclosure protections of CivicActions privacy policies, non-public product plans of CivicActions or 3rd parties, technical and business information, personnel information like salaries, or other sensitive information. Material need not be marked confidential for it to be considered Confidential Information.
+"Confidential Information" means information or material which is proprietary to CivicActions and not generally known outside CivicActions, including information or material that you create, learn, or obtain, as well as information we receive in confidence from our clients and third parties. For example, this may include without limitation any information disclosed that is subject to applicable non-disclosure protections of CivicActions privacy policies, non-public product plans of CivicActions or third parties, technical and business information, personnel information like salaries, or other sensitive information. Material need not be marked confidential for it to be considered Confidential Information.
+
+Controlled Unclassified Information (CUI) and Federal Contract Information (FCI) are confidential by default and may require special handling. We are developing our "CUI Policy" but in the mean time, ask your manager for document policies and disposition rules.
 
 Personally Identifiable Information (PII) should be considered confidential by default, but that may depend upon the project and data usage; PII generally falls into one of two classes:
 
 1.  Sensitive Personally Identifiable Information (SPII) - for example: Social Security or Passport numbers, financial account numbers, biometric identifiers, passwords, and all records and files directly relating to a person that are not publicly available.
-2.  "Rolodex" Personally Identifiable Information (PII) - for example: publicly available personal data such as name, email, home address and phone number.
+2.  "Rolodex" Personally Identifiable Information (PII) - for example: publicly available personal data such as name, work email, work address and work phone number.
 
 The exact definition of PII varies from jurisdiction to jurisdiction and depends on the project, so consult with your project manager or the security team if you have questions.
 
@@ -42,7 +44,7 @@ From the point of view of a typical client project, this means that:
 -   Database exports should always be treated as confidential, since these may contain personal information that is not publicly available.
 -   The uploaded files directory may need to be treated as confidential if the client site has any access-controlled content.
 -   The site source code can normally be treated as non-confidential, unless this includes proprietary code from the client or 3rd parties.
--   The contents of the project management site (e.g. Trac, JIRA, Trello, etc.), e-mail lists and related communication tools, will normally contain a mixture of confidential and non-confidential information:
+-   The contents of the project management site (e.g. Jira, Mural, etc.), e-mail lists and related communication tools, will normally contain a mixture of confidential and non-confidential information:
     -   Information authored by clients or 3rd parties should generally be treated as confidential, unless it is clearly public-facing, and then its use other than as set forth in the engagement agreement may still require client permission. If in doubt, ask your supervisor or the legal team.
     -   Project management material can be sourced for distribution or repurposing, but should be first reviewed and redacted, if needed, to ensure no confidential information remains.
 
@@ -71,19 +73,18 @@ CivicActions IT services provide a number of general user accounts. This include
 -   Web-based collaboration accounts such as
     -   Our home site
     -   Intranet (internal team collaboration)
-    -   Project management site (Trac, JIRA, Balsamiq, GitLab, ...)
-    -   3rd party collaboration tools (such as Slack, Trello, Zoom, ...)
-    -   IP telecommunications/conferencing accounts
+    -   Project management site (Jira, GitLab, ...)
+    -   Third party collaboration tools (such as Slack, Mural, Zoom, ...)
 
 Usage of CivicActions user accounts should be as follows:
 
 -   Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CTO.
 -   Use in any way harmful to CivicActions or our clients is forbidden.
--   Storing confidential personal information from client website users (for example CSV exports from CiviCRM) on internal collaboration systems should be avoided wherever possible, especially on 3rd party services such as Google Docs.
--   Confidential information (other than personal information) should only be stored in areas restricted by access control, such as the project management area.
--   Binary software executable files should not be distributed via internal collaboration systems, as we do not have anti-virus scanning in place. Uploading human readable source code and scripts (php, bash, perl etc.) is acceptable (but nevertheless should be considered a risk).
+-   Automatic forwarding of CivicActions email to an outside account (e.g. Slack or a personal gmail.com account) is prohibited.
+-   Confidential information (other than personal information) should only be stored in areas restricted by access control, such as within a client's VPN or sometimes on a CivicActions Google Share Drive.
+-   Binary software or executable files should not be distributed internally as we do not have anti-virus scanning in place.
 
-In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as SVN/Git and MySQL database access. Usage of these accounts is covered in the [Engineering Security and Compliance](../practice-areas/engineering/security-compliance.md) guidelines.
+In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as Git and MySQL database access. Usage of these accounts is covered in the [Engineering Security and Compliance](../practice-areas/engineering/security-compliance.md) guidelines.
 
 ## Access Policy
 
@@ -117,7 +118,9 @@ If a system is believed to be compromised, either through theft, loss, remote ac
 
 Strong passwords provide the basis for secure authentication to many systems and services.
 
-For a password to be compliant with the CivicActions "strong password" policy, it must be 12 characters or longer and not based on a dictionary word, your name or the application you are logging in to. If under 16 characters (e.g, 12-15 characters) it _must_ be paired with a second factor (see [Multi-Factor Authentication](../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa). A longer _passphrase_ consisting of several words in an order that make sense only to you can work well as a _memorized secret_.
+For a password to be compliant with the CivicActions "strong password" policy, it must be 16 characters or longer and not based on a dictionary word, your name or the application you are logging in to. A longer _passphrase_ consisting of several words in an order that make sense only to you can work well as a _memorized secret_.
+
+We strongly recommend employing [Multi-Factor Authentication](../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa) wherever possible, particularly with any account that has elevated privileges or access to high value assets (note: this can include your personal bank account, etc.)
 
 All passwords at CivicActions must follow this policy, including passwords used for:
 
