@@ -6,6 +6,8 @@ title: Common practices and tools
 
 As part of our [CivicActions culture](../about-civicactions/culture.md), we share a set of practices and tools to be effective communicators, team members [working in Agile](agile/README.md), and managers of client work and company administration.
 
+As good stewards of OpenSource we practice a Contribute First approach.
+
 Underpinning our chosen technology stack is a [required security awareness process](security/README.md) that gets everyone set up to work online safely and avoid the scourge of [phishing](security/README.md#phishing-and-social-engineering).
 
 ## Get support
