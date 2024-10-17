@@ -27,6 +27,8 @@ jobs:
         run: ./.config/mkdocs/check-material-insiders-version.sh
       - name: Create pull request if there is a new version
         uses: peter-evans/create-pull-request@v7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           commit-message: Update material insiders version to latest version
           title: Update material insiders version to latest version
