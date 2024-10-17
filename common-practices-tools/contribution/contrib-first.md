@@ -10,6 +10,26 @@ Whenever we are building something that could be of use to more than one project
 -   **Avoiding the gift that never happens** - Clients are not typically supportive of taking working local software that was already built for them and in use by them and then paying to move or refactor that software to be open source. The benefit is too small for the cost. By building it as contributed code first, there is no extra cost.
 -   **Development happens in the open** - The issue are public. The commits are public. Everyone can contribute.
 
+## Contrib first patches
+
+In the case of changes needed to existing modules or Drupal core:
+
+1. We contribute patches to existing issues or create new issues.
+2. We use the compose-patches to apply local copies of the contributed patches.
+
+## Contrib first modules
+
+When a new module is needed, the process looks like this:
+
+1. Gather requirements and identify MVP vs nice-to-haves
+2. Search for existing modules that might solve the problem. (It might be easier to stretch an existing module than build a new one)
+3. Choose a meaningful search engine friendly module name. (crowd sourcing name suggestions is recommended)
+4. Create the Drupal project on Drupal.org
+5. Populate the project page with a descrion of what is coming. List supporters as CivicActions and the client. If the client does not have a drupal.org page, encourage them to create one.
+6. Populate the issue queue on the Drupal project with "Feature requests". Mark any that are part of the MVP as "major". Create issues for any immprovement ideas that pop up. They don't all have to be acted on, but they help shape the road map for where you want the module to go.
+7. Begin with alpha releases. Ideally when all your MVP/major issues are closed, you are ready for the official release.
+8. After the official release, opt in to security coverage.
+
 ## Examples of modules CivicActions built as contrib first
 
 -   [Allow Only One](https://www.drupal.org/project/allow_only_one)
