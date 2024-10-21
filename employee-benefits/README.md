@@ -169,7 +169,7 @@ Welcoming a new child is an amazing time for a family and we want to support emp
 
 ## Bereavement Leave
 
-CivicActions is committed to supporting team members during difficult times of personal loss. Eligible team members are entitled to up to 14 days of paid bereavement leave per occurrence. Bereavement leave can be used for the death of an immediate family member, defined as a spouse or domestic partner, child, stepchild, parent, stepparent, sibling, grandparent, or grandchild. Additionally, team members may use up to 7 days of paid bereavement leave for the death of a close friend or significant other as determined by the PeopleOps department. For more details, view our [Bereavement Policy](https://docs.google.com/document/d/1qhWwqjestb0BBliwITOHUhGyPqt0T1J9NRAverkpJek/edit?usp=sharing).
+CivicActions is committed to supporting team members during difficult times of personal loss. Eligible team members are entitled to up to 14 calendar days of paid bereavement leave per occurrence. Bereavement leave can be used for the death of an immediate family member, defined as a spouse or domestic partner, child, stepchild, parent, stepparent, sibling, grandparent, or grandchild. Additionally, team members may use up to 7 calendar days of paid bereavement leave for the death of a close friend or significant other as determined by the PeopleOps department. For more details, view our [Bereavement Policy](https://docs.google.com/document/d/1qhWwqjestb0BBliwITOHUhGyPqt0T1J9NRAverkpJek/edit?usp=sharing).
 
 ## Medical insurance
 
