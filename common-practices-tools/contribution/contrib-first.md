@@ -15,7 +15,7 @@ Whenever we are building something that could be of use to more than one project
 In the case of changes needed to existing modules or Drupal core:
 
 1. We contribute patches to existing issues or create new issues.
-2. We use the compose-patches to apply local copies of the contributed patches.
+2. We use the [composer-patches](https://github.com/cweagans/composer-patches) to apply local copies of the contributed patches.
 
 ## Contrib first modules
 
