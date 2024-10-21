@@ -25,7 +25,7 @@ When a new module is needed, the process looks like this:
 2. Search for existing modules that might solve the problem. (It might be easier to stretch an existing module than build a new one)
 3. Choose a meaningful search engine friendly module name. (crowd sourcing name suggestions is recommended)
 4. Create the Drupal project on Drupal.org
-5. Populate the project page with a descrion of what is coming. List supporters as CivicActions and the client. If the client does not have a drupal.org page, encourage them to create one.
+5. Populate the project page with a descrion of what is coming. List supporters as CivicActions and the client [directions](../../practice-areas/engineering/drupal/README.md#contribution-to-drupalorg-modules-and-themes). If the client does not have a drupal.org page, encourage them to create one.
 6. Populate the issue queue on the Drupal project with "Feature requests". Mark any that are part of the MVP as "major". Create issues for any immprovement ideas that pop up. They don't all have to be acted on, but they help shape the road map for where you want the module to go.
 7. Begin with alpha releases. Ideally when all your MVP/major issues are closed, you are ready for the official release.
 8. After the official release, opt in to security coverage.
