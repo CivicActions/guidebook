@@ -34,7 +34,7 @@ In summary:
 -   When it's necessary to build anew, focus first on doing so to a high, generic, contributed standard.
 -   Try to produce custom (site-specific closed source) modules only when the needs are limited in scope and truly specific to the site.
 -   Try to save the theme layer for what it's intended for--final presentation, look and feel.
--   When we work on a FOSS contribution for a client(s), all of the work should be billable to that client. When doing maintenance on a contribution for no particular client, that work should be reccorded as community participation (PRODEV_COMPART ->Community Participation). You will need to ask to be added to your options in Slack #unanet.
+-   When we work on a FOSS contribution for a client(s), all of the work should be billable to that client. When doing maintenance on a contribution for no particular client, that work should be reccorded as community participation (PRODEV_COMPART -> Community Participation). You will need to ask to be added to your options in Slack #unanet.
 
 ## Patching vs. hacking vs. forking
 
