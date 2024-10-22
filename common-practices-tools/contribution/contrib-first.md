@@ -1,6 +1,6 @@
 # Contrib First
 
-Whenever we are building something that could be of use by more than one project or client, we build it as contributed work first, if our contract and security concerns allow for it.  Contrib First is an approach we take with both patches to FOSS software and new contributions.
+Whenever we are building something that could be of use by more than one project or client, we build it as contributed work first, if our contract and security concerns allow for it. Contrib First is an approach we take with both patches to FOSS software and new contributions.
 
 ## Rationale for contrib first
 
@@ -9,7 +9,7 @@ Whenever we are building something that could be of use by more than one project
 -   **Security** - contributing our work to an open source project like Drupal means it may receive security coverage by the Drupal security team and the public.
 -   **Avoiding the gift that never happens** - Clients are not typically supportive of taking working local software that was already built for them and in use by them, and then paying to move or refactor that software to become open source. The benefit is too small for the cost. By building it as contributed code first, there is no extra cost.
 -   **Development happens in the open** - The issues are public. The commits are public. Everyone can contribute improvements.
--   **Reliability** - A solution built for contribution is often better designed, and better documented than a local solution meant to "just get it done".  By putting our company and personal names on it publicly we commit to a quality product.  Releasing a FOSS solution also increases the number of testers and edge cases that can surface and reduce bugs in the code.
+-   **Reliability** - A solution built for contribution is often better designed, and better documented than a local solution meant to "just get it done". By putting our company and personal names on it publicly we commit to a quality product. Releasing a FOSS solution also increases the number of testers and edge cases that can surface and reduce bugs in the code.
 -   **Scalability** - Contributed FOSS is more scalable than one-off solutions and can grow with the power of the FOSS community.
 -   **Visibility** - When we release FOSS, CivicAction, our developers and our clients get positive representation as technology leaders and contributors.
 
