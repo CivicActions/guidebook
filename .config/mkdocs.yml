@@ -122,6 +122,7 @@ nav:
               - practice-areas/engineering/drupal/drupal-for-drupal-engineers.md
               - practice-areas/engineering/drupal/drupal-glossary.md
               - practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+              - practice-areas/engineering/drupal/drupal-contrib-first-module-development.md
               - practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - practice-areas/engineering/git.md
           - practice-areas/engineering/security-compliance.md
