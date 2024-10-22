@@ -11,7 +11,7 @@ Whenever we are building something that could be of use by more than one project
 -   **Development happens in the open** - The issues are public. The commits are public. Everyone can contribute improvements.
 -   **Reliability** - A solution built for contribution is often better designed, and better documented than a local solution meant to "just get it done".  By putting our company and personal names on it publicly we commit to a quality product.  Releasing a FOSS solution also increases the number of testers and edge cases that can surface and reduce bugs in the code.
 -   **Scalability** - Contributed FOSS is more scalable than one-off solutions and can grow with the power of the FOSS community.
--   **Visibility** - When we release FOSS, our developers, CivicActions and our clients get positive representation as being technology leaders and contributors.
+-   **Visibility** - When we release FOSS, CivicAction, our developers and our clients get positive representation as technology leaders and contributors.
 
 ## Examples of modules CivicActions built as Contrib First
 
