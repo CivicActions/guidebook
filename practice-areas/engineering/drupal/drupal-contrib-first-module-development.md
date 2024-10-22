@@ -2,7 +2,7 @@
 title: Drupal Contrib First module development
 ---
 
-## Drupal Contrib First module development
+# Drupal Contrib First module development
 
 When a new module is needed we try to follow [Contrib First](../../../common-practices-tools/contribution/contrib-first.md), the process looks like this:
 
