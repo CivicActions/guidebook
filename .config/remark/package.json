@@ -9,7 +9,7 @@
     "remark-lint": "^9.1.2",
     "remark-lint-blockquote-indentation": "^3.1.2",
     "remark-lint-checkbox-character-style": "^4.1.2",
-    "remark-lint-checkbox-content-indent": "^4.1.2",
+    "remark-lint-checkbox-content-indent": "^5.0.0",
     "remark-lint-code-block-style": "^3.1.2",
     "remark-lint-definition-case": "^4.0.0",
     "remark-lint-definition-spacing": "^4.0.0",
