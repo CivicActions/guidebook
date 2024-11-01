@@ -1986,10 +1986,10 @@ pluralize@^8.0.0:
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-8.0.0.tgz#1a6fa16a38d12a1901e0320fa017051c539ce3b1"
   integrity sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==
 
-prettier@^3.2.5:
-  version "3.2.5"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.2.5.tgz#e52bc3090586e824964a8813b09aba6233b28368"
-  integrity sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==
+prettier@^3.3.3:
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.3.3.tgz#30c54fe0be0d8d12e6ae61dbb10109ea00d53105"
+  integrity sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==
 
 proc-log@^3.0.0:
   version "3.0.0"
@@ -2131,17 +2131,17 @@ remark-lint-checkbox-character-style@^4.1.2:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-checkbox-content-indent@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-4.1.2.tgz#2214a50373d3e655ad88faf13ce4447979da90ba"
-  integrity sha512-8uaHAm4bSqB7XpnecLRObe00Lj9eoHiecV+44CfJeWyoo50cTPR/hIMfsMtDxsNt4LZP+6oCV9z+vACJqDv8Hg==
+remark-lint-checkbox-content-indent@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-5.0.0.tgz#6bb594d501a12895ff945cd4b6ff1548621eb748"
+  integrity sha512-7L25a7TEfdogFSh4HDOnB+GTTTEiXJDMlceUPft9bzIjElI8Hm2+a2D8jUQn4ahj+j/3LmdZW4GjAeyfdPuqTA==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-    vfile-location "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    mdast-util-phrasing "^4.0.0"
+    pluralize "^8.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-position "^5.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-code-block-style@^3.1.2:
   version "3.1.2"
@@ -2493,20 +2493,6 @@ remark-lint-no-blockquote-without-marker@^6.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-location "^5.0.0"
 
-remark-lint-no-consecutive-blank-lines@^4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-4.1.3.tgz#929979b682c173472e23c94150e7c096cac83677"
-  integrity sha512-yU3jH6UMHvaxX3DPBen+7CoPiCcqJ4BeteyOKeKX+tKWCWKILpiz+TVToRbeLnWO4IvFNnSRFMSXmcWSDdbY4w==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    "@types/unist" "^2.0.0"
-    pluralize "^8.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
 remark-lint-no-consecutive-blank-lines@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-5.0.0.tgz#bbfbdcdc2e228b6379b7268ac489a56b6e07d1a0"
@@ -2595,15 +2581,6 @@ remark-lint-no-file-name-consecutive-dashes@^3.0.0:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
 
-remark-lint-no-file-name-irregular-characters@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-irregular-characters/-/remark-lint-no-file-name-irregular-characters-2.1.2.tgz#8dbca858c37e46f08cf5051b5a55945381bf4aab"
-  integrity sha512-2tcqzLm39Jc4THNP2yvJruOz2HtV4yh+eePiySKmhfZk/6ifMyOF/wlKHKcswczSGE4InNTfxJnc/AoxOJEdkw==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-
 remark-lint-no-file-name-irregular-characters@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-irregular-characters/-/remark-lint-no-file-name-irregular-characters-3.0.0.tgz#8460f6924ab30200c383f8b1fb9077d3785607bd"
@@ -2640,18 +2617,17 @@ remark-lint-no-heading-content-indent@^5.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-heading-indent@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-4.1.2.tgz#77a47282df3db7158af8653af285f5f9c7c7be3f"
-  integrity sha512-XFoSebfsYV6EFYRCYkCzSw6xxgltN5l3aPH+UfCk/0geMnl3DrCQjbQt9qhxQzBSBa4gA91CGs2DRI5Xxbwzig==
+remark-lint-no-heading-indent@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-5.0.0.tgz#2169c747e92f45937f664d7c6160822b0d197812"
+  integrity sha512-JWGIWhaEzH00HywI0DHex92tJ5Mw7l11shQ6/MGhRjYsHMRWcwWcVeOuktVMe/BiQbg0hRoE4+g0z2VgUD6Cqw==
   dependencies:
-    "@types/mdast" "^3.0.0"
+    "@types/mdast" "^4.0.0"
+    mdast-util-phrasing "^4.0.0"
     pluralize "^8.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-position "^5.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-no-heading-punctuation@^4.0.0:
   version "4.0.0"
