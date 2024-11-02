@@ -31,7 +31,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | DevSecOps                                      | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | Diversity, Equity, Inclusion and Accessibility | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
 | [Drupal](engineering/drupal/README.md)         | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
-| Frontend                                       | Eric Huffman, Iris Ibekwe                                                       | #engineering-frontend  | Monthly                             |
+| Frontend                                       | Eric Huffman, Iris Ibekwe                                                                    | #engineering-frontend  | Monthly                              |
 | Product Management                             | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
 | Project Management                             | Matt Powell                                                                                  | #projectmanagement     | Biweekly                             |
 | Quality Assurance                              | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
