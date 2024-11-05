@@ -73,6 +73,7 @@ nav:
           - common-practices-tools/agile/sprint-retrospectives.md
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
+      - common-practices-tools/contribution/contrib-first.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Security awareness and tools:
           - common-practices-tools/security/README.md
@@ -100,7 +101,6 @@ nav:
           - common-practices-tools/software-and-support/mural.md
           - common-practices-tools/software-and-support/sauce-labs.md
           - common-practices-tools/software-and-support/slack.md
-          - common-practices-tools/software-and-support/trello.md
           - common-practices-tools/software-and-support/zoom.md
       - common-practices-tools/telephone.md
   - Practice areas:
@@ -121,6 +121,7 @@ nav:
               - practice-areas/engineering/drupal/drupal-for-drupal-engineers.md
               - practice-areas/engineering/drupal/drupal-glossary.md
               - practice-areas/engineering/drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md
+              - practice-areas/engineering/drupal/drupal-contrib-first-module-development.md
               - practice-areas/engineering/drupal/drupal-developer-tips-for-getting-the-most-out-of-open-source.md
           - practice-areas/engineering/git.md
           - practice-areas/engineering/security-compliance.md
