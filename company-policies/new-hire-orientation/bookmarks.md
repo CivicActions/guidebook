@@ -25,7 +25,6 @@ Links to websites we use regularly.
 -   [Google Hangouts](https://hangouts.google.com/)
 -   [Slack](https://civicactions.slack.com)
 -   [Unanet](https://civicactions.unanet.biz)
--   [Trello](https://trello.com/)
 -   [Zoom](https://zoom.us/)
 -   [Invision](https://www.invisionapp.com/home)
 -   Atlassian's Jira for ticket management
