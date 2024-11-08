@@ -74,7 +74,6 @@ nav:
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
       - common-practices-tools/contribution/contrib-first.md
-      - common-practices-tools/difficult-conversation.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Security awareness and tools:
           - common-practices-tools/security/README.md
@@ -104,6 +103,7 @@ nav:
           - common-practices-tools/software-and-support/slack.md
           - common-practices-tools/software-and-support/zoom.md
       - common-practices-tools/telephone.md
+      - common-practices-tools/difficult-conversation.md
       - common-practices-tools/withholds.md
   - Practice areas:
       - practice-areas/README.md

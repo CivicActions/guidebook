@@ -14,7 +14,7 @@ To prepare for the conversation, start by asking for permission to have it and c
 
 Here's an example of what a request for permission might be:
 
-> "Hello <team member name>, may I discuss with you <summary of the event/incident>? I would like to discuss some concerns, clarify them, find out your perspective, and identify ways to improve. Could we do that on <time>?"
+> "Hello &lt;team member name&gt;, may I discuss with you &lt;summary of the event/incident&gt;? I would like to discuss some concerns, clarify them, find out your perspective, and identify ways to improve. Could we do that on &lt;time&gt;?"
 
 Before starting the conversation, be ready to listen. Reflect on what's affecting you, the assumptions you're making, your fears, and your motivations. Reflect on whether your opinions may be biased (refer to the recent training [Unconscious Bias and Interviewing Training](https://docs.google.com/presentation/d/1dYc_qRBmMJ4zlxzezwDJKn7Ia0Mkcwd2ADtJerZbCz4/edit#slide=id.gde6e9fa718_0_3)). Turn these reflections into questions that show curiosity and avoid making statements that may shut down discussion. Review the conversation tips below and incorporate those into your preparation.
 
