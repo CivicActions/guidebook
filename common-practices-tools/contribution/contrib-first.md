@@ -4,19 +4,20 @@ title: Contrib First
 
 # Contrib First
 
-Whenever we are building something that could be of use by more than one project or client, we build it as contributed work first, if our contract and security concerns allow for it. Contrib First is an approach we take with both patches to FOSS software and new contributions.
+It is a best practice to consider first if we are building something that could be of use by more than one project or client. We build it as contributed work first, if our contract and security concerns allow for it. We actively advocate for this approach with our clients as we understand most are not familiar with software development. Contrib First is an approach we take with both patches to Free and Open Source Software (FOSS) and new contributions.
 
 ## Rationale for contrib first
 
 -   **Fiscal responsibility** - Building it and contributing it means that other government agencies will never have to pay to build the same thing twice. This helps agencies comply with Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software [OMB Memorandum M-16-21](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
 -   **Reusability** - CivicActions other clients and the public at large can benefit from work that was already done.
--   **Security** - contributing our work to an open source project like Drupal means it may receive security coverage by the Drupal security team and the public. It is made more secure by getting more eyes on the code and more users surfacing any issues.
+-   **Security** - Contributing our work to an open source project like Drupal means it may receive security coverage by the Drupal security team and the public. It is made more secure by getting more eyes on the code and more users surfacing any issues.
 -   **Avoiding the gift that never happens** - Clients are not typically supportive of taking working local software that was already built for them and in use by them, and then paying to move or refactor that software to become open source. The benefit is too small for the cost. By building it as contributed code first, there is no extra cost.
 -   **Development happens in the open** - The issues are public. The commits are public. Everyone can contribute improvements.
 -   **Reliability** - A solution built for contribution is often better designed, and better documented than a local solution meant to "just get it done". By putting our company and personal names on it publicly we commit to a quality product. Releasing a FOSS solution also increases the number of testers and edge cases that can surface and reduce bugs in the code.
 -   **Scalability** - Contributed FOSS is more scalable than one-off solutions and can grow with the power of the FOSS community.
 -   **Visibility** - CivicActions, our developers and clients earn positive representation as technology leaders and contributors.
 -   **Economy of tests** - Unit, Kernel and Functional tests for the module are run on the pipeline on Drupal.org. This translates into savings because they not slowing down custom tests running on client servers (human time savings). They run when the module is updated, not every time custom tests run (server cost savings).
+-   **Digital Public Goods** - We know that contributing to the digital commons helps everyone. We know that we need to contribute to [digital publid goods](https://en.wikipedia.org/wiki/Digital_public_goods) and not simply use them. 
 
 ## Examples of FOSS CivicActions built as Contrib First
 
