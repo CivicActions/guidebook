@@ -17,7 +17,7 @@ It is a best practice to consider first if we are building something that could 
 -   **Scalability** - Contributed FOSS is more scalable than one-off solutions and can grow with the power of the FOSS community.
 -   **Visibility** - CivicActions, our developers and clients earn positive representation as technology leaders and contributors.
 -   **Economy of tests** - Unit, Kernel and Functional tests for the module are run on the pipeline on Drupal.org. This translates into savings because they not slowing down custom tests running on client servers (human time savings). They run when the module is updated, not every time custom tests run (server cost savings).
--   **Digital Public Goods** - We know that contributing to the digital commons helps everyone. We know that we need to contribute to [digital publid goods](https://en.wikipedia.org/wiki/Digital_public_goods) and not simply use them. 
+-   **Digital Public Goods** - We know that contributing to the digital commons helps everyone. We know that we need to contribute to [digital publid goods](https://en.wikipedia.org/wiki/Digital_public_goods) and not simply use them.
 
 ## Examples of FOSS CivicActions built as Contrib First
 
