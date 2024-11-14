@@ -4,7 +4,7 @@ title: Contrib First
 
 # Contrib First
 
-It is a best practice to consider first if we are building something that could be of use by more than one project or client. We build it as contributed work first, if our contract and security concerns allow for it. We actively advocate for this approach with our clients as we understand most are not familiar with software development. Contrib First is an approach we take with both patches to Free and Open Source Software (FOSS) and new contributions.
+It is a best practice to consider first if we are building something that could be of use by more than one project or client. We build it as contributed work first, if our contract and security concerns allow for it. We actively advocate for this approach with our clients. Contrib First is an approach we take with both patches to Free and Open Source Software (FOSS) and new contributions.
 
 ## Rationale for contrib first
 
