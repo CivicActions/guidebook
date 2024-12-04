@@ -15,7 +15,6 @@
       "remark-validate-links",
       "remark-comment-config",
       "remark-normalize-headings",
-      "remark-lint-no-auto-link-without-protocol",
       "remark-lint-no-duplicate-headings-in-section",
       "remark-lint-no-empty-url",
       "remark-lint-no-tabs",
