@@ -2494,18 +2494,10 @@ remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.0.1:
     unist-util-position "^5.0.0"
     unist-util-visit "^5.0.0"
 
-remark-lint-no-auto-link-without-protocol@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-auto-link-without-protocol/-/remark-lint-no-auto-link-without-protocol-3.1.2.tgz#ff0645409d83c657e83c94182d73e45d5482b6b5"
-  integrity sha512-mPIdFOGxdDhCMa2qIzjzjDzDoQeyK+/1BBgsseqThuBtoAoXR5l1TZfII2isNbBo6L8d+fMFdx1/3qALoDjtcA==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-util-to-string "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
+remark-lint-no-auto-link-without-protocol@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-auto-link-without-protocol/-/remark-lint-no-auto-link-without-protocol-4.0.0.tgz#b26d9f6abc4f13c9c17e267c908bc8449dc87c40"
+  integrity sha512-m9P2KgLxblySJ/0bI3MSsDYv3Bem7Ynz5P0OVAJlGvHra/YQyszyd6U/oUavTbel+8sPPymHtNAUTkiDLobn4A==
 
 remark-lint-no-blockquote-without-marker@^6.0.0:
   version "6.0.0"
