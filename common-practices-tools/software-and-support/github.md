@@ -23,7 +23,7 @@ Many CivicActions employees will already have a GitHub account. If you don't hav
 
 ## Setting up Git and a local repository
 
-Unless you are only ever going to be editing a few guidebook pages the "easy" way (per [CONTRIBUTING.md](../../about-this-guidebook/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://docs.github.com/en/get-started/quickstart/set-up-git> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
+Unless you are only ever going to be editing a few guidebook pages the "easy" way (per [CONTRIBUTING.md](../../about-this-guidebook/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://docs.github.com/en/get-started/quickstart/set-up-git> and <https://git-scm.com/book/en/v2>.
 
 If you'd prefer not to use command-line tools, you may want to use GitHub Desktop: <https://desktop.github.com/>.
 
