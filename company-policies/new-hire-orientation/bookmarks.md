@@ -10,6 +10,7 @@ Links to websites we use regularly.
 
 -   [Guidebook - GitHub](https://github.com/CivicActions/guidebook)
 -   [Website](https://civicactions.com/)
+-   [Dashboard](https://workspace.google.com/dashboard): to log in to all CivicActions company-wide tools, bookmark this dashboard or the use the Google Apps icon ![Google Apps icon](../../assets/images/gsuite.png) in the header of any CivicActions Google page.
 
 ## Social media
 
@@ -26,20 +27,17 @@ Links to websites we use regularly.
 -   [Slack](https://civicactions.slack.com)
 -   [Unanet](https://civicactions.unanet.biz)
 -   [Zoom](https://zoom.us/)
--   [Invision](https://www.invisionapp.com/home)
 -   Atlassian's Jira for ticket management
 
 ### UX (User Experience/Design)
 
 -   [Figma](https://www.figma.com): for wireframing and prototyping
 -   [Mural](https://app.mural.co/signin): for collaborating
--   [StoriesOnBoard](https://app.storiesonboard.com/login): for story mapping
 
 ### Engineering tools
 
 -   [Sauce Labs](https://accounts.saucelabs.com/): for cross browser/device testing
 -   [GitLab](https://git.civicactions.net/)
--   [Jenkins](http://ci.civicactions.net/)
 
 ### Infrastructure/monitoring tools
 

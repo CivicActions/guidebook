@@ -4,3 +4,9 @@ useGitIgnore: true
 ignorePatterns:
   # NOTE: Sites with captcha protection below
   - pattern: "^https://.*drupal.org/.*"
+  # NOTE: Sites with authentication below
+  - pattern: "^https://docs.google.com/.*"
+  - pattern: "^https://app.skills-base.com/.*"
+  - pattern: "^https://identity.trinet.com/.*"
+  # NOTE: Unreliable sites below
+  - pattern: "^https://linux.die.net/.*"
