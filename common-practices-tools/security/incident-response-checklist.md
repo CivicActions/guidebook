@@ -37,9 +37,9 @@ B. Respond accordingly:
 
     More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
 
-          - [Responder](incident-response-plan.md#responder)
-          - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
-          - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
+            - [Responder](incident-response-plan.md#responder)
+            - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
+            - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
 
     Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
