@@ -20,8 +20,8 @@ If you need to create your own fix update the issue accordingly.
 
 Your project's technical lead can show you where any patch files are stored in your project and explain how they are applied.
 
--   [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
--   [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
+- [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
+- [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
 
 ## Version control and the code review process
 
@@ -60,8 +60,8 @@ CivicActions adopted a standard practice of setting Objectives and Key Results i
 
 We are still in the process of optimizing our practices in this area. Drupal practice area OKRs have been developed that align with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
 
--   Trello board (read-only): [https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
--   Culture amp: [https://civicactions.cultureamp.com/performance/new_goals/department](https://civicactions.cultureamp.com/performance/new_goals/department)
+- Trello board (read-only): [https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
+- Culture amp: [https://civicactions.cultureamp.com/performance/new_goals/department](https://civicactions.cultureamp.com/performance/new_goals/department)
 
 ### Skillsbase: Complete a self-assessment of your Drupal skills
 
@@ -109,7 +109,7 @@ Checking the box and adding the organization and customer will ensure that any c
 
 ### External Resources
 
--   Drupalize.me
--   Acquia Academy
--   Buildamodule Youtube channel
--   D.o helpful links
+- Drupalize.me
+- Acquia Academy
+- Buildamodule Youtube channel
+- D.o helpful links

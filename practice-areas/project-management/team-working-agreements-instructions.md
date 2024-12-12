@@ -30,9 +30,9 @@ The Project Management Practice Area will prepare the Team Working Agreement (TW
 
 Using the [survey template](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit), conduct a devoted call with the team every quarter to review priority elections. Remind the team about participation in at least the following instances:
 
--   Prior to sending the survey and including the submission deadline
--   During the survey period
--   Prior to closing the survey period
+- Prior to sending the survey and including the submission deadline
+- During the survey period
+- Prior to closing the survey period
 
 Following the survey, all results are tallied and inserted into this document, including a link to the survey with full transparency on the values entered.
 
@@ -52,10 +52,10 @@ This section is started by the Technical Lead(s) with the objective of creating 
 
 This section is started by the Project Manager, perhaps noting two things:
 
--   How the team recognizes good work presently
--   Suggestions for other recognition methods
-    During TWA discussions, the team is able to adjust details as desired, including around iterative discussion mediums and timelines.
-    NOTE: One great function the TWA can play is to become a best practices repository for the team. If, for an example, a good suggestion surfaces in a Retro, the team can ask, "Should this be in our TWA?"
+- How the team recognizes good work presently
+- Suggestions for other recognition methods
+  During TWA discussions, the team is able to adjust details as desired, including around iterative discussion mediums and timelines.
+  NOTE: One great function the TWA can play is to become a best practices repository for the team. If, for an example, a good suggestion surfaces in a Retro, the team can ask, "Should this be in our TWA?"
 
 ## Billable Targets
 
@@ -71,11 +71,11 @@ The TWA requires quarterly review. The team can decide if there is a committee o
 
 The key sections to review are those marked with an asterisk. The ongoing objectives are as follows:
 
--   To confirm all team members are included
--   To verify that team members are accurate
--   To reflect any logistical changes
--   To represent the agreement of the team
--   To keep abreast on team recognition
--   To keep innovation in front of the team
+- To confirm all team members are included
+- To verify that team members are accurate
+- To reflect any logistical changes
+- To represent the agreement of the team
+- To keep abreast on team recognition
+- To keep innovation in front of the team
 
 The Project Manager is responsible to guide the document review dates, yet any team member is welcome to own the TWA.

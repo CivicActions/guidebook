@@ -6,12 +6,12 @@ title: Professional development
 
 CivicActions recognizes the importance of individual professional development for all team members. We value professional development for a number of reasons:
 
--   It's a win-win. Professional development grows the depth and value of the company offerings and enhances your career opportunities too.
--   Professional development provides career mobility for each person - increasing our feeling of safety, which leads to:
-    -   Having the courage to fail, which leads to experimentation, innovation, and learning
-    -   Having the courage to challenge the status quo, which leads to organizational learning
-    -   Having the courage to be vulnerable, which leads to authentic communications and connection
-    -   Open-minded thinking, which leads to increased tolerance of others ideas and personality styles
+- It's a win-win. Professional development grows the depth and value of the company offerings and enhances your career opportunities too.
+- Professional development provides career mobility for each person - increasing our feeling of safety, which leads to:
+    - Having the courage to fail, which leads to experimentation, innovation, and learning
+    - Having the courage to challenge the status quo, which leads to organizational learning
+    - Having the courage to be vulnerable, which leads to authentic communications and connection
+    - Open-minded thinking, which leads to increased tolerance of others ideas and personality styles
 
 <!-- prettier-ignore-start -->
 **CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses.** Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
@@ -40,12 +40,12 @@ Each full-time team member is provided an annual prodev budget of $1,200. If you
 
 This budget can be used a number of things:
 
--   Materials used to obtain professional certifications including classes, study guides, books
--   Testing fees and renewal costs associated with professional certifications
--   Books
--   Online courses
--   [Travel and accommodation for attending conferences](../company-policies/travel-time-tracking-and-expenses.md)
--   Other costs incurred from you becoming a smarter, more awesomer version of you
+- Materials used to obtain professional certifications including classes, study guides, books
+- Testing fees and renewal costs associated with professional certifications
+- Books
+- Online courses
+- [Travel and accommodation for attending conferences](../company-policies/travel-time-tracking-and-expenses.md)
+- Other costs incurred from you becoming a smarter, more awesomer version of you
 
 There are some limitations on the prodev budget usage. Hardware purchases are not covered under the prodev stipend. For spending amounts over $50, you'll need to get [approval in advance](../company-policies/expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way through Unanet, under the "CivicActions -> Professional development" project.
 

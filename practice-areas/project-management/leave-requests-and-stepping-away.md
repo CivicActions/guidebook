@@ -16,9 +16,9 @@ All Team members are asked to complete the following when requesting OOO leave:
 4. Confirm that your OOO is placed on any team calendar(s), plus the CivicActions OOO calendar
 5. Remind your teammates about your OOO:
 
--   At Sprint Planning
--   Prior to sprint turnover
--   At least three days in advance (and longer for extended time off)
+- At Sprint Planning
+- Prior to sprint turnover
+- At least three days in advance (and longer for extended time off)
 
 ## Unexpected Event Process
 

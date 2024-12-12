@@ -22,15 +22,15 @@ CivicActions adopted a standard practice of setting Objectives and Key Results i
 
 We are still in the process of optimizing our OKR practices. That said, Drupal practice area participants have developed practice area OKRs that merge with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and via:
 
--   [Trello board](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
--   [Culture amp](https://civicactions.cultureamp.com/performance/new_goals/department)
+- [Trello board](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
+- [Culture amp](https://civicactions.cultureamp.com/performance/new_goals/department)
 
 ## Skillsbase: complete a self-assessment of your Drupal skills
 
 Please complete a skills assessment as part of your onboarding to the Drupal practice area if you have not done so.
 
--   [Drupal Skills Categories](https://app.skills-base.com/skillcategories/view/id/16)
--   [Skills Assessment](https://app.skills-base.com/people/view#assessments)
+- [Drupal Skills Categories](https://app.skills-base.com/skillcategories/view/id/16)
+- [Skills Assessment](https://app.skills-base.com/people/view#assessments)
 
 ## Got a Drupal problem? We're all here to help!
 
@@ -48,10 +48,10 @@ We strongly encourage all CivicActioners to look for opportunities to give back 
 
 ### Update your drupal.org profile
 
--   Go to <https://drupal.org/>.
--   Log into your drupal.org account (create one if you do not have one).
--   Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
--   Align your role with CivicActions in the "[Contributor roles](https://www.drupal.org/community/contributor-guide/find-your-role)" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support".
+- Go to <https://drupal.org/>.
+- Log into your drupal.org account (create one if you do not have one).
+- Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
+- Align your role with CivicActions in the "[Contributor roles](https://www.drupal.org/community/contributor-guide/find-your-role)" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support".
 
 ### Contribution to drupal.org modules and themes
 

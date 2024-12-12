@@ -19,5 +19,5 @@ Not everyone is at the same level of familiarity or comfort with DEIA topics, an
 
 ### DEIA Committee responsibilities
 
--   Receive and understand DEIA survey brief, areas of focus, goals, initiatives and how we are progressing towards our goals.
--   Partner with the People Department and provide feedback and additional insights that could help us attain our DEIA goals and/or initiatives.
+- Receive and understand DEIA survey brief, areas of focus, goals, initiatives and how we are progressing towards our goals.
+- Partner with the People Department and provide feedback and additional insights that could help us attain our DEIA goals and/or initiatives.

@@ -8,11 +8,11 @@ Notes on securing your workspace (linux, Mac or Windows) for various platforms a
 
 ## High Level Security Guidelines
 
--   Screen lock
--   Strong password
--   Disk encryption
--   Separate browser profile for work
--   No smart devices that are always listening
+- Screen lock
+- Strong password
+- Disk encryption
+- Separate browser profile for work
+- No smart devices that are always listening
 
 ### Mac
 

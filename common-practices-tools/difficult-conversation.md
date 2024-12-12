@@ -30,27 +30,27 @@ Finally, aim to reach a shared understanding and plan of action and wrap up the 
 
 Use the following tips to help navigate the discussion:
 
--   **Present your side with curiosity by:**
-    -   Actively asking for the other team member's perspective.
-    -   Listening intently.
-    -   Providing feedback that indicates that you've heard what the other person has said.
--   **Create and maintain a safe space by:**
-    -   Apologizing when you are wrong,
-    -   Repeating back what you've heard to confirm accuracy,
-    -   Acknowledging when you have learned something new, and
-    -   Stating your appreciation when they share.
--   **Avoid sarcasm, judgment, comparisons, and blame by:**
-    -   Recognizing your own emotions, and
-    -   Sharing your perceptions of the emotions you are seeing from the team member.
--   **Learn about them by:**
-    -   Asking and learning about the team member's background and cultural differences.
--   **Consider their perspective by:**
-    -   Being aware that the team member may have experienced similar conversations in past workplaces that were upsetting or even traumatizing.
--   **Brainstorm solutions together by:**
-    -   Asking for ideas on how to improve or change the situation's impact.
--   **Keep an open mind by:**
-    -   Trying new ideas and trust that the team member will do the same.
-    -   Committing to take the time needed to follow through.
+- **Present your side with curiosity by:**
+    - Actively asking for the other team member's perspective.
+    - Listening intently.
+    - Providing feedback that indicates that you've heard what the other person has said.
+- **Create and maintain a safe space by:**
+    - Apologizing when you are wrong,
+    - Repeating back what you've heard to confirm accuracy,
+    - Acknowledging when you have learned something new, and
+    - Stating your appreciation when they share.
+- **Avoid sarcasm, judgment, comparisons, and blame by:**
+    - Recognizing your own emotions, and
+    - Sharing your perceptions of the emotions you are seeing from the team member.
+- **Learn about them by:**
+    - Asking and learning about the team member's background and cultural differences.
+- **Consider their perspective by:**
+    - Being aware that the team member may have experienced similar conversations in past workplaces that were upsetting or even traumatizing.
+- **Brainstorm solutions together by:**
+    - Asking for ideas on how to improve or change the situation's impact.
+- **Keep an open mind by:**
+    - Trying new ideas and trust that the team member will do the same.
+    - Committing to take the time needed to follow through.
 
 ## What's next
 
@@ -58,9 +58,9 @@ Before ending the conversation, create a plan that outlines the next steps and s
 
 These conversations often require more than one discussion. It is important to check in later to ensure that concerns are being addressed or determine if the relationship needs more attention.
 
--   Repeat the action items that will be addressed.
--   Figure out a time when you can follow up on any action items.
--   Review the action items with the person at a later date and acknowledge any progress.
+- Repeat the action items that will be addressed.
+- Figure out a time when you can follow up on any action items.
+- Review the action items with the person at a later date and acknowledge any progress.
 
 ## Additional considerations
 
@@ -72,7 +72,7 @@ For giving and receiving feedback review [conflict resolution and growth mindset
 
 ## Other readings & resources
 
--   [Difficult conversation tools and skills](https://docs.google.com/document/d/1VXXqLRLNdjRFFKjBHEtt7CJyrUgnS5pR1fvM1a2F3Hc/edit?tab=t.0) discussion in 2022 virtual summit.
--   Project team working agreements.
--   Skills coach in Culture Amp.
--   Training related to conversations and feedback. Ask PeopleOps about any options.
+- [Difficult conversation tools and skills](https://docs.google.com/document/d/1VXXqLRLNdjRFFKjBHEtt7CJyrUgnS5pR1fvM1a2F3Hc/edit?tab=t.0) discussion in 2022 virtual summit.
+- Project team working agreements.
+- Skills coach in Culture Amp.
+- Training related to conversations and feedback. Ask PeopleOps about any options.

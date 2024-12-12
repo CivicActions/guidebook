@@ -20,23 +20,23 @@ Team Members who are interested may form additional unofficial private or public
 
 List of some affinity channels:
 
--   `#parenting` (open): Parents and caregivers of children share joy and resources. Parents and their allies are welcome.
--   `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and their allies are welcome.
--   `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Members of the community including allies are welcome!
+- `#parenting` (open): Parents and caregivers of children share joy and resources. Parents and their allies are welcome.
+- `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. Individuals identifying as female, trans, gender non-conforming, and their allies are welcome.
+- `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Members of the community including allies are welcome!
 
 Regional Groups:
 
--   `#ca-california` (open): For team members located in California.
--   `#ca-canada-chatter` (open): For team members located in Canada.
--   `#ca-dc` (open): For team members located in DC.
--   `#ca-florida` (open): For team members located in Florida.
--   `#ca-mi` (open): For team members located in Michigan.
--   `#ca-midwest` (open): For team members located in the Midwest area.
--   `#ca-new-england` (open): For team members located in the New England area.
--   `#ca-pnw` (open): For team members located in the Pacific Northwest area.
--   `#ca-rockymountains` (open): For team members located in the Rocky Mountains area.
--   `#ca-thesouth` (open): For team members located in the South.
--   `#ca-tx` (open): For team members located in Texas.
+- `#ca-california` (open): For team members located in California.
+- `#ca-canada-chatter` (open): For team members located in Canada.
+- `#ca-dc` (open): For team members located in DC.
+- `#ca-florida` (open): For team members located in Florida.
+- `#ca-mi` (open): For team members located in Michigan.
+- `#ca-midwest` (open): For team members located in the Midwest area.
+- `#ca-new-england` (open): For team members located in the New England area.
+- `#ca-pnw` (open): For team members located in the Pacific Northwest area.
+- `#ca-rockymountains` (open): For team members located in the Rocky Mountains area.
+- `#ca-thesouth` (open): For team members located in the South.
+- `#ca-tx` (open): For team members located in Texas.
 
 ## Who can join an affinity channel
 
@@ -56,11 +56,11 @@ Affinity channel moderators serve as the main point of contact for team members 
 
 ## How to create a new affinity channel
 
--   Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group does not already exist.
--   Add a new channel by clicking the + next to the Slack channels list.
--   Be sure to give your channel a description, and add a channel topic so people understand who it is for.
--   Decide whether to make your channel private.
--   Designate a point person moderator for your channel and add them to the channel topic. Be sure that moderator's understand their obligations as a channel moderator. If a person is not comfortable fulfilling all of the responsibilities of a moderator they should not take on that role.
--   Do a GitHub pull request to get your channel listed on the affinity channel guidebook directory page; or if preferred, ask Alaine to add your new channel to the guidebook page.
--   Announce your new channel in #general so others can join.
--   If you decide that the group you want to create is not going to be open to allies, then it's not an official company affinity group and won't be included in the directory.
+- Anyone at CivicActions can create a new affinity channel. Before starting a new affinity group, check the affinity channels directory to make sure a similar group does not already exist.
+- Add a new channel by clicking the + next to the Slack channels list.
+- Be sure to give your channel a description, and add a channel topic so people understand who it is for.
+- Decide whether to make your channel private.
+- Designate a point person moderator for your channel and add them to the channel topic. Be sure that moderator's understand their obligations as a channel moderator. If a person is not comfortable fulfilling all of the responsibilities of a moderator they should not take on that role.
+- Do a GitHub pull request to get your channel listed on the affinity channel guidebook directory page; or if preferred, ask Alaine to add your new channel to the guidebook page.
+- Announce your new channel in #general so others can join.
+- If you decide that the group you want to create is not going to be open to allies, then it's not an official company affinity group and won't be included in the directory.

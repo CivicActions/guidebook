@@ -10,10 +10,10 @@ Diversity describes the range of differences within a group with regard to socia
 
 ### What we're doing to support diversity
 
--   Refining our hiring process to actively recruit for diversity
--   Promoting a space for team members to discuss and educate themselves about diversity
--   Establishing guidelines for recruiting diverse groups of participants for UX research
--   Participating in events that promote diversity
+- Refining our hiring process to actively recruit for diversity
+- Promoting a space for team members to discuss and educate themselves about diversity
+- Establishing guidelines for recruiting diverse groups of participants for UX research
+- Participating in events that promote diversity
 
 ## Equity
 
@@ -23,11 +23,11 @@ Instead, equity addresses the past or present conditions that may continue to ho
 
 ### What we're doing to support equity
 
--   Creating professional development opportunities and support for team members who have had less access to opportunities in the past
--   Facilitating a culture of mentorship by [encouraging peer support](../../employee-benefits/professional-development.md#asking-a-mentor-coach-or-peer-to-help) through coworking or one-on-one check-ins
--   Investing in our team's [professional development](../../employee-benefits/professional-development.md) while giving individuals the agency to choose what they'd like to learn
--   Sharing knowledge within practice areas through regular skill shares and collaboration
--   [Supporting distributed teams](https://medium.com/civicactions/an-open-dialogue-on-work-and-life-in-a-distributed-team-796ef88813cd) who work remotely, which allows our team members to work in locations and environments best suited to their needs and abilities
+- Creating professional development opportunities and support for team members who have had less access to opportunities in the past
+- Facilitating a culture of mentorship by [encouraging peer support](../../employee-benefits/professional-development.md#asking-a-mentor-coach-or-peer-to-help) through coworking or one-on-one check-ins
+- Investing in our team's [professional development](../../employee-benefits/professional-development.md) while giving individuals the agency to choose what they'd like to learn
+- Sharing knowledge within practice areas through regular skill shares and collaboration
+- [Supporting distributed teams](https://medium.com/civicactions/an-open-dialogue-on-work-and-life-in-a-distributed-team-796ef88813cd) who work remotely, which allows our team members to work in locations and environments best suited to their needs and abilities
 
 ## Inclusion
 
@@ -37,12 +37,12 @@ As a working group, we understand that creating an inclusive work culture is the
 
 ### What we're doing to support an inclusive team culture
 
--   Creating space for our team to learn about gender diversity and share our personal pronouns in the workplace
--   Helping new hires feel welcome through one-on-one onboarding, mentorship, and training focused on DEI
--   Creating open communication with job candidates who want to learn more about the company directly from the people who work here
--   Finding ways to promote a flat organizational culture
--   Creating opportunities for CivicActioners to form relationships on pod calls that aren't work-focused
--   Offering Slack channels for various affinity groups — spaces where folks can openly discuss issues and causes that are important to them
+- Creating space for our team to learn about gender diversity and share our personal pronouns in the workplace
+- Helping new hires feel welcome through one-on-one onboarding, mentorship, and training focused on DEI
+- Creating open communication with job candidates who want to learn more about the company directly from the people who work here
+- Finding ways to promote a flat organizational culture
+- Creating opportunities for CivicActioners to form relationships on pod calls that aren't work-focused
+- Offering Slack channels for various affinity groups — spaces where folks can openly discuss issues and causes that are important to them
 
 ## Accessibility
 
@@ -50,8 +50,8 @@ There are many [definitions for accessibility](https://en.wikipedia.org/wiki/Soc
 
 ### What we're doing to support an accessible team culture
 
--   [Accessibility is part of our company culture](../culture.md#accessibility)
--   CivicActions has an [Accessibility Practice Area](../../practice-areas/accessibility/README.md) and a [dedicated sub-site](https://accessibility.civicactions.com/)
--   All new staff are given onboarding on accessibility issues when they join the company
--   We are finding ways to think more about accessibility barriers in our hiring process and internal communications
--   Our team is encouraged to contribute and incorporate accessibility into their work
+- [Accessibility is part of our company culture](../culture.md#accessibility)
+- CivicActions has an [Accessibility Practice Area](../../practice-areas/accessibility/README.md) and a [dedicated sub-site](https://accessibility.civicactions.com/)
+- All new staff are given onboarding on accessibility issues when they join the company
+- We are finding ways to think more about accessibility barriers in our hiring process and internal communications
+- Our team is encouraged to contribute and incorporate accessibility into their work
