@@ -14,21 +14,21 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## Common markdown errors to avoid
 
--   You need a blank line before every "block" of text. "Blocks" include paragraphs, headings, lists, code blocks, blockquotes, etc.
--   You need a blank line at the end of each file.
--   Headings (#, ##, ###, etc.) must increment correctly. You can't go from # (h1) to ### (h3).
+- You need a blank line before every "block" of text. "Blocks" include paragraphs, headings, lists, code blocks, blockquotes, etc.
+- You need a blank line at the end of each file.
+- Headings (#, ##, ###, etc.) must increment correctly. You can't go from # (h1) to ### (h3).
 
 ## Format auto-correct
 
--   Many common Markdown formatting issues will be automatically corrected after you submit your Pull Request.
--   This applies the FOSS tool [Prettier](https://prettier.io/) using the default configuration, which is our canonical standard.
+- Many common Markdown formatting issues will be automatically corrected after you submit your Pull Request.
+- This applies the FOSS tool [Prettier](https://prettier.io/) using the default configuration, which is our canonical standard.
 
 ## Markdown checking (linter)
 
 We use <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readability, language and grammar issues.
 
--   The [remarkrc.problem file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.problem) shows a list of all the rules being enforced.
--   The [remarkrc.suggestion file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.suggestion) shows a list of all rules used to give suggestions.
+- The [remarkrc.problem file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.problem) shows a list of all the rules being enforced.
+- The [remarkrc.suggestion file](https://github.com/CivicActions/guidebook/blob/master/.config/remark/remarkrc.suggestion) shows a list of all rules used to give suggestions.
 
 This linter is run by [GitHub Actions](automatic-checking.md) with each pull request and code merge, and will automatically post a pull request review indicating problems and suggestions. You can also access the log of problems and suggestions from the GitHub Actions check details link.
 
@@ -38,12 +38,12 @@ Finally, the mkdocs command may identify broken links or other issues in the pul
 
 You can check that your markdown complies with the retext and remark locally:
 
--   Install node.js if you don't have it already: <https://nodejs.org/en/download/> (or use a package manager).
--   Install yarn: <https://yarnpkg.com/lang/en/docs/install/> (various options to install, could also use a package manager).
--   Open a terminal and `cd` to your Git root.
--   Run `yarn install` to install the dependencies.
--   Run `./node_modules/.bin/gulp` (you can also pass in `--path=` to a specific file to limit tests to just that).
--   Run `./node_modules/.bin/prettier --write <path>` to automatically format a file.
+- Install node.js if you don't have it already: <https://nodejs.org/en/download/> (or use a package manager).
+- Install yarn: <https://yarnpkg.com/lang/en/docs/install/> (various options to install, could also use a package manager).
+- Open a terminal and `cd` to your Git root.
+- Run `yarn install` to install the dependencies.
+- Run `./node_modules/.bin/gulp` (you can also pass in `--path=` to a specific file to limit tests to just that).
+- Run `./node_modules/.bin/prettier --write <path>` to automatically format a file.
 
 ## Editors
 

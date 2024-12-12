@@ -14,10 +14,10 @@ title: Setting up GnuPG
 gpg --full-generate-key
 ```
 
--   Select "`(1) RSA and RSA (default)`" as the type.
--   Select a 4096 bit keysize "`What keysize do you want? (3072) 4096`"
--   Set the key to not expire "`Key is valid for? (0)`"
--   Set your full name and the email address associated with your Github and Gitlab accounts:
+- Select "`(1) RSA and RSA (default)`" as the type.
+- Select a 4096 bit keysize "`What keysize do you want? (3072) 4096`"
+- Set the key to not expire "`Key is valid for? (0)`"
+- Set your full name and the email address associated with your Github and Gitlab accounts:
 
 ```shell
 Real name: first-name last-name
@@ -27,7 +27,7 @@ You selected this USER-ID:
     "first-name last-name <user@example.com>"
 ```
 
--   Set a complex passphrase for your private key.
+- Set a complex passphrase for your private key.
 
 It should return: "`public and secret key created and signed.`" and the new keypair should be present under `.gnupg/` in your home directory.
 

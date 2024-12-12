@@ -10,7 +10,7 @@ We have a responsibility to address the inequality that permeates our lives as c
 
 ## Why DEIA is important to us
 
--   Our **public sector clients** count on us to create equitable solutions for the diversity of the people they serve, therefore we value diverse perspectives on our team that so we can better serve the public.
--   Good user experience design considers everyone. We value **diversity in user research** so that our design solutions reflect the people we serve.
--   Whether it's a diversity of experiences, skill sets, approaches to problem-solving, or social identity, we believe that **team diversity and inclusion** makes us better at solving problems.
--   Having diversity in our team continues to broaden our ability to represent the people and experiences that we are creating software for.
+- Our **public sector clients** count on us to create equitable solutions for the diversity of the people they serve, therefore we value diverse perspectives on our team that so we can better serve the public.
+- Good user experience design considers everyone. We value **diversity in user research** so that our design solutions reflect the people we serve.
+- Whether it's a diversity of experiences, skill sets, approaches to problem-solving, or social identity, we believe that **team diversity and inclusion** makes us better at solving problems.
+- Having diversity in our team continues to broaden our ability to represent the people and experiences that we are creating software for.

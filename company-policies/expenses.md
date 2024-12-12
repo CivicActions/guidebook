@@ -43,12 +43,12 @@ IMPORTANT NOTE: when your expense Request is approved, Unanet automatically chan
 
 ## Expense guidelines
 
--   Treat company money like you would your own money, use it to work smarter and spend it with wisdom and care.
--   Please book as early as possible - for flights and accommodation this can make a big difference!
--   Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
--   Your Project Manager and the Finance Team will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
--   Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides.
--   If you are purchasing multiple "under $50" items in a short timespan, please consider that a single purchase and request approval first.
+- Treat company money like you would your own money, use it to work smarter and spend it with wisdom and care.
+- Please book as early as possible - for flights and accommodation this can make a big difference!
+- Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
+- Your Project Manager and the Finance Team will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
+- Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides.
+- If you are purchasing multiple "under $50" items in a short timespan, please consider that a single purchase and request approval first.
 
 ### Travel expenses
 

@@ -48,10 +48,10 @@ Any type of contractual change is also a good time to review resourcing, especia
 
 ## Preparing for a Mod
 
--   Start with a short summary document which outlines the following:
-    -   Why the change is required
-    -   The current contractual language
-    -   The proposed contractual language (e.g., from old paragraphs, page numbers, etc. to replacement language matched to old paragraphs, page numbers, etc.)
--   Schedule an internal call to review
--   Work with Legal and Sales to confirm initial strategy (high-level overview of new objectives, staffing proposal, and pricing)
--   Work with the Project Team leads to craft a work plan (here is a sample document) that reflects the proposed new objectives, staffing and pricing.
+- Start with a short summary document which outlines the following:
+    - Why the change is required
+    - The current contractual language
+    - The proposed contractual language (e.g., from old paragraphs, page numbers, etc. to replacement language matched to old paragraphs, page numbers, etc.)
+- Schedule an internal call to review
+- Work with Legal and Sales to confirm initial strategy (high-level overview of new objectives, staffing proposal, and pricing)
+- Work with the Project Team leads to craft a work plan (here is a sample document) that reflects the proposed new objectives, staffing and pricing.

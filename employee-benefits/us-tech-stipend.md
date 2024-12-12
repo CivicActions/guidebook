@@ -9,13 +9,13 @@ As part of CivicActions commitment to work/life balance and our movement toward 
 
 ## Definitions
 
--   "Eligible Team Member" means direct employees of CivicActions, Inc, including CivicActions, Inc worksite employees of TriNet, Inc. Individuals who are independent contractors, work for staffing firms, or who are employed by other companies that contract with CivicActions are not eligible.
--   "Annual Eligibility Date" means:
+- "Eligible Team Member" means direct employees of CivicActions, Inc, including CivicActions, Inc worksite employees of TriNet, Inc. Individuals who are independent contractors, work for staffing firms, or who are employed by other companies that contract with CivicActions are not eligible.
+- "Annual Eligibility Date" means:
 
     1. The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date.
     1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less then a year is the last day of the ninety-day Introductory Period.
 
--   The "Payment Amount" as of January 1, 2024 is $816 USD for team members who are issued managed devices (excluding project specific devices) and $1,197 USD for team members who bring their own device. The amount will be reviewed annually.
+- The "Payment Amount" as of January 1, 2024 is $816 USD for team members who are issued managed devices (excluding project specific devices) and $1,197 USD for team members who bring their own device. The amount will be reviewed annually.
 
 ## Policy
 

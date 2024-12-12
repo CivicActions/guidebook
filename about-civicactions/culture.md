@@ -26,13 +26,13 @@ Nobody is a perfect communicator, and we recognize that there are many "ideals" 
 
 Here are some of the tools and practices we use to help us remain open with each other:
 
--   **Slack channels and email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
--   **Daily scrum calls on video** - Everyday, each team member meets to report on what they did yesterday, what they plan on doing today, and whether they have any blockers. This is an opportunity to offer support and hold each other accountable. It also builds team camaraderie by having a daily forum to look at each other and connect.
--   **Active listening** - Talking "at" each other doesn't always result in a shared understanding. By repeating back what you are hearing from the other person, you are able to verify that you understand them and give them a chance to correct any misunderstandings or wrong assumptions.
--   **Tensions** - A tension is any issue or reflection we have shelved, buried, or simply not thought to share. Our practice at CivicActions is to recognize when we have a tension concerning a team member, and ask the person if we can share it in a safe conversation where the sole purpose is to clear the air and both parties agree to simply acknowledge the tension and then close the conversation. When we share in this objective way, we clear our minds of anything that might interfere with being able to hear what the other person is saying. When we have shared a tension we might have with someone, we can then be present to who they are in this moment, rather than the story we have been telling ourselves about them.
--   **Retrospectives** - These occur at the end of each sprint on a project level, or at other milestones for any department or activity at CivicActions. It's a forum to talk about what is working, what isn't, and what we can improve. It's a safe space to discuss failure _without blame_ and to reflect on successes and celebrate team members too. We also use retrospectives for annual reviews.
--   **Balance scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance," and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others. You can read more about balance scores in [this blog post](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8).
--   **Culture videos** - We have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
+- **Slack channels and email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
+- **Daily scrum calls on video** - Everyday, each team member meets to report on what they did yesterday, what they plan on doing today, and whether they have any blockers. This is an opportunity to offer support and hold each other accountable. It also builds team camaraderie by having a daily forum to look at each other and connect.
+- **Active listening** - Talking "at" each other doesn't always result in a shared understanding. By repeating back what you are hearing from the other person, you are able to verify that you understand them and give them a chance to correct any misunderstandings or wrong assumptions.
+- **Tensions** - A tension is any issue or reflection we have shelved, buried, or simply not thought to share. Our practice at CivicActions is to recognize when we have a tension concerning a team member, and ask the person if we can share it in a safe conversation where the sole purpose is to clear the air and both parties agree to simply acknowledge the tension and then close the conversation. When we share in this objective way, we clear our minds of anything that might interfere with being able to hear what the other person is saying. When we have shared a tension we might have with someone, we can then be present to who they are in this moment, rather than the story we have been telling ourselves about them.
+- **Retrospectives** - These occur at the end of each sprint on a project level, or at other milestones for any department or activity at CivicActions. It's a forum to talk about what is working, what isn't, and what we can improve. It's a safe space to discuss failure _without blame_ and to reflect on successes and celebrate team members too. We also use retrospectives for annual reviews.
+- **Balance scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance," and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others. You can read more about balance scores in [this blog post](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8).
+- **Culture videos** - We have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
 
 ### Personal pronouns
 
@@ -45,10 +45,10 @@ These practices won't be familiar to everyone, and it may take some time and pra
 **Resources**
 Check out the All Humans Call (AHC) slide deck on personal pronouns to learn more about:
 
--   What are gender neutral pronouns?
--   Why do personal pronouns matter in our industry?
--   What to do if you mess up
--   How to make a correction
+- What are gender neutral pronouns?
+- Why do personal pronouns matter in our industry?
+- What to do if you mess up
+- How to make a correction
 
 [AHC: Personal pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit)
 
@@ -72,13 +72,13 @@ Inclusion is a sense of belonging that allows people to fully engage and contrib
 
 Some practical tips for making inclusive spaces on your team:
 
--   Observe your teammates' personal pronouns
--   Notice who isn't speaking, and give them opportunities to contribute
--   Celebrate the things your teammates do well
--   Start noticing when you've made an assumption, and ask questions instead
--   Practice active listening (see the previous section)
--   Take time to learn more about how inequality affects people at work
--   Speak up when you notice that someone is disrespected or left out
+- Observe your teammates' personal pronouns
+- Notice who isn't speaking, and give them opportunities to contribute
+- Celebrate the things your teammates do well
+- Start noticing when you've made an assumption, and ask questions instead
+- Practice active listening (see the previous section)
+- Take time to learn more about how inequality affects people at work
+- Speak up when you notice that someone is disrespected or left out
 
 We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, inclusion, and accessibility isn't just a core part of our culture, it's also a committee.
 
@@ -114,9 +114,9 @@ A: The most successful team members at CivicActions embody the culture and value
 
 A: We are a very supportive team and if you need help, we want you to know that there are resources available.
 
--   If you want help with your work, your team, your project, etc: Go to your manager, your project manager, someone else on your project team, or your mentor.
--   If you feel unbalanced: Go to your manager, your project manager, mentor, or PeopleOps.
--   If you are being harassed or feel uncomfortable or unsafe: Go to Elizabeth or anyone else on the PeopleOps team.
+- If you want help with your work, your team, your project, etc: Go to your manager, your project manager, someone else on your project team, or your mentor.
+- If you feel unbalanced: Go to your manager, your project manager, mentor, or PeopleOps.
+- If you are being harassed or feel uncomfortable or unsafe: Go to Elizabeth or anyone else on the PeopleOps team.
 
 ### Q: What is CivicActions doing to foster diversity?
 

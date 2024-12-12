@@ -42,11 +42,11 @@ If your project has a specific use case or if you have ideas for improving our M
 
 ## General Recommendations
 
--   **Utilize Templates:** Start your murals with CivicActions-specific templates to save time and ensure consistency.
--   **Collaborative Spaces:** Make full use of Mural's collaborative tools to engage every team member.
--   **Stay Organized:** Keep your murals organized within folders and sub-folders to enhance accessibility and workflow.
+- **Utilize Templates:** Start your murals with CivicActions-specific templates to save time and ensure consistency.
+- **Collaborative Spaces:** Make full use of Mural's collaborative tools to engage every team member.
+- **Stay Organized:** Keep your murals organized within folders and sub-folders to enhance accessibility and workflow.
 
 ## Additional Resources
 
--   [Mural Docs](https://support.mural.co/s/)
--   [Mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)
+- [Mural Docs](https://support.mural.co/s/)
+- [Mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)

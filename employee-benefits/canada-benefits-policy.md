@@ -51,10 +51,10 @@ Employees should follow the following procedure for providing notice of, schedul
 
 **Sample messages to demonstrate how to request timeoff in Unanet:**
 
--   _Hello, I am out sick today. I've let my team know via slack not to expect me today._
--   _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
--   _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
--   _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
+- _Hello, I am out sick today. I've let my team know via slack not to expect me today._
+- _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
+- _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
+- _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
 
 ## Scheduling shifts
 
@@ -81,7 +81,7 @@ When you have a technical issue with your home network, power and personal equip
 
 ### Slack channels
 
--   You can go to the following Slack channels for support: #windows #osx #gnu-linux
+- You can go to the following Slack channels for support: #windows #osx #gnu-linux
 
 ## Personal Leave of Absence
 
