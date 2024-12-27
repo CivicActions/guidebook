@@ -63,3 +63,35 @@ There are usually two different themes installed and enabled on a site at one ti
 ### Views
 
 Views are listings of content on your site. Drupal's views are highly customizable and provide many different ways that you can list content. Drupal comes with two modules for using views on your site. The first module is the Views module which handles displaying the view to the user. The second is the Views UI module which allows users (with the right permissions) to create and edit their views via the administrative interface. An example use-case for a view could be a news site landing page that shows teasers of news articles sorted by date published.
+
+## Contributing back
+
+Consider [Contrib First](../../../common-practices-tools/contribution/contrib-first.md) when working with Drupal and any open source software.
+
+As the project grows and uses Drupal modules keep track of the following lists of technical debt related to Drupal to revisit at regular times in the project. Here is a quote you can add to your project to ask for approval to work on contributing back.
+
+> Work on drupal.org issues that directly impact project work, like updating modules to support newer versions of Drupal, create supported/secure releases, take over maintenance of a module, review/test patches.
+
+### List of modules that need releases, new maintainers, or needs to be removed
+
+Modules can become out of date in many ways (maintainers stopped working on it, it became a core feature, it is defunct/deprecated, and so on). Review the modules and if they are no longer needed on the project remove them. If they are still needed but are no longer maintained, try to take over maintenance of the module.
+
+See [Drupal.org Maintainership page](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership) for more details.
+
+### List of modules that are committed directly to the repository instead of being included via composer
+
+Review the reason for this and whether any customization could be removed or contributed back (as patches) so that the module could be tracked via composer again.
+
+### List of modules we could contribute back
+
+Review the list of custom modules and figure out whether the changes could be made generic and then shared with the community. See [The most important decision in developing a Drupal site: contributed vs. custom development](most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) for more details.
+
+### Review composer patches
+
+Review the file composer files for patches we apply, then:
+- Check the issue in drupal.org to see if the patch needs to be updated either by us sharing it or we download and apply a new one.
+- Share patches we have created by creating new issues as needed.
+
+### Review team member's own list of Drupal.org modules and issues
+
+Everyone who has a Drupal.org account and worked on issues is automatically following those issues. Have them share those links and then work on those issues if they are still open. 
