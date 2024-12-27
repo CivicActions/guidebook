@@ -89,9 +89,10 @@ Review the list of custom modules and figure out whether the changes could be ma
 ### Review composer patches
 
 Review the file composer files for patches we apply, then:
-- Check the issue in drupal.org to see if the patch needs to be updated either by us sharing it or we download and apply a new one.
-- Share patches we have created by creating new issues as needed.
+
+-   Check the issue in drupal.org to see if the patch needs to be updated either by us sharing it or we download and apply a new one.
+-   Share patches we have created by creating new issues as needed.
 
 ### Review team member's own list of Drupal.org modules and issues
 
-Everyone who has a Drupal.org account and worked on issues is automatically following those issues. Have them share those links and then work on those issues if they are still open. 
+Everyone who has a Drupal.org account and worked on issues is automatically following those issues. Have them share those links and then work on those issues if they are still open.
