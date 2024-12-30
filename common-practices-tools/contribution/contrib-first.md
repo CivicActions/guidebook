@@ -16,7 +16,7 @@ It is a best practice to consider first if we are building something that could 
 -   **Reliability** - A solution built for contribution is often better designed, and better documented than a local solution meant to "just get it done". By putting our company and personal names on it publicly we commit to a quality product. Releasing a FOSS solution also increases the number of testers and edge cases that can surface and reduce bugs in the code.
 -   **Scalability** - Contributed FOSS is more scalable than one-off solutions and can grow with the power of the FOSS community.
 -   **Visibility** - CivicActions, our developers and clients earn positive representation as technology leaders and contributors.
--   **Economy of tests** - Unit, Kernel and Functional tests for the module are run on the pipeline on Drupal.org. This translates into savings because they not slowing down custom tests running on client servers (human time savings). They run when the module is updated, not every time custom tests run (server cost savings).
+-   **Economy of tests** - Unit, Kernel and Functional tests for the module are run on the pipeline on Drupal.org. This translates into savings because they don't slow down custom tests running on client servers (human time savings). They run when the module is updated, not every time custom tests run (server cost savings).
 -   **Digital Public Goods** - We know that contributing to the digital commons helps everyone. We know that we need to contribute to [digital public goods](https://en.wikipedia.org/wiki/Digital_public_goods) and not simply use them.
 
 ## Examples of FOSS CivicActions built as Contrib First
