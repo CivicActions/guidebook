@@ -68,7 +68,7 @@ Views are listings of content on your site. Drupal's views are highly customizab
 
 Consider [Contrib First](../../../common-practices-tools/contribution/contrib-first.md) when working with Drupal and any open source software.
 
-As the project grows and uses Drupal modules keep track of the following lists of technical debt related to Drupal to revisit at regular times in the project. Here is a quote you can add to your project to ask for approval to work on contributing back.
+As the project grows and uses Drupal modules, keep track of the following lists of technical debt related to Drupal to revisit at regular times in the project. Here is a quote you can add to your project to ask for approval to work on contributing back.
 
 > Work on drupal.org issues that directly impact project work, like updating modules to support newer versions of Drupal, create supported/secure releases, take over maintenance of a module, review/test patches.
 
