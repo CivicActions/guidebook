@@ -2721,17 +2721,6 @@ remark-lint-no-multiple-toplevel-headings@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-no-shell-dollars@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-shell-dollars/-/remark-lint-no-shell-dollars-3.1.2.tgz#3663591611516a8eb3faf1251c95f7b9c14b1a02"
-  integrity sha512-np2MDEhXHviXhbQFjnC1QYv5/fxCV1cIHfGMoJpqiW7Zcu/UGCOo5TE3XswZH4ukHZJ65c3X2A6qfLDW+ur3CQ==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-visit "^4.0.0"
-
 remark-lint-no-shell-dollars@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/remark-lint-no-shell-dollars/-/remark-lint-no-shell-dollars-4.0.0.tgz#ddc98aaf49a01c408a7b616fe8f6e3dc8e626e15"
