@@ -2276,15 +2276,6 @@ remark-lint-fenced-code-marker@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-file-extension@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-file-extension/-/remark-lint-file-extension-2.1.2.tgz#691aad28b9002107c3dc78d29fbbd62fc3d650a3"
-  integrity sha512-Nq54F5R7F1gyj/IMW6SvkAbVNrH+p38WK3//KCoZLDUYFrH0oXgXXFGHi9CT/O0VEopW+bWJfTn8YAJRs0qI5Q==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-
 remark-lint-file-extension@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/remark-lint-file-extension/-/remark-lint-file-extension-3.0.0.tgz#2277a9f6d57ea3a824d46487e88003fcea1d20ac"
