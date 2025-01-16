@@ -4,11 +4,6 @@ title: Employment
 
 # Employment
 
-## TriNet
-
-CivicActions has a partnership with TriNet, which is a well established Professional Employer Organization. The relationship with TriNet provides us with a selection of benefits that are typically only available to very large organizations. TriNet offers the simplicity of a single solution for outsourcing benefits, payroll, and human resources support. The company's online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. Founded in 1988, TriNet specializes in offering secure, paperless HR transactions to Internet-enabled workforces.
-
-CivicActions 401k Plan provides participants with environment, social and governance (ESG) screened investment options for our retirement plans.
 
 ## At-Will Notice
 
