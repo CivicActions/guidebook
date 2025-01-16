@@ -5,7 +5,6 @@ updated: June 22, 2018
 
 # Policy Against Proscribed Harassment and Discrimination
 
-_This policy was taken directly from the TriNet handbook as of June 2018._
 
 <!--- Protected classes from Trinet handbook, keep list updated in: employment, code-of-conduct and anti-harassment-policies -->
 <!--- List of officials to contact should be updated when this policy is updated from Trinet's version -->
