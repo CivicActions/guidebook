@@ -22,7 +22,7 @@ Any company property issued to employees, such as documents, computer equipment 
 
 ## Continuation of Benefits
 
-If you or your covered dependents lose eligibility for regular, group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the Benefits Plan would otherwise end. 
+If you or your covered dependents lose eligibility for regular, group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the Benefits Plan would otherwise end.
 
 ## Offboarding process
 
