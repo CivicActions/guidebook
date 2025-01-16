@@ -4,7 +4,6 @@ title: Employment
 
 # Employment
 
-
 ## At-Will Notice
 
 Your employment is At-Will. You are not hired for any definite or specified period of time even though your wages are paid regularly. You are an at-will employee of CivicActions and your employment can be terminated at any time, with or without cause and with or without prior notice. Company policy requires all employees to be hired at-will and this policy cannot be changed by any oral modifications. There have been no implied or verbal agreements or promises to you that you will be discharged only under certain circumstances or after certain procedures are followed. There is no implied employment contract created by this Guidebook or any other Company document or written or verbal statement or policy.
