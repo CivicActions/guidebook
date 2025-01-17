@@ -22,11 +22,11 @@ Any company property issued to employees, such as documents, computer equipment 
 
 ## Continuation of Benefits
 
-If you or your covered dependents lose eligibility for regular, TriNet group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the TriNet Benefits Plan would otherwise end. COBRA coverage is explained in greater detail in the TriNet Benefits Guidebook (Login to TriNet, click Benefits, click Resources, scroll to Benefits Guidebook).
+If you or your covered dependents lose eligibility for regular, group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the Benefits Plan would otherwise end.
 
 ## Offboarding process
 
-A member of the PeopleOps team will send offboarding instructions to the person departing. The PeopleOps team will use the Offboarding Trello board to track offboarding tasks. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions.
+A member of the PeopleOps team will send offboarding instructions to the person departing. The PeopleOps team will use the Offboarding Jira board to track offboarding tasks. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions.
 
 CivicActions may ask the person departing if they want to post a farewell message in #announcements. If the departing person doesn't post a message, CivicActions will intentionally post a message that preserves the privacy of the person leaving CivicActions.
 
