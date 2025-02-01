@@ -2538,10 +2538,10 @@ remark-lint-no-unused-definitions@^4.0.0, remark-lint-no-unused-definitions@^4.0
     unified-lint-rule "^3.0.0"
     unist-util-visit "^5.0.0"
 
-remark-lint-ordered-list-marker-style@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-style/-/remark-lint-ordered-list-marker-style-4.0.0.tgz#9a6e8867484ec3edf8ec85699e5cca6a11163102"
-  integrity sha512-xZ7Xppy5fzACH4b9h1b4lTzVtNY2AlUkNTfl1Oe6cIKN8tk3juFxN0wL2RpktPtSZ7iRIabzFmg6l8WPhlASJA==
+remark-lint-ordered-list-marker-style@^4.0.0, remark-lint-ordered-list-marker-style@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-style/-/remark-lint-ordered-list-marker-style-4.0.1.tgz#d93dddd490a3b823c0e9c0e9d961b5032f2f4c19"
+  integrity sha512-vZTAbstcBPbGwJacwldGzdGmKwy5/4r29SZ9nQkME4alEl5B1ReSBlYa8t7QnTSW7+tqvA9Sg71RPadgAKWa4w==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
