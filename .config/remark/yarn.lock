@@ -2514,10 +2514,10 @@ remark-lint-no-tabs@^3.1.2:
     unified-lint-rule "^2.0.0"
     vfile-location "^4.0.0"
 
-remark-lint-no-undefined-references@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-undefined-references/-/remark-lint-no-undefined-references-5.0.0.tgz#2155f00a95b793ecac1921f7b45ce7c5d6087256"
-  integrity sha512-O0q8bHpRHK1T85oqO+uep4BkvQnZZp3y+wahDeeLLq9dCJfF56sq6Tt5OOTt1BAOZlpobS3OPQHUiJWYP6hX1w==
+remark-lint-no-undefined-references@^5.0.0, remark-lint-no-undefined-references@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-undefined-references/-/remark-lint-no-undefined-references-5.0.1.tgz#69183bf73cc37bb8281dddb9283f77e8eaa9af46"
+  integrity sha512-j3qOk+jry1NPNbUmydGJpfbo1LeuZkvXOwr8ocxh1ymDzHf2GMCiToAiicDNaOuG85RkiIzLvnnCV5I7Mo5q8w==
   dependencies:
     "@types/mdast" "^4.0.0"
     collapse-white-space "^2.0.0"
