@@ -11,7 +11,7 @@
     "remark-lint-checkbox-character-style": "^5.0.0",
     "remark-lint-checkbox-content-indent": "^5.0.0",
     "remark-lint-code-block-style": "^3.1.2",
-    "remark-lint-definition-case": "^4.0.0",
+    "remark-lint-definition-case": "^4.0.1",
     "remark-lint-definition-spacing": "^4.0.0",
     "remark-lint-emphasis-marker": "^4.0.0",
     "remark-lint-fenced-code-flag": "^4.0.0",
