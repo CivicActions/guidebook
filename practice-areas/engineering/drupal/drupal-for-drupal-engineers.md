@@ -35,6 +35,16 @@ When reviewing a change, consider the following factors:
 4. Are there any typos or bugs?
 5. Does the code make any assumptions that may not always be true? For example, assuming an array key exists that might not?
 
+## Local development
+
+CivicActions uses [DDEV](https://ddev.com/) for most project sandboxes and local development. We also use [Lando](https://lando.dev/) as well. Either are recommended over custom docker based solutions.
+
+Check out [DDEV documentation](https://ddev.readthedocs.io/en/stable/) to get a Drupal site running locally in just a few minutes.
+
+## Testing
+
+CivicActions uses a variety of testing frameworks (e.g. PHPUnit and Cypress). For [Drupal, PHPUnit is a core testing framework](https://www.drupal.org/docs/develop/automated-testing/phpunit-in-drupal) that can also be added to custom and [contributed modules](https://www.drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module). We recommend adding testing as soon as possible so that you are ensuring the functionality is working as expected and features are stable as you add more to it.
+
 ## Resources and opportunities
 
 ### Drupal practice area
