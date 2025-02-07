@@ -18,4 +18,4 @@ When a new module is needed we try to follow [Contrib First](../../../common-pra
 7.  Add [tests](https://www.drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module) to your module to ensure [it is working as expected](./drupal-for-drupal-engineers.md#testing).
 8.  Close the issues as you go and be sure to credit yourself, CivicActions, and the client.
 9.  Begin with alpha releases. Ideally when all your MVP/major issues are closed, you are ready for the official release.
-10.  After the official release, opt in to [Drupal security coverage](https://www.drupal.org/drupal-security-team/security-advisory-process-and-permissions-policy).
+10. After the official release, opt in to [Drupal security coverage](https://www.drupal.org/drupal-security-team/security-advisory-process-and-permissions-policy).
