@@ -12,7 +12,7 @@ When a new module is needed we try to follow [Contrib First](../../../common-pra
 4.  If opting to build a new module:
     -   Choose a meaningful search engine friendly module name. (crowd sourcing name suggestions is recommended)
     -   Create the Drupal project on Drupal.org
-    -   Populate the project page with a description of what is coming. List supporters as CivicActions and the client [directions](./README.md#contribution-to-drupalorg-modules-and-themes). If the client does not have a drupal.org page, get help from your PM to encourage them to create one.
+    -   Populate the project page with a description of what is coming. List supporters as CivicActions and the client [directions](./drupal-for-drupal-engineers.md#contribution-to-drupalorg-modules-and-themes). If the client does not have a drupal.org page, get help from your PM to encourage them to create one.
 5.  Populate the issue queue on the Drupal project with "Feature requests". Keep them as atomic as possible. Mark any that are part of the MVP as "major". Create issues for any improvement ideas that emerge. They don't all have to be acted on, but they help shape the road map for where you want the module to go.
 6.  Add [DDEV](https://github.com/ddev/ddev-drupal-contrib) to your module to allow easy creation of sandboxes for you and others to work on the module.
 7.  Add [tests](https://www.drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module) to your module to ensure module works as expected.
