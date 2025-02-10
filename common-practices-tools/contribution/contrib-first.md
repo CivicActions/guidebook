@@ -42,15 +42,16 @@ See more of [CivicActions Drupal contributions](https://drupal.org/civicactions)
 
 ### Does building by Contrib First cost more?
 
-  Not typically.  There are three significant offsets that make Contrib First the more affordable option:
-    1. Having Open Source community members also work on "feature requests" that are defined during the build process can take advantage of cost free work.
-    2. Custom code required custom tests that run on the project's infrastructure, while contributed code has tests that run on the contributed framework hosting.
-    3. If one agency has built it, other agencies don't have pay to build it.
+Not typically. There are three significant offsets that make Contrib First the more affordable option:
+
+1. Having Open Source community members also work on "feature requests" that are defined during the build process can take advantage of cost free work.
+2. Custom code required custom tests that run on the project's infrastructure, while contributed code has tests that run on the contributed framework hosting.
+3. If one agency has built it, other agencies don't have pay to build it.
 
 ### Does contributed code cost more to maintain?
 
-  Generally speaking, no it does not cost more.  In total cost of ownership, contributed code is less expensive to maintain than custom code.  Contributed code usually gets updated by  update bots when there are changes needed.  They make issues and merge requests automatically.  The same code existing as custom code has to be updated by project personnel when the need for a change is discovered.  In addition, with a broader user base,  Open Source community members are more likely to uncover bugs or inefficiencies and provide improvements.
+Generally speaking, no it does not cost more. In total cost of ownership, contributed code is less expensive to maintain than custom code. Contributed code usually gets updated by update bots when there are changes needed. They make issues and merge requests automatically. The same code existing as custom code has to be updated by project personnel when the need for a change is discovered. In addition, with a broader user base, Open Source community members are more likely to uncover bugs or inefficiencies and provide improvements.
 
 ### Does developing by Contrib First take longer?
 
-  Marginally. Not as much as many would think, less than 10% longer.  Largely the increase comes in specifying the bite sized issues on the Open Source issue queue.  If following [good Contrib First development practices](../../practice-areas/engineering/drupal/drupal-contrib-first-module-development/) small bite sized issues take a little longer to write, but they greatly increases the chance that a community member will grab the ticket and work on it.
+Marginally. Not as much as many would think, less than 10% longer. Largely the increase comes in specifying the bite sized issues on the Open Source issue queue. If following [good Contrib First development practices](../../../practice-areas/engineering/drupal/drupal-contrib-first-module-development/) small bite sized issues take a little longer to write, but they greatly increases the chance that a community member will grab the ticket and work on it.
