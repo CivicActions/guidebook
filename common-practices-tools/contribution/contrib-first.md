@@ -54,4 +54,4 @@ Generally speaking, no it does not cost more. In total cost of ownership, contri
 
 ### Does developing by Contrib First take longer?
 
-Marginally. Not as much as many would think, less than 10% longer. Largely the increase comes in specifying the bite sized issues on the Open Source issue queue. If following [good Contrib First development practices](../../../practice-areas/engineering/drupal/drupal-contrib-first-module-development/) small bite sized issues take a little longer to write, but they greatly increases the chance that a community member will grab the ticket and work on it.
+Marginally. Not as much as many would think, less than 10% longer. Largely the increase comes in specifying the bite sized issues on the Open Source issue queue. If following [good Contrib First development practices](../../../practice-areas/engineering/drupal/drupal-contrib-first-module-development.md) small bite sized issues take a little longer to write, but they greatly increases the chance that a community member will grab the ticket and work on it.
