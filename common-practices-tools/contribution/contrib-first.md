@@ -39,7 +39,7 @@ It is a best practice to consider first if we are building something that could 
 See more of [CivicActions Drupal contributions](https://drupal.org/civicactions).
 
 ## Frequently Asked Questions
-
+<!--lint disable maximum-heading-length-->
 ### Does building by Contrib First cost more?
 
 Not typically. There are three significant offsets that make Contrib First the more affordable option:
@@ -52,10 +52,14 @@ Not typically. There are three significant offsets that make Contrib First the m
 
 Generally speaking, no it does not cost more. In total cost of ownership, contributed code is less expensive to maintain than custom code. Contributed code usually gets updated by update bots when there are changes needed. They make issues and merge requests automatically. The same code existing as custom code has to be updated by project personnel when the need for a change is discovered. In addition, with a broader user base, Open Source community members are more likely to uncover bugs or inefficiencies and provide improvements.
 
+
 ## How de we decide between what is worth contributing and what is too specific to a project to have more general appeal?
+
 
 Our engineers are pretty good at recognizing opportunities to re-use their work across multiple projects. This is especially true in the Government sector where agencies often have similar requirements. If we have even a hint that multiple agencies could benefit, we build it as contributed code first. If it starts out as something so specific to a given project that it can no be generalized, the we build it as custom code for that project. However we continually re-evaluate our custom code to see if, over time, it has become something that is worth contributing.
 
 ### Does developing by Contrib First take longer?
 
 In our practice, marginally. Largely the increase comes in specifying the bite sized issues on the Open Source issue queue. If following [good Contrib First development practices](../../practice-areas/engineering/drupal/drupal-contrib-first-module-development.md) small bite sized issues take a little longer to write, but they greatly increases the chance that a community member will grab the ticket and work on it. On our recent build of the Alt Text Validation module 10 out of the first 37 commits (27%) came from community members.
+
+<!--lint enable maximum-heading-length-->
