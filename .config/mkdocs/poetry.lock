@@ -378,7 +378,7 @@ dev = ["click", "codecov", "mkdocs-gen-files", "mkdocs-git-authors-plugin", "mkd
 
 [[package]]
 name = "mkdocs-material"
-version = "9.5.49+insiders.4.53.14"
+version = "9.6.1+insiders.4.53.15"
 description = "Documentation that simply works"
 optional = false
 python-versions = ">=3.8"
@@ -400,15 +400,15 @@ regex = ">=2022.4"
 requests = ">=2.26,<3.0"
 
 [package.extras]
-git = ["mkdocs-git-committers-plugin-2 (>=1.1,<2.0)", "mkdocs-git-revision-date-localized-plugin (>=1.2.4,<2.0)"]
+git = ["mkdocs-git-committers-plugin-2 (>=1.1,<3)", "mkdocs-git-revision-date-localized-plugin (>=1.2.4,<2.0)"]
 imaging = ["cairosvg (>=2.6,<3.0)", "pillow (>=10.2,<11.0)"]
 recommended = ["mkdocs-minify-plugin (>=0.7,<1.0)", "mkdocs-redirects (>=1.2,<2.0)", "mkdocs-rss-plugin (>=1.6,<2.0)"]
 
 [package.source]
 type = "git"
 url = "https://github.com/squidfunk/mkdocs-material-insiders.git"
-reference = "9.5.49-insiders-4.53.14"
-resolved_reference = "3358a2b93829a322a3f45b0cee5dcee4681fdc98"
+reference = "9.6.1-insiders-4.53.15"
+resolved_reference = "2f3dd4aac4d0b229ef190094bea31c6f9b2917f1"
 
 [[package]]
 name = "mkdocs-material-extensions"
@@ -485,13 +485,13 @@ windows-terminal = ["colorama (>=0.4.6)"]
 
 [[package]]
 name = "pymdown-extensions"
-version = "10.14"
+version = "10.14.3"
 description = "Extension pack for Python Markdown."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "pymdown_extensions-10.14-py3-none-any.whl", hash = "sha256:202481f716cc8250e4be8fce997781ebf7917701b59652458ee47f2401f818b5"},
-    {file = "pymdown_extensions-10.14.tar.gz", hash = "sha256:741bd7c4ff961ba40b7528d32284c53bc436b8b1645e8e37c3e57770b8700a34"},
+    {file = "pymdown_extensions-10.14.3-py3-none-any.whl", hash = "sha256:05e0bee73d64b9c71a4ae17c72abc2f700e8bc8403755a00580b49a4e9f189e9"},
+    {file = "pymdown_extensions-10.14.3.tar.gz", hash = "sha256:41e576ce3f5d650be59e900e4ceff231e0aed2a88cf30acaee41e02f063a061b"},
 ]
 
 [package.dependencies]
@@ -799,4 +799,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "cd190106675d4a1f967d91e798f2f5eae875bfbab0a60e4bb5fa59f5ca0ed094"
+content-hash = "f80d9dbbca2e46a6d5df3f06869bba7e3c14b1242575bcbf7d6d6ddb9bb95834"
