@@ -36,7 +36,7 @@ IMPORTANT NOTE: when your expense Request is approved, Unanet automatically chan
 5.  For Wizard screen: A receipt is required at this time.
 6.  SUBMIT
 
-## CDSULC employees 
+## CDSULC employees
 
 Our CDSULC employees should submit a request in Unanet and not a report (follow the "request approval" instructions above). Reach out to the Finance Team with any questions.
 
