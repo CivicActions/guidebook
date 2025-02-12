@@ -6,7 +6,7 @@ title: Timesheets
 
 You are responsible for reporting your own time, on time. You will need to track all your time, including client work, internal projects, professional development, vacation, other forms of leave, and sick time. There is oversight on this process, but ultimately you are responsible for accuracy. Time should be tracked daily and in appropriate categories.
 
-You will need to track either:
+Unless you are on a reduced schedule, you will need to track either:
 
 -   8 hours for a full day
 -   4 hours for a half day
@@ -48,7 +48,7 @@ To create a timesheet:
 
 Many team members at CivicActions are disciplined in keeping track of their hours, or are able to work in structured blocks that allow them to easily record their time at the end of each day. If you are unsure, you can [check your Gmail](https://mail.google.com/mail/u/0/#sent), [review your Google Drive](https://drive.google.com/drive/u/0/recent), [check Zoom meetings](https://zoom.us/meeting#/previous), search Slack messages (example: on:Monday from:me), or look at the GitHub overview when you log in.
 
-If you do not see a project charge code for your assigned project, notify the applicable project manager(s). The project manager will assign you to the relevant project code. You will then see the project charge code in your drop-down menu in Unanet.
+If you do not see a project charge code for your assigned project, you may either post a message to @unanet_support in the dedicated Unanet help Slack channel (#unanet) or notify the applicable project manager(s). The project manager will assign you to the relevant project code. You will then see the project charge code in your drop-down menu in Unanet.
 
 ## Saving your timesheet
 
@@ -63,7 +63,7 @@ Once you have completed entering in all time for the applicable reporting period
 
 ### Each pay period
 
-By the following business day of the last day of the pay period, you must submit your time, no later than 10:00 am local time.
+You must submit your time no later than 10:00 am local time on the business day following the last day of the pay period.
 
 ## Fixing timesheet errors
 
@@ -86,13 +86,14 @@ For prior period adjustments:
 
 ## Manager approvals 
 
-Managers must ensure that all of their assigned team members have completed and submitted timesheets. They must review and approve the team members' timesheets no later than 5:00 PM local time, the following business day of the last day of the pay period.
+Managers must ensure that all of their assigned team members have completed and submitted their timesheets. They must review and approve the team members' timesheets no later than 5:00 PM local time, the business day following the last day of the pay period.
 
 Project managers should ensure that:
 
 1.  The Project is correct
 2.  The CLIN / Task is correct
 3.  The labor category and bill rate (if applicable) are correct
+4.  The comments for each project entry are acceptable
 
 To approve your team member's timesheet:
 
