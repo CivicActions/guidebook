@@ -36,10 +36,14 @@ IMPORTANT NOTE: when your expense Request is approved, Unanet automatically chan
 5.  For Wizard screen: A receipt is required at this time.
 6.  SUBMIT
 
+## CDSULC employees 
+
+Our CDSULC employees should submit a request in Unanet and not a report (follow the "request approval" instructions above). Reach out to the Finance Team with any questions.
+
 ## Receiving reimbursement
 
-1.  Once all approvals have been granted, the Bookkeeper will extract the report and create a vendor invoice in preparation for reimbursement.
-2.  The funds will be reimbursed via ACH.
+1.  Once all approvals have been granted, the Finance Team will extract the report and create a vendor invoice in preparation for reimbursement.
+2.  The funds will be reimbursed via ACH for our US employees and via payroll for our Canadian employees.
 
 ## Expense guidelines
 
