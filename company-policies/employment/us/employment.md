@@ -4,12 +4,6 @@ title: Employment
 
 # Employment
 
-## TriNet
-
-CivicActions has a partnership with TriNet, which is a well established Professional Employer Organization. The relationship with TriNet provides us with a selection of benefits that are typically only available to very large organizations. TriNet offers the simplicity of a single solution for outsourcing benefits, payroll, and human resources support. The company's online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. Founded in 1988, TriNet specializes in offering secure, paperless HR transactions to Internet-enabled workforces.
-
-CivicActions 401k Plan provides participants with environment, social and governance (ESG) screened investment options for our retirement plans.
-
 ## At-Will Notice
 
 Your employment is At-Will. You are not hired for any definite or specified period of time even though your wages are paid regularly. You are an at-will employee of CivicActions and your employment can be terminated at any time, with or without cause and with or without prior notice. Company policy requires all employees to be hired at-will and this policy cannot be changed by any oral modifications. There have been no implied or verbal agreements or promises to you that you will be discharged only under certain circumstances or after certain procedures are followed. There is no implied employment contract created by this Guidebook or any other Company document or written or verbal statement or policy.
