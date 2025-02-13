@@ -28,7 +28,7 @@ If you or your covered dependents lose eligibility for regular, group medical, d
 
 A member of the PeopleOps team will send offboarding instructions to the person departing. The PeopleOps team will use the Offboarding Jira board to track offboarding tasks. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions.
 
-CivicActions may ask the person departing if they want to post a farewell message in #announcements. If the departing person doesn't post a message, CivicActions will intentionally post a message that preserves the privacy of the person leaving CivicActions.
+CivicActions may ask the person departing if they want to post a farewell message on Slack in #announcements. If the departing person doesn't post a message, CivicActions will intentionally post a message that preserves the privacy of the person leaving CivicActions.
 
 ### Manager
 
