@@ -28,15 +28,11 @@ Welcome aboard! As part of the new employee onboarding process, we created an on
 -   [Civicactions Guidebook in GitHub](https://github.com/CivicActions/guidebook/blob/master/README.md)
 -   [Bookmarks](bookmarks.md) (websites and tools we use regularly)
 
-### Human resources
-
-CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session takes approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
-
-#### Benefits
+### Benefits
 
 **US employees**
 
--   Health, dental and vision insurance - [TriNet](https://identity.trinet.com/)
+-   Health, dental and vision insurance - [Rippling](https://app.rippling.com/insurance/employee/US/overview/home)
 -   401K - [July Services](https://www.julyservices.com/for-employees/start-here/)
 
 **Canadian employees**
