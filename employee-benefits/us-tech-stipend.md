@@ -9,7 +9,7 @@ As part of CivicActions commitment to work/life balance and our movement toward 
 
 ## Definitions
 
--   "Eligible Team Member" means direct employees of CivicActions, Inc, including CivicActions, Inc worksite employees of TriNet, Inc. Individuals who are independent contractors, work for staffing firms, or who are employed by other companies that contract with CivicActions are not eligible.
+-   "Eligible Team Member" means direct employees of CivicActions, Inc. Individuals who are independent contractors, work for staffing firms, or who are employed by other companies that contract with CivicActions are not eligible.
 -   "Annual Eligibility Date" means:
 
     1. The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date.
