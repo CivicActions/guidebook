@@ -37,4 +37,4 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Python                                         | Jonathan Bourland, Tom Camp                                                                  | #engineering-python    | Biweekly                             |
 | Quality Assurance                              | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
 | [Tech Lead](engineering/tech-lead/README.md)   | Andy Hawks, Kristian Ducharme, Bob Schmitt                                                   | #engineering-techlead  | Monthly                              |
-| Workforce Transformation                       | Farooq Zakhilwal, Chianti Lomax                                                              | #workforce-development |    Monthly                              |
+| Workforce Transformation                       | Farooq Zakhilwal, Chianti Lomax                                                              | #workforce-development | Monthly                              |
