@@ -14,15 +14,15 @@ Our full timekeeping policy is below for reference. The most important thing to 
 
 ### 0.1 Leadership
 
-The definition of the Leadership team includes the Chief Executive Officer (CEO), Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Information Security Officer (CISO), Chief Experience Officer (CXO), General Counsel, Directors of various CivicActions Disciplines, and Board Members.
+The definition of the Leadership team includes the Chief Executive Officer (CEO), Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Information Security Officer (CISO), Chief Development Officer (CXO), Controller, Directors of various CivicActions Disciplines, and Board Members.
 
 ### 0.2 Accounting Department
 
-The definition of the Accounting Department includes all persons who are involved with performing the day-to-day accounting activities, including payroll. Roles within the Accounting Department include the CEO, COO, Controller (outsourced), Resource Planning Analyst, and Staff Accountant. One of the primary responsibilities of the Accounting Department is to identify and properly classify unallowable costs in accordance with FAR Part 31 and contract specific terms.
+The definition of the Accounting Department includes all persons who are involved with performing the day-to-day accounting activities, including payroll. Roles within the Accounting Department include the CEO, COO, Controller, Resource Planning Analyst, and Staff Accountant. One of the primary responsibilities of the Accounting Department is to identify and properly classify unallowable costs in accordance with FAR Part 31 and contract specific terms.
 
 ### 0.3 Program Finance
 
-The definition of Program Finance are those individuals who are tasked with project finance administration and assisting with complying with contract terms and conditions. The roles include, but are not limited to, CEO, Controller (outsourced), General Counsel, Resource Planning Analyst, Program Managers, and Project Managers. The responsibility of the Program Finance department is to manage program budgets and review for costs that should be excluded from billings to the Government.
+The definition of Program Finance are those individuals who are tasked with project finance administration and assisting with complying with contract terms and conditions. The roles include, but are not limited to, CEO, Controller, In-House Legal Counsel, Resource Planning Analyst, Program Managers, and Project Managers. The responsibility of the Program Finance department is to manage program budgets and review for costs that should be excluded from billings to the Government.
 
 ### 0.4 Team Member
 
