@@ -12,7 +12,7 @@ Also, if you're planning a meeting, be sure to state your goal (what the meeting
 
 ## All Humans Calls (AHC)
 
-Our weekly AHC includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the AHCs, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future AHCs on the [AHC Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning). We also have an hour-long monthly AHC. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
+Our AHCs include everyone across CivicActions. They are one of the ways the team shares news, updates, appreciations and congratulations. They take place monthly on Mondays at 10am PT / 1pm ET and Fridays at 1pm PT / 3pm ET. You aren't required to attend the AHCs, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future Monday AHCs to the marketing team or your manager. Upcoming AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
 
 ### AHC Overview
 
@@ -21,24 +21,24 @@ Our weekly AHC includes everyone across CivicActions, and it's how the team diss
 -   Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 -   Meetings occur frequently as listed below
 
-#### Every Other Monday
+#### Once a month on Monday
 
 -   Length of call: 30 minutes
 -   Topics can range from a summary of a book, to staying balanced, to project overviews, to deep dive into a tool or module, etc
--   This call is led by our peers and anyone can lead it!
--   Want to sign up to present? Use the [AHC Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning)
+-   This call is led by our peers and anyone can lead it
+-   Submit ideas to the marketing team or your manager
 
-#### Once a Month
+#### Once a Month on Friday
 
 -   Length of call: 1 hour
--   Topics are usually company standing, sales pipeline, new hires, new projects, big announcements
--   Led primarily by the management and sales teams
+-   Topics are usually company updates, sales pipeline, new hires, new projects, big announcements
+-   You will hear from the management team, sales team, people ops, finance team, and practice area team members
 
 ## Pod Calls
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
--   Weekly pod calls are Vela, Pyxis, Hydra, Ursa, Aries
+-   Weekly pod calls are Vela, Pyxis, Hydra, Crux, Ursa
 -   There is a focus to connect with team members outside your project
 -   Pod calls help us feel connected with the team as a whole
 -   We discuss a topic of common interest or give project updates
