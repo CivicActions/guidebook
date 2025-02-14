@@ -14,7 +14,7 @@ Drupal engineers meet each month on Zoom to discuss topics of common interest. Y
 
 The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
-We add agenda items and notes to this document: [2024 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/15FEPQM_AHriQUq1wCH6FMf3Y6KSsYtb29LaQg0jzXBU/edit) to structure our conversations.
+We add agenda items and notes to this document: [2025 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/1vM9qUWDdSR1QBzQ__vn1z-WESRiBEYKrHuNmz4zZysg/edit) to structure our conversations.
 
 ## Drupal practice area OKRs
 
@@ -44,27 +44,4 @@ CivicActions engineers all strive to be very helpful, so it's rare for a questio
 
 ## Contributions to drupal.org
 
-We strongly encourage all CivicActioners to look for opportunities to give back to the Drupal community. To track contributions follow the instructions below. Tracking community contributions helps our Practice Area see and appreciate your contributions. It also helps our organization as a whole!
-
-### Update your drupal.org profile
-
--   Go to <https://drupal.org/>.
--   Log into your drupal.org account (create one if you do not have one).
--   Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
--   Align your role with CivicActions in the "[Contributor roles](https://www.drupal.org/community/contributor-guide/find-your-role)" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support".
-
-### Contribution to drupal.org modules and themes
-
-If you have created or are creating a module or a theme and use CivicActions time to work on it — either for a client or as professional development/community participation time — please make sure to add CivicActions under "Supporting organizations" when editing the module or theme. An example screenshot of what the checkbox looks like:
-
-![Supporting organizations field screenshot seen in Drupal.org module and theme edit forms](../../../assets/images/drupal-pa-support-org-screenshot.png)
-
-Adding the organization will ensure that the module and theme will also be attributed to CivicActions. Examples of that can be seen under [CivicActions Drupal profile page](https://www.drupal.org/civicactions#projects-supported).
-
-### Contributing to drupal.org issues
-
-If you are contributing to drupal.org issues for CivicActions and our customers, please make sure to click the box under "Attribute this contribution". An example screenshot of what the checkbox looks like:
-
-![Attribute this contribution field screenshot seen in Drupal.org issue comment forms](../../../assets/images/drupal-pa-contribution-attribution-screenshot.png)
-
-Checking the box and adding the organization and customer will ensure that any credit you receive will also be attributed to CivicActions and the customer. Examples of that can be seen under [CivicActions Drupal profile page](https://www.drupal.org/civicactions#org-page-issue-credit).
+Review [Contribution to drupal.org modules and themes](./drupal-for-drupal-engineers.md#contribution-to-drupalorg-modules-and-themes).

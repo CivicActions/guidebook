@@ -8,6 +8,8 @@ title: Timekeeping policy and procedures
 | ------------- |
 | April 1, 2023 |
 
+Our full timekeeping policy is below for reference. The most important thing to remember is that you must enter your timesheet **every day**. This is essential for company compliance and reporting. Timesheets not entered by 10:00 AM local time the following business day are considered late.
+
 ## 0—Roles and responsibilities
 
 ### 0.1 Leadership

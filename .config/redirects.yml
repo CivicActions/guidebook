@@ -190,9 +190,6 @@
 - from_url: /common-practices-tools/software-and-support/text-editors/
   to_url: /practice-areas/engineering/text-editors-ides/
   type: page
-- from_url: /050-how-we-work/tools/trello/
-  to_url: /common-practices-tools/software-and-support/trello/
-  type: page
 - from_url: /050-how-we-work/tools/zoom/
   to_url: /common-practices-tools/software-and-support/zoom/
   type: page

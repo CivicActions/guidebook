@@ -23,7 +23,7 @@ fi
 gh auth setup-git
 
 # Install packages.
-poetry -C .config/mkdocs/ --quiet install
+poetry -C .config/mkdocs/ --quiet --no-root install
 
 material_insiders_repo="https://github.com/squidfunk/mkdocs-material-insiders.git"
 

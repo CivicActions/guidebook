@@ -31,7 +31,7 @@ Documents transferred within the CivicActions.com GSuite including Gmail and Gdr
 
 We recommend using both of these browser add-ons that enhance privacy without encryption:
 
--   [Privacy Badger](https://www.eff.org/privacybadger) blocks most ads and cookie collectors. Open source and free.
+-   [Privacy Badger](https://privacybadger.org/) blocks most ads and cookie collectors. Open source and free.
 -   [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
 
 These services will have little to no impact on your browsing experience and can go a long way to minimizing the data others collect about you.

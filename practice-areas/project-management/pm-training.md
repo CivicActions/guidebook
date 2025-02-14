@@ -97,7 +97,6 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 -   [Unanet](https://civicactions.unanet.biz)
 -   [Jira](../../common-practices-tools/software-and-support/jira.md)
--   [Trello](../../common-practices-tools/software-and-support/trello.md)
 -   [GitHub](../../common-practices-tools/software-and-support/github.md)
 -   Burndown charts
 -   [Google Docs/Folders](../../common-practices-tools/software-and-support/google-docs.md)

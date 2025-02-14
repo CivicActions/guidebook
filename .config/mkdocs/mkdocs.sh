@@ -41,7 +41,7 @@ if [ ! -e .docs ]; then
 fi
 
 # Install packages.
-poetry -C .config/mkdocs/ --quiet install
+poetry -C .config/mkdocs/ --quiet --no-root install
 
 # If a "serve" argument present then run the dev server, otherwise just do a test build.
 if [[ "${1:-}" == "serve" ]]; then

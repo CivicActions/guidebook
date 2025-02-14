@@ -4,12 +4,6 @@ title: Employment
 
 # Employment
 
-## TriNet
-
-CivicActions has a partnership with TriNet, which is a well established Professional Employer Organization. The relationship with TriNet provides us with a selection of benefits that are typically only available to very large organizations. TriNet offers the simplicity of a single solution for outsourcing benefits, payroll, and human resources support. The company's online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. Founded in 1988, TriNet specializes in offering secure, paperless HR transactions to Internet-enabled workforces.
-
-CivicActions 401k Plan provides participants with environment, social and governance (ESG) screened investment options for our retirement plans.
-
 ## At-Will Notice
 
 Your employment is At-Will. You are not hired for any definite or specified period of time even though your wages are paid regularly. You are an at-will employee of CivicActions and your employment can be terminated at any time, with or without cause and with or without prior notice. Company policy requires all employees to be hired at-will and this policy cannot be changed by any oral modifications. There have been no implied or verbal agreements or promises to you that you will be discharged only under certain circumstances or after certain procedures are followed. There is no implied employment contract created by this Guidebook or any other Company document or written or verbal statement or policy.
@@ -82,9 +76,9 @@ Whether an employee is exempt or non-exempt depends on specific, statutory tests
 
 ## Personnel (and Personal) Records
 
-CivicActions will maintain a secure electronic employment file while you remain an employee. This file contains things like I-9s and a copy of I-9 identification, W-4s, and Employment Agreements, and possibly other appropriate documents, on an individual basis. TriNet, as well as our accounting and banking providers, also have secure files which contain information like social security numbers and bank routing information.
+CivicActions will maintain a secure electronic employment file while you remain an employee. This file contains things like I-9s and a copy of I-9 identification, W-4s, and Employment Agreements, and possibly other appropriate documents, on an individual basis. Rippling (CA's workforce management system), as well as our accounting and banking providers, also have secure files which contain information like social security numbers and bank routing information.
 
-If you have any changes to personal information, such as a change of address, phone number or name, we ask that you notify the People Operations Manager or Office Manager so the changes show up in all of your records.
+If you have any changes to personal information, such as a change of address, phone number or name, we ask that you notify the People Operations team or Resource Planning Analyst so the changes show up in all of your records.
 
 ## Use of Company Resources
 
