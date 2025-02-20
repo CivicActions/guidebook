@@ -20,7 +20,7 @@ title: Video call best practices
 
 ## Video Preference Considerations
 
--   We wish to host the most inclusive and welcoming spaces for all. Therefore, please use the camera option that works best for you.
+-   We wish to host the most welcoming spaces for all. Therefore, please use the camera option that works best for you.
 -   If you are comfortable with your camera on, then we encourage you to do so. However, turning cameras on is not required - we recognize that it does not work for everyone, which is ok.
 -   Don't assume that someone is less interested if their camera is off. Be aware that it may be a way for them to stay focused.
 -   Don't assume someone can recognize emotional content through words and vocal inflection alone.

@@ -5,7 +5,7 @@ updated: March 29 2021
 
 # Technology Stipend Policy (Canadian Employees)
 
-As part of CivicActions commitment to work/life balance and our movement toward greater workplace equity, it is aligned with our values to provide "Technology Stipends" to our employees to reimburse them for necessary expenditures including reasonable costs that are common for all employees at CivicActions. To avoid burdensome paperwork and to give employees flexibility in determining how best meet personal preferences in their work environment, CivicActions will pay to each employee the Technology Stipend once a year in one lump sum.
+CivicActions provides "Technology Stipends" to our employees to reimburse them for necessary expenditures including reasonable costs that are common for all employees at CivicActions. To avoid burdensome paperwork and to give employees flexibility in determining how best meet personal preferences in their work environment, CivicActions will pay each employee the Technology Stipend once a year in one lump sum.
 
 ## Definitions
 
