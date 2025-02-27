@@ -42,6 +42,19 @@ See more of [CivicActions Drupal contributions](https://drupal.org/civicactions)
 
 <!--lint disable maximum-heading-length-->
 
+### How do we decide on a solution?
+
+The choice of where we create a solution follows this decision tree.
+
+```mermaid
+flowchart TD
+  A(Accomplish requirements with your existing packages) --> B(Leverage APIs from existing packages)
+  B --> C(Add another open-source package)
+  C --> D(Extend an existing open-source package with a contributed patch)
+  D --> E(Write & Contribute a new open-source package)
+  E --> F(Write custom code)
+```
+
 ### Does building by Contrib First cost more?
 
 Not typically. There are three significant offsets that make Contrib First the more affordable option:
