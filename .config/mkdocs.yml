@@ -218,7 +218,6 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
-  - mermaid2
 extra_css:
   - assets/css/extra.css
 extra_javascript:
