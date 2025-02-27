@@ -15,21 +15,21 @@ Board
 
 Leadership team
 
-| Name             | Title                                       |
-| ---------------- | ------------------------------------------- |
-| Henry Poole      | Co-Founder & Chief Executive Officer (CEO)  |
-| Aaron Pava       | Co-Founder & Chief Experience Officer (CXO) |
-| Elizabeth Raley  | Chief Operating Officer (COO)               |
-| Owen Barton      | Chief Technology Officer (CTO)              |
-| Bill Ogilvie     | Vice President of Public Sector             |
-| Alaine Karoleff  | Director of Digital Services                |
-| Jenna Waszak     | Director of Design                          |
-| Andy Hawks       | Director of Drupal Engineering              |
-| Laura Lanford    | Director of Engineering                     |
-| Keith Kawasaki   | Director of Growth & Partnerships           |
-| Liz Tupper       | Director of Product                         |
-| Matt Powell      | Director of Project Management              |
-| Montana Singer   | Controller                                  |
+| Name            | Title                                       |
+| --------------- | ------------------------------------------- |
+| Henry Poole     | Co-Founder & Chief Executive Officer (CEO)  |
+| Aaron Pava      | Co-Founder & Chief Experience Officer (CXO) |
+| Elizabeth Raley | Chief Operating Officer (COO)               |
+| Owen Barton     | Chief Technology Officer (CTO)              |
+| Bill Ogilvie    | Vice President of Public Sector             |
+| Alaine Karoleff | Director of Digital Services                |
+| Jenna Waszak    | Director of Design                          |
+| Andy Hawks      | Director of Drupal Engineering              |
+| Laura Lanford   | Director of Engineering                     |
+| Keith Kawasaki  | Director of Growth & Partnerships           |
+| Liz Tupper      | Director of Product                         |
+| Matt Powell     | Director of Project Management              |
+| Montana Singer  | Controller                                  |
 
 Management team
 
