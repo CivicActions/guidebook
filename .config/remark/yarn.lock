@@ -2294,10 +2294,10 @@ remark-lint-no-file-name-articles@^3.0.0:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
 
-remark-lint-no-file-name-consecutive-dashes@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-consecutive-dashes/-/remark-lint-no-file-name-consecutive-dashes-3.0.0.tgz#930d90fe2795afc6fab6b6995235d166b806c4f3"
-  integrity sha512-3vSI1LOQlu8NSCpWLsKELa8dS9HU+YVZE0U43/DNkdEcnZmlJLpTHQjBTMZUHQipRgoOO+TOSyXFyN/H+2lbuQ==
+remark-lint-no-file-name-consecutive-dashes@^3.0.0, remark-lint-no-file-name-consecutive-dashes@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-consecutive-dashes/-/remark-lint-no-file-name-consecutive-dashes-3.0.1.tgz#836b88bd6e43e1db82a08e672ac87fbd4c1bd147"
+  integrity sha512-qGJRZ81sowEjv1dBodbHZ29pDZbrFpxiQQ6gBvkkHkkoYPekdnr8iUxmV38HcqH8+JNW1O4ELr+m71AA9/34Mw==
   dependencies:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
