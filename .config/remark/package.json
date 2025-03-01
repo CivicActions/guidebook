@@ -16,7 +16,7 @@
     "remark-lint-emphasis-marker": "^4.0.0",
     "remark-lint-fenced-code-flag": "^4.0.0",
     "remark-lint-fenced-code-marker": "^3.1.2",
-    "remark-lint-file-extension": "^3.0.0",
+    "remark-lint-file-extension": "^3.0.1",
     "remark-lint-final-definition": "^4.0.1",
     "remark-lint-final-newline": "^3.0.0",
     "remark-lint-first-heading-level": "^3.1.2",

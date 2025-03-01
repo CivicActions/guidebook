@@ -1990,10 +1990,10 @@ remark-lint-fenced-code-marker@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-file-extension@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-file-extension/-/remark-lint-file-extension-3.0.0.tgz#2277a9f6d57ea3a824d46487e88003fcea1d20ac"
-  integrity sha512-wrOKiGvcl/ftB7FkeX2/l13ALvhKXV77HGR8AXo86cVY2pD+K0WdOC52DV3ldgpUXpWzE9kcgF8bbkxwzKpFFg==
+remark-lint-file-extension@^3.0.0, remark-lint-file-extension@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-file-extension/-/remark-lint-file-extension-3.0.1.tgz#7b68d326cde1fad635e522b703f7a93046ba7067"
+  integrity sha512-1Ca5Dgu9J/j1fb7nvzNXh2xy4ija03igiP5i4le64LfrlloGax4VWcG/M7uL+CpRTFVqEJMWw0iKDEZxYSgImg==
   dependencies:
     "@types/mdast" "^4.0.0"
     quotation "^2.0.0"
