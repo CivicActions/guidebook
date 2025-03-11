@@ -16,6 +16,7 @@ When a new module is needed we try to follow [Contrib First](../../../common-pra
 5.  Populate the issue queue on the Drupal project with "Feature requests". Keep them as atomic as possible. Mark any that are part of the MVP as "major". Create issues for any improvement ideas that emerge. They don't all have to be acted on, but they help shape the road map for where you want the module to go.
 6.  Add [DDEV](https://github.com/ddev/ddev-drupal-contrib) to your module to allow easy building of [local environments](./drupal-for-drupal-engineers.md#local-development) for you and others to work on the module.
 7.  Add [tests](https://www.drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module) to your module to ensure [it is working as expected](./drupal-for-drupal-engineers.md#testing).
-8.  Close the issues as you go and be sure to credit yourself, CivicActions, and the client.
-9.  Begin with alpha releases. Ideally when all your MVP/major issues are closed, you are ready for the official release.
-10. After the official release, opt in to [Drupal security coverage](https://www.drupal.org/drupal-security-team/security-advisory-process-and-permissions-policy).
+8.  Add [tugboat previews](https://www.drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/using-tugboat-previews-on-drupal-core-and-contrib-merge-requests) to your module to create preview sites on issues so that fixes can be more easily tested by you and the community.
+9.  Close the issues as you go and be sure to credit yourself, CivicActions, and the client.
+10. Begin with alpha releases. Ideally when all your MVP/major issues are closed, you are ready for the official release.
+11. After the official release, opt in to [Drupal security coverage](https://www.drupal.org/drupal-security-team/security-advisory-process-and-permissions-policy).
