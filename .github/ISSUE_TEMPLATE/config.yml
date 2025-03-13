@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📘 About the guidebook
+    url: https://guidebook.civicactions.com/en/latest/about-this-guidebook/
+    about: This is the documentation of the guidebook.
