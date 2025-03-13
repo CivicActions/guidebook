@@ -13,6 +13,8 @@ common-practices-tools/security/* @CivicActions/security  @CivicActions/docs
 
 # Policy review is REQUIRED for all changes to these sections
 CODEOWNERS @CivicActions/policy
+CODE_OF_CONDUCT.md @CivicActions/policy
+LICENSE.md @CivicActions/policy
 company-policies/* @CivicActions/policy
 employee-benefits/* @CivicActions/policy
 
