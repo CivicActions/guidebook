@@ -8,7 +8,7 @@ This guidebook is written by and for all employees of CivicActions. Everyone is 
 
 A common reason to create or edit documentation is to "scratch an itch" that's felt when we come across a lack of information or spot an error. We invite you to act on that impulse when you can. You can also ask a practice lead if you are not sure. This way we keep the guidebook working as a valuable resource for new hires as well as veteran team members.
 
-We have [a Trello board](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) to manage the guidebook backlog. Feel free to pick something off the backlog to work on (unless it's already been assigned to someone).
+We use [the GitHub issue queue](https://github.com/CivicActions/guidebook/issues) to manage the guidebook backlog. Feel free to pick something off the backlog to work on (unless it's already been assigned to someone).
 
 We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel in Slack to communicate.
 
@@ -16,7 +16,7 @@ We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel i
 
 When making a contribution to the guidebook:
 
-1. If you have an idea for improving the guidebook but don't have time to research and/or write new content, you can open a new [Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion for the backlog.
+1. If you have an idea for improving the guidebook but don't have time to research and/or write new content, you can open a new [issue](https://github.com/CivicActions/guidebook/issues) with a suggestion for the backlog.
 2. You can chat about your suggestion in [#docs](https://civicactions.slack.com/messages/docs/) in Slack and ask for help if you're not sure how to resolve any issues.
 3. Take 10 minutes to review:
     1. The [writing style](writing-style-guide.md) for guidebook content (to maintain consistency).
