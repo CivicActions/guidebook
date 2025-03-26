@@ -1,0 +1,51 @@
+---
+title: Contrib First Professional Development Sprint
+---
+
+# Contrib First Professional Development Sprint
+
+This serves as a guide for conducting a professional development sprint to build a contributed projects or features following [Contrib First](./contrib-first.md).
+
+## Kickoff Announcement Example
+
+This example can be used as a template to paste into Slack.
+
+**Pro-dev sprint:** Contrib First Drupal Module Build
+**Purpose:** To get more people from all practice areas experienced in building a contributed Drupal module as [Contrib First](https://guidebook.civicactions.com/en/latest/common-practices-tools/contribution/contrib-first/).
+**Time commitment:** 2-4 hours per week for 4 weeks (5-10% of your time)
+**Who:** We need a team
+
+* Product Owner: (Typically a Product person or TL from a project that needs the module)
+* Drupal engineer
+* FE engineer
+* UX Designer
+* DevSecOps or QA
+* Project Manager
+
+
+Preference given to people with no previous Drupal contribution experience
+
+**What to get out of it:**
+
+* Experience with Contrib First
+* Experience with Drupal contribution
+* Experience using the Drupal Issue Queue
+* Experience working in the open (public)
+* A safe space to be new to the process
+* Alignment with your personal goals, practice area goals, and company OKRs
+
+**How to bill:**
+
+* Talk to your current project's PM and TL to see if it is something that project could use.  If so, it will be billable to that project.
+* If your current project can't benefit from it can be logged as **PRODEV\_COMMPART \-\> Professional Development**
+
+**Module description:** (example)
+A USWDS based alert module that would allow for placing [Site alerts](https://designsystem.digital.gov/components/site-alert/) and [Alerts](https://designsystem.digital.gov/components/alert/)
+
+* Built upon the [Sitewide Alert](https://www.drupal.org/project/sitewide_alert) module (as a dependency)
+* Two different block plugins
+* Two different Single Directory Components
+* Support for using the components within Drupal and in a headless site.
+* Test coverage
+* Well documented
+* Supports for maintainership (Tugboat, Gitlab CI, Ddev)
