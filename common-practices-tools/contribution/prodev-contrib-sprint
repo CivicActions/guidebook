@@ -49,3 +49,11 @@ A USWDS based alert module that would allow for placing [Site alerts](https://de
 * Test coverage
 * Well documented
 * Supports for maintainership (Tugboat, Gitlab CI, Ddev)
+
+## Onboarding
+
+Onboarding checklist for each team member.
+
+* [Create an account on Drupal.org](https://www.drupal.org/user/register) if you do not have one.
+* [Add CivicActions to your profile as "Work"](../../practice-areas/engineering/drupal/drupal-for-drupal-engineers/#contributions-to-drupalorg).
+* If your current project's client has a Drupal.org page, add them as "Work" too.
