@@ -68,6 +68,7 @@ nav:
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
       - Contrib first:
+          - common-practices-tools/contribution/README.md
           - common-practices-tools/contribution/contrib-first.md
           - common-practices-tools/contribution/prodev-contrib-sprint.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
