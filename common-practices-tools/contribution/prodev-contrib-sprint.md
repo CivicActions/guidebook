@@ -11,8 +11,11 @@ This serves as a guide for conducting a professional development sprint to build
 This example can be used as a template to paste into Slack.
 
 **Pro-dev sprint:** Contrib First Drupal Module Build
+
 **Purpose:** To get more people from all practice areas experienced in building a contributed Drupal module as [Contrib First](https://guidebook.civicactions.com/en/latest/common-practices-tools/contribution/contrib-first/).
+
 **Time commitment:** 2-4 hours per week for 4 weeks (5-10% of your time)
+
 **Who:** We need a team
 
 -   Product Owner: (Typically a Product person or TL from a project that needs the module)
@@ -54,7 +57,7 @@ A USWDS based alert module that would allow for placing [Site alerts](https://de
 Onboarding checklist for each team member.
 
 -   [Create an account on Drupal.org](https://www.drupal.org/user/register) if you do not have one.
--   [Add CivicActions to your profile as "Work"](../../practice-areas/engineering/drupal/drupal-for-drupal-engineers/#contributions-to-drupalorg).
+-   [Add CivicActions to your profile as "Work"](../../practice-areas/engineering/drupal/drupal-for-drupal-engineers.md#contributions-to-drupalorg).
 -   If your current project's client has a Drupal.org page, add them as "Work" too.
 
 ## Working in Public
@@ -93,3 +96,8 @@ Work toward getting MVP completed as you normally would with a project team. Che
 -   Perform the official release
 -   Opt into security coverage (you may need to add someone who has that power as a maintainer for a few minutes).
 -   Advertize within the company that this module is ready.
+
+## Resources
+
+-   [Contrib First module development for Drupal](../practice-areas/engineering/drupal/drupal-contrib-first-module-development.md)
+-   [Agile](../agile/README.md)
