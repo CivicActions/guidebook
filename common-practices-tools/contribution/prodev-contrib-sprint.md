@@ -66,7 +66,7 @@ This development will be taking place in public. There are several things to con
 
 -   Whenever possible, have conversations in public on the issue queue rather than in Slack or Zoom.
 -   This is an opportunity to represent your personal brand. Say please, thank you, and other positive things. Good manners go a long way to having others contribute to your success and the success of the thing being built.
--   Getting comfortable participating in public is part of the goal of this, not just building the thing.
+-   Getting comfortable participating in public is part of the goal of this, not solely building the thing.
 -   Bring in a friend. If there is something interesting that needs eyes from someone other than who is on the prodev team, reach out to them for feedback or guidance.
 
 ## Sprint 0
@@ -99,5 +99,5 @@ Work toward getting MVP completed as you normally would with a project team. Che
 
 ## Resources
 
--   [Contrib First module development for Drupal](../practice-areas/engineering/drupal/drupal-contrib-first-module-development.md)
+-   [Contrib First module development for Drupal](../../practice-areas/engineering/drupal/drupal-contrib-first-module-development.md)
 -   [Agile](../agile/README.md)
