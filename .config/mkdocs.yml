@@ -67,7 +67,7 @@ nav:
           - common-practices-tools/agile/sprint-retrospectives.md
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
-      - Contrib first:
+      - Contribution:
           - common-practices-tools/contribution/README.md
           - common-practices-tools/contribution/contrib-first.md
           - common-practices-tools/contribution/prodev-contrib-sprint.md
