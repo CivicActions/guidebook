@@ -67,7 +67,10 @@ nav:
           - common-practices-tools/agile/sprint-retrospectives.md
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
-      - common-practices-tools/contribution/contrib-first.md
+      - Contribution:
+          - common-practices-tools/contribution/README.md
+          - common-practices-tools/contribution/contrib-first.md
+          - common-practices-tools/contribution/prodev-contrib-sprint.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Security awareness and tools:
           - common-practices-tools/security/README.md
