@@ -40,6 +40,7 @@ nav:
       - company-policies/employment/leaving-civicactions.md
       - company-policies/health-safety-security.md
       - company-policies/sustainability.md
+      - company-policies/political-activity-and-social-media-policy.md
       - New hire orientation:
           - company-policies/new-hire-orientation/README.md
           - Welcome to CivicActions: company-policies/new-hire-orientation/README.md
@@ -66,7 +67,10 @@ nav:
           - common-practices-tools/agile/sprint-retrospectives.md
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
-      - common-practices-tools/contribution/contrib-first.md
+      - Contribution:
+          - common-practices-tools/contribution/README.md
+          - common-practices-tools/contribution/contrib-first.md
+          - common-practices-tools/contribution/prodev-contrib-sprint.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Security awareness and tools:
           - common-practices-tools/security/README.md

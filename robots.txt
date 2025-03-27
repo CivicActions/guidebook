@@ -1,7 +1,5 @@
 User-agent: *
 
-Disallow: /
-
-Allow: /en/latest
+Allow: /
 
 Sitemap: https://guidebook.civicactions.com/sitemap.xml
