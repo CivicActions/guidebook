@@ -30,8 +30,6 @@ Exempt: Employees whose positions meet specific tests established by the Fair La
 
 Non-exempt: Employees whose positions do not meet FLSA and state exemption tests and who are paid a multiple of their regular rate of pay for overtime hours worked.
 
-Link to FSLA coverage: <http://www.flsa.com/coverage.html>
-
 ## Confidentiality
 
 This paragraph is simply intended to alert employees to the need for discretion and is not intended to inhibit normal business communications. For further information, refer to the "Confidential Information and Inventions Agreement" you signed when you were hired.
