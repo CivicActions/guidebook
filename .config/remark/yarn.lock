@@ -2175,10 +2175,10 @@ remark-lint-list-item-spacing@^5.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-maximum-heading-length@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-maximum-heading-length/-/remark-lint-maximum-heading-length-4.0.0.tgz#29b6adcc319bde4374429e9e39487d94a476543b"
-  integrity sha512-UCQxUd0zZyi6RUbpoK5KsxC50ppVqVk0hSgrSPot4wB6PHRgYMALU2fDkEcAjLDc/Y2TayG3IaZEKdqe+84Cwg==
+remark-lint-maximum-heading-length@^4.0.0, remark-lint-maximum-heading-length@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-maximum-heading-length/-/remark-lint-maximum-heading-length-4.1.1.tgz#ffb60105dd085156af69692c4e0f9078ca45126b"
+  integrity sha512-99yonukJ+e0uhx0zGH4uq6H9mhO7FA1ufmuToODH1N+X3ja61Grvlvvlq9UbP9+gbfbWgN97QGKPaTlE29FpaQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-mdx "^3.0.0"
