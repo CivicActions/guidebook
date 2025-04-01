@@ -2214,10 +2214,10 @@ remark-lint-no-blockquote-without-marker@^6.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-location "^5.0.0"
 
-remark-lint-no-consecutive-blank-lines@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-5.0.0.tgz#bbfbdcdc2e228b6379b7268ac489a56b6e07d1a0"
-  integrity sha512-HsDZbFlelBVO3mEJDXd9v4z0HLB8pqxWnsV+I4ILYFp5lKYf6NxJaLBWFtP1gAg1+95WxityGLkGtYqmicDjpg==
+remark-lint-no-consecutive-blank-lines@^5.0.0, remark-lint-no-consecutive-blank-lines@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-5.0.1.tgz#b3e372bb6f7763f67714f9052cd72515b85f0884"
+  integrity sha512-yLtYCrEBtGDao4ozmZruRzjMYAcBVFK69PoYjPfNwFO8pQ/LPt8KCq6oyg1ronNyRbDYEGqVdLIHcT/zL3LjPA==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-directive "^3.0.0"
