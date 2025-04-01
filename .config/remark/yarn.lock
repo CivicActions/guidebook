@@ -1874,10 +1874,10 @@ remark-lint-blockquote-indentation@^4.0.0, remark-lint-blockquote-indentation@^4
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-checkbox-character-style@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-character-style/-/remark-lint-checkbox-character-style-5.0.0.tgz#f41628a77bb3062391c3c2cdaa639e7be6719416"
-  integrity sha512-K0G/Nok59fb2q5KUxcemBVt+ymnhTkDVLJAatZ4PAh9At8y0DGctHdU27jWsuvO0Fs7Zy62Usk7IJE2VO89p1w==
+remark-lint-checkbox-character-style@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-character-style/-/remark-lint-checkbox-character-style-5.0.1.tgz#fcc9254bac8ce2025c8949a863ad37b7aa354208"
+  integrity sha512-6qilm7XQXOcTvjFEqqNY57Ki7md9rkSdpMIfIzVXdEnI4Npl2BnUff6ANrGRM7qTgJTrloaf8H0eQ91urcU6Og==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
