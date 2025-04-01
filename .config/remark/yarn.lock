@@ -2056,21 +2056,10 @@ remark-lint-hard-break-spaces@^4.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit "^5.0.0"
 
-remark-lint-heading-increment@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-heading-increment/-/remark-lint-heading-increment-3.1.2.tgz#bef7e7cf8a6292b2869a0cb03944094504d984ad"
-  integrity sha512-+fMfZmFh6ie6MmbRCVW77Rha15zDmnHWKiA0Do08OTrfngPTv8ZKXYLmxhUpL+xV9ts9q+9Kz5rv0L4QD4sEwQ==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-heading-increment@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-heading-increment/-/remark-lint-heading-increment-4.0.0.tgz#3dfe78334dfafc8e856e5396bc1f9f9ced36e441"
-  integrity sha512-TARnsjXWzY/yLwxh/y4+KnDSXO3Koue8Crp55T8G9pjj3vw+XgTAG35zSpIIY9HmGiQ2a3R0SOj2pAxATpnckg==
+remark-lint-heading-increment@^4.0.0, remark-lint-heading-increment@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-heading-increment/-/remark-lint-heading-increment-4.0.1.tgz#fb282edd7fb6b254a02937b0ced55ba31e471bfa"
+  integrity sha512-uat7RTQn0hGlMv62p7yjLlg3tO3RljFbH6C+0M+5BNEF+s3NrA8jJgqW0UwLLNdCd3EABCKaWloHumT57ND7PQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     devlop "^1.0.0"
