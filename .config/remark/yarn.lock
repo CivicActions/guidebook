@@ -2266,10 +2266,10 @@ remark-lint-no-emphasis-as-heading@^4.0.0:
     unified-lint-rule "^3.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-empty-url@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-empty-url/-/remark-lint-no-empty-url-4.0.0.tgz#2c3039150c281df17f6f39328e8a42598f962756"
-  integrity sha512-2zJxrSnL42wGe+CSZepBzoj8d/FeL/QU8GM6TEO/5qGfXwvJD7s2v6q074UJU0CAaWlWRqSxElescwk3yGQddA==
+remark-lint-no-empty-url@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-empty-url/-/remark-lint-no-empty-url-4.0.1.tgz#dc6407b02bb9b8e4f2ce5e61b4976e82a61646b6"
+  integrity sha512-FSQIO+Q63kNNSUfbvvWPz6ES4q1gJIc4aMjohch9bfKwcv6wWZc6UkjlMMi823I124p6onrY/F8KKECv06H5YQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
