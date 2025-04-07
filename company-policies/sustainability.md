@@ -15,7 +15,7 @@ Sustainability has been one of the consistent threads in our work over the last 
 
 -   Our ecosystem is interdependent
 -   Using science, we can understand environmental systems and effectively address issues
--   Promoting habitat and diversity, supports ecological systems
+-   Promoting local habitats and biodiversity, supports the global ecological systems we all depend on
 -   Environmental challenges have social and political impacts
 -   The impact of climate change will disproportionately affect disadvantaged groups
 
