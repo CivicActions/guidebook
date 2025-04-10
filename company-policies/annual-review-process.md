@@ -25,13 +25,13 @@ The review season starts in January and concludes in April with reviews being de
 -   Phase 4: Approvals (PeopleOps and Executives)
 -   Phase 5: Review Delivery (Entire Team)
 
-# Annual Review Season Ratings & Rebuttals
+## Annual Review Season Ratings & Rebuttals
 
 Below we provide clarity on how we assess performance ratings in alignment with our values and organizational goals. You'll also find detailed information about our rebuttal process.
 
 Together, we aim to create an environment where everyone can thrive, grow, and have their voice be heard.
 
-## Definitions for Ratings
+### Definitions for Ratings
 
 The performance rating definitions are meant to help you better understand what each rating represents.
 
@@ -39,13 +39,13 @@ We've taken the time to describe them further to provide clarity and transparenc
 
 This is part of our commitment to ensuring you feel informed and confident about the review process.
 
-### Requires Development
+#### Requires Development
 
 Does not consistently meet the core expectations of their role and level.
 
 Additional direction, support, and improvement are needed to achieve the required results.
 
-### Consistently Demonstrates Excellence
+#### Consistently Demonstrates Excellence
 
 Consistently performs at a high standard, fulfilling all key responsibilities of the role with competence, reliability, and dedication.
 
@@ -53,7 +53,7 @@ The work demonstrates a solid understanding of the role and the person is a stea
 
 While some may occasionally exceed expectations, this rating reflects consistent, high-quality performance aligned with the expectations for the role.
 
-### Exceeds Expectations
+#### Exceeds Expectations
 
 Consistently exceeds the core expectations of their role. This is not simply doing more work, but by demonstrably impacting key areas.
 
@@ -61,7 +61,7 @@ This individual delivers results that significantly surpass defined goals, drivi
 
 Their contributions measurably elevate team and organizational performance, showcasing exceptional capabilities beyond their defined responsibilities.
 
-### Establishes New Benchmarks
+#### Establishes New Benchmarks
 
 This rating signifies performance that transcends expectations, establishing new standards of excellence and redefining the potential of the role.
 
@@ -69,13 +69,13 @@ This individual's contributions are marked by transformational impact, driving s
 
 They actively mentor and develop others, raising the performance bar for the entire team, and demonstrate exceptional strategic thinking, anticipating future challenges and opportunities to develop innovative, forward-thinking solutions.
 
-## Understanding the Ratings
+### Understanding the Ratings
 
 Here are some tips to help you better understand the performance ratings and how they align with CivicActions' values and goals.
 
 Understanding these ratings can provide valuable insight into how your contributions are recognized and how you can continue to grow within the organization.
 
-### General Insight
+#### General Insight
 
 -   **Celebrate Your Wins:** Take time to reflect and be proud of all that you have accomplished in the last review period.
 -   **Focus on Growth**: Use these ratings as a roadmap to improve. Whether you're meeting expectations or setting benchmarks, you have unlimited potential.
@@ -84,37 +84,37 @@ Understanding these ratings can provide valuable insight into how your contribut
 
 ### Rating Quick Tips
 
-#### Requires Development:
+#### Requires Development
 
 -   Focus on specific areas for improvement and create an action plan.
 -   Use feedback constructively and seek out learning opportunities.
 -   Track your progress and recognize small improvements.
 
-#### Consistently Demonstrates Excellence:
+#### Consistently Demonstrates Excellence
 
 -   Stay consistent by organizing and prioritizing your work.
 -   Share your expertise with others and contribute to team goals.
 -   Look for opportunities to exceed expectations occasionally.
 
-#### Exceeds Expectations:
+#### Exceeds Expectations
 
 -   Be proactive in finding ways to contribute beyond your role.
 -   Keep a record of your successes and share them with your team.
 -   Inspire others by collaborating and sharing best practices.
 
-#### Establishes New Benchmarks:
+#### Establishes New Benchmarks
 
 -   Think about the broader impact of your work and how it can influence others.
 -   Actively mentor and guide team members to foster growth.
 -   Stay ahead of challenges by thinking creatively and strategically.
 
-## Rebuttal Process
+### Rebuttal Process
 
 At CivicActions, we believe in openness and care, which extends to our performance evaluation process.
 
 If you disagree with your review, you can engage in our rebuttal process:
 
-### 1. The "Cooling-off" Period
+#### 1. The "Cooling-off" Period
 
 -   **What It Is**: After receiving your review, you have 10 business days to thoroughly read and process the feedback.
 -   **Your Role**:
@@ -122,7 +122,7 @@ If you disagree with your review, you can engage in our rebuttal process:
     -   Identify specific points of disagreement and note why you disagree.
     -   Create a copy of the Rebuttal Template and fill in with your content.
 
-### 2. Initial Discussion with the Reviewer
+#### 2. Initial Discussion with the Reviewer
 
 -   **Purpose**: A one-on-one meeting with your manager to discuss your concerns.
 -   **Your Role**:
@@ -130,7 +130,7 @@ If you disagree with your review, you can engage in our rebuttal process:
     -   Approach the conversation constructively to clarify misunderstandings and address concerns.
     -   If you feel uncomfortable with a one-on-one meeting, go directly to step 3.
 
-### 3. Written Rebuttal (If Necessary)
+#### 3. Written Rebuttal (If Necessary)
 
 -   **When to Use**: If the initial discussion doesn't resolve the issue, you can submit a formal written rebuttal.
 -   **Your Role**:
@@ -138,7 +138,7 @@ If you disagree with your review, you can engage in our rebuttal process:
     -   Keep it concise, clearly identifying the aspects of the evaluation being disputed.
     -   Focus on specific points of disagreement, providing evidence and alternative perspectives.
 
-### 4. Review Committee
+#### 4. Review Committee
 
 -   **Purpose**: To ensure a fair resolution by reviewing all documentation.
 -   **Process**:
@@ -147,13 +147,13 @@ If you disagree with your review, you can engage in our rebuttal process:
     -   They will make a recommendation on the review and any necessary adjustments to the rating.
 -   **Final Decision**: The CTO or COO will review the committee's recommendation and make the final decision.
 
-### 5. Communication of Final Decision
+#### 5. Communication of Final Decision
 
 -   **Your Role**:
     -   Await the final decision to be communicated in writing by PeopleOps.
     -   Use the feedback to refine your understanding and continue growing within your role.
 
-## Tips for Navigating the Rebuttal Process
+### Tips for Navigating the Rebuttal Process
 
 -   **Take Your Time**: Use the cooling-off period to process your feedback thoroughly and avoid reacting impulsively. This will help you articulate your concerns more effectively.
 -   **Be Specific**: Focus on specific aspects of the evaluation that you disagree with. Clearly explain why, and provide examples or evidence to support your perspective.
