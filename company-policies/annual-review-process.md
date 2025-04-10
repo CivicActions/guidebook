@@ -84,25 +84,25 @@ Understanding these ratings can provide valuable insight into how your contribut
 
 ### Rating Quick Tips
 
-#### Requires Development
+Requires Development:
 
 -   Focus on specific areas for improvement and create an action plan.
 -   Use feedback constructively and seek out learning opportunities.
 -   Track your progress and recognize small improvements.
 
-#### Consistently Demonstrates Excellence
+Consistently Demonstrates Excellence:
 
 -   Stay consistent by organizing and prioritizing your work.
 -   Share your expertise with others and contribute to team goals.
 -   Look for opportunities to exceed expectations occasionally.
 
-#### Exceeds Expectations
+Exceeds Expectations:
 
 -   Be proactive in finding ways to contribute beyond your role.
 -   Keep a record of your successes and share them with your team.
 -   Inspire others by collaborating and sharing best practices.
 
-#### Establishes New Benchmarks
+Establishes New Benchmarks:
 
 -   Think about the broader impact of your work and how it can influence others.
 -   Actively mentor and guide team members to foster growth.
