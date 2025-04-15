@@ -66,7 +66,7 @@ These conversations often require more than one discussion. It is important to c
 
 If you both think it would be helpful, consider inviting a neutral third party to mediate. This can include someone from PeopleOps, a manager, or a trusted colleague who is comfortable facilitating the discussion.
 
-Review the [Withholds Exercise / Process](withholds.md) and see if you would prefer that approach and follow that process instead of the approach above. Note that is very different from the above approaches.
+Review the [Withholds Exercise / Process](https://docs.google.com/document/d/16qeSombr856Dq97rTnehHW19nNQJng6_idyBaBRm10Y/edit?tab=t.0#heading=h.gjdgxs) and see if you would prefer that approach and follow that process instead of the approach above. Note that is very different from the above approaches.
 
 For giving and receiving feedback review [conflict resolution and growth mindset](../practice-areas/project-management/growth-mindset.md).
 
