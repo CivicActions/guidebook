@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.10"
 mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.6.11-insiders-4.53.16"}
 mkdocs-git-revision-date-localized-plugin = "^1.4.5"
-pymdown-extensions = "^10.14"
+pymdown-extensions = "^10.15"
 
 
 [build-system]
