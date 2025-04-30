@@ -6,8 +6,8 @@ title: About practice areas
 
 Practice areas are self-organized groups oriented around a specific practice or craft. They help:
 
--   provide client services
--   build the team that delivers those services
+*   provide client services   
+*   build the team that delivers those services
 -   work across departments and delivery to develop, market, sell, deliver and grow a set of related services
 -   foster learning, continuous improvement and cross-pollination of ideas and best practice across the company
 
@@ -28,7 +28,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | [Accessibility](accessibility/README.md)     | Maggie Wachs, Laura Flannery, Mike Gifford                                                   | #accessibility         | Twice monthly                        |
 | Data Science                                 |                                                                                              | #datascience           |                                      |
 | Design                                       | Jenna Waszak, Kelly Smith, Val Runde                                                         | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
-| DevSecOps                                    | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
+| DevSecOps                                    | Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | [Drupal](engineering/drupal/README.md)       | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
 | Frontend                                     | Eric Huffman, Iris Ibekwe                                                                    | #engineering-frontend  | Monthly                              |
 | Product Management                           | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
