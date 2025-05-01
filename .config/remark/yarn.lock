@@ -2752,10 +2752,10 @@ remark-preset-prettier@^2.0.1:
   resolved "https://registry.yarnpkg.com/remark-preset-prettier/-/remark-preset-prettier-2.0.1.tgz#1b4469fd45b22c7d49e1b2d2594a8e7bba3cdac9"
   integrity sha512-1+cZaM080zTlhQIvZDOj7SFWvW9zevfxsLjTZspLEsBYivMDwCyTodvNvaZLc9p5dUSMik/BjMFKicfhZXh7qg==
 
-remark-retext@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/remark-retext/-/remark-retext-6.0.0.tgz#97c20ed898bd9d574943378af842bf007b53c57b"
-  integrity sha512-VYs0p+3G4DKm/KtWx7LV8YPbyX4CjBf1SZcEk2usEv3QK6JK4g5EfurDAPUmGVZOx/NcqOiNbozfGqpl2HQfTA==
+remark-retext@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/remark-retext/-/remark-retext-6.0.1.tgz#bebff574f4d988b738537e7daffdc16b1fac1032"
+  integrity sha512-GZk8Fa/h88+OhmUlJuqEFX4Pi7OvgI3pq1bHyr/NJibTQxANH8/aZGoOflh4zDAwVDdvgoEk5XOJsWQ8UfjFnA==
   dependencies:
     "@types/mdast" "^4.0.0"
     "@types/nlcst" "^2.0.0"
