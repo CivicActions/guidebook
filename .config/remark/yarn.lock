@@ -2339,10 +2339,10 @@ remark-lint-no-heading-indent@^5.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-heading-punctuation@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-4.0.0.tgz#da19bc0fb6d76e443067429b4cc15660bc392d3e"
-  integrity sha512-7V23C3Q4yX9zEOLZdbv6o8wVxxeWB/F+h9by55zPyk2AwbqF2t2xevnAmN3XFmKZABDTqLwjQxtK6bCVv/S1PQ==
+remark-lint-no-heading-punctuation@^4.0.0, remark-lint-no-heading-punctuation@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-4.0.1.tgz#3c8514fb99e26ec07134f8a443ec78bb818b9938"
+  integrity sha512-lpSVFEHPDKGWi8YPeO51xmLNVON5A2cGz0Y8VRkW0f2l6LvEkPTMjQAvA84AQu/10TrxTbIzU/tQlRLpG96QUA==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-mdx "^3.0.0"
