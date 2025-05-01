@@ -2480,15 +2480,14 @@ remark-lint-no-table-indentation@^5.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-location "^5.0.0"
 
-remark-lint-no-tabs@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-3.1.2.tgz#a84a7e5ff3dd6849eb7be4717e53091034b6b1a2"
-  integrity sha512-PQQmRpGHRW9tMnAXtlQbMke8byIJu9hlotCH6pJZPO4FodpXvD4JW5EMM3BmO0JQDZsQWrx3qfqxCEMxrj8Qbg==
+remark-lint-no-tabs@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-4.0.1.tgz#ba59ecc12d17b61e797a1bbb9ddbafdcd67f22c6"
+  integrity sha512-+lhGUgY3jhTwWn1x+tTIJNy5Fbs2NcYXCobRY7xeszY0VKPCBF2GyELafOVnr+iTmosXLuhZPp5YwNezQKH9IQ==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    vfile-location "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    vfile-location "^5.0.0"
 
 remark-lint-no-undefined-references@^5.0.0, remark-lint-no-undefined-references@^5.0.1:
   version "5.0.1"
