@@ -2139,10 +2139,10 @@ remark-lint-list-item-content-indent@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-list-item-indent@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-list-item-indent/-/remark-lint-list-item-indent-4.0.0.tgz#d72e7ef4c7ea238987e5475e33439b7efbe46389"
-  integrity sha512-Yd6/g8CH9e4vlPAPNgl7F575uKhP+pTo/qwGkE61GOcgEVNJ/529hjumUhyQ4sOAX0YAPAjxvq6fJvb4AhVOOA==
+remark-lint-list-item-indent@^4.0.0, remark-lint-list-item-indent@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-indent/-/remark-lint-list-item-indent-4.0.1.tgz#b2e956d07fdd7f3cbc5d3407321222605a8d9385"
+  integrity sha512-gJd1Q+jOAeTgmGRsdMpnRh01DUrAm0O5PCQxE8ttv1QZOV015p/qJH+B4N6QSmcUuPokHLAh9USuq05C73qpiA==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
@@ -2339,10 +2339,10 @@ remark-lint-no-heading-indent@^5.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-heading-punctuation@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-4.0.0.tgz#da19bc0fb6d76e443067429b4cc15660bc392d3e"
-  integrity sha512-7V23C3Q4yX9zEOLZdbv6o8wVxxeWB/F+h9by55zPyk2AwbqF2t2xevnAmN3XFmKZABDTqLwjQxtK6bCVv/S1PQ==
+remark-lint-no-heading-punctuation@^4.0.0, remark-lint-no-heading-punctuation@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-4.0.1.tgz#3c8514fb99e26ec07134f8a443ec78bb818b9938"
+  integrity sha512-lpSVFEHPDKGWi8YPeO51xmLNVON5A2cGz0Y8VRkW0f2l6LvEkPTMjQAvA84AQu/10TrxTbIzU/tQlRLpG96QUA==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-mdx "^3.0.0"
@@ -2480,15 +2480,14 @@ remark-lint-no-table-indentation@^5.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-location "^5.0.0"
 
-remark-lint-no-tabs@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-3.1.2.tgz#a84a7e5ff3dd6849eb7be4717e53091034b6b1a2"
-  integrity sha512-PQQmRpGHRW9tMnAXtlQbMke8byIJu9hlotCH6pJZPO4FodpXvD4JW5EMM3BmO0JQDZsQWrx3qfqxCEMxrj8Qbg==
+remark-lint-no-tabs@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-4.0.1.tgz#ba59ecc12d17b61e797a1bbb9ddbafdcd67f22c6"
+  integrity sha512-+lhGUgY3jhTwWn1x+tTIJNy5Fbs2NcYXCobRY7xeszY0VKPCBF2GyELafOVnr+iTmosXLuhZPp5YwNezQKH9IQ==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    vfile-location "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    vfile-location "^5.0.0"
 
 remark-lint-no-undefined-references@^5.0.0, remark-lint-no-undefined-references@^5.0.1:
   version "5.0.1"
@@ -2640,10 +2639,10 @@ remark-lint-unordered-list-marker-style@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-10.0.0.tgz#161b24a18223a68ec2ed8d77e46015b5a0bd8bb5"
-  integrity sha512-E8yHHDOJ8b+qI0G49BRu24pe8t0fNNBWv8ENQJpCGNrVeTeyBIGEbaUe1yuF7OG8faA6PVpcN/pqWjzW9fcBWQ==
+remark-lint@^10.0.0, remark-lint@^10.0.1:
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-10.0.1.tgz#56d64e28a6373f10a4508e644c9d5a8056f9c9ca"
+  integrity sha512-1+PYGFziOg4pH7DDf1uMd4AR3YuO2EMnds/SdIWMPGT7CAfDRSnAmpxPsJD0Ds3IKpn97h3d5KPGf1WFOg6hXQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     remark-message-control "^8.0.0"
@@ -2753,10 +2752,10 @@ remark-preset-prettier@^2.0.1:
   resolved "https://registry.yarnpkg.com/remark-preset-prettier/-/remark-preset-prettier-2.0.1.tgz#1b4469fd45b22c7d49e1b2d2594a8e7bba3cdac9"
   integrity sha512-1+cZaM080zTlhQIvZDOj7SFWvW9zevfxsLjTZspLEsBYivMDwCyTodvNvaZLc9p5dUSMik/BjMFKicfhZXh7qg==
 
-remark-retext@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/remark-retext/-/remark-retext-6.0.0.tgz#97c20ed898bd9d574943378af842bf007b53c57b"
-  integrity sha512-VYs0p+3G4DKm/KtWx7LV8YPbyX4CjBf1SZcEk2usEv3QK6JK4g5EfurDAPUmGVZOx/NcqOiNbozfGqpl2HQfTA==
+remark-retext@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/remark-retext/-/remark-retext-6.0.1.tgz#bebff574f4d988b738537e7daffdc16b1fac1032"
+  integrity sha512-GZk8Fa/h88+OhmUlJuqEFX4Pi7OvgI3pq1bHyr/NJibTQxANH8/aZGoOflh4zDAwVDdvgoEk5XOJsWQ8UfjFnA==
   dependencies:
     "@types/mdast" "^4.0.0"
     "@types/nlcst" "^2.0.0"
