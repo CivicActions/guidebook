@@ -120,5 +120,5 @@ Too much abstraction, or abstraction done too early, can increase complexity and
 
 ## Credits
 
-- This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008.
-- Modified in 2025.
+-   This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008.
+-   Modified in 2025.
