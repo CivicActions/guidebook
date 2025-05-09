@@ -9,6 +9,7 @@ import quotes from "retext-quotes";
 import sentenceSpacing from "retext-sentence-spacing";
 import repeated from "retext-repeated-words";
 import indefinite from "retext-indefinite-article";
+import gfm from "remark-gfm";
 
 export default attacher;
 
@@ -20,6 +21,7 @@ function attacher() {
       .use(sentenceSpacing, { preferred: 1 })
       .use(quotes, { preferred: "straight" })
       .use(repeated)
-      .use(indefinite),
+      .use(indefinite)
+      .use(gfm),
   );
 }
