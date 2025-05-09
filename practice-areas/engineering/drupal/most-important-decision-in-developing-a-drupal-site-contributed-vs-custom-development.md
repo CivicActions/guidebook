@@ -4,8 +4,6 @@ title: Drupal - contributed vs. custom development
 
 # The most important decision in developing a Drupal site: contributed vs. custom development
 
-Note: _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
-
 When developing in Drupal, should we hack something together that's specific to a site? Or should we instead take the time to do things "right" by improving existing modules or writing our own new modules to contribute to the community? When is one of these options better than the other? How do we decide? It's a key set of questions. All but the most basic projects will require some level of new development. The way we approach this new development is probably _the most important factor_ in determining the long term value of our work, both for us and for our clients. It's a given that we'll first try to meet as much of the need as we can through existing, proven solutions. But there is always some need for customization. For smaller projects, new development might be:
 
 -   minor patches to existing modules
@@ -37,7 +35,7 @@ What are some of the benefits and risks of custom vs. contributed development? H
 <tr>
 <td>Meeting customer specs</td>
 <td>Can potentially match customer specs exactly.</td>
-<td>May require relatively more adjustment of customer specs, or additional work to customize a generic solution.</td>
+<td>May require additional work to create a general solution.</td>
 </tr>
 <tr>
 <td>Flexibility/reusability</td>
@@ -57,27 +55,32 @@ What are some of the benefits and risks of custom vs. contributed development? H
 <tr>
 <td>Understandable code</td>
 <td>Tends to promote custom, non-standard approaches that are relatively difficult for new developers to follow.</td>
-<td>Tends to promote more standard approaches.</td>
+<td>Tends to promote more standard approaches and better documentation.</td>
 </tr>
 <tr>
 <td>Troubleshooting and security</td>
 <td>Onus is entirely on the project.</td>
-<td>Potential benefit of contributions from community contributions and wider testing environment given a bigger install base.</td>
+<td>Benefit of contributions from community contributions and wider testing environment given a bigger install base.</td>
+</tr>
+<tr>
+<td>Continuous integration</td>
+<td>Tests are run on client services for all code changes.</td>
+<td>Tests are run on Drupal.org only when the contributed code has changes. Also will get automated upgrade notices and patches to the next version of Drupal.</td>
 </tr>
 <tr>
 <td>Maintenance and upgrade time</td>
-<td>Can with a custom code base that needs maintenance and upgrades, increasing long term cost.</td>
-<td>Still needs maintenance and upgrading but may benefit from community contributions and from the potential to share costs with other projects since it meets their needs as well.</td>
+<td>Needs maintenance and upgrades, increasing long term cost.</td>
+<td>Still needs maintenance and upgrading but will benefit from community contributions and from the potential to share costs with other projects since it meets their needs as well.</td>
 </tr>
 <tr>
 <td>Developer satisfaction and growth</td>
 <td>May reduce initial stress ("Sure, we can do that.").</td>
-<td>May provide greater fulfillment and more valuable learning.</td>
+<td>May provide greater fulfillment and more valuable learning ("We made this and shared it.").</td>
 </tr>
 </tbody>
 </table>
 
-Most problems have at least a generic component and can be approached in part through abstracted development. Part of the work is discussion with the client. We need to work to ensure the client understands the relative costs and benefits of custom development vs. generic solutions. In most cases, opting to give the clients "just what they want" just isn't in their long term interest and can cut them off from the benefits of choosing an open source solution in the first place.
+Most problems have at least a general component and can be approached in part through abstracted development. Part of the work is discussion with the client. We need to work to ensure the client understands the relative costs and benefits of custom development vs. general solutions. In most cases, opting to give the clients "just what they want" just isn't in their long term interest and can cut them off from the benefits of choosing an open source solution in the first place. We recommend encouraging clients to follow a [contrib first approach](../../../common-practices-tools/contribution/contrib-first.md).
 
 ## Theme-level vs. module-level solutions
 
@@ -114,3 +117,8 @@ A "yes" to one or more of these questions would indicate at least the potential 
 Too much abstraction, or abstraction done too early, can increase complexity and short term cost. It may be true that almost every problem has a generic aspect, but not every problem is sufficiently large to justify the "right" answer. Sometimes not enough is known about a problem from the outset to determine the best solution. But _custom development is essentially closed source_. That is, it's cut off from the primary benefits of open source. In fact, custom development can undermine those benefits in that it overrides and replaces solutions. An excessive reliance on custom code can burden a project in the long term with a massive codebase that delays or prevents necessary upgrades. The majority of custom code we produce for a project we should write to a generic standard and contribute back. The top problems a project presents will, almost always, justify cleanly coded, generic solutions that fully meet the client's needs _and_ can be perfectly applied elsewhere.
 
 "Sure," you might say, "but just how do we put these high-sounding ideas into action?" Well, glad you asked! Because the next installment is: [Drupal developer tips for getting the most out of open source](drupal-developer-tips-for-getting-the-most-out-of-open-source.md).
+
+## Credits
+
+- This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008.
+- Modified in 2025.
