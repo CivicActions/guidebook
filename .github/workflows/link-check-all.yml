@@ -11,7 +11,7 @@ jobs:
   check-links:
     name: runner / linkspector
     # Once https://github.com/UmbrellaDocs/action-linkspector/issues/32 is resolved, we can use ubuntu-latest
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Run linkspector on all links
