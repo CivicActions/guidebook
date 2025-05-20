@@ -49,17 +49,18 @@ It may indeed be necessary to extensively customize a form if it's centrally imp
 A large part of the challenge of providing the highest value to a client lies in teasing out the abstract problems embedded in the specificity of a client's project. Doing so is a skill that engineers can develop over time. It's not purely a technical question and ideally should involve the client, the project manager, and other members of the engineering team. Asking the right questions at the outset is key to ensuring the overall project is developed along a line where open sourcing the main thrust of development is a natural assumption. It can help to take a few steps back from the immediate details. What's the core of this need? Questions that can help tease out the general core of a problem include:
 
 -   What is the basic need that this particular requirement answers?
--   What are the few problems that anyone with a similar need would always face, regardless of the details?
+-   What are the few problems that anyone with a similar need would always face?
 -   What would the required information/data look like, independent of how it's displayed?
 -   What is the earliest spot in the process of loading and building that this change could be made? Rather than tacking on or overriding in a large way at the end, could we make this an integral part from the start?
--   What is the minimum that we could do or change and still meet the need?
+-   What is the minimum that we could do or change and still meet the MVP for our needs?
 -   Is this problem really several distinct problems that look like one because they're tied up in the same UI/output/mockup/image?
 
 Questions that can help clarify whether a particular problem lends itself to an abstract, contributed solution include:
 
--   Is the basic problem or need likely to recur elsewhere on the site or on other sites?
--   Will a significant amount of time and code be required?
--   Is this problem close to the core of what the organization/site is all about?
+-   Is the basic problem or need likely to recur on other sites?
+-   Will a significant amount of time and code be required to abstract it enough to be useful to others?
+-   Could it benefit from community support and security coverage?
+-   Is it the kind of thing that could either make the client or CivicActions look like a leader?
 
 A "yes" to one or more of these questions would indicate at least the potential to build out a solution coded to a high, general, open source standard, rather than custom code at the module or theme level.
 
