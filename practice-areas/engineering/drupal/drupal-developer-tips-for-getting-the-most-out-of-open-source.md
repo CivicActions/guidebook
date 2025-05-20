@@ -4,9 +4,7 @@ title: Drupal developer tips to get the most out of open source
 
 # Drupal developer tips for getting the most out of open source
 
-Note: _This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008._
-
-I [recently suggested](../drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) that the way we approach new development is the most important factor in determining the long term value of our work. But how can developers using Drupal make the most of open source by ensuring that participating and contributing is an essential part of our daily workflow? Here are some practical tips that come out of our experience at CivicActions and that can guide you in deciding how to approach new development to get the full benefit of open source. Read on as well for a discussion of patching vs. hacking vs. forking and of how to get attention for your patches.
+We [recently suggested](../drupal/most-important-decision-in-developing-a-drupal-site-contributed-vs-custom-development.md) that the way we approach new development is the most important factor in determining the long term value of our work. But how can developers using Drupal make the most of open source by ensuring that participating and contributing is an essential part of our daily workflow? Here are some practical tips that come out of our experience at CivicActions and that can guide you in deciding how to approach new development to get the full benefit of open source. Read on as well for a discussion of patching vs. hacking vs. forking and of how to get attention for your patches.
 
 ## Approach to new development
 
@@ -34,7 +32,7 @@ In summary:
 -   When it's necessary to build anew, focus first on doing so to a high, generic, contributed standard.
 -   Try to produce custom (site-specific closed source) modules only when the needs are limited in scope and truly specific to the site.
 -   Try to save the theme layer for what it's intended for--final presentation, look and feel.
--   When we work on a FOSS contribution for a client(s), all of the work should be billable to that client. When doing maintenance on a contribution for no particular client, that work should be reccorded as community participation (PRODEV_COMPART -> Community Participation). You will need to ask to be added to your options in Slack #unanet.
+-   When we work on a FOSS contribution for a client(s), all the work should be billable to that client. When doing maintenance on a contribution for no particular client, that work should be recorded as community participation (PRODEV_COMPART -> Community Participation). You will need to ask to be added to your options in Slack #unanet.
 
 ## Patching vs. hacking vs. forking
 
@@ -57,13 +55,13 @@ Similar considerations apply when considering custom modules or overrides at the
 Getting patches accepted and applied takes a lot of time and effort. But it's time well spent. It's part of the cost of working with open source. Often, the time required to initially code a solution through a patch is only a fraction of the total time that will be required to get that patch accepted. Ideally, these are costs that we should build into development. Some keys to making this work:
 
 -   **Make your changes generic** Avoid site-specific hacks wherever possible. Do this e.g. through adding configuration options.
--   **Work with the current development branch** Active development on a particular module may have passed on from the Drupal version your site is in. If so, take the time to convert your patch to the active development version. If you can get it applied there, you might be able to backport it. Even if a backport doesn't get applied, you're still doing well. When the site you're working on is upgraded in future, there'll be one less patch to worry about.
--   **Break up patches** When submitting patches, it's essential that you break them up into logically distinct issues. Yes, it's a lot more work. Yes, it's tempting to only roll a single patch for the various changes you might make to a module--new features, bug fixes, etc. But doing so will often sink any chance you have of getting the patch applied. How to do this in practice? Say you maintain an SVN repository of the site you're working on, as many Drupal development shops do.
-    -   Maintain (outside of SVN) a clean checkout of the module in question for each issue. In that checkout, make only the changes you need for that issue. Generate a patch.
-    -   In your SVN repository checkout, apply each of the patches you've generated. You end up with the cumulative total of the patches, but you're able to keep them distinct.
+-   **Work with the current development branch** Active development on a particular module may have passed on from the Drupal version your site is in. If so, take the time to convert your patch to the active development version. If you can get it applied there, you might be able to backport it. Even if a backport doesn't get applied, you're still doing well. When the site you're working on is upgraded in the future, there'll be one less patch to worry about.
+-   **Break up patches** When submitting patches, it's essential that you break them up into logically distinct issues. Yes, it's a lot more work. Yes, it's tempting to only roll a single patch for the various changes you might make to a module--new features, bug fixes, etc. But doing so will often sink any chance you have of getting the patch applied. How to do this in practice? Say you maintain a git repository of the site you're working on, as many Drupal development shops do.
+    -   Maintain (outside git) a clean checkout of the module in question for each issue. In that checkout, make only the changes you need for that issue. Generate a patch.
+    -   In your git repository checkout, apply each of the patches you've generated. You end up with the cumulative total of the patches, but you're able to keep them distinct.
 -   **Communicate outside the patch queue** Connect with others in [drupal Slack](https://www.drupal.org/slack). Participate in or initiate discussions on [groups.drupal.org](https://groups.drupal.org/). Selectively and respectfully contact other developers via email to ask for feedback.
 -   **Follow up** It's essential that you follow up on the patches you post. Answer questions. Refresh patches.
--   **Request CVS access** If it looks like the maintainer could use some help, request CVS write access to the project. Wait until you've already contributed some sound patches. Then say, e.g., "I'm going to be working a lot with this module for the next few weeks/months and will be contributing a lot of patches. I'll always work through the issue queue. Could I get CVS access?"
+-   **Request git access** If it looks like the maintainer could use some help, request git write access to the project. Wait until you've already contributed some sound patches. Then say, e.g., "I'm going to be working a lot with this module for the next few weeks/months and will be contributing a lot of patches. I'll always work through the issue queue. Could I get git access?"
 -   **Co-maintain** If it looks like you'll be working in the longer term on the project, offer to be a co-maintainer of a module. Like requesting CVS write access, this works best if you've started small by proving yourself through e.g. some pure bug fix patches or small commonly needed features.
 
 ## Reaping the benefits
@@ -81,6 +79,11 @@ But there are also a lot of less direct or tangible but equally important reward
 -   _Further work_ As your work gains profile, you may attract new contracts in the same areas, allowing you to continue to extend solutions through a series of projects for different clients.
 -   _Learning and skills_ Peer review and the challenge of coding generic solutions generates ideas and knowledge and helps you keep up to date.
 -   _Contacts_ Engaging with the community to work on solving common problems helps connect you with others interested in the same things you are. These contacts can really help in finding new projects to take on.
--   _Satisfaction_ There's a definite satisfaction that comes from feeling you've not only solved a problem but you've solved it well.
+-   _Satisfaction_ There's a definite satisfaction that comes from feeling you've not only solved a problem, but you've solved it well.
 
 In short: if contributing back is an afterthought at best, we're missing out on most of the benefit of open source, please [Contrib First](../../../common-practices-tools/contribution/contrib-first.md) if possible.
+
+## Credits
+
+-   This was originally a blog post on the CivicActions site authored by [Nedjo Rogers](https://nedjo.ca/) ([d.o](https://www.drupal.org/u/nedjo)) on November 19, 2008.
+-   Modified in 2025.
