@@ -35,9 +35,9 @@ Most problems have at least a general component and can be approached in part th
 
 ## Theme-level vs. module-level solutions
 
-Many of the same considerations apply when weighing the relative merits of theme-level and a module-level solutions. At first, it can seem relatively quick and easy to override at the theme level to give "what the customer wants". But as a long term approach it can lead to code bloat, duplication, and lack of coherence.
+Many of the same considerations apply when weighing the relative merits of theme-level and a module-level solutions. At first, it can seem relatively quick to override at the theme level to give "what the customer wants". But as a long term approach it can lead to code bloat, duplication, and lack of coherence.
 
-In theory, the theme level should be concerned primarily or exclusively with presentation and display; _what_ is being displayed should be the concern of modules. This ideal separation is not always feasible in practice. Still, before weighing a theme down with API calls, it's a useful discipline to ask: is this better handled in a module? How would that be done? Simple tweaks at the theme level make total sense--the get the exact look and feel with little pain. But extensive overrides can reduce or undermine the benefits of the platform. Example: overriding the display of a form. It's relatively quick and easy to do, but has long-term implications:
+In theory, the theme level should be concerned primarily or exclusively with presentation and display; _what_ is being displayed should be the concern of modules. This ideal separation is not always feasible in practice. Still, before weighing a theme down with API calls, it's a useful discipline to ask: is this better handled in a module? How would that be done? Simple tweaks at the theme level make total sense--the get the exact look and feel with little pain. But extensive overrides can reduce or undermine the benefits of the platform. Example: overriding the display of a form. It's relatively quick to do, but has long-term implications:
 
 -   Future UI-level changes (for example, through CCK's field display management) may have unexpected results, or none at all.
 -   New modules may be turned on but have no way to affect the form without new custom coding.
