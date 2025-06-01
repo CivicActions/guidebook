@@ -2734,10 +2734,10 @@ remark-lint-strong-marker@^4.0.0, remark-lint-strong-marker@^4.0.1:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-table-cell-padding@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-5.0.0.tgz"
-  integrity sha512-LNyiHDQZBIOqcQGG1tYsZHW7g0v8OyRmRgDrD5WEsMaAYfM6EiECUokN/Q4py9h4oM/2KUSrdZbtfuZmy87/kA==
+remark-lint-table-cell-padding@^5.0.0, remark-lint-table-cell-padding@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-5.1.1.tgz#f2e20642ed4ae2af1e00ea4f29369322a8b36dc7"
+  integrity sha512-6fgVA1iINBoAJaZMOnSsxrF9Qj9+hmCqrsrqZqgJJETjT1ODGH64iAN1/6vHR7dIwmy73d6ysB2WrGyKhVlK3A==
   dependencies:
     "@types/mdast" "^4.0.0"
     "@types/unist" "^3.0.0"
