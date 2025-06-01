@@ -2521,10 +2521,10 @@ remark-lint-no-heading-punctuation@^4.0.0, remark-lint-no-heading-punctuation@^4
     unified-lint-rule "^3.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-html@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-html/-/remark-lint-no-html-4.0.0.tgz"
-  integrity sha512-8OWb2pRHWAzKXJiVEGUiQWPGhHnFfQiAMHF4tU97EsEtXQmuQGi+s0jUxUaKXluxW7Esdal6NSL6pfk2yE1H4Q==
+remark-lint-no-html@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-4.0.1.tgz#df4270ca3adb04a8c50b9c377662cb567fec82cf"
+  integrity sha512-d5OD+lp2PJMtIIpCR12uDCGzmmRbYDx+bc2iTIX6Bgo0vprQY0dBG1UXbUT5q8KRijXwOFwBDX6Ogl9atRwCGA==
   dependencies:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
