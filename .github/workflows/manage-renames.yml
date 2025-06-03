@@ -1,7 +1,4 @@
 name: Update links and redirects for renamed files.
-permissions:
-  contents: write
-  pull-requests: write
 
 on:
   pull_request:
