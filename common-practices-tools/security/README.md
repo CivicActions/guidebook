@@ -167,7 +167,7 @@ Finally, there is no good reason not to be making backups: a one _terabyte_ exte
 
 ### Securely delete files and wipe disks
 
-When you delete a file, it doesn't actually go away. Usually, all that occurs is the file name and a pointer to its bits are removed from a directory listing. With the proper tools, deleted files can be recovered. For this reason, it's important that old disks be securely wiped or permementely destroyed before being given away, recycled, or thrown away. Some pointers are given below:
+When you delete a file, it doesn't actually go away. Usually, all that occurs is the file name and a pointer to its bits are removed from a directory listing. With the proper tools, deleted files can be recovered. For this reason, it's important that old disks be securely wiped or permanently destroyed before being given away, recycled, or thrown away. Some pointers are given below:
 
 GNU/Linux:
 
