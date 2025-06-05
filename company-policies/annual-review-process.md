@@ -120,7 +120,7 @@ If you disagree with your review, you can engage in our rebuttal process:
 -   **Your Role**:
     -   Take the time to reflect on the feedback with an open mind.
     -   Identify specific points of disagreement and note why you disagree.
-    -   Create a copy of the Rebuttal Template and fill in with your content.
+    -   Create a copy of the [Rebuttal Template](https://docs.google.com/document/d/1wFyNx33y68OgmAwmAPlaU6q_MFDcVSKblimbMCittHQ/edit?usp=sharing) and fill in with your content.
 
 #### 2. Initial Discussion with the Reviewer
 
