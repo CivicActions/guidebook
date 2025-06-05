@@ -9,11 +9,13 @@ import quotes from "retext-quotes";
 import sentenceSpacing from "retext-sentence-spacing";
 import repeated from "retext-repeated-words";
 import indefinite from "retext-indefinite-article";
+import remarkGfm from "remark-gfm";
 
 export default attacher;
 
 function attacher() {
   this.use(
+    remarkGfm,
     remark2retext,
     unified()
       .use(english)
