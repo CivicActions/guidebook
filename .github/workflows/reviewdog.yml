@@ -1,4 +1,7 @@
 name: Checking Markdown formatting and providing language suggestions
+permissions:
+  contents: read
+  pull-requests: write
 
 on:
   pull_request:
