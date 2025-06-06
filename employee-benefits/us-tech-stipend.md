@@ -1,6 +1,5 @@
 ---
 title: Technology stipend policy (US employees)
-updated: March 29 2021
 ---
 
 # Technology Stipend Policy (US Employees)
