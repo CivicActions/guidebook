@@ -1,4 +1,6 @@
 name: Checking all markdown and links site-wide
+permissions:
+  contents: read
 
 on:
   # Automatic check weekly
