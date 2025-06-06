@@ -6,12 +6,6 @@ nav:
       - Background: about-civicactions/README.md
       - about-civicactions/mission-values.md
       - about-civicactions/culture.md
-      - Diversity, Equity, Inclusion, and Accessibility (DEIA):
-          - about-civicactions/diversity-equity-inclusion/README.md
-          - about-civicactions/diversity-equity-inclusion/defining-dei.md
-          - about-civicactions/diversity-equity-inclusion/affinity-channels.md
-          - about-civicactions/diversity-equity-inclusion/deia-get-involved.md
-          - about-civicactions/diversity-equity-inclusion/resources.md
       - Our structure:
           - about-civicactions/our-structurehow-we-are-organized.md
           - about-civicactions/our-structureorg-structure.md
@@ -25,7 +19,6 @@ nav:
       - employee-benefits/canada-benefits-policy.md
       - employee-benefits/canada-tech-stipend.md
       - employee-benefits/professional-development.md
-      - employee-benefits/employee-referral-bonus.md
       - employee-benefits/on-call-stipend.md
   - Company policies:
       - company-policies/README.md
@@ -47,6 +40,7 @@ nav:
       - company-policies/employment/leaving-civicactions.md
       - company-policies/health-safety-security.md
       - company-policies/sustainability.md
+      - company-policies/political-activity-and-social-media-policy.md
       - New hire orientation:
           - company-policies/new-hire-orientation/README.md
           - Welcome to CivicActions: company-policies/new-hire-orientation/README.md
@@ -73,7 +67,10 @@ nav:
           - common-practices-tools/agile/sprint-retrospectives.md
       - common-practices-tools/balance-scores.md
       - common-practices-tools/best-practices-for-managers-and-team-members.md
-      - common-practices-tools/contribution/contrib-first.md
+      - Contribution:
+          - common-practices-tools/contribution/README.md
+          - common-practices-tools/contribution/contrib-first.md
+          - common-practices-tools/contribution/prodev-contrib-sprint.md
       - CivicActions style guide: "https://civicactions-style-guide.readthedocs.io/en/latest/introduction/brand-overview/"
       - Security awareness and tools:
           - common-practices-tools/security/README.md
@@ -217,6 +214,11 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
   - git-revision-date-localized

@@ -4,7 +4,7 @@ title: Technology stipend policy (US employees)
 
 # Technology Stipend Policy (US Employees)
 
-As part of CivicActions commitment to work/life balance and our movement toward greater workplace equity, it is aligned with our values to provide "Technology Stipends" to our employees to reimburse them for necessary expenditures including reasonable costs that are common for all employees at CivicActions. To avoid burdensome paperwork and to give employees flexibility in determining how best meet personal preferences in their work environment, CivicActions will pay to each employee the Technology Stipend once a year in one lump sum. Since the tech stipend is a reimbursement of expenses it is not subject to income tax in the United States.
+CivicActions provides "Technology Stipends" to our employees to reimburse them for necessary expenditures including reasonable costs that are common for all employees at CivicActions. To avoid burdensome paperwork and to give employees flexibility in determining how best meet personal preferences in their work environment, CivicActions will pay each employee the Technology Stipend once a year in one lump sum. Since the tech stipend is a reimbursement of expenses it is not subject to income tax in the United States.
 
 ## Definitions
 
