@@ -165,7 +165,7 @@ If you use any backup mechanism more complicated than simply copying the files t
 <!-- prettier-ignore -->
 Finally, there is no good reason not to be making backups: a one _terabyte_ external USB drive costs less than $60 on Amazon.
 
-### Securely delete files and wipe disks
+### Securely erasing disks
 
 When you delete a file, it doesn't actually go away. Usually, all that occurs is the file name and a pointer to its bits are removed from a directory listing. With the proper tools, deleted files can be recovered. For this reason, it's important that old disks be securely wiped or permanently destroyed before being given away, recycled, or thrown away. Some pointers are given below:
 
