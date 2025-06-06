@@ -169,14 +169,13 @@ Finally, there is no good reason not to be making backups: a one _terabyte_ exte
 
 When you delete a file, it doesn't actually go away. Usually, all that occurs is the file name and a pointer to its bits are removed from a directory listing. With the proper tools, deleted files can be recovered. For this reason, it's important that old disks be securely wiped or permanently destroyed before being given away, recycled, or thrown away. Some pointers are given below:
 
-GNU/Linux:
+Windows/Linux:
 
--   [How to delete file(s) in secure manner?](https://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner) (Ask Ubuntu)
--   [How to: Delete your Data Securely on Linux](https://ostechnix.com/securely-permanently-delete-data-linux/) (From OSTechNix)
+-   [How to Securely Erase an SSD or HDD Before Selling It or Your PC](https://www.tomshardware.com/how-to/secure-erase-ssd-or-hard-drive) (Tom's Hardware)
 
 MacOS:
 
--   [How to erase a disk for Mac](https://support.apple.com/en-us/HT208496) - if erasing your startup disk, use macOS Recovery
+-   [Erase your Mac](https://support.apple.com/guide/mac-help/erase-your-mac-mchl7676b710/mac) - if erasing your startup disk, use macOS Recovery
 -   [About macOS Recovery](https://support.apple.com/en-us/HT201314) - which will lead you to reinstallation:
 -   [How to reinstall macOS from macOS Recovery](https://support.apple.com/en-us/HT204904)
 
