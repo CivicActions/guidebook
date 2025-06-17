@@ -27,7 +27,7 @@ As standards, rules, and guidelines develop, the CivicActions Support practice a
 
 ## Training
 
-Each member of the project Support team will complete - within the first ninety days of onboarding - the edX Introduction to Web Accessibility course to help build understanding about disability: [https://www.edx.org/course/web-accessibility-introduction](https://www.edx.org/course/web-accessibility-introduction)
+Each member of the project Support team will complete - within the first ninety days of onboarding - the edX Introduction to Web Accessibility course to help build understanding about disability: [https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 
 ## Accessible websites and web content
 
