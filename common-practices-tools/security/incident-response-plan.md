@@ -159,6 +159,7 @@ B. Respond accordingly:
         -   Email to [security@civicactions.com](mailto:security@civicactions.com).
         -   Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
         -   An example message follows. The format is not important, but the information fields are useful.
+
         ```markdown
             **Description**: [Short description of the event and its impact]
             **Status**: investigating
@@ -168,9 +169,10 @@ B. Respond accordingly:
             **Responders**: [names of other _Responders_]
             **Details**: [Extra details about the event]
         ```
-        - Observe the following guidelines for communications:
-          -   During this stage of incident response, the event status is "investigating".
-          -   An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
+
+        -   Observe the following guidelines for communications:
+            -   During this stage of incident response, the event status is "investigating".
+            -   An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
 
     2.  For an incident requiring more than 30 minutes to resolve:
 
@@ -222,6 +224,7 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
     -   JIRA ticket or Gitlab issue (if applicable)
     -   Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
     -   Here is an example _sitrep_:
+
     ```markdown
         **Subject**: \[sitrep\] Chickens are escaping
         **Severity**: low
