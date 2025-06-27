@@ -1,3 +1,9 @@
+---
+title: Performance management
+---
+
+<!-- lint disable readability -->
+
 # Performance Management
 
 CivicActions takes a hands-on approach to supporting our team members' performance and success. Following Agile methodology, CivicActions, including its managers, strives to give team members feedback on a continual basis through the project retrospective process, regular check-ins with managers, scrum calls, coworking and other methods of feedback. CivicActions cares about our team members' success and has developed practices to help team members succeed. CivicActions is continually looking to improve how we work with team members to build beneficial relationships, manage performance, and support team members' success. When a team member does not meet the expectation of their role, CivicActions prefers to initially address performance concerns using informal feedback (either orally or in writing) from a project lead or a manager. If performance concerns are not improved based on informal feedback, a manager may have additional conversations with the team member about the concern and expectations for improving, and may provide written feedback documenting the performance issues and the expectations. CivicActions' goal is to see team members successful in their role. There are times, however, when a team member who has received informal feedback continues to not meet the minimum expectations of their role. In those instances, the team member's manager in collaboration with PeopleOps will discuss the significance of the issue and if a performance improvement plan (PIP) is appropriate. Generally PIPs are not used unless the nature, persistence, and impact of the issue(s) prevents the team member from meeting the minimum expectations for their role, and CivicActions believes that with support the team member can be successful. CivicActions believes that most team members can be successful once the expectations of a role are clarified and the team member is given an opportunity to adjust.
@@ -23,3 +29,5 @@ The expectation is that everyone will be focused on success. Extended paid time 
 ## At-Will Employment
 
 The existence of the PIP process does not alter the at-will status of any team member. CivicActions has a responsibility to other team members to provide a safe and stable workplace environment. PIPs are not meant to address serious misconduct of a team member, including a breach of Company policies or procedures, failure to follow reasonable directives, insubordination, harassment, illegal or unethical behavior, or any other serious conduct or behavior that the Company determines to be inappropriate or unsuitable for the workplace. PIPs are not used during a team member's 90-day introductory period when they are first hired.
+
+<!-- lint enable readability -->
