@@ -2,7 +2,7 @@
 title: Performance management
 ---
 
-<!-- lint disable retext-readability -->
+<!-- lint disable -->
 
 # Performance Management
 
@@ -30,4 +30,4 @@ The expectation is that everyone will be focused on success. Extended paid time 
 
 The existence of the PIP process does not alter the at-will status of any team member. CivicActions has a responsibility to other team members to provide a safe and stable workplace environment. PIPs are not meant to address serious misconduct of a team member, including a breach of Company policies or procedures, failure to follow reasonable directives, insubordination, harassment, illegal or unethical behavior, or any other serious conduct or behavior that the Company determines to be inappropriate or unsuitable for the workplace. PIPs are not used during a team member's 90-day introductory period when they are first hired.
 
-<!-- lint enable retext-readability -->
+<!-- lint enable -->
