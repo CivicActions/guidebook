@@ -11,7 +11,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 ## Common Topics
 
-<!-- prettier-ignore-start -->
+<!-- lint disable -->
 
 <div class="grid cards" markdown>
 
@@ -43,7 +43,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 </div>
 
-<!-- prettier-ignore-end -->
+<!-- lint enable -->
 
 ## Contact Information
 

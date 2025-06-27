@@ -11,8 +11,8 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 3. Reviewing and approving timesheets
 4. Reviewing and approving expenses
 5. Runnings reports
-    - Plans v Actuals
-    - Planned Utilization
+   -   Plans v Actuals
+   -   Planned Utilization
 
 ## Key Unanet tasks for a project lead
 

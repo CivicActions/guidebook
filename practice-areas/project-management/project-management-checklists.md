@@ -38,16 +38,16 @@ Now prepare for the new quarter:
 
 6. Review project Wrappers (Legal and Project Management)
 
-    - Review contractual dates and details
-    - Review Quality Assurance Surveillance Plan (QASP)
-    - Confirm deliverables are being met
-    - Verify alignment with DevOps around deliverables
-    - Confirm scope has not changed
+   -  Review contractual dates and details
+   -  Review Quality Assurance Surveillance Plan (QASP)
+   -  Confirm deliverables are being met
+   -  Verify alignment with DevOps around deliverables
+   -  Confirm scope has not changed
 
 7. Review Team Working Agreements
 8. Confirm, if it applies to your project, the [On-Call Stipend sheet](https://docs.google.com/spreadsheets/d/11jAuW7K08V5m4wyRNkddC2f_AsAtFrTXDbpUdXu272E/edit#gid=1946523395) is updated
 9. Audit shared folders to verify the following settings:
-    - Internal project shared drives should have "Allow people outside of CivicActions to access files" unchecked
-    - External project shared drives should have "Allow people outside of CivicActions to access files" checked
-    - Both internal and external project shared drives should have "Allow people who aren't shared drive members to access files" unchecked (this last one is very important, since it is pretty impossible to manage access centrally if this is checked).
+   -   Internal project shared drives should have "Allow people outside of CivicActions to access files" unchecked
+   -   External project shared drives should have "Allow people outside of CivicActions to access files" checked
+   -   Both internal and external project shared drives should have "Allow people who aren't shared drive members to access files" unchecked (this last one is very important, since it is pretty impossible to manage access centrally if this is checked).
 10. Clean up project folders.
