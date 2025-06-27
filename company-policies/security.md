@@ -147,8 +147,8 @@ Securing mobile devices used for CivicActions work is crucial for safeguarding s
 2. Enable security features to lock devices when not in use. Recommended security features include a password or 6-character pin, and biometric security (fingerprint, facial recognition, if available).
 3. The device must be set to automatically lock after a maximum of 5 minutes of inactivity. If security features make unlocking convenient then a shorter lock time is recommended.
 4. Verify that data is encrypted on the device. Ways to set this up by OS type:
-    - iOS - setup icloud account to enable data encryption
-    - Android - setup biometric/pin code to enable data encryption
+   -   iOS - setup icloud account to enable data encryption
+   -   Android - setup biometric/pin code to enable data encryption
 5. Do not "jailbreak" or "root" your mobile device, removing inherent OS security and exposing it to malware apps.
 6. Install apps from only secure sources (official app stores) and avoid side-loading apps.
 7. If a device used for CivicActions work is lost or stolen, please notify the security team immediately to document and assist in recovering or wiping the device.

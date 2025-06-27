@@ -22,10 +22,10 @@ The following is the list of hardware and software that is prohibited to use bas
 
 1. CivicActions employees will not use any hardware or software listed in the requirements section for any CivicActions activities or to access CivicActions resources such as CivicActions email, Slack, GitHub, GitLab, or client project resources. Specifically, this includes:
 
-    - Installing Kaspersky antivirus software on devices used for CivicActions activities
-    - Using Huawei or ZTE mobile devices to access CivicActions resources
-    - Using camera systems branded as Hikvision, Dahua, or Hytera on the same network as devices used to access CivicActions resources
-    - Installing or accessing TikTok on devices (including mobile devices such as cell phones) used for CivicActions activities or accessing CivicActions resources.
+   -   Installing Kaspersky antivirus software on devices used for CivicActions activities
+   -   Using Huawei or ZTE mobile devices to access CivicActions resources
+   -   Using camera systems branded as Hikvision, Dahua, or Hytera on the same network as devices used to access CivicActions resources
+   -   Installing or accessing TikTok on devices (including mobile devices such as cell phones) used for CivicActions activities or accessing CivicActions resources.
 
 2. An exception are personal devices that are **not** used for CivicActions activities but may be used for two-factor authentication such as phone call or SMS code. These devices should **not** have any access to CivicActions and/or client resources.
 

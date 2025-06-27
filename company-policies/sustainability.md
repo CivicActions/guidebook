@@ -79,7 +79,3 @@ We have started the journey, but have a long way to go.
 ## Revision and Updates
 
 v.0.0.3
-
-## Conclusion
-
-We have started the journey, but have a long way to go.
