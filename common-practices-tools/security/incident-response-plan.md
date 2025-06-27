@@ -82,19 +82,19 @@ During incident response, _Responders_ do the following:
 
 The _Incident Commander_ (IC) remains uninvolved in remediation efforts, and performs three major duties:
 
-1. IR Team creation and management, ensuring that the IR Team:
+1.  IR Team creation and management, ensuring that the IR Team:
 
-    - Includes team members who are capable of containing, investigating, and remediating the incident.
-    - Remains focused on resolving the incident.
-    - Uses the most appropriate media/communication channels for recording actions. During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, #fire-team) for IR Team communications.
-    - Utilizes work shifts if the incident lasts longer than 3 hours.
+    -   Includes team members who are capable of containing, investigating, and remediating the incident.
+    -   Remains focused on resolving the incident.
+    -   Uses the most appropriate media/communication channels for recording actions. During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, #fire-team) for IR Team communications.
+    -   Utilizes work shifts if the incident lasts longer than 3 hours.
 
-2. Documentation, including all actions taken during investigation and remediation, using the following methods:
+2.  Documentation, including all actions taken during investigation and remediation, using the following methods:
 
-    - Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team.)
-    - Project JIRA ticket or Gitlab issue (if applicable)
+    -   Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team.)
+    -   Project JIRA ticket or Gitlab issue (if applicable)
 
-3. Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony).
+3.  Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony).
 
 ### Communications Officer
 
@@ -158,34 +158,32 @@ B. Respond accordingly:
         -   Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
         -   Email to [security@civicactions.com](mailto:security@civicactions.com).
         -   Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
-
-    An example message follows. The format is not important, but the information fields are useful.
-
-          **Description**: [Short description of the event and its impact]
-          **Status**: investigating
-          **Severity**: unknown
-          **Incident Reporter**: [name of the person who reported the issue]
-          **Incident Commander**: [your name]
-          **Responders**: [names of other _Responders_]
-          **Details**: [Extra details about the event]
-
-    Observe the following guidelines for communications:
-
-        - During this stage of incident response, the event status is "investigating".
-        - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
+        -   An example message follows. The format is not important, but the information fields are useful.
+        ```markdown
+            **Description**: [Short description of the event and its impact]
+            **Status**: investigating
+            **Severity**: unknown
+            **Incident Reporter**: [name of the person who reported the issue]
+            **Incident Commander**: [your name]
+            **Responders**: [names of other _Responders_]
+            **Details**: [Extra details about the event]
+        ```
+        - Observe the following guidelines for communications:
+          -   During this stage of incident response, the event status is "investigating".
+          -   An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
 
     2.  For an incident requiring more than 30 minutes to resolve:
 
         -   Recruit additional _Responders_ via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
         -   Designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
 
-    More information on [incident response roles and responsibilities](#roles-and-responsibilities):
+    3.  More information on [incident response roles and responsibilities](#roles-and-responsibilities):
 
-        - [Responder](#responder)
-        - [Incident Commander (IC)](#incident-commander)
-        - [Communications Officer (CO)](#communications-officer)
+        -   [Responder](#responder)
+        -   [Incident Commander (IC)](#incident-commander)
+        -   [Communications Officer (CO)](#communications-officer)
 
-        Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
+    4.  Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
 
 -   False alarm
 
@@ -223,14 +221,14 @@ _Reminder: Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when 
     -   Slack channel [#general](https://civicactions.slack.com/messages/general/) (Use `@security` to trigger a Slack notification for the Security team. Include link to the ticket/issue if applicable.)
     -   JIRA ticket or Gitlab issue (if applicable)
     -   Any other [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
-
-    Here is an example _sitrep_:
-
+    -   Here is an example _sitrep_:
+    ```markdown
         **Subject**: \[sitrep\] Chickens are escaping
         **Severity**: low
         **Incident Commander**: Farmer Jane
         **Responders**: Spot the Dog, Farmer Dave
         **Description**: We've confirmed reports of escaped chickens. Looks like a fox may have tunneled into the run. Dave is working to fix the fence. Spot is tracking the fox.
+    ```
 
 -   For an issue with potential Project impact, ensure that a ticket/issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
