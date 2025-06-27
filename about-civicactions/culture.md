@@ -48,7 +48,7 @@ Transparency is the company, board, and management team's responsibility. We aim
 
 ## Accessibility
 
-**CivicActions' Accessibility Commitment: Both in our work with the government and here at home, accessibility is never done.**
+CivicActions' Accessibility Commitment: Both in our work with the government and here at home, accessibility is never done.
 
 We have solidified this commitment through our [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge). We are working build a more robust culture of accessibility through our [Champions Program](https://accessibility.civicactions.com/guide/champions-program).
 
@@ -84,7 +84,7 @@ A: We are a very supportive team and if you need help, we want you to know that 
 
 A: The idea behind our open communication policy is to keep the team in the know and keep information transparent in our remote environment. Since we're not all sitting in an office together, it can be easy to miss out on information. You may ask a coworker a question in a private message, that could have been answered better had the team seen it. Also, your question may be shared by other team members who would appreciate hearing an answer. In many cases it's okay to go to a person privately; what we want to encourage is for people to default to open and to realize that being uncertain or having an issue isn't something to hide. We don't have a CYA mentality -- that only leads to misunderstandings growing deeper and mistakes growing worse. The benefits of open communication extend to our clients as well -- people we work with know that we will not gloss over the truth, but rather be transparent and learn from mistakes.
 
-### Q: Balance Scores make me feel self conscious. I don't want people to know that I'm unbalanced. How is the company using this information?
+### Q: Balance Scores make me feel self-conscious. I don't want people to know that I'm unbalanced. How is the company using this information?
 
 A: The Balance Score is mostly for yourself. It's a way to check in with yourself, sometimes multiple times a day, to realize if you are aware of and honoring your priorities. The company doesn't use this information, unless we frame it as a way to teach team members how to be more self aware or to be more attuned with each other. If you're unbalanced and don't want to discuss it with anyone, you're welcome to say so if someone asks why your score is low. The Balance Score is another way that we can learn to be more in tune to ourselves and have a better understanding of our peers. It's an authentic way of communicating that can feel uncomfortable at first but hopefully becomes an exercise in being attuned to oneself.
 

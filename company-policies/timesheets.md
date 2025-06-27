@@ -19,7 +19,7 @@ Unanet is the enterprise resource planning (ERP) system that CivicActions uses f
 
 ### Accessing Unanet as a new employee
 
-You should receive your Unanet login information the morning of your start date. If you did not get it or it's not working, notify People Ops at peopleops@civicactions.com. They will notify a Unanet administrator.
+You should receive your Unanet login information the morning of your start date. If you did not get it or it's not working, notify People Ops at [peopleops@civicactions.com](mailto:peopleops@civicactions.com). They will notify a Unanet administrator.
 
 When you are hired, the Resource Planning Analyst (RPA) will assign you to the required internal projects and tasks in Unanet. The RPA also will ask the project manager to assign you to any required client projects and tasks.
 

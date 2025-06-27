@@ -35,13 +35,13 @@ B. Respond accordingly:
         -   Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
         -   Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
 
-    More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
+    3.  More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
 
-          - [Responder](incident-response-plan.md#responder)
-          - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
-          - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
+        -   [Responder](incident-response-plan.md#responder)
+        -   [Incident Commander (IC)](incident-response-plan.md#incident-commander)
+        -   [Communications Officer (CO)](incident-response-plan.md#communications-officer)
 
-    Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
+    4.  Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
 -   False alarm
 
@@ -53,12 +53,12 @@ B. Respond accordingly:
 
 A. Confirm the incident.
 
-1. Gather information, and document your findings.
+1.  Gather information, and document your findings.
 
-    - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
-    - Is a system failure causing the disruption?
+    -   Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+    -   Is a system failure causing the disruption?
 
-2. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
+2.  Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
 
 B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.md#incident-severities). (Project incidents are generally "Low severity".)
 

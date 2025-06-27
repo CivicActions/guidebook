@@ -8,9 +8,7 @@ The guidebook is a collection of markdown files that you can edit in Github.
 
 Git can be confusing at first, but our guidebook is a great place to learn because we use a simple Git workflow, compared to many engineering projects. For example, publishing a sentence or two can take less than 5 minutes, depending on the availability of reviewers.
 
-For the guidebook, the "master" branch is the active branch, with the latest, approved changes published at the URL:<br>
-
-<div align="center">https://guidebook.civicactions.com/en/latest/</div>
+For the guidebook, the "master" branch is the active branch, with the latest, approved changes published at the URL: [https://guidebook.civicactions.com/en/latest/](https://guidebook.civicactions.com/en/latest/)
 
 ## Step 1: Access your GitHub account
 
@@ -20,7 +18,7 @@ New employees receive an email invite to join the CivicActions account. If you m
 
 ### Editing an existing page
 
--   Go to the guidebook repository (also known as the repo): https://github.com/CivicActions/guidebook.
+-   Go to the guidebook repository (also known as the repo): [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
 -   Open one of these folders:
     -   about-CivicActions
     -   employee-benefits
@@ -35,7 +33,7 @@ New employees receive an email invite to join the CivicActions account. If you m
 
 ### Creating a new page
 
--   Go to the guidebook repository (also known as the repo): https://github.com/CivicActions/guidebook.
+-   Go to the guidebook repository (also known as the repo): [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
 -   Open one of these existing folders in the repo (do not create a new folder):
     -   about-CivicActions
     -   employee-benefits
@@ -104,9 +102,9 @@ If you need help fixing errors, message the [#docs](https://civicactions.slack.c
 
 If you are adding new content or changing the title (H1) of an existing page, you will need to update the settings file containing the navigation labels. If you are not sure where to place your content in the navigation, start a conversation in [#docs](https://civicactions.slack.com/messages/docs/) in Slack.
 
--   Go to the guidebook repo: https://github.com/CivicActions/guidebook.
+-   Go to the guidebook repo: [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
 -   Click the .config folder to open.
--   Click the mkdocs.yml file to open.
+-   Click the `mkdocs.yml` file to open.
 -   Click the pencil icon to edit the file.
 -   Scroll down to the navigation section ("nav:") and locate either:
     -   the line you want to change, or

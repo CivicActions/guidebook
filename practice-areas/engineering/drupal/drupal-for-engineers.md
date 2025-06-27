@@ -10,7 +10,7 @@ For an overview and brief description of Drupal's directory structure see Direct
 
 ## Drush
 
-Drush is a command line tool that assists with, and speeds up many common Drupal tasks. For example, rather than having to click through the UI to do something like install a new module, you can use a single drush command to do it for you. There are a lot of other commands in drush that can do things like generate boilerplate code, run migrations, or clear cache. You can read more about drush on their site https://www.drush.org.
+Drush is a command line tool that assists with, and speeds up many common Drupal tasks. For example, rather than having to click through the UI to do something like install a new module, you can use a single drush command to do it for you. There are a lot of other commands in drush that can do things like generate boilerplate code, run migrations, or clear cache. You can read more about drush on their site [https://www.drush.org](https://www.drush.org).
 
 ## Caching
 

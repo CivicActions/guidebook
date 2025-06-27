@@ -107,7 +107,7 @@ Compared to other documented workflows:
 
 ## Versioning releases
 
-_Note: your project may include other versioning practices. Please review your project developer/contributor documentation!_
+Note: your project may include other versioning practices. Please review your project developer/contributor documentation!
 
 For libraries, we use [semantic versioning](https://semver.org/).
 
@@ -161,7 +161,7 @@ Commit signing allows for identification and non-repudiation of individual commi
 
 ### Creating a new GPG key
 
-**Note: It is possible to use an SSH keypair to sign commits, but these instructions cover using GPG keys.**
+Note: It is possible to use an SSH keypair to sign commits, but these instructions cover using GPG keys.
 
 Follow the instructions for [setting up GnuPG](../../common-practices-tools/security/gnupg.md) to create a new GPG key.
 
