@@ -6,7 +6,7 @@ title: Setting up GnuPG
 
 ## Create a new GPG key
 
-**OS X Users NOTE:** If the instructions below do not work for you, you may need to upgrade your copy of gpg. To update try: https://gpgtools.org It is recommended that you customize the installation of gpgTools to NOT include gpg Mail (you can deselect it if you customize the installation)
+**OS X Users NOTE:** If the instructions below do not work for you, you may need to upgrade your copy of gpg. To update try: [https://gpgtools.org](https://gpgtools.org) It is recommended that you customize the installation of gpgTools to NOT include gpg Mail (you can deselect it if you customize the installation)
 
 [Github instructions](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
 
