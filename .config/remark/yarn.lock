@@ -2335,10 +2335,10 @@ remark-lint-maximum-heading-length@^4.0.0, remark-lint-maximum-heading-length@^4
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.npmjs.org/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-4.0.1.tgz"
-  integrity sha512-hQlh8UrRfhkO4FU7z7t1Bu5ethj1y2iBncO5AOWF38RAmlHaZdB2lQxNA8IvUZITGJYpT1aThdFTEf+58lv08Q==
+remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-4.1.1.tgz#d6d1a5bb959908f9186414220dcfb4cb626c41e3"
+  integrity sha512-oIncZkI0oIXZk+1kJOMnE3WPbyMTUbds0q1E8WbCwtjN9pAZsQD2e+wK+xdi5VqOLPkvLER+yzbmi/A3Tp+XEg==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-mdx "^3.0.0"
