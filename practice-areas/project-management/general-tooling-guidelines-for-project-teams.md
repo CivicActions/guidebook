@@ -19,7 +19,7 @@ title: Guidelines for project tools
 ## Email
 
 -   We prefer Slack over email - generally email is used for communicating with people who are not on Slack, for sending formal deliverables, etc.
--   We use a list (client@civicactions.com) for emails; this list includes everyone on the team (as well as some additional stakeholders and support staff)
+-   We use a list ([client@civicactions.com](mailto:client@civicactions.com)) for emails; this list includes everyone on the team (as well as some additional stakeholders and support staff)
 -   We recommend keeping emails transparent to the team, e.g., anything that applies to everyone
 -   State the name of the person or persons that need to pay attention to email: NAME: Subject or ALL: Subject
 -   CivicActions team members might include a signature that indicates we are contractors to the given organization
