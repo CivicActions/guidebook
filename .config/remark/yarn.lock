@@ -477,10 +477,10 @@ comma-separated-tokens@^2.0.0:
   resolved "https://registry.npmjs.org/comma-separated-tokens/-/comma-separated-tokens-2.0.3.tgz"
   integrity sha512-Fu4hJdvzeylCfQPp9SGWidpzrMs7tTrlu6Vb8XGaRGck8QSNZJJp538Wrb60Lax4fPwR64ViY468OIUTbRlGZg==
 
-commander@^12.1.0:
-  version "12.1.0"
-  resolved "https://registry.npmjs.org/commander/-/commander-12.1.0.tgz"
-  integrity sha512-Vw8qHK3bZM9y/P10u3Vib8o/DdkvA2OtPtZvD871QKjy74Wj1WSKFILMPRPSdUSx5RFK1arlJzEtA4PkFgnbuA==
+commander@^13.1.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-13.1.0.tgz#776167db68c78f38dcce1f9b8d7b8b9a488abf46"
+  integrity sha512-/rFeCpNJQbhSZjGVwO9RFV3xPqbnERS8MmIQzCtD/zl6gpJuV/bMLuN92oG3F7d8oDEHHRrujSXNUr8fpjntKw==
 
 concat-stream@^2.0.0:
   version "2.0.0"
@@ -1045,14 +1045,14 @@ markdown-extensions@^2.0.0:
   resolved "https://registry.npmjs.org/markdown-extensions/-/markdown-extensions-2.0.0.tgz"
   integrity sha512-o5vL7aDWatOTX8LzaS1WMoaoxIiLRQJuIKKe2wAw6IeULDHaqbiqiggmx+pKvZDb1Sj+pE46Sn1T7lCqfFtg1Q==
 
-markdown-link-check@^3.13.6:
-  version "3.13.6"
-  resolved "https://registry.npmjs.org/markdown-link-check/-/markdown-link-check-3.13.6.tgz"
-  integrity sha512-JiqexKOR+oaBovJ16x/VEN886CzPI48bSGUcKJvnkHVS8xSb9fRJtsdcLwG8+5QQ/V0UZKFmW8JEZFcZbd0BBA==
+markdown-link-check@^3.13.7:
+  version "3.13.7"
+  resolved "https://registry.yarnpkg.com/markdown-link-check/-/markdown-link-check-3.13.7.tgz#789d7f2e6bf9a48df3d2a501735aa04b8acf1bd7"
+  integrity sha512-Btn3HU8s2Uyh1ZfzmyZEkp64zp2+RAjwfQt1u4swq2Xa6w37OW0T2inQZrkSNVxDSa2jSN2YYhw/JkAp5jF1PQ==
   dependencies:
     async "^3.2.6"
     chalk "^5.3.0"
-    commander "^12.1.0"
+    commander "^13.1.0"
     link-check "^5.4.0"
     markdown-link-extractor "^4.0.2"
     needle "^3.3.1"
@@ -2184,10 +2184,10 @@ remark-lint-final-definition@^4.0.0, remark-lint-final-definition@^4.0.1:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-final-newline@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-final-newline/-/remark-lint-final-newline-3.0.0.tgz"
-  integrity sha512-NaPyn6FiOn3IV/6gIcwWfJmgraPT2IaVLjhakfPglZkKVfn/FrOfETyY8Bp+HLoSRI9967OH0yRDnK7/pPIWeQ==
+remark-lint-final-newline@^3.0.0, remark-lint-final-newline@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-final-newline/-/remark-lint-final-newline-3.0.1.tgz#a5ca02cbdbfa26f7c7412d39df6f99f086990799"
+  integrity sha512-q5diKHD6BMbzqWqgvYPOB8AJgLrMzEMBAprNXjcpKoZ/uCRqly+gxjco+qVUMtMWSd+P+KXZZEqoa7Y6QiOudw==
   dependencies:
     "@types/mdast" "^4.0.0"
     devlop "^1.0.0"
@@ -2252,22 +2252,10 @@ remark-lint-heading-style@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-link-title-style@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-link-title-style/-/remark-lint-link-title-style-3.1.2.tgz"
-  integrity sha512-if4MahYJVvQUWlrXDF8GSv4b9VtLSgMSDHeikQp1/hGYlihLl9uGw3nlL5Lf9DqTN0qaT6RPbXOjuuzHlk38sg==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-    vfile-location "^4.0.0"
-
-remark-lint-link-title-style@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-link-title-style/-/remark-lint-link-title-style-4.0.0.tgz"
-  integrity sha512-cihTO5dkhjMj/evYIDAvRdQHD82OQeF4fNAq8FLb81HmFKo77VlSF6CK55H1bvlZogfJG58uN/5d1tSsOdcEbg==
+remark-lint-link-title-style@^4.0.0, remark-lint-link-title-style@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-4.0.1.tgz#4de0a635b367edbb1fbec25f708f0bb774c54239"
+  integrity sha512-MtmnYrhjhRXR0zeiyYf/7GBlUF5KAPypJb345KjyDluOhI4Wj4VAXvVQuov/MFc3y8p/1yVwv3QDYv6yue8/wQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
@@ -2347,10 +2335,10 @@ remark-lint-maximum-heading-length@^4.0.0, remark-lint-maximum-heading-length@^4
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.npmjs.org/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-4.0.1.tgz"
-  integrity sha512-hQlh8UrRfhkO4FU7z7t1Bu5ethj1y2iBncO5AOWF38RAmlHaZdB2lQxNA8IvUZITGJYpT1aThdFTEf+58lv08Q==
+remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-4.1.1.tgz#d6d1a5bb959908f9186414220dcfb4cb626c41e3"
+  integrity sha512-oIncZkI0oIXZk+1kJOMnE3WPbyMTUbds0q1E8WbCwtjN9pAZsQD2e+wK+xdi5VqOLPkvLER+yzbmi/A3Tp+XEg==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-mdx "^3.0.0"
@@ -2498,10 +2486,10 @@ remark-lint-no-heading-content-indent@^5.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-heading-indent@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-5.0.0.tgz"
-  integrity sha512-JWGIWhaEzH00HywI0DHex92tJ5Mw7l11shQ6/MGhRjYsHMRWcwWcVeOuktVMe/BiQbg0hRoE4+g0z2VgUD6Cqw==
+remark-lint-no-heading-indent@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-5.0.1.tgz#54816d2c4915f93c28fe665eae6110a9b0941029"
+  integrity sha512-R/KkR9Qfh0AM3asadSnQQXMHu6BNZxPbxLI9h9JBPIZM+EtzycDlhaAHbOlQUdaHA5UEANhYENZBLrueH50Cdg==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
@@ -3634,14 +3622,6 @@ validator@^13.11.0:
   version "13.12.0"
   resolved "https://registry.npmjs.org/validator/-/validator-13.12.0.tgz"
   integrity sha512-c1Q0mCiPlgdTVVVIJIrBuxNicYE+t/7oKeI9MWLj3fh/uq2Pxh/3eeWbVZ4OcGW1TUf53At0njHw5SMdA3tmMg==
-
-vfile-location@^4.0.0:
-  version "4.0.1"
-  resolved "https://registry.npmjs.org/vfile-location/-/vfile-location-4.0.1.tgz"
-  integrity sha512-JDxPlTbZrZCQXogGheBHjbRWjESSPEak770XwWPfw5mTc1v1nWGLB/apzZxsx8a0SJVfF8HK8ql8RD308vXRUw==
-  dependencies:
-    "@types/unist" "^2.0.0"
-    vfile "^5.0.0"
 
 vfile-location@^5.0.0:
   version "5.0.2"
