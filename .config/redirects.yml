@@ -502,3 +502,6 @@
 - from_url: /.github/workflows/link-check-all.yml/
   to_url: /.github/workflows/check-all.yml/
   type: page
+- from_url: /CODE-OF-CONDUCT/
+  to_url: /CODE_OF_CONDUCT/
+  type: page
