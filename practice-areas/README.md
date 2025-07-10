@@ -26,7 +26,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Name                                           | Leads                                                                                        | Slack                  | Meets                                |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
 | [Accessibility](accessibility/README.md)       | Maggie Wachs, Laura Flannery, Mike Gifford                                                   | #accessibility         | Twice monthly                        |
-| Data                                           | Daniel Mundra, Zach Edmonds                                                                                | #data                  | Biweekly                             |
+| Data                                           | Daniel Mundra, Zach Edmonds                                                                  | #data                  | Biweekly                             |
 | Design                                         | Jenna Waszak, Kelly Smith, Val Runde                                                         | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
 | DevSecOps                                      | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | Diversity, Equity, Inclusion and Accessibility | Rotating                                                                                     | #celebrating-diversity | Weekly                               |
@@ -36,4 +36,4 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Project Management                             | Matt Powell                                                                                  | #projectmanagement     | Biweekly                             |
 | python                                         | Jonathan Bourland                                                                            | #engineering-python    | Monthly                              |
 | Quality Assurance                              | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
-| Workforce Transformation                     | Farooq Zakhilwal, Chianti Lomax                                                              | #workforce-development | Monthly                              |
+| Workforce Transformation                       | Farooq Zakhilwal, Chianti Lomax                                                              | #workforce-development | Monthly                              |
