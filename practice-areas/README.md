@@ -33,7 +33,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Frontend                                     | Eric Huffman, Iris Ibekwe                                                                    | #engineering-frontend  | Monthly                              |
 | Product Management                           | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
 | Project Management                           | Matt Powell                                                                                  | #projectmanagement     | Biweekly                             |
-| Python                                       | Jonathan Bourland, Tom Camp                                                                  | #engineering-python    | Biweekly                              |
+| Python                                       | Jonathan Bourland, Tom Camp                                                                  | #engineering-python    | Biweekly                             |
 | Quality Assurance                            | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
 | [Tech Lead](engineering/tech-lead/README.md) | Andy Hawks, Kristian Ducharme, Bob Schmitt                                                   | #engineering-techlead  | Monthly                              |
 | Workforce Transformation                     | Farooq Zakhilwal, Chianti Lomax                                                              | #workforce-development | Monthly                              |
