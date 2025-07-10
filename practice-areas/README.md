@@ -26,13 +26,14 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Name                                     | Leads                                                                                        | Slack                  | Meets                                |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
 | [Accessibility](accessibility/README.md) | Maggie Wachs, Laura Flannery, Mike Gifford                                                   | #accessibility         | Twice monthly                        |
-| Data                                     | Daniel Mundra, Zach Edmonds                                                                  | #data                  | Biweekly                             |
+| Data                                     | Daniel Mundra, Zach Edmonds                                                                  | #data                  | Monthly                             |
 | Design                                   | Jenna Waszak, Dave Pickett                                                                   | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
 | DevSecOps                                | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | [Drupal](engineering/drupal/README.md)   | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
 | Frontend                                 | Eric Huffman, Iris Ibekwe                                                                    | #engineering-frontend  | Monthly                              |
 | Product Management                       | Liz Tupper                                                                                   | #productmanagement     | Biweekly                             |
 | Project Management                       | Matt Powell                                                                                  | #projectmanagement     | Biweekly                             |
-| Python                                   | Jonathan Bourland                                                                            | #engineering-python    | Monthly                              |
+| Python                                   | Jonathan Bourland, Tom Camp                                                                          | #engineering-python    | Monthly                              |
 | Quality Assurance                        | Eric Napier                                                                                  | #engineering-qa        | Biweekly                             |
+| [Tech Lead](engineering/tech-lead/README.md) | Andy Hawks, Kristian Ducharme, Bob Schmitt                                                   | #engineering-techlead  | Monthly                              |
 | Workforce Transformation                 | Farooq Zakhilwal, Chianti Lomax                                                              | #workforce-development | Monthly                              |
