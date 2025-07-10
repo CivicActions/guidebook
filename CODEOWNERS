@@ -9,10 +9,13 @@
 about-this-guidebook/* @CivicActions/docs
 practice-areas/engineering/* @CivicActions/engineering  @CivicActions/docs
 practice-areas/project-management/* @CivicActions/pm  @CivicActions/docs
+SECURITY.md @CivicActions/security  @CivicActions/docs
 common-practices-tools/security/* @CivicActions/security  @CivicActions/docs
 
 # Policy review is REQUIRED for all changes to these sections
 CODEOWNERS @CivicActions/policy
+CODE_OF_CONDUCT.md @CivicActions/policy
+LICENSE.md @CivicActions/policy
 company-policies/* @CivicActions/policy
 employee-benefits/* @CivicActions/policy
 

@@ -1,4 +1,6 @@
 name: Checking links
+permissions:
+  contents: read
 
 on:
   pull_request:
@@ -6,12 +8,11 @@ on:
 jobs:
   check-links:
     name: runner / linkspector
-    # Once https://github.com/UmbrellaDocs/action-linkspector/issues/32 is resolved, we can use ubuntu-latest
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Run linkspector
-        uses: umbrelladocs/action-linkspector@v1
+        uses: umbrelladocs/action-linkspector@v1.3.6
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review

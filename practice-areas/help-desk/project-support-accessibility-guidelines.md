@@ -6,7 +6,7 @@ title: Accessibility guidelines
 
 ## Our commitment to accessibility
 
-The CivicActions Support practice area is committed to following the guidance provided in the [Americans with Disabilities Act](https://www.ada.gov/) and following the best practices for inclusive customer service such as the [AODA Accessibility for Ontarians with Disabilities Act](https://www.ontario.ca/laws/statute/05a11). CivicActions is committed to providing a barrier-free environment for its customers, clients, and staff and to providing our support in a manner that respects the dignity and independence of people with disabilities.
+The CivicActions Support practice area is committed to following the guidance provided in the [Americans with Disabilities Act](https://www.ada.gov/) and following the best practices for customer service such as the [AODA Accessibility for Ontarians with Disabilities Act](https://www.ontario.ca/laws/statute/05a11). CivicActions is committed to providing a barrier-free environment for its customers, clients, and staff and to providing our support in a manner that respects the dignity and independence of people with disabilities.
 
 -   [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge)
 -   [CivicActions Accessibility Statement](https://civicactions.com/accessibility-statement)
@@ -27,7 +27,7 @@ As standards, rules, and guidelines develop, the CivicActions Support practice a
 
 ## Training
 
-Each member of the project Support team will complete - within the first ninety days of onboarding - the edX Introduction to Web Accessibility course to help build understanding about disability: [https://www.edx.org/course/web-accessibility-introduction](https://www.edx.org/course/web-accessibility-introduction)
+Each member of the project Support team will complete - within the first ninety days of onboarding - the edX Introduction to Web Accessibility course to help build understanding about disability: [https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 
 ## Accessible websites and web content
 
