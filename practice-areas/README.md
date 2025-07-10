@@ -26,8 +26,8 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 | Name                                         | Leads                                                                                        | Slack                  | Meets                                |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------ |
 | [Accessibility](accessibility/README.md)     | Maggie Wachs, Laura Flannery, Mike Gifford                                                   | #accessibility         | Twice monthly                        |
-| Data Science                                 |                                                                                              | #datascience           |                                      |
-| Design                                       | Jenna Waszak, Kelly Smith, Val Runde                                                         | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
+| Data                                         | Daniel Mundra, Zach Edmonds                                                                  | #data                  | Monthly                              |
+| Design                                       | Jenna Waszak, Dave Pickett                                                                   | #design                | Weekly (Ops), Weekly (Lunch & Learn) |
 | DevSecOps                                    | David Sumner, Sharjeel Aziz                                                                  | #devsecops             | Biweekly                             |
 | [Drupal](engineering/drupal/README.md)       | Andy Hawks, Daniel Mundra, Eric Napier, Jonathan Bourland, Kristian Ducharme, Patrick Koroma | #engineering-drupal    | Monthly                              |
 | Frontend                                     | Eric Huffman, Iris Ibekwe                                                                    | #engineering-frontend  | Monthly                              |
