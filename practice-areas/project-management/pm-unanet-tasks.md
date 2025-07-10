@@ -6,6 +6,8 @@ title: Unanet tasks and training material
 
 Unanet is an enterprise resource planning (ERP) system that CivicActions leverages for time tracking, planning, forecasting, and accounting. As a project lead, you're responsible for the following Unanet tasks:
 
+<!-- lint disable list-item-content-indent -->
+
 1. People planning and assignments
 2. Adjusting projections for holidays or other OOO
 3. Reviewing and approving timesheets
@@ -13,6 +15,8 @@ Unanet is an enterprise resource planning (ERP) system that CivicActions leverag
 5. Runnings reports
     - Plans v Actuals
     - Planned Utilization
+
+<!-- lint enable list-item-content-indent -->
 
 ## Key Unanet tasks for a project lead
 

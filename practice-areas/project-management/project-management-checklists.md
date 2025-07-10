@@ -36,6 +36,8 @@ Wrap up the past quarter:
 
 Now prepare for the new quarter:
 
+<!-- lint disable list-item-content-indent -->
+
 6. Review project Wrappers (Legal and Project Management)
 
     - Review contractual dates and details
@@ -51,3 +53,5 @@ Now prepare for the new quarter:
     - External project shared drives should have "Allow people outside of CivicActions to access files" checked
     - Both internal and external project shared drives should have "Allow people who aren't shared drive members to access files" unchecked (this last one is very important, since it is pretty impossible to manage access centrally if this is checked).
 10. Clean up project folders.
+
+<!-- lint enable list-item-content-indent -->
