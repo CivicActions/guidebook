@@ -15,21 +15,21 @@ Board
 
 Leadership team
 
-| Name             | Title                                       |
-| ---------------- | ------------------------------------------- |
-| Henry Poole      | Co-Founder & Chief Executive Officer (CEO)  |
-| Aaron Pava       | Co-Founder & Chief Experience Officer (CXO) |
-| Elizabeth Raley  | Chief Operating Officer (COO)               |
-| Owen Barton      | Chief Technology Officer (CTO)              |
-| Bill Ogilvie     | Vice President of Public Sector             |
-| Marc Jones       | General Counsel                             |
-| Alaine Karoleff  | Director of Digital Services                |
-| Emily Ryan       | Director of Design                          |
-| Andy Hawks       | Director of Drupal Engineering              |
-| Laura Lanford    | Director of Engineering                     |
-| Keith Kawasaki   | Director of Growth & Partnerships           |
-| Kimberlin Schone | Director of People                          |
-| Liz Tupper       | Director of Product                         |
+| Name            | Title                                       |
+| --------------- | ------------------------------------------- |
+| Henry Poole     | Co-Founder & Chief Executive Officer (CEO)  |
+| Aaron Pava      | Co-Founder & Chief Experience Officer (CXO) |
+| Elizabeth Raley | Chief Operating Officer (COO)               |
+| Owen Barton     | Chief Technology Officer (CTO)              |
+| Bill Ogilvie    | Vice President of Public Sector             |
+| Alaine Karoleff | Director of Digital Services                |
+| Jenna Waszak    | Director of Design                          |
+| Andy Hawks      | Director of Drupal Engineering              |
+| Laura Lanford   | Director of Engineering                     |
+| Keith Kawasaki  | Director of Growth & Partnerships           |
+| Liz Tupper      | Director of Product                         |
+| Matt Powell     | Director of Project Management              |
+| Montana Singer  | Controller                                  |
 
 Management team
 
@@ -37,9 +37,9 @@ Management team
 | ----------------- | ------------------------------------------ |
 | David Sumner      | Associate Director DevSecOps               |
 | Sharjeel Aziz     | Associate Director DevSecOps               |
-| Jenna Waszak      | Associate Director of Design               |
 | Kelly Smith       | Associate Director of Design               |
 | Valerie Runde     | Associate Director of Design               |
+| Farooq Zakhilwal  | Associate Director of DITAP                |
 | Kristian Ducharme | Associate Director of Drupal               |
 | Daniel Mundra     | Associate Director of Drupal               |
 | Eric Napier       | Associate Director of Drupal               |
@@ -48,7 +48,6 @@ Management team
 | Iris Ibekwe       | Associate Director of Frontend Engineering |
 | Dan Goodwin       | Associate Director of Frontend Engineering |
 | Eric Huffman      | Associate Director of Frontend Engineering |
-| Heidi Harting-Rex | Associate Director of Project Management   |
 
 ## Purpose and goals
 

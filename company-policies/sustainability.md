@@ -15,7 +15,7 @@ Sustainability has been one of the consistent threads in our work over the last 
 
 -   Our ecosystem is interdependent
 -   Using science, we can understand environmental systems and effectively address issues
--   Promoting habitat and diversity, supports ecological systems
+-   Promoting local habitats and biodiversity, supports the global ecological systems we all depend on
 -   Environmental challenges have social and political impacts
 -   The impact of climate change will disproportionately affect disadvantaged groups
 
@@ -69,7 +69,7 @@ Please engage in the #sustainability Slack channel.
 
 ## Resources
 
--   [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.awardaroo.io/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
+-   [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.rostoneopex.com/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
 -   [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
 
 ## Conclusion
@@ -79,7 +79,3 @@ We have started the journey, but have a long way to go.
 ## Revision and Updates
 
 v.0.0.3
-
-## Conclusion
-
-We have started the journey, but have a long way to go.

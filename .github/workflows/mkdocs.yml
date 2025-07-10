@@ -1,4 +1,6 @@
 name: Checking site build
+permissions:
+  contents: read
 
 on:
   pull_request:

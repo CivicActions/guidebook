@@ -4,27 +4,31 @@ title: Video call best practices
 
 # Video Call Best Practices
 
+We believe that seeing each other fosters stronger connections, better collaboration, and a more engaging experience for everyone. Therefore, **we default to camera on** for video calls. This helps us feel more connected as a team and encourages active participation.
+
+However, we understand there are reasons why having your camera on might not be feasible or comfortable at all times. If you have a specific reason for keeping your camera off, please consider using the chat to briefly communicate this at the beginning of the call.
+
+Here are some guidelines to help us all make the most of our video calls:
+
 -   Be on time - please! Seconds matter.
+-   Default to Camera On: Please turn on your camera when joining a call. This helps build connection and facilitates more engaged discussions.
+-   If Camera Off, Please Communicate: If you need to have your camera off (eating, poor connection, privacy, focus, or other circumstances), please use the chat to let the participants know. This helps set expectations and avoids assumptions about your engagement.
 -   Add a photo to your account, so it shows up if your camera is off.
--   Zoom has added a pronoun field. Please fill this in so that people are confident that they can communicate with you respectfully. These can be configured on https://zoom.us/profile
 -   We use the chat and screen sharing features. For certain calls like AHC we use Slack for chats so that folks who are watching a recording can participate also. Discussions in Slack are preserved and searchable, unlike those in Zoom.
 -   Turn off your camera or reduce bandwidth if the connection is poor.
 -   Use a headset or headphones instead of relying solely on the computer mic (computer mics can sometimes create echoes).
--   Use your best judgment for video call dress, backgrounds, and effects. Most people turn off their video (face-mute) when eating.
+-   Use your best professional judgment for video call dress, backgrounds, and effects.
 -   It's okay to mute others or ask them to mute themselves. It is a best practice to mute if primarily listening to a discussion.
 -   Be sure to let people know if you expect noise in your location and that you will be muting when not talking—dogs, construction, etc.
--   When you see people talking who are on mute, it is a best practice to let them know.
 -   We can invite people outside of CivicActions.
--   If someone hears an echo & you don't, then your computer is likely creating the echo. Try using headphones or plugging them in again.
--   When appropriate and a screen isn't technically needed to be on a call, it's okay to face-mute and go for a walk or do another activity while listening or engaging in the discussion. Zoom has a mobile app that you can use for this purpose. Please let people know if you are doing this.
 
 ## Video Preference Considerations
 
--   We wish to host the most inclusive and welcoming spaces for all. Therefore, please use the camera option that works best for you.
--   If you are comfortable with your camera on, then we encourage you to do so. However, turning cameras on is not required - we recognize that it does not work for everyone, which is ok.
+-   We default to camera on
+-   Legitimate reasons for camera off are understood and respected. Please use the chat to briefly communicate if you need to have your camera off.
 -   Don't assume that someone is less interested if their camera is off. Be aware that it may be a way for them to stay focused.
 -   Don't assume someone can recognize emotional content through words and vocal inflection alone.
--   Some teams find that turning off their video after folks have settled in can help build trust and form deeper connections. Having a wall of faces to engage with can be draining and distracting.
+-   Some teams find that occasionally turning off their video after folks have settled in can help with focus and reduce "Zoom fatigue." However, the default expectation remains camera on for the initial connection and throughout active discussions.
 
 ## Zoom fatigue
 

@@ -10,7 +10,7 @@ All employment with CivicActions is "at will". The relationship can be terminate
 
 ## Resignation
 
-Employees are asked to provide a minimum of 2 weeks written notice of their intent to resign (if possible). The notice should be submitted to the employee's manager or to peopleops@civicactions.com. An exit interview may be requested.
+Employees are asked to provide a minimum of 2 weeks written notice of their intent to resign (if possible). The notice should be submitted to the employee's manager or to [peopleops@civicactions.com](mailto:peopleops@civicactions.com). An exit interview may be requested.
 
 ## Termination
 
