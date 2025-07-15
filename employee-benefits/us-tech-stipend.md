@@ -12,7 +12,7 @@ CivicActions provides "Technology Stipends" to our employees to reimburse them f
 -   "Annual Eligibility Date" means:
 
     1. The Annual Eligibility Date for Eligible Team Members who have been with CivicActions for more than one year since their last hire date is the annual anniversary of their last hire date.
-    1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 and have been with CivicActions for less than 90 days is the last day of the ninety-day Introductory Period.
+    1. The Annual Eligibility Date for Team Members who are hired by CivicActions after April 1, 2021 is the date of hire reflected in the Team Member’s employment agreement.
 
 -   The "Payment Amount" as of January 1, 2025 is $749 USD for team members who are issued managed devices (excluding project specific devices) and $1,149 USD for team members who bring their own device. The amount will be reviewed annually.
 
