@@ -45,7 +45,7 @@ We most often are contracted for government projects under the following broad d
 
 -   We acknowledge each other's whole self
 -   We can show care for others when we show care for ourselves
--   We acknowledge that we all work in different ways and we respect diversity in thought, approach, and execution
+-   We acknowledge that we all work in different ways and we respect difference in thought, approach, and execution
 
 ### Good enough should not be our default
 
