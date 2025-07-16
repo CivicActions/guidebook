@@ -20,6 +20,8 @@ The following is the list of hardware and software that is prohibited to use bas
 
 ## Policy
 
+<!-- lint disable list-item-content-indent -->
+
 1. CivicActions employees will not use any hardware or software listed in the requirements section for any CivicActions activities or to access CivicActions resources such as CivicActions email, Slack, GitHub, GitLab, or client project resources. Specifically, this includes:
 
     - Installing Kaspersky antivirus software on devices used for CivicActions activities
@@ -32,3 +34,5 @@ The following is the list of hardware and software that is prohibited to use bas
 3. In the event of the discovery of prohibited hardware or software being used for CivicActions activities, CivicActions will follow each individual FAR reporting requirement and if appropriate follow CivicActions sanction policy to address the finding.
 
 4. As part of the CivicActions onboarding process, and periodically thereafter, all CivicActions employees must complete the Security Questionnaire to document the current state of compliance to the requirements and to address any gaps in compliance.
+
+<!-- lint enable list-item-content-indent -->

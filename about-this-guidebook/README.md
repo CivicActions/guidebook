@@ -16,6 +16,8 @@ We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel i
 
 When making a contribution to the guidebook:
 
+<!-- lint disable list-item-content-indent -->
+
 1. If you have an idea for improving the guidebook but don't have time to research and/or write new content, you can open a new [issue](https://github.com/CivicActions/guidebook/issues) with a suggestion for the backlog.
 2. You can chat about your suggestion in [#docs](https://civicactions.slack.com/messages/docs/) in Slack and ask for help if you're not sure how to resolve any issues.
 3. Take 10 minutes to review:
@@ -27,3 +29,5 @@ When making a contribution to the guidebook:
 5. Make any needed changes to the guidebook navigation.
 6. Have someone review your page and code.
 7. Merge the code to make it available publicly.
+
+<!-- lint enable list-item-content-indent -->
