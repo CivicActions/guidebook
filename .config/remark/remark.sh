@@ -17,7 +17,7 @@ if [[ -z ${LOCAL_MASTER} ]]; then
 fi
 # Only check markdown files changed on branch to avoid excessive output.
 REMARK_PATHS=""
-REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md')
+REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md' | grep -vE '^[.]')
 export REMARK_PATHS
 
 # Add node_modules/.bin to PATH so we can find remark
