@@ -36,29 +36,29 @@ We most often are contracted for government projects under the following broad d
 
 ### We start with discovery, not solutions
 
--   We begin by listening
--   We make every effort to design proactively, not reactively
--   We believe in incremental experimentation through iteration
--   We explore solutions through research, best practices, and equitable, accessible design approaches
+- We begin by listening
+- We make every effort to design proactively, not reactively
+- We believe in incremental experimentation through iteration
+- We explore solutions through research, best practices, and equitable, accessible design approaches
 
 ### We approach our work with authentic empathy
 
--   We acknowledge each other's whole self
--   We can show care for others when we show care for ourselves
--   We acknowledge that we all work in different ways and we respect difference in thought, approach, and execution
+- We acknowledge each other's whole self
+- We can show care for others when we show care for ourselves
+- We acknowledge that we all work in different ways and we respect difference in thought, approach, and execution
 
 ### Good enough should not be our default
 
--   We strive to fix what is broken
--   We advocate for, and educate others, on design best practices
--   We seek to find solutions for all of humanity, not just a subset of users
--   We have a growth mindset that is open to constructive feedback
+- We strive to fix what is broken
+- We advocate for, and educate others, on design best practices
+- We seek to find solutions for all of humanity, not just a subset of users
+- We have a growth mindset that is open to constructive feedback
 
 ### We achieve through imagination and iteration
 
--   We push ourselves and each other to go beyond what we think we're capable of
--   We know that success requires collaboration and teamwork
--   We use metrics to gauge impact and guide decisions
+- We push ourselves and each other to go beyond what we think we're capable of
+- We know that success requires collaboration and teamwork
+- We use metrics to gauge impact and guide decisions
 
 ## All creatives calls
 
@@ -73,30 +73,30 @@ Our design team spends most of our time on billable projects, but we recognize t
 
 We've included some possible professional development resources below. You have $1200 per year (after your 90-day intro period) to spend on [professional development](../../employee-benefits/professional-development.md). Professional development conferences, courses, and webinars that align with your current or growth-level path can contribute to your yearly utilization targets, but you don't have to use your professional development for our practice area only.
 
--   [Nielsen-Norman Group courses](https://www.nngroup.com/training/)
--   [Innovate(us)](https://course.innovate-us.org/)
--   [Config conference](https://config.figma.com/)
--   [Leaders of Awesomeness community](https://leaders.centercentre.com/)
--   [Centercentre previous workshops](https://essentials.centercentre.com/)
+- [Nielsen-Norman Group courses](https://www.nngroup.com/training/)
+- [Innovate(us)](https://course.innovate-us.org/)
+- [Config conference](https://config.figma.com/)
+- [Leaders of Awesomeness community](https://leaders.centercentre.com/)
+- [Centercentre previous workshops](https://essentials.centercentre.com/)
 
 ## Tools
 
 A member of the design team can help you get access to the design tools we use at CivicActions and your project teams will get you project team access.
 
--   [Figma](https://www.figma.com/)
--   [Sketch](https://www.sketch.com/)
--   [Screaming frog](https://www.screamingfrog.co.uk/)
--   [Optimal Workshop](https://www.optimalworkshop.com/)
--   [Airtable](https://airtable.com/)
+- [Figma](https://www.figma.com/)
+- [Sketch](https://www.sketch.com/)
+- [Screaming frog](https://www.screamingfrog.co.uk/)
+- [Optimal Workshop](https://www.optimalworkshop.com/)
+- [Airtable](https://airtable.com/)
 
 ## Have a design request?
 
 One important use of the **#design** slack channel is for other practice areas to reach out to the CivicActions designers to ask for specific design requests. When asking for help, please include:
 
--   The context for the request, including the target audience
--   Your preferred delivery format (document, design, user flow, graphics, illustration, etc)
--   A description or visualization of the solution/suggestion
--   A timeline that includes enough lead time to iterate on the design before the deadline
--   The point of contact for the request and describe any timeline requirements
+- The context for the request, including the target audience
+- Your preferred delivery format (document, design, user flow, graphics, illustration, etc)
+- A description or visualization of the solution/suggestion
+- A timeline that includes enough lead time to iterate on the design before the deadline
+- The point of contact for the request and describe any timeline requirements
 
 While we address all requests as soon as they come in, ensuring each request has the above information ensures a faster response time and an easier project start.

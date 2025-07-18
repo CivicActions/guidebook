@@ -7,19 +7,56 @@
     "fences": true
   },
   "plugins": [
-      "remark-preset-lint-markdown-style-guide",
-      "remark-preset-lint-recommended",
-      "remark-preset-prettier",
-      ["remark-lint-maximum-heading-length", 100],
-      "remark-frontmatter",
-      "remark-validate-links",
-      "remark-comment-config",
-      "remark-normalize-headings",
-      "remark-lint-no-duplicate-headings-in-section",
-      "remark-lint-no-empty-url",
-      "remark-lint-no-tabs",
-      ["remark-lint-checkbox-character-style", "consistent"],
-      ["remark-lint-first-heading-level", 1],
-      "./retext.problem.js"
-    ]
+    "remark-preset-lint-recommended",
+    [
+      "remark-lint-no-undefined-references",
+      false
+    ],
+    [
+      "remark-lint-fenced-code-flag",
+      {
+        "allowEmpty": false
+      }
+    ],
+    [
+      "remark-lint-file-extension",
+      "md"
+    ],
+    "remark-lint-final-definition",
+    "remark-lint-heading-increment",
+    "remark-lint-maximum-heading-length",
+    "remark-lint-no-duplicate-headings",
+    "remark-lint-no-emphasis-as-heading",
+    "remark-lint-no-file-name-articles",
+    "remark-lint-no-file-name-consecutive-dashes",
+    "remark-lint-no-file-name-irregular-characters",
+    "remark-lint-no-file-name-mixed-case",
+    "remark-lint-no-file-name-outer-dashes",
+    [
+      "remark-lint-no-heading-punctuation",
+      ":."
+    ],
+    "remark-lint-no-multiple-toplevel-headings",
+    "remark-lint-no-shell-dollars",
+    [
+      "remark-lint-maximum-heading-length",
+      100
+    ],
+    "remark-frontmatter",
+    "remark-validate-links",
+    "remark-comment-config",
+    "remark-normalize-headings",
+    "remark-lint-no-duplicate-headings-in-section",
+    "remark-lint-no-empty-url",
+    "remark-lint-no-tabs",
+    [
+      "remark-lint-checkbox-character-style",
+      "consistent"
+    ],
+    [
+      "remark-lint-first-heading-level",
+      1
+    ],
+    "./retext.problem.js"
+  ]
 }

@@ -17,22 +17,22 @@ The Project Management Practice Area will prepare the Team Working Agreement (TW
 ## Guidelines
 
 1. Remove any sections not relevant to your project, excluding those marked as required.
-2. Decide, based on the size of the team, if a pre-conversation around the elected team priorities - those to be used for voting - is necessary. If so, arrange for that discussion, then adjust the TWA survey template accordingly.
-   Important: TWA work will vary by team size. Larger teams will need to take an MVP approach, focusing on the required items, and adding in new sections in quarterly reviews.
-3. Define who will lead the team through the TWA and schedule meeting times for the various sections.
-4. Pre-populate sections with team details.
-5. Capture pragmatic details, e.g., JIRA workflow diagrams; Slack channels; listserv names, etc.
-6. Document sprint ceremonies with details about their cadence; attendees; objectives; etc.
-7. Prepare expectations with your team, reinforcing the value of the TWA and its ongoing & iterative cadence.
-8. Share feedback on how this process goes with the Project Management Practice Area.
+1. Decide, based on the size of the team, if a pre-conversation around the elected team priorities - those to be used for voting - is necessary. If so, arrange for that discussion, then adjust the TWA survey template accordingly.
+    Important: TWA work will vary by team size. Larger teams will need to take an MVP approach, focusing on the required items, and adding in new sections in quarterly reviews.
+1. Define who will lead the team through the TWA and schedule meeting times for the various sections.
+1. Pre-populate sections with team details.
+1. Capture pragmatic details, e.g., JIRA workflow diagrams; Slack channels; listserv names, etc.
+1. Document sprint ceremonies with details about their cadence; attendees; objectives; etc.
+1. Prepare expectations with your team, reinforcing the value of the TWA and its ongoing & iterative cadence.
+1. Share feedback on how this process goes with the Project Management Practice Area.
 
 ## Elected Team Priorities
 
 Using the [survey template](https://docs.google.com/forms/d/1f1hnFe-ZvjEU-MXOSJAB3UyOuedwMp_ZsRjpKRIUrxA/edit), conduct a devoted call with the team every quarter to review priority elections. Remind the team about participation in at least the following instances:
 
--   Prior to sending the survey and including the submission deadline
--   During the survey period
--   Prior to closing the survey period
+- Prior to sending the survey and including the submission deadline
+- During the survey period
+- Prior to closing the survey period
 
 Following the survey, all results are tallied and inserted into this document, including a link to the survey with full transparency on the values entered.
 
@@ -52,8 +52,8 @@ This section is started by the Technical Lead(s) with the objective of creating 
 
 This section is started by the Project Manager, perhaps noting two things:
 
--   How the team recognizes good work presently
--   Suggestions for other recognition methods
+- How the team recognizes good work presently
+- Suggestions for other recognition methods
     During TWA discussions, the team is able to adjust details as desired, including around iterative discussion mediums and timelines.
     NOTE: One great function the TWA can play is to become a best practices repository for the team. If, for an example, a good suggestion surfaces in a Retro, the team can ask, "Should this be in our TWA?"
 
@@ -71,11 +71,11 @@ The TWA requires quarterly review. The team can decide if there is a committee o
 
 The key sections to review are those marked with an asterisk. The ongoing objectives are as follows:
 
--   To confirm all team members are included
--   To verify that team members are accurate
--   To reflect any logistical changes
--   To represent the agreement of the team
--   To keep abreast on team recognition
--   To keep innovation in front of the team
+- To confirm all team members are included
+- To verify that team members are accurate
+- To reflect any logistical changes
+- To represent the agreement of the team
+- To keep abreast on team recognition
+- To keep innovation in front of the team
 
 The Project Manager is responsible to guide the document review dates, yet any team member is welcome to own the TWA.

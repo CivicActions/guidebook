@@ -8,3 +8,4 @@ output.log
 
 # editors
 .nova
+.config/mkdocs/scripts/__pycache__

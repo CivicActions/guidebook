@@ -1,16 +1,22 @@
 [tool.poetry]
 name = "mkdocs-build"
 version = "0.1.0"
-description = ""
+description = "Build tools for CivicActions guidebook documentation"
 authors = ["CivicActions Docs Team"]
 readme = "README.md"
+packages = [{include = "scripts"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.6.14-insiders-4.53.16"}
 mkdocs-git-revision-date-localized-plugin = "^1.4.7"
 pymdown-extensions = "^10.16"
+# Keep this in sync with the version in .pre-commit-config.yaml
+mdformat = "^0.7.22"
+mdformat-mkdocs = {extras = ["recommended"], version = "^4.3.0"}
 
+[tool.poetry.scripts]
+format-changed = "scripts.format_changed:main"
 
 [build-system]
 requires = ["poetry-core"]

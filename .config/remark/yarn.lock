@@ -337,7 +337,7 @@ boolbase@^1.0.0:
 
 brace-expansion@^2.0.1:
   version "2.0.2"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-2.0.2.tgz#54fc53237a613d854c7bd37463aad17df87214e7"
+  resolved "https://registry.npmjs.org/brace-expansion/-/brace-expansion-2.0.2.tgz"
   integrity sha512-Jt0vHyM+jmUBqojB7E1NIYadt0vI0Qxjxd2TErW94wDz+E2LAm5vKMXXwg6ZZBTHPuUlDgQHKXvjGBdfcF1ZDQ==
   dependencies:
     balanced-match "^1.0.0"
@@ -479,7 +479,7 @@ comma-separated-tokens@^2.0.0:
 
 commander@^13.1.0:
   version "13.1.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-13.1.0.tgz#776167db68c78f38dcce1f9b8d7b8b9a488abf46"
+  resolved "https://registry.npmjs.org/commander/-/commander-13.1.0.tgz"
   integrity sha512-/rFeCpNJQbhSZjGVwO9RFV3xPqbnERS8MmIQzCtD/zl6gpJuV/bMLuN92oG3F7d8oDEHHRrujSXNUr8fpjntKw==
 
 concat-stream@^2.0.0:
@@ -1047,7 +1047,7 @@ markdown-extensions@^2.0.0:
 
 markdown-link-check@^3.13.7:
   version "3.13.7"
-  resolved "https://registry.yarnpkg.com/markdown-link-check/-/markdown-link-check-3.13.7.tgz#789d7f2e6bf9a48df3d2a501735aa04b8acf1bd7"
+  resolved "https://registry.npmjs.org/markdown-link-check/-/markdown-link-check-3.13.7.tgz"
   integrity sha512-Btn3HU8s2Uyh1ZfzmyZEkp64zp2+RAjwfQt1u4swq2Xa6w37OW0T2inQZrkSNVxDSa2jSN2YYhw/JkAp5jF1PQ==
   dependencies:
     async "^3.2.6"
@@ -1917,11 +1917,6 @@ pluralize@^8.0.0:
   resolved "https://registry.npmjs.org/pluralize/-/pluralize-8.0.0.tgz"
   integrity sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==
 
-prettier@^3.3.3:
-  version "3.3.3"
-  resolved "https://registry.npmjs.org/prettier/-/prettier-3.3.3.tgz"
-  integrity sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==
-
 proc-log@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/proc-log/-/proc-log-3.0.0.tgz"
@@ -2117,7 +2112,7 @@ remark-lint-definition-spacing@^4.0.0:
 
 remark-lint-emphasis-marker@^4.0.0, remark-lint-emphasis-marker@^4.0.1:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-emphasis-marker/-/remark-lint-emphasis-marker-4.0.1.tgz#473dd76c79cbc44b55410372f66d2ef8b92ebf2c"
+  resolved "https://registry.npmjs.org/remark-lint-emphasis-marker/-/remark-lint-emphasis-marker-4.0.1.tgz"
   integrity sha512-BF1WWsAxai3XoKk48sfiqT3L8m02AZLj3BnipWkHDRXuLfz6VwsHVaHWyNvvE0p6b2B3A5dSYbcfJu5RmPx4tQ==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2186,7 +2181,7 @@ remark-lint-final-definition@^4.0.0, remark-lint-final-definition@^4.0.1:
 
 remark-lint-final-newline@^3.0.0, remark-lint-final-newline@^3.0.1:
   version "3.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-final-newline/-/remark-lint-final-newline-3.0.1.tgz#a5ca02cbdbfa26f7c7412d39df6f99f086990799"
+  resolved "https://registry.npmjs.org/remark-lint-final-newline/-/remark-lint-final-newline-3.0.1.tgz"
   integrity sha512-q5diKHD6BMbzqWqgvYPOB8AJgLrMzEMBAprNXjcpKoZ/uCRqly+gxjco+qVUMtMWSd+P+KXZZEqoa7Y6QiOudw==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2254,7 +2249,7 @@ remark-lint-heading-style@^4.0.0:
 
 remark-lint-link-title-style@^4.0.0, remark-lint-link-title-style@^4.0.1:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-4.0.1.tgz#4de0a635b367edbb1fbec25f708f0bb774c54239"
+  resolved "https://registry.npmjs.org/remark-lint-link-title-style/-/remark-lint-link-title-style-4.0.1.tgz"
   integrity sha512-MtmnYrhjhRXR0zeiyYf/7GBlUF5KAPypJb345KjyDluOhI4Wj4VAXvVQuov/MFc3y8p/1yVwv3QDYv6yue8/wQ==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2337,7 +2332,7 @@ remark-lint-maximum-heading-length@^4.0.0, remark-lint-maximum-heading-length@^4
 
 remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.1.1:
   version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-4.1.1.tgz#d6d1a5bb959908f9186414220dcfb4cb626c41e3"
+  resolved "https://registry.npmjs.org/remark-lint-maximum-line-length/-/remark-lint-maximum-line-length-4.1.1.tgz"
   integrity sha512-oIncZkI0oIXZk+1kJOMnE3WPbyMTUbds0q1E8WbCwtjN9pAZsQD2e+wK+xdi5VqOLPkvLER+yzbmi/A3Tp+XEg==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2488,7 +2483,7 @@ remark-lint-no-heading-content-indent@^5.0.0:
 
 remark-lint-no-heading-indent@^5.0.1:
   version "5.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-5.0.1.tgz#54816d2c4915f93c28fe665eae6110a9b0941029"
+  resolved "https://registry.npmjs.org/remark-lint-no-heading-indent/-/remark-lint-no-heading-indent-5.0.1.tgz"
   integrity sha512-R/KkR9Qfh0AM3asadSnQQXMHu6BNZxPbxLI9h9JBPIZM+EtzycDlhaAHbOlQUdaHA5UEANhYENZBLrueH50Cdg==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2511,7 +2506,7 @@ remark-lint-no-heading-punctuation@^4.0.0, remark-lint-no-heading-punctuation@^4
 
 remark-lint-no-html@^4.0.1:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-4.0.1.tgz#df4270ca3adb04a8c50b9c377662cb567fec82cf"
+  resolved "https://registry.npmjs.org/remark-lint-no-html/-/remark-lint-no-html-4.0.1.tgz"
   integrity sha512-d5OD+lp2PJMtIIpCR12uDCGzmmRbYDx+bc2iTIX6Bgo0vprQY0dBG1UXbUT5q8KRijXwOFwBDX6Ogl9atRwCGA==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2687,7 +2682,7 @@ remark-lint-ordered-list-marker-style@^4.0.0, remark-lint-ordered-list-marker-st
 
 remark-lint-ordered-list-marker-value@^4.0.0, remark-lint-ordered-list-marker-value@^4.0.1:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-ordered-list-marker-value/-/remark-lint-ordered-list-marker-value-4.0.1.tgz#8a945e0226eacb99cf8489038eff33fa10042f4b"
+  resolved "https://registry.npmjs.org/remark-lint-ordered-list-marker-value/-/remark-lint-ordered-list-marker-value-4.0.1.tgz"
   integrity sha512-HQb1MrArvApREC1/I6bkiFlZVDjngsuII29n8E8StnAaHOMN3hVYy6wJ9Uk+O3+X9O8v7fDsZPqFUHSfJhERXQ==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -2724,7 +2719,7 @@ remark-lint-strong-marker@^4.0.0, remark-lint-strong-marker@^4.0.1:
 
 remark-lint-table-cell-padding@^5.0.0, remark-lint-table-cell-padding@^5.1.1:
   version "5.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-5.1.1.tgz#f2e20642ed4ae2af1e00ea4f29369322a8b36dc7"
+  resolved "https://registry.npmjs.org/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-5.1.1.tgz"
   integrity sha512-6fgVA1iINBoAJaZMOnSsxrF9Qj9+hmCqrsrqZqgJJETjT1ODGH64iAN1/6vHR7dIwmy73d6ysB2WrGyKhVlK3A==
   dependencies:
     "@types/mdast" "^4.0.0"
@@ -3037,7 +3032,7 @@ retext-profanities@^8.0.0:
 
 retext-quotes@^6.0.2:
   version "6.0.2"
-  resolved "https://registry.yarnpkg.com/retext-quotes/-/retext-quotes-6.0.2.tgz#c0c7463c3cabcdb46f4c4ed95f1680d326d57da7"
+  resolved "https://registry.npmjs.org/retext-quotes/-/retext-quotes-6.0.2.tgz"
   integrity sha512-J+JdHDvWDkibjcld7pEag2/rLoIA0NNbqdHfvv0wrpGv6nsYbEy6TKQi5oRcNO6TzgIH5CRQXs2qiwDr/PbP+g==
   dependencies:
     "@types/nlcst" "^2.0.0"

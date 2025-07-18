@@ -57,13 +57,13 @@ The CivicActions' Leadership and the Accounting Department will review and updat
 | Date     | Version # | Changes Made |        Author         |  Reviewer   |  Signature  |
 | -------- | :-------: | :----------: | :-------------------: | :---------: | :---------: |
 | 4/1/2023 | Original  |   Original   | Accounting Department | Henry Poole | Henry Poole |
-|          |           |              |
-|          |           |              |
-|          |           |              |
-|          |           |              |
-|          |           |              |
-|          |           |              |
-|          |           |              |
+|          |           |              |                       |             |             |
+|          |           |              |                       |             |             |
+|          |           |              |                       |             |             |
+|          |           |              |                       |             |             |
+|          |           |              |                       |             |             |
+|          |           |              |                       |             |             |
+|          |           |              |                       |             |             |
 
 ## 2— Key definitions
 
@@ -105,27 +105,27 @@ A cost is reasonable if, in its nature and amount, it does not exceed that which
 
 It is the policy of CivicActions to ensure accurate timekeeping and subsequent invoicing of all labor costs to its customers, either directly or indirectly. The procedures provided in this Policy, are to provide a formal process for recording labor associated with Direct and Indirect cost objectives. It is the responsibility of CivicActions' Leadership and all Team Members, to abide by and promote the following principles which serve as guiding principles throughout this Policy:
 
--   Promote an environment of accurate and compliant timekeeping practices
--   Establish appropriate, relevant, and compliant timekeeping policies and procedures which are maintained
--   Maintain accurate and timely timesheets, for all CivicActions' Team Members, to support accurate and compliant invoicing to all CivicActions' customers
--   All CivicActions' Team Members are trained upon hire with annual refresher trainings regarding accurate timekeeping practices and policies
--   All CivicActions' Team Members are responsible for submitting accurate, compliant, and reasonable timesheets
--   CivicActions' Project Managers and Managers must review all time / timesheets, for completeness, accuracy, and reasonableness
--   Appropriate segregation of duties exists between those individuals who are responsible for administrative timekeeping management and the processing of payroll
+- Promote an environment of accurate and compliant timekeeping practices
+- Establish appropriate, relevant, and compliant timekeeping policies and procedures which are maintained
+- Maintain accurate and timely timesheets, for all CivicActions' Team Members, to support accurate and compliant invoicing to all CivicActions' customers
+- All CivicActions' Team Members are trained upon hire with annual refresher trainings regarding accurate timekeeping practices and policies
+- All CivicActions' Team Members are responsible for submitting accurate, compliant, and reasonable timesheets
+- CivicActions' Project Managers and Managers must review all time / timesheets, for completeness, accuracy, and reasonableness
+- Appropriate segregation of duties exists between those individuals who are responsible for administrative timekeeping management and the processing of payroll
 
 ### 3.2 Timekeeping requirements
 
 It is expected that all CivicActions' Team Members will comply and follow the referenced timekeeping requirements:
 
--   All timekeeping entries have an audit trail to include the CivicActions' Team Member name, date, and time. Audit trail should exist at a minimum for the following: initial time entry, Team Member signature (which is completed through data entry by logged in Team Members), supervisory approval, evidence of corrections if applicable
--   All time must be accurately recorded in a timely manner. This includes properly recording hours worked to applicable / appropriate final cost objectives (i.e., Direct or Indirect)
--   All CivicActions' Team Members must account for and record all hours worked for every day worked
--   All CivicActions' Team Members must input and save their hours for each day, no later than 10:00 am local time, the following business day being reported
--   On the last business day of the pay period, CivicActions' Team Members must submit their timesheet, no later than 10:00 am local time, the following business day of the last day of the pay period
--   Manager's must review and approve their CivicActions' Team Member timesheet(s), no later than 5:00 pm local time, the following business day of the last day of the pay period, once the CivicActions' Team Member has signed off on their timesheet
--   All CivicActions' Team Members are responsible for entering and submitting their own timesheets. No other Team Member shall enter time for another CivicActions' Team Member, unless under special circumstances discussed in section _4.3 Timekeeping Special Circumstances_
--   The forward booking of time is strictly prohibited, except for when a Team Member is taking leave. If an Team Member is taking leave, they are allowed to enter time ahead of the time taken off
--   Any Direct or Indirect labor which is considered unallowable, is recorded as such, to the appropriate unallowable project
+- All timekeeping entries have an audit trail to include the CivicActions' Team Member name, date, and time. Audit trail should exist at a minimum for the following: initial time entry, Team Member signature (which is completed through data entry by logged in Team Members), supervisory approval, evidence of corrections if applicable
+- All time must be accurately recorded in a timely manner. This includes properly recording hours worked to applicable / appropriate final cost objectives (i.e., Direct or Indirect)
+- All CivicActions' Team Members must account for and record all hours worked for every day worked
+- All CivicActions' Team Members must input and save their hours for each day, no later than 10:00 am local time, the following business day being reported
+- On the last business day of the pay period, CivicActions' Team Members must submit their timesheet, no later than 10:00 am local time, the following business day of the last day of the pay period
+- Manager's must review and approve their CivicActions' Team Member timesheet(s), no later than 5:00 pm local time, the following business day of the last day of the pay period, once the CivicActions' Team Member has signed off on their timesheet
+- All CivicActions' Team Members are responsible for entering and submitting their own timesheets. No other Team Member shall enter time for another CivicActions' Team Member, unless under special circumstances discussed in section _4.3 Timekeeping Special Circumstances_
+- The forward booking of time is strictly prohibited, except for when a Team Member is taking leave. If an Team Member is taking leave, they are allowed to enter time ahead of the time taken off
+- Any Direct or Indirect labor which is considered unallowable, is recorded as such, to the appropriate unallowable project
 
 ## 4 —Timekeeping
 
@@ -161,31 +161,33 @@ Eligible Team Members are entitled to Holiday pay and associated Office Closing 
 
 CivicActions conducts both onboarding and annual timekeeping training, which is required to be attended by all CivicActions' Team Members. Both trainings include:
 
--   **Section One:** Government requirements for timekeeping and importance of accurate time charging in the Government space
--   **Section Two:** Discuss and review the process for entering in time (i.e., how to physically enter in time to the Unanet system)
--   **Section Three:** Overview of time charging key policy points / responsibility of all Team Members, which include, but not limited to:
+- **Section One:** Government requirements for timekeeping and importance of accurate time charging in the Government space
 
-    -   Defining what Direct and Indirect means
-    -   Discuss types of activities considered to be Direct versus Indirect for labor
-    -   Discuss importance of recording all hours worked (Direct / Indirect)
-    -   Proper recording of hours to the applicable project charge code (Direct / Indirect)
-    -   Requirements for entering time on a daily basis
-    -   Importance of never forward booking time, with the exception of leave
-    -   Discuss process for requesting access to a project charge codes Direct / Indirect (if applicable)
-    -   Discuss what an Team Member should do in the event they are unable to record their time
-    -   Discuss what an Team Member should do if they have a timesheet correction
-    -   Discuss how to record Paid Time Off / Holiday / Leave
+- **Section Two:** Discuss and review the process for entering in time (i.e., how to physically enter in time to the Unanet system)
 
--   **Section Four:** Overview of Manager review roles / responsibilities
+- **Section Three:** Overview of time charging key policy points / responsibility of all Team Members, which include, but not limited to:
 
-    -   Complete, Accurate, Reasonable Review
-    -   Review the process for Managers to physically review the timesheet
+    - Defining what Direct and Indirect means
+    - Discuss types of activities considered to be Direct versus Indirect for labor
+    - Discuss importance of recording all hours worked (Direct / Indirect)
+    - Proper recording of hours to the applicable project charge code (Direct / Indirect)
+    - Requirements for entering time on a daily basis
+    - Importance of never forward booking time, with the exception of leave
+    - Discuss process for requesting access to a project charge codes Direct / Indirect (if applicable)
+    - Discuss what an Team Member should do in the event they are unable to record their time
+    - Discuss what an Team Member should do if they have a timesheet correction
+    - Discuss how to record Paid Time Off / Holiday / Leave
 
--   **Section Five:** Key takeaways and resources
+- **Section Four:** Overview of Manager review roles / responsibilities
 
-    -   Review quick reference / how to guides readily available
-    -   Provide Team Members a place where they can go with questions for time entry or review
-    -   Provide Team Members a place to go, in the event that they suspect fraud
+    - Complete, Accurate, Reasonable Review
+    - Review the process for Managers to physically review the timesheet
+
+- **Section Five:** Key takeaways and resources
+
+    - Review quick reference / how to guides readily available
+    - Provide Team Members a place where they can go with questions for time entry or review
+    - Provide Team Members a place to go, in the event that they suspect fraud
 
 ### 4.6 Self audits
 

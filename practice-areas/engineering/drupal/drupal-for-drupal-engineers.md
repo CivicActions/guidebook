@@ -20,8 +20,8 @@ If you need to create your own fix update the issue accordingly.
 
 Your project's technical lead can show you where any patch files are stored in your project and explain how they are applied.
 
--   [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
--   [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
+- [https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue](https://www.drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue)
+- [https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal](https://www.drupal.org/docs/develop/using-composer/using-composer-with-drupal)
 
 ## Version control and the code review process
 
@@ -30,10 +30,10 @@ CivicActions uses git for version control. Your project's technical lead will ex
 When reviewing a change, consider the following factors:
 
 1. Does the change follow established coding standards? Be picky; we want to hold our code to the highest standards.
-2. Is the code well documented? Good documentation answers the question "why?", not "what" or "how."
-3. Is this code that you want to maintain going forward? If anything is unclear to you, this is the time to get it clarified.
-4. Are there any typos or bugs?
-5. Does the code make any assumptions that may not always be true? For example, assuming an array key exists that might not?
+1. Is the code well documented? Good documentation answers the question "why?", not "what" or "how."
+1. Is this code that you want to maintain going forward? If anything is unclear to you, this is the time to get it clarified.
+1. Are there any typos or bugs?
+1. Does the code make any assumptions that may not always be true? For example, assuming an array key exists that might not?
 
 ## Local development
 
@@ -58,7 +58,7 @@ Drupal engineers meet each month on Zoom to discuss topics of common interest. M
 The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. The Festivus format agenda includes:
 
 1. One or more Feasts (a discussion, a demo, a presentation)
-2. General time of sharing our Feats of Strength, and Airing of Grievances.
+1. General time of sharing our Feats of Strength, and Airing of Grievances.
 
 These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
@@ -70,8 +70,8 @@ CivicActions adopted a standard practice of setting Objectives and Key Results i
 
 We are still in the process of optimizing our practices in this area. Drupal practice area OKRs have been developed that align with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and
 
--   Trello board (read-only): [https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
--   Culture amp: [https://civicactions.cultureamp.com/performance/new_goals/department](https://civicactions.cultureamp.com/performance/new_goals/department)
+- Trello board (read-only): [https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
+- Culture amp: [https://civicactions.cultureamp.com/performance/new_goals/department](https://civicactions.cultureamp.com/performance/new_goals/department)
 
 ### Skillsbase: Complete a self-assessment of your Drupal skills
 
@@ -97,9 +97,9 @@ We encourage all CivicActioners to give back to the Drupal community (see commun
 Update your drupal.org profile
 
 1. Go to [https://drupal.org/](https://drupal.org/).
-2. Log into your drupal.org account (create one if you do not have one).
-3. Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
-4. Align your role with CivicActions in the "Contributor roles" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support". See [https://www.drupal.org/community/contributor-guide/find-your-role](https://www.drupal.org/community/contributor-guide/find-your-role) for more details.
+1. Log into your drupal.org account (create one if you do not have one).
+1. Align it with CivicActions in the "Work" section: Edit profile > Then expand the Work section > Type in "CivicActions" and your Job title.
+1. Align your role with CivicActions in the "Contributor roles" section: Edit profile > Then expand the Contributor roles section > Type in "CivicActions" in "Organization support". See [https://www.drupal.org/community/contributor-guide/find-your-role](https://www.drupal.org/community/contributor-guide/find-your-role) for more details.
 
 ### Contribution to drupal.org modules and themes
 
@@ -119,7 +119,7 @@ Checking the box and adding the organization and customer will ensure that any c
 
 ### External Resources
 
--   Drupalize.me
--   Acquia Academy
--   Buildamodule Youtube channel
--   D.o helpful links
+- Drupalize.me
+- Acquia Academy
+- Buildamodule Youtube channel
+- D.o helpful links
