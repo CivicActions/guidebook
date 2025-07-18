@@ -25,13 +25,23 @@ export PATH="${SCRIPT_DIR}/node_modules/.bin:${PATH}"
 
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
-  remark --rc-path="${SCRIPT_DIR}/remarkrc.suggestion" --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
-    reviewdog -f=remark-lint \
-      -name="remark-lint-suggestions" \
-      -reporter="github-pr-check" \
-      -fail-on-error="false" \
-      -level="info" \
-      -tee
+
+  # Capture remark suggestions output and count them
+  REMARK_SUGGESTIONS_OUTPUT=$(remark --rc-path="${SCRIPT_DIR}/remarkrc.suggestion" --no-color ${REMARK_PATHS} 2>&1 >/dev/null)
+  SUGGESTION_COUNT=$(echo "$REMARK_SUGGESTIONS_OUTPUT" | grep -c "warning" || true)
+
+  # Only run reviewdog for suggestions if count is 10 or fewer
+  if [[ $SUGGESTION_COUNT -le 10 ]]; then
+    echo "$REMARK_SUGGESTIONS_OUTPUT" |
+      reviewdog -f=remark-lint \
+        -name="remark-lint-suggestions" \
+        -reporter="github-pr-check" \
+        -fail-on-error="false" \
+        -level="info" \
+        -tee
+  else
+    echo "Skipping reviewdog for suggestions: found $SUGGESTION_COUNT suggestions (>10 threshold)"
+  fi
 
   remark --rc-path="${SCRIPT_DIR}/remarkrc.problem" --no-color ${REMARK_PATHS} 2>&1 >/dev/null |
     reviewdog -f=remark-lint \
