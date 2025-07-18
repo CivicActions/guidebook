@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Balance scores
+---
+title: Balance scores
+---
 
 # Balance scores
 

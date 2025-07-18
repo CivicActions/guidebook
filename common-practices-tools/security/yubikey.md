@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Using your YubiKey
+---
+title: Using your YubiKey
+---
 
 Notes on installing and setting up your _YubiKey_ for various platforms and applications.
 

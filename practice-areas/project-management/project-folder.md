@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Folder structure
+---
+title: Folder structure
+---
 
 # Project Folder Structure
 

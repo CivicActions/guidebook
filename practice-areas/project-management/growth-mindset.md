@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Conflict resolution and growth mindset
+---
+title: Conflict resolution and growth mindset
+---
 
 # Conflict Resolution and Growth Mindset
 

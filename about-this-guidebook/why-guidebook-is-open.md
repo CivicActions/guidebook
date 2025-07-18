@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Why this guidebook is open
+---
+title: Why this guidebook is open
+---
 
 # Why this guidebook is open
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Text editors and IDEs
+---
+title: Text editors and IDEs
+---
 
 # Text editors and IDEs
 

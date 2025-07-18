@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Drupal for Drupal engineers
+---
+title: Drupal for Drupal engineers
+---
 
 # Drupal for Drupal engineers
 

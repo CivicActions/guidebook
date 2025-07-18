@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Project Manager role
+---
+title: Project Manager role
+---
 
 # The Project Manager Role
 

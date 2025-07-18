@@ -24,6 +24,15 @@ repos:
       - id: mdformat
         additional_dependencies:
           - mdformat-mkdocs
+          - mdformat-black
+          - mdformat-config
+          - mdformat-footnote
+          - mdformat-frontmatter
+          - mdformat-simple-breaks
+          - mdformat-tables
+          - mdformat-web
+          - mdformat-wikilink
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:

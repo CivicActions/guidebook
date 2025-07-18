@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Buddy program
+---
+title: Buddy program
+---
 
 # Buddy Program
 

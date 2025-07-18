@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Guidebook writing style
+---
+title: Guidebook writing style
+---
 
 # Writing style
 

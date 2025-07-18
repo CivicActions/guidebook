@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Leave requests and stepping away
+---
+title: Leave requests and stepping away
+---
 
 # Leave Requests and Stepping Away: Guidelines for Project Managers
 

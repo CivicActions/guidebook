@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Guidelines for project tools
+---
+title: Guidelines for project tools
+---
 
 # General Guidelines for Tools on Project Teams
 

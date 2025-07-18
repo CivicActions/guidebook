@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Our Annual Summit
+---
+title: Our Annual Summit
+---
 
 # Annual Summit
 

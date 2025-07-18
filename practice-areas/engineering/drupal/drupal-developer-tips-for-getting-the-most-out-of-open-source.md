@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Drupal developer tips to get the most out of open source
+---
+title: Drupal developer tips to get the most out of open source
+---
 
 # Drupal developer tips for getting the most out of open source
 

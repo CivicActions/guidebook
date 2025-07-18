@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Training resources
+---
+title: Training resources
+---
 
 # Training Resources
 

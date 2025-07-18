@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Drupal practice area
+---
+title: Drupal practice area
+---
 
 # Drupal practice area
 

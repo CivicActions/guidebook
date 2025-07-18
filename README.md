@@ -1,12 +1,9 @@
-______________________________________________________________________
-
+---
 title: CivicActions Guidebook
 hide:
-
-- navigation
-- toc
-
-______________________________________________________________________
+  - navigation
+  - toc
+---
 
 ## <a name="purpose"></a>Guidebook Purpose
 
@@ -20,7 +17,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 - :fontawesome-regular-calendar:{ .lg .middle } **Holidays**
 
-    ______________________________________________________________________
+    ---
 
     Find out when CivicActions is closed
 
@@ -29,7 +26,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 - :fontawesome-solid-laptop:{ .lg .middle } **Technology stipend**
 
-    ______________________________________________________________________
+    ---
 
     Employees get annual funds for technology
 
@@ -38,7 +35,7 @@ This Guidebook has been prepared to describe the CivicActions philosophy, workin
 
 - :fontawesome-regular-credit-card:{ .lg .middle } **Expense requests**
 
-    ______________________________________________________________________
+    ---
 
     How to get reimbursed for business expenses
 

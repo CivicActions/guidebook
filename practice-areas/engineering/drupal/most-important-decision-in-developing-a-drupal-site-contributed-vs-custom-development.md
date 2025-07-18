@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Drupal - contributed vs. custom development
+---
+title: Drupal - contributed vs. custom development
+---
 
 # The most important decision in developing a Drupal site: contributed vs. custom development
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Free and open source software (FOSS)
+---
+title: Free and open source software (FOSS)
+---
 
 # Free and Open Source Software (FOSS)
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Internal technical support
+---
+title: Internal technical support
+---
 
 # Internal support
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Sprint planning meetings
+---
+title: Sprint planning meetings
+---
 
 # Sprint Planning Meetings
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Withholds Exercise / Process
+---
+title: Withholds Exercise / Process
+---
 
 The point of using this withhold process is to strengthen relationships by unblocking stuck energy between people. The stuck energy, a withhold, is the result of things that have gone unsaid (that have meaning and importance). Releasing this energy helps to maintain clean energy in relationships.
 

@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## title: Political Activity and Social Media Policy updated: March 5, 2025
+---
+title: Political Activity and Social Media Policy
+updated: March 5, 2025
+---
 
 # CivicActions Political Activity and Social Media Policy
 

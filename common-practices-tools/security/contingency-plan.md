@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Contingency plan
+---
+title: Contingency plan
+---
 
 # CivicActions Common Contingency Plan
 

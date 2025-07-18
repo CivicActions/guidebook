@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Best practices for managers and team members
+---
+title: Best practices for managers and team members
+---
 
 # Best practices for managers and team members
 

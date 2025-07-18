@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Securing Your Workspace
+---
+title: Securing Your Workspace
+---
 
 Notes on securing your workspace (linux, Mac or Windows) for various platforms and applications.
 

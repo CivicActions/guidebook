@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Encryption
+---
+title: Encryption
+---
 
 # Protecting your privacy with encryption
 

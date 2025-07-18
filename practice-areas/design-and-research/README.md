@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Design practice area
+---
+title: Design practice area
+---
 
 # Design practice area
 

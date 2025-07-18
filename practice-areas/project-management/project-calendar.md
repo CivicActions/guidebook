@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Project calendar
+---
+title: Project calendar
+---
 
 # Calendars
 

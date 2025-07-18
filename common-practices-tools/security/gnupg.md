@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Setting up GnuPG
+---
+title: Setting up GnuPG
+---
 
 # Setting up GnuPG
 

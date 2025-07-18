@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## title: Expenses updated: February 24, 2023
+---
+title: Expenses
+updated: February 24, 2023
+---
 
 # Expenses
 

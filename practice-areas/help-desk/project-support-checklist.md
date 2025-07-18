@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Support checklist
+---
+title: Support checklist
+---
 
 # CivicActions Project Support Checklist
 

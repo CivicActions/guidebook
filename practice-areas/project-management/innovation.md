@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Innovation
+---
+title: Innovation
+---
 
 # Fostering innovation on project teams (MVP)
 

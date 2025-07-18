@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Drupal for everyone
+---
+title: Drupal for everyone
+---
 
 # Drupal for everyone
 

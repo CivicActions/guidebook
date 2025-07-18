@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: How to create tickets
+---
+title: How to create tickets
+---
 
 # How to create tickets
 

@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## title: Sustainability updated: July 19, 2024
+---
+title: Sustainability
+updated: July 19, 2024
+---
 
 # Sustainability
 

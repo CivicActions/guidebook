@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: About this guidebook
+---
+title: About this guidebook
+---
 
 # About this guidebook
 

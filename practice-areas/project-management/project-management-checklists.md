@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Checklists
+---
+title: Checklists
+---
 
 # Project Management checklists
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Drupal for project teams
+---
+title: Drupal for project teams
+---
 
 # Drupal for project teams
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Editing the guidebook using Git
+---
+title: Editing the guidebook using Git
+---
 
 # Editing the guidebook using Git
 

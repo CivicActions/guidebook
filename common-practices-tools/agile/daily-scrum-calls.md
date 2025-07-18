@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Daily scrum calls
+---
+title: Daily scrum calls
+---
 
 # Daily Scrum Calls
 

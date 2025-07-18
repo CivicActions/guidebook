@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: About practice areas
+---
+title: About practice areas
+---
 
 # Practice areas
 

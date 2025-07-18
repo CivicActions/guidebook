@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Contractual Modification (MOD) or Extension
+---
+title: Contractual Modification (MOD) or Extension
+---
 
 # When your project has a contractual Modification (Mod) or Extension
 

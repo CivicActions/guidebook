@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Technology stipend policy (US employees)
+---
+title: Technology stipend policy (US employees)
+---
 
 # Technology Stipend Policy (US Employees)
 

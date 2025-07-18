@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## title: Anti-harassment updated: June 22, 2018
+---
+title: Anti-harassment
+updated: June 22, 2018
+---
 
 # Policy Against Proscribed Harassment and Discrimination
 

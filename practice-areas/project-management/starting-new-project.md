@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Starting a new project
+---
+title: Starting a new project
+---
 
 # Guidelines for Starting a New Project
 

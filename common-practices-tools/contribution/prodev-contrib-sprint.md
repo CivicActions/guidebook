@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Contrib First Professional Development Sprint
+---
+title: Contrib First Professional Development Sprint
+---
 
 # Contrib First Professional Development Sprint
 

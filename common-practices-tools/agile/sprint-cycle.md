@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Sprint cycle
+---
+title: Sprint cycle
+---
 
 # Sprint Cycle
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Security incidents
+---
+title: Security incidents
+---
 
 # Security Incidents
 

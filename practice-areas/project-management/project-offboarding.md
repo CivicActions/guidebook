@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Offboarding
+---
+title: Offboarding
+---
 
 # Offboarding A Team Member from a Project
 

@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Health, Safety, and Security Policy
+---
+title: Health, Safety, and Security Policy
+---
 
 # Health, Safety and Security
 

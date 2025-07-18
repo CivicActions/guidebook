@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Professional development
+---
+title: Professional development
+---
 
 # Professional development at CivicActions
 

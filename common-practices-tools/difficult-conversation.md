@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: The difficult 1-1 conversation
+---
+title: The difficult 1-1 conversation
+---
 
 You are here because you want to have a difficult 1-1 conversation with a team member.
 

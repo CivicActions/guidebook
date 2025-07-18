@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Listserv setup
+---
+title: Listserv setup
+---
 
 # Listserv Setup
 

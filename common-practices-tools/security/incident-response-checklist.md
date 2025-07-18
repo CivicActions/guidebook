@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Incident response checklist
+---
+title: Incident response checklist
+---
 
 # CivicActions Security Incident Response Procedure Checklist
 

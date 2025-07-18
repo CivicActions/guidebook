@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Virtual workplace basics
+---
+title: Virtual workplace basics
+---
 
 # Virtual Workplace Basics
 

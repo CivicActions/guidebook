@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Elevator pitch
+---
+title: Elevator pitch
+---
 
 # CivicActions' Elevator Pitch
 

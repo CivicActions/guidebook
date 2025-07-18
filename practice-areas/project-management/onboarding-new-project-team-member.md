@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Onboarding
+---
+title: Onboarding
+---
 
 # Onboarding a New Project Team Member
 

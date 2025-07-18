@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Training
+---
+title: Training
+---
 
 # Project Manager Training
 

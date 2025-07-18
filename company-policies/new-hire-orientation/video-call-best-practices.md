@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Video call best practices
+---
+title: Video call best practices
+---
 
 # Video Call Best Practices
 

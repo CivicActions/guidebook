@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Personal Time Off (Canadian employees)
+---
+title: Personal Time Off (Canadian employees)
+---
 
 # Personal Time Off (Canadian employees)
 

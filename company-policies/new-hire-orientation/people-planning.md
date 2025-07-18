@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: People planning
+---
+title: People planning
+---
 
 # What is people planning?
 

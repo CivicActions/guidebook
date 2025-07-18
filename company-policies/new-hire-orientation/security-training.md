@@ -1,6 +1,6 @@
-______________________________________________________________________
-
-## title: Security for everyone
+---
+title: Security for everyone
+---
 
 # Security for Everyone
 
