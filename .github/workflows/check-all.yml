@@ -23,10 +23,17 @@ jobs:
           fail_on_error: true
           config_file: .config/linkspector.yml
           filter_mode: nofilter
-      - name: Run remark-lint on all files
-        uses: ./.config/remark/
+      - name: Setup Node.js for remark
+        uses: actions/setup-node@v4
         with:
-          command: remark-all.sh
+          node-version: '18'
+          cache: 'yarn'
+          cache-dependency-path: '.config/remark/package.json'
+      - name: Install remark dependencies
+        run: yarn install
+        working-directory: .config/remark
+      - name: Run remark-lint on all files
+        run: .config/remark/remark-all.sh
       - name: Send GitHub Action trigger data to Slack workflow
         id: slack
         uses: slackapi/slack-github-action@v2.1.1

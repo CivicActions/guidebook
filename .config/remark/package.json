@@ -1,8 +1,11 @@
 {
   "type": "module",
+  "scripts": {
+    "remark-changed": "node scripts/remark-changed.js"
+  },
+  "license": "GPL-3.0-only",
   "dependencies": {
     "markdown-link-check": "^3.13.7",
-    "prettier": "^3.3.3",
     "remark-cli": "^12.0.1",
     "remark-comment-config": "^8.0.0",
     "remark-frontmatter": "^5.0.0",
