@@ -1,6 +1,6 @@
----
-title: Sprint demo
----
+______________________________________________________________________
+
+## title: Sprint demo
 
 # Sprint Demo
 
@@ -30,4 +30,4 @@ Once the project team member has demonstrated all of his/her completed work, the
 
 ## Additional Resources
 
--   [Scrum Training Series Video](http://scrumtrainingseries.com/SprintReviewMeeting/SprintReviewMeeting.htm)
+- [Scrum Training Series Video](http://scrumtrainingseries.com/SprintReviewMeeting/SprintReviewMeeting.htm)

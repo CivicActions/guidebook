@@ -50,6 +50,7 @@ repos:
         types: [markdown]
         args:
           - "--ignore-words=.config/codespell-ignore"
+          - "--write-changes"
 ci:
   # We skip checks that have their own actions or external dependencies.
   skip: [remark, codespell, mkdocs]

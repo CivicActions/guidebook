@@ -1,6 +1,6 @@
----
-title: Meetings and meeting tools
----
+______________________________________________________________________
+
+## title: Meetings and meeting tools
 
 # Meetings
 
@@ -16,40 +16,40 @@ Our AHCs include everyone across CivicActions. They are one of the ways the team
 
 ### AHC Overview
 
--   We use Zoom for this - see [more about Zoom](../../common-practices-tools/software-and-support/zoom.md)
--   Everyone on team is encouraged to join
--   Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
--   Meetings occur frequently as listed below
+- We use Zoom for this - see [more about Zoom](../../common-practices-tools/software-and-support/zoom.md)
+- Everyone on team is encouraged to join
+- Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
+- Meetings occur frequently as listed below
 
 #### Once a month on Monday
 
--   Length of call: 30 minutes
--   Topics can range from a summary of a book, to staying balanced, to project overviews, to deep dive into a tool or module, etc
--   This call is led by our peers and anyone can lead it
--   Submit ideas to the marketing team or your manager
+- Length of call: 30 minutes
+- Topics can range from a summary of a book, to staying balanced, to project overviews, to deep dive into a tool or module, etc
+- This call is led by our peers and anyone can lead it
+- Submit ideas to the marketing team or your manager
 
 #### Once a Month on Friday
 
--   Length of call: 1 hour
--   Topics are usually company updates, sales pipeline, new hires, new projects, big announcements
--   You will hear from the management team, sales team, people ops, finance team, and practice area team members
+- Length of call: 1 hour
+- Topics are usually company updates, sales pipeline, new hires, new projects, big announcements
+- You will hear from the management team, sales team, people ops, finance team, and practice area team members
 
 ## Pod Calls
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
--   Weekly pod calls are Vela, Pyxis, Hydra, Crux, Ursa
--   There is a focus to connect with team members outside your project
--   Pod calls help us feel connected with the team as a whole
--   We discuss a topic of common interest or give project updates
+- Weekly pod calls are Vela, Pyxis, Hydra, Crux, Ursa
+- There is a focus to connect with team members outside your project
+- Pod calls help us feel connected with the team as a whole
+- We discuss a topic of common interest or give project updates
 
 ## Project Specific Meetings
 
--   [Daily Scrum Call](../../common-practices-tools/agile/daily-scrum-calls.md)
--   [Sprint Planning Meeting](../../common-practices-tools/agile/sprint-planning-meetings.md)
--   [Backlog Refinement](../../common-practices-tools/agile/backlog-refinement.md)
--   [Sprint Demo](../../common-practices-tools/agile/sprint-demo.md)
--   [Sprint Retrospective](../../common-practices-tools/agile/sprint-retrospectives.md)
+- [Daily Scrum Call](../../common-practices-tools/agile/daily-scrum-calls.md)
+- [Sprint Planning Meeting](../../common-practices-tools/agile/sprint-planning-meetings.md)
+- [Backlog Refinement](../../common-practices-tools/agile/backlog-refinement.md)
+- [Sprint Demo](../../common-practices-tools/agile/sprint-demo.md)
+- [Sprint Retrospective](../../common-practices-tools/agile/sprint-retrospectives.md)
 
 ## Practice Area Meetings
 

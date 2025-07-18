@@ -1,6 +1,6 @@
----
-title: Guidebook writing style
----
+______________________________________________________________________
+
+## title: Guidebook writing style
 
 # Writing style
 
@@ -20,9 +20,9 @@ We use sentence case for our titles and headings. When using sentence case, we c
 
 Examples
 
--   Site building using Drupal
--   Engineer's role in client relationships
--   Accessibility: Everyone has a role
+- Site building using Drupal
+- Engineer's role in client relationships
+- Accessibility: Everyone has a role
 
 ## Automated suggestions for improvement
 
@@ -30,4 +30,4 @@ The [GitHub Actions build](automatic-checking.md) outputs a list of suggestions 
 
 ## Specific terms
 
--   Specify Free/Libre Open Source Software, which can be shortened to FLOSS. Do not use just "open source software". See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.
+- Specify Free/Libre Open Source Software, which can be shortened to FLOSS. Do not use just "open source software". See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.

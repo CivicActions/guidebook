@@ -1,6 +1,6 @@
----
-title: Our Annual Summit
----
+______________________________________________________________________
+
+## title: Our Annual Summit
 
 # Annual Summit
 
@@ -41,7 +41,6 @@ We ask that folks arriving and departing the summit destination coordinate takin
 
 ## Food
 
-<!-- prettier-ignore -->
 We provide a Meals & Incidental Expense (M&IE) per diem. We provide coffee, tea, and lunch on location and team dinners are self organized.
 
 ## Lodging
@@ -54,7 +53,6 @@ We're in the un-conference-style sessions all day from 9-5 and then usually do t
 
 ## Staying to cowork
 
-<!-- prettier-ignore -->
 Some team members decide to stay one extra day to cowork with each other on their project work (internal or client). The expectation is that those who stay are working a near full day together because it's prodcutive and fun! These team members will get one additional hotel night.
 
 ## Extended stay for fun

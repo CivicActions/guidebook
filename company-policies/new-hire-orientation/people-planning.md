@@ -1,6 +1,6 @@
----
-title: People planning
----
+______________________________________________________________________
+
+## title: People planning
 
 # What is people planning?
 
@@ -8,9 +8,9 @@ At CivicActions, we talk about people planning, not resource planning. People pl
 
 When discussing staffing for a new project, we consider:
 
--   Does the skill set match?
--   What does our forecast look like?
--   Is the person willing and interested in the project?
+- Does the skill set match?
+- What does our forecast look like?
+- Is the person willing and interested in the project?
 
 ## How we do people-planning
 
@@ -30,6 +30,6 @@ Project managers are tasked with keeping Unanet People Plans up to date with tea
 
 The tools below help us to do people planning efficiently and we ask that team members update them on an annual basis:
 
--   Skillsbase - We search Skillsbase to see who has skills for certain roles.
--   Resumes - We use the templated CivicActions resumes to submit on new work when applicable.
--   Development Plans - Team members create Development Plans in Culture Amp that help them and their managers find opportunities within the company to further growth.
+- Skillsbase - We search Skillsbase to see who has skills for certain roles.
+- Resumes - We use the templated CivicActions resumes to submit on new work when applicable.
+- Development Plans - Team members create Development Plans in Culture Amp that help them and their managers find opportunities within the company to further growth.

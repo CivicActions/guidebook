@@ -1,10 +1,10 @@
----
-title: Mural
----
+______________________________________________________________________
+
+## title: Mural
 
 # Mural
 
-The following is a general overview of Mural, but each project may have specific setups or workflows that differ. If you have any questions, please ask in either the [\#mural](https://civicactions.slack.com/archives/C06PASS8S6M) or in [\#how-we-work](https://civicactions.slack.com/archives/C02HFM4KR) slack channels.
+The following is a general overview of Mural, but each project may have specific setups or workflows that differ. If you have any questions, please ask in either the [#mural](https://civicactions.slack.com/archives/C06PASS8S6M) or in [#how-we-work](https://civicactions.slack.com/archives/C02HFM4KR) slack channels.
 
 ## About Mural
 
@@ -38,15 +38,15 @@ If you need to invite an external user, modify your Mural license, or perform an
 
 ## Enhancing Templates and Use Cases
 
-If your project has a specific use case or if you have ideas for improving our Mural templates, please share your suggestions in the [\#mural](https://civicactions.slack.com/archives/C06PASS8S6M) or [\#how-we-work](https://civicactions.slack.com/archives/C02HFM4KR) Slack channel by clicking the 🎫 emoji or submit a feature improvement through our [support portal](https://team.support.civicactions.com/servicedesk/customer/portal/4/create/79).
+If your project has a specific use case or if you have ideas for improving our Mural templates, please share your suggestions in the [#mural](https://civicactions.slack.com/archives/C06PASS8S6M) or [#how-we-work](https://civicactions.slack.com/archives/C02HFM4KR) Slack channel by clicking the 🎫 emoji or submit a feature improvement through our [support portal](https://team.support.civicactions.com/servicedesk/customer/portal/4/create/79).
 
 ## General Recommendations
 
--   **Utilize Templates:** Start your murals with CivicActions-specific templates to save time and ensure consistency.
--   **Collaborative Spaces:** Make full use of Mural's collaborative tools to engage every team member.
--   **Stay Organized:** Keep your murals organized within folders and sub-folders to enhance accessibility and workflow.
+- **Utilize Templates:** Start your murals with CivicActions-specific templates to save time and ensure consistency.
+- **Collaborative Spaces:** Make full use of Mural's collaborative tools to engage every team member.
+- **Stay Organized:** Keep your murals organized within folders and sub-folders to enhance accessibility and workflow.
 
 ## Additional Resources
 
--   [Mural Docs](https://support.mural.co/s/)
--   [Mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)
+- [Mural Docs](https://support.mural.co/s/)
+- [Mural Slack channel](https://civicactions.slack.com/archives/C06PASS8S6M)

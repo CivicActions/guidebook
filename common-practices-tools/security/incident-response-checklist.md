@@ -1,6 +1,6 @@
----
-title: Incident response checklist
----
+______________________________________________________________________
+
+## title: Incident response checklist
 
 # CivicActions Security Incident Response Procedure Checklist
 
@@ -22,28 +22,28 @@ A. Allocate 5 minutes and determine whether this event is a potential incident o
 
 B. Respond accordingly:
 
--   Potential incident
+- Potential incident
 
-    1.  Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
+    1. Issue a [broadcast notification](incident-response-plan.md#communication-channels) via one or more of the following:
 
-        -   Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
-        -   Email to [security@civicactions.com](mailto:security@civicactions.com).
-        -   Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
+        - Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@security` to trigger a Slack notification for the Security team.
+        - Email to [security@civicactions.com](mailto:security@civicactions.com).
+        - Email/telephone to the [CivicActions IR Team](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) for an incident that has potential Project impact.
 
-    2.  For an incident requiring more than 30 minutes to resolve:
+    1. For an incident requiring more than 30 minutes to resolve:
 
-        -   Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
-        -   Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
+        - Recruit additional IR Team responders via the Slack channel [#general](https://civicactions.slack.com/messages/general/). Use `@channel` to trigger a Slack notification for everyone in the channel.
+        - Designate an [**Incident Commander**](incident-response-plan.md#incident-commander) and [hand off the IC duties](incident-response-plan.md#explicit-handoff-ceremony).
 
-    3.  More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
+    1. More information on [incident response roles and responsibilities](incident-response-plan.md#roles-and-responsibilities):
 
-        -   [Responder](incident-response-plan.md#responder)
-        -   [Incident Commander (IC)](incident-response-plan.md#incident-commander)
-        -   [Communications Officer (CO)](incident-response-plan.md#communications-officer)
+        - [Responder](incident-response-plan.md#responder)
+        - [Incident Commander (IC)](incident-response-plan.md#incident-commander)
+        - [Communications Officer (CO)](incident-response-plan.md#communications-officer)
 
-    4.  Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
+    1. Use the [_Explicit Handoff Ceremony_](incident-response-plan.md#explicit-handoff-ceremony) when transferring/changing roles.
 
--   False alarm
+- False alarm
 
     Conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
@@ -53,12 +53,12 @@ B. Respond accordingly:
 
 A. Confirm the incident.
 
-1.  Gather information, and document your findings.
+1. Gather information, and document your findings.
 
-    -   Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
-    -   Is a system failure causing the disruption?
+    - Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+    - Is a system failure causing the disruption?
 
-2.  Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
+1. Proceed to the next step for a confirmed incident. (For a false alarm, conclude the incident. Proceed to [_6. Conclude the incident_](#6-conclude-the-incident).)
 
 B. Assess the severity. Use the [rubric in the IR guide](incident-response-plan.md#incident-severities). (Project incidents are generally "Low severity".)
 
@@ -68,34 +68,34 @@ _Reminder: Use the [Explicit Handoff Ceremony](incident-response-plan.md#explici
 
 ### Incident Commander assessment responsibilities
 
--   Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#4-assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
--   For an issue with potential Project impact, ensure that a JIRA ticket or Gitlab issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
+- Post an initial situation report, called a _sitrep_ ([example _sitrep_](incident-response-plan.md#4-assess-the-incident)), to the Slack channel [#general](https://civicactions.slack.com/messages/general/). Include a descriptive name, and identify the current Incident Commander and Responders. Use `@security` to trigger a Slack notification for the Security team.
+- For an issue with potential Project impact, ensure that a JIRA ticket or Gitlab issue has been created. This should be done, even if the _First Responder/IC_ manages the incident fully, for example, by simply re-starting a service.
 
 ## 5. Remediate
 
 ### IR Team remediation responsibilities
 
--   Determine the cause, implement a resolution, and return the system to normal operations. Make every attempt to identify the cause; this can prevent incident recurrence.
+- Determine the cause, implement a resolution, and return the system to normal operations. Make every attempt to identify the cause; this can prevent incident recurrence.
 
--   If suspicious activity is suspected or other unanswered questions exist, do the following before making any changes:
+- If suspicious activity is suspected or other unanswered questions exist, do the following before making any changes:
 
-    -   Make snapshots of relevant volumes and data.
-    -   Preserve logs.
-    -   Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
-    -   Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like yours, until forensics can be performed.
+    - Make snapshots of relevant volumes and data.
+    - Preserve logs.
+    - Take screen captures of anomalous activity that can be used in post-remediation forensic analysis.
+    - Consider implementing a containment strategy. For example, reconfigure firewall rules for the affected instance to drop all ingress and egress traffic, except from specific IPs like yours, until forensics can be performed.
 
 ### Incident Commander remediation responsibilities
 
--   Maintain current information in Slack, shared Google Docs files, the ticket/issue (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
-    -   Project team leads and members
-    -   Remediation items and their assignees
--   Establish and document work shifts for an incident longer than 3 hours.
--   Maintain communications with stakeholders, or designate a _Communications Officer_ via [explicit handoff](incident-response-plan.md#explicit-handoff-ceremony).
--   Share _sitreps_ on a regular basis:
-    -   High severity: hourly
-    -   Medium severity: 2x daily
-    -   Low severity: daily
--   Focus on coordination, not remediation.
+- Maintain current information in Slack, shared Google Docs files, the ticket/issue (if applicable), or other [communication channels](incident-response-plan.md#communication-channels). Be sure to include:
+    - Project team leads and members
+    - Remediation items and their assignees
+- Establish and document work shifts for an incident longer than 3 hours.
+- Maintain communications with stakeholders, or designate a _Communications Officer_ via [explicit handoff](incident-response-plan.md#explicit-handoff-ceremony).
+- Share _sitreps_ on a regular basis:
+    - High severity: hourly
+    - Medium severity: 2x daily
+    - Low severity: daily
+- Focus on coordination, not remediation.
 
 ## 6. Conclude the incident
 
@@ -103,8 +103,8 @@ A. Notify the Slack channel [#general](https://civicactions.slack.com/messages/g
 
 B. Update the ticket/issue (if applicable) and set the status to one of the following:
 
--   Confirmed incident: _Ready for QA_
--   False alarm: _Done_
+- Confirmed incident: _Ready for QA_
+- False alarm: _Done_
 
 C. Schedule an [IR Team retrospective](incident-response-plan.md#conducting-a-retrospective). Optional for false alarms.
 

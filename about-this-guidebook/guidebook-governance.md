@@ -1,6 +1,6 @@
----
-title: Governance
----
+______________________________________________________________________
+
+## title: Governance
 
 # Governance
 
@@ -16,7 +16,7 @@ These teams are listed on GitHub as [subteams](https://github.com/orgs/CivicActi
 
 The [CODEOWNERS](https://github.com/civicactions/guidebook/blob/master/CODEOWNERS) file in the top level of this repo:
 
--   Maps the governance of subdirectories to their respective GitHub teams and CivicActions practice areas.
--   Automatically assigns pull requests to that team for review, when a PR is submitted that.
+- Maps the governance of subdirectories to their respective GitHub teams and CivicActions practice areas.
+- Automatically assigns pull requests to that team for review, when a PR is submitted that.
 
 GitHub team management is an ongoing responsibility of the Docs working group. They can add someone to a team via the [subteam page](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) by clicking **Add a member**.

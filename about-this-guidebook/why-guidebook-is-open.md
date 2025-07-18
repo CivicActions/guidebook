@@ -1,6 +1,6 @@
----
-title: Why this guidebook is open
----
+______________________________________________________________________
+
+## title: Why this guidebook is open
 
 # Why this guidebook is open
 
@@ -8,9 +8,9 @@ Working in the open embodies the [CivicActions culture](../about-civicactions/cu
 
 We've made our guidebook open and available publicly so that:
 
--   Current employees and new hires can access it from wherever they are
--   Potential job candidates can learn what we're about and why it's awesome to work here
--   We can showcase our [commitment to accessibility](https://accessibility.civicactions.com/) (and work with the community to fix things when they are not accessible)
+- Current employees and new hires can access it from wherever they are
+- Potential job candidates can learn what we're about and why it's awesome to work here
+- We can showcase our [commitment to accessibility](https://accessibility.civicactions.com/) (and work with the community to fix things when they are not accessible)
 
 Most importantly, this guidebook is open because we believe that the power of transparency and collaboration leads to the best outcomes.
 

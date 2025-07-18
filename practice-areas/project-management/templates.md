@@ -1,6 +1,6 @@
----
-title: Templates
----
+______________________________________________________________________
+
+## title: Templates
 
 # Templates
 
@@ -14,10 +14,10 @@ If a project requires additional resourcing, i.e., for a work surge or else to s
 
 How? Use Slack, the project Core channel, and this framework, requesting alignment and opening it for questions:
 
--   Rationale for adding/increasing resourcing
--   Impact to financial health (i.e., the effective rate is predicted to be $X for Y months)
--   Expected duration
--   Please CC Alaine, Elizabeth and Bill
+- Rationale for adding/increasing resourcing
+- Impact to financial health (i.e., the effective rate is predicted to be $X for Y months)
+- Expected duration
+- Please CC Alaine, Elizabeth and Bill
 
 ## Budget tracking
 

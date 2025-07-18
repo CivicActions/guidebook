@@ -1,6 +1,6 @@
----
-title: Accessibility guidelines
----
+______________________________________________________________________
+
+## title: Accessibility guidelines
 
 # Project support accessibility guidelines
 
@@ -8,9 +8,9 @@ title: Accessibility guidelines
 
 The CivicActions Support practice area is committed to following the guidance provided in the [Americans with Disabilities Act](https://www.ada.gov/) and following the best practices for customer service such as the [AODA Accessibility for Ontarians with Disabilities Act](https://www.ontario.ca/laws/statute/05a11). CivicActions is committed to providing a barrier-free environment for its customers, clients, and staff and to providing our support in a manner that respects the dignity and independence of people with disabilities.
 
--   [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge)
--   [CivicActions Accessibility Statement](https://civicactions.com/accessibility-statement)
--   [CivicActions Accessibility Website](https://accessibility.civicactions.com)
+- [CivicActions Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge)
+- [CivicActions Accessibility Statement](https://civicactions.com/accessibility-statement)
+- [CivicActions Accessibility Website](https://accessibility.civicactions.com)
 
 ## Organizational scope
 
@@ -20,8 +20,8 @@ This guidance applies to every person who provides support to members of the pub
 
 The standards, rules, and guidelines on providing accessible customer service are set out in the:
 
--   [Accessibility Standards for Customer Service (Ontario Regulation 429/07)](https://www.ontario.ca/laws/regulation/r07429)
--   [ADA Requirements: Effective Communication](https://www.ada.gov/resources/effective-communication/)
+- [Accessibility Standards for Customer Service (Ontario Regulation 429/07)](https://www.ontario.ca/laws/regulation/r07429)
+- [ADA Requirements: Effective Communication](https://www.ada.gov/resources/effective-communication/)
 
 As standards, rules, and guidelines develop, the CivicActions Support practice area will continue to consult with Subject-Matter Experts (SMEs) and General Counsel to ensure our policies are current, reflective of global needs, and implemented company-wide.
 
@@ -37,9 +37,9 @@ Our goal at CivicActions is to achieve or exceed the latest [Web Content Accessi
 
 Communication is provided in a way that is consistent with the core principles of independence, dignity, integration, and equality of opportunity. For more information, please refer to the following links:
 
--   [CivicActions Guidebook](../accessibility/README.md)
--   [CivicActions Accessibility Website](https://accessibility.civicactions.com)
--   [Web Content Accessibility Guidelines (WCAG) 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag)
+- [CivicActions Guidebook](../accessibility/README.md)
+- [CivicActions Accessibility Website](https://accessibility.civicactions.com)
+- [Web Content Accessibility Guidelines (WCAG) 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag)
 
 ## Customer feedback
 

@@ -1,6 +1,6 @@
----
-title: GitHub
----
+______________________________________________________________________
+
+## title: GitHub
 
 # GitHub
 
@@ -14,12 +14,12 @@ There are times where data or code needs to be kept private. In most instances w
 
 Many CivicActions employees will already have a GitHub account. If you don't have one yet, now's a great time to create one! Follow these steps:
 
-1.  Sign up with a free profile on <https://github.com/join>.
-    -   Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
-    -   As always, please use a unique, secure password.
-2.  Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team) and any relevant [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
-3.  Find out the details of the repositories you'll be working with.
-4.  Good work! Now [set up two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
+1. Sign up with a free profile on <https://github.com/join>.
+    - Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
+    - As always, please use a unique, secure password.
+1. Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team) and any relevant [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
+1. Find out the details of the repositories you'll be working with.
+1. Good work! Now [set up two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
 
 ## Setting up Git and a local repository
 
@@ -33,7 +33,7 @@ Many projects will have special requirements for local repositories, especially 
 
 We use GitHub Teams functionality for two purposes:
 
-1.  Managing access to the Guidebook to all [CivicActions Team](https://github.com/orgs/CivicActions/teams/civicactions-team) members, and [managing control over subdirectories](../../about-this-guidebook/guidebook-governance.md) in the Guidebook by [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
-2.  Managing groups of collaborators that share the same access to more than one repo.
+1. Managing access to the Guidebook to all [CivicActions Team](https://github.com/orgs/CivicActions/teams/civicactions-team) members, and [managing control over subdirectories](../../about-this-guidebook/guidebook-governance.md) in the Guidebook by [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
+1. Managing groups of collaborators that share the same access to more than one repo.
 
 You don't need to create a GitHub team unless that team has special access to more than one repo.

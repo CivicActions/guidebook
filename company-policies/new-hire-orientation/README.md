@@ -1,6 +1,6 @@
----
-title: Welcome to CivicActions!
----
+______________________________________________________________________
+
+## title: Welcome to CivicActions!
 
 # New hire orientation
 
@@ -14,8 +14,8 @@ There are topics in this document that require more detail on how we implement p
 
 ### Learn more about CivicActions
 
--   [Mission and Values](../../about-civicactions/mission-values.md)
--   [Background and History](../../about-civicactions/README.md)
+- [Mission and Values](../../about-civicactions/mission-values.md)
+- [Background and History](../../about-civicactions/README.md)
 
 ## Onboarding process
 
@@ -25,17 +25,17 @@ Welcome aboard! As part of the new employee onboarding process, we created an on
 
 ### General
 
--   [Civicactions Guidebook in GitHub](https://github.com/CivicActions/guidebook/blob/master/README.md)
--   [Bookmarks](bookmarks.md) (websites and tools we use regularly)
+- [Civicactions Guidebook in GitHub](https://github.com/CivicActions/guidebook/blob/master/README.md)
+- [Bookmarks](bookmarks.md) (websites and tools we use regularly)
 
 ### Benefits
 
 **US employees**
 
--   Health, dental and vision insurance - [Rippling](https://app.rippling.com/insurance/employee/US/overview/home)
--   401K - [July Services](https://www.julyservices.com/for-employees/start-here/)
+- Health, dental and vision insurance - [Rippling](https://app.rippling.com/insurance/employee/US/overview/home)
+- 401K - [July Services](https://www.julyservices.com/for-employees/start-here/)
 
 **Canadian employees**
 
--   Health, dental and vision insurance - [Canada Life](https://my.canadalife.com/climsMyLogin)
--   RRSP - [Canada Life](https://my.canadalife.com/climsMyLogin)
+- Health, dental and vision insurance - [Canada Life](https://my.canadalife.com/climsMyLogin)
+- RRSP - [Canada Life](https://my.canadalife.com/climsMyLogin)

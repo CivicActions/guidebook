@@ -1,6 +1,6 @@
----
-title: Drupal for everyone
----
+______________________________________________________________________
+
+## title: Drupal for everyone
 
 # Drupal for everyone
 
@@ -26,18 +26,18 @@ From the first year of operations, CivicActions was committed to openness. This 
 
 Drupal is an extremely popular open-source content management system (CMS) used for building websites and applications. There are many reasons why some of the most high-trafficked and essential web sites on the internet are built on Drupal:
 
--   **Customizability:** Drupal is highly customizable in terms of functionality, layout, and design. This makes it an ideal choice for complex websites with specific requirements.
+- **Customizability:** Drupal is highly customizable in terms of functionality, layout, and design. This makes it an ideal choice for complex websites with specific requirements.
 
--   **Scalability:** Drupal is highly scalable. It can handle high traffic loads and complex data manipulation. It is used by many high-profile websites and can support businesses as they grow.
+- **Scalability:** Drupal is highly scalable. It can handle high traffic loads and complex data manipulation. It is used by many high-profile websites and can support businesses as they grow.
 
--   **Community and Support:** Drupal has a large and active community of developers contributing to the codebase. The community is supportive and helps keep the platform up to date.
+- **Community and Support:** Drupal has a large and active community of developers contributing to the codebase. The community is supportive and helps keep the platform up to date.
 
--   **Security:** Drupal has a strong reputation for its focus on security. It is a proactive community that takes security vulnerabilities seriously. Regular updates are released to address any potential issues.
+- **Security:** Drupal has a strong reputation for its focus on security. It is a proactive community that takes security vulnerabilities seriously. Regular updates are released to address any potential issues.
 
--   **Built-in Web Services:** Drupal 8 and later versions come with built-in web services. This makes it a great choice for building headless applications where the front-end is decoupled from the backend, using Drupal to serve content via an API.
+- **Built-in Web Services:** Drupal 8 and later versions come with built-in web services. This makes it a great choice for building headless applications where the front-end is decoupled from the backend, using Drupal to serve content via an API.
 
--   **Multilingual Capabilities:** Drupal provides robust multilingual features. Drupal is an excellent choice for international and multilingual sites.
+- **Multilingual Capabilities:** Drupal provides robust multilingual features. Drupal is an excellent choice for international and multilingual sites.
 
--   **SEO Friendly:** Drupal's flexibility and configuration options make it SEO-friendly. Drupal websites can have high search engine rankings.
+- **SEO Friendly:** Drupal's flexibility and configuration options make it SEO-friendly. Drupal websites can have high search engine rankings.
 
--   **Content Workflow Management:** Drupal provides tools to manage the workflows of content creation. These tools enable efficient collaboration among multiple users.
+- **Content Workflow Management:** Drupal provides tools to manage the workflows of content creation. These tools enable efficient collaboration among multiple users.

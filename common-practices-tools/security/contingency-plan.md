@@ -1,6 +1,6 @@
----
-title: Contingency plan
----
+______________________________________________________________________
+
+## title: Contingency plan
 
 # CivicActions Common Contingency Plan
 
@@ -8,25 +8,25 @@ title: Contingency plan
 
 <!--ts-->
 
--   [Applicability](#applicability)
--   [Overview](#overview)
--   [Recovery objective](#recovery-objective)
--   [Incident Response Team information](#incident-response-team-information)
-    -   [Contact information](#contact-information)
--   [Contingency plan outline](#contingency-plan-outline)
-    -   [Activation and notification](#activation-and-notification)
-    -   [Recovery](#recovery)
-    -   [Reconstitution](#reconstitution)
--   [External dependencies](#external-dependencies)
-    -   [GitHub](#github)
-    -   [GitLab](#gitlab)
-    -   [StatusCake](#statuscake)
-    -   [OpsGenie](#opsgenie)
-    -   [JIRA](#jira)
-    -   [Slack](#slack)
-    -   [AWS](#aws)
-    -   [Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)](#acquia-cloud-enterprise-ace-platform-as-a-service-paas)
--   [How this document works](#how-this-document-works)
+- [Applicability](#applicability)
+- [Overview](#overview)
+- [Recovery objective](#recovery-objective)
+- [Incident Response Team information](#incident-response-team-information)
+    - [Contact information](#contact-information)
+- [Contingency plan outline](#contingency-plan-outline)
+    - [Activation and notification](#activation-and-notification)
+    - [Recovery](#recovery)
+    - [Reconstitution](#reconstitution)
+- [External dependencies](#external-dependencies)
+    - [GitHub](#github)
+    - [GitLab](#gitlab)
+    - [StatusCake](#statuscake)
+    - [OpsGenie](#opsgenie)
+    - [JIRA](#jira)
+    - [Slack](#slack)
+    - [AWS](#aws)
+    - [Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)](#acquia-cloud-enterprise-ace-platform-as-a-service-paas)
+- [How this document works](#how-this-document-works)
 
 <!-- Added by: fen, at: Fri Jan 22 10:51:18 PM EST 2021 -->
 
@@ -40,8 +40,8 @@ title: Contingency plan
 
 This Contingency Plan provides baseline guidance for the CivicActions Team when managing the disruption, compromise, or failure of any component of a CivicActions IRCP managed system, product or service ("system"). As a general guideline, we consider "disruption" to mean unexpected downtime or significantly reduced service lasting longer than:
 
--   30 minutes 0900 - 2100 Eastern Time Monday through Friday (standard U.S. business hours)
--   90 minutes at other times
+- 30 minutes 0900 - 2100 Eastern Time Monday through Friday (standard U.S. business hours)
+- 90 minutes at other times
 
 Scenarios where that could happen include unexpected downtime of key services, system data loss, or improper privilege escalation. In the case of a security incident, the team uses the [Security Incident Response Plan](incident-response-plan.md) as well.
 
@@ -59,7 +59,7 @@ More than 3 hours of any system being offline during standard U.S. business hour
 
 Team contact information is available in the Google Drive:
 
--   [CivicActions Incident Response Team contact sheet](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) with names and roles for CivicActions' Incident Response Team members. All CivicActions employees have access to this sheet.
+- [CivicActions Incident Response Team contact sheet](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) with names and roles for CivicActions' Incident Response Team members. All CivicActions employees have access to this sheet.
 
 ## Contingency plan outline
 
@@ -71,13 +71,13 @@ If the problem is identified as part of a [security incident response situation]
 
 The IC first notifies and coordinates with the people who are authorized to decide that the system is in a contingency plan situation:
 
--   From CivicActions:
-    -   Incident Commander
-    -   Project Manager
-    -   CivicActions Incident Response Team
--   From the customer:
-    -   Product Owner
-    -   Users, when applicable
+- From CivicActions:
+    - Incident Commander
+    - Project Manager
+    - CivicActions Incident Response Team
+- From the customer:
+    - Product Owner
+    - Users, when applicable
 
 The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
 
@@ -101,59 +101,59 @@ CivicActions managed systems often depend on several external services. In the e
 
 ### GitHub
 
--   **Service:** <https://github.com>
--   **Status:** <https://status.github.com/>
--   **Status:** <https://twitter.com/githubstatus>
+- **Service:** <https://github.com>
+- **Status:** <https://status.github.com/>
+- **Status:** <https://twitter.com/githubstatus>
 
 If GitHub becomes unavailable, systems will continue to operate in its current state. The
 disruption would only impact the team's ability to update code on the instances.
 
 ### GitLab
 
--   **Service:** <https://git.civicactions.net/>
--   **Status:** <https://app.statuscake.com/AllStatus.php?tid=1702974>
+- **Service:** <https://git.civicactions.net/>
+- **Status:** <https://app.statuscake.com/AllStatus.php?tid=1702974>
 
 If GitLab becomes unavailable, systems will continue to operate in their current state. The disruption would impact the team's ability to update code on the instances, which could have significant impact.
 
 ### StatusCake
 
--   **Service:** <https://status.statuscake.com/>
--   **Status:** <https://twitter.com/StatusCakeTeam>
+- **Service:** <https://status.statuscake.com/>
+- **Status:** <https://twitter.com/StatusCakeTeam>
 
 If there is a disruption in the StatusCake service, the Incident Response team will be notified by email.
 
 ### OpsGenie
 
--   **Service:** <https://app.opsgenie.com/alert/>
--   **Status:** <https://status.opsgenie.com/>
--   **Status:** <https://twitter.com/opsgenie>
+- **Service:** <https://app.opsgenie.com/alert/>
+- **Status:** <https://status.opsgenie.com/>
+- **Status:** <https://twitter.com/opsgenie>
 
 If there is a disruption in the OpsGenie service, all alerts automatically get delivered to the team via email.
 
 ### JIRA
 
--   **Service:** <https://PROJECT.atlassian.net/>
--   **Status:** <https://twitter.com/JIRA>
+- **Service:** <https://PROJECT.atlassian.net/>
+- **Status:** <https://twitter.com/JIRA>
 
 There is no direct impact to the platform if a disruption occurs. Primary incident communications will move to the [CivicActions `#general`](https://civicactions.slack.com/) Slack channel.
 
 ### Slack
 
--   **Service:** <https://civicactions.slack.com/>
--   **Status:** <https://status.slack.com/>
--   **Status:** <https://twitter.com/SlackStatus>
+- **Service:** <https://civicactions.slack.com/>
+- **Status:** <https://status.slack.com/>
+- **Status:** <https://twitter.com/SlackStatus>
 
 There is no direct impact to the platform if a disruption occurs.
 Primary incident communications will move to one of:
 
--   IT Zoom: <https://zoom.us/>
--   Google Meet: <https://meet.google.com/>
--   Google Chat: <https://chat.google.com/>
+- IT Zoom: <https://zoom.us/>
+- Google Meet: <https://meet.google.com/>
+- Google Chat: <https://chat.google.com/>
 
 ### AWS
 
--   **Service:** <https://signin.aws.amazon.com/console>
--   **Status:** <https://health.aws.amazon.com/health/status>
+- **Service:** <https://signin.aws.amazon.com/console>
+- **Status:** <https://health.aws.amazon.com/health/status>
 
 If needed, you can [manage and create new servers](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1).
 
@@ -161,17 +161,17 @@ In case of a **significant** disruption, after receiving approval from our Autho
 
 ### Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)
 
--   **Service:** <https://docs.acquia.com/en/stable/support/status/>
--   **Status:** <https://status.acquia.com/>
+- **Service:** <https://docs.acquia.com/en/stable/support/status/>
+- **Status:** <https://status.acquia.com/>
 
 Some sites are hosted on the Acquia Cloud Enterprise (ACE) PaaS
 <https://cloud.acquia.com/app/develop> which is layered on top of the Amazon Web Services
 (AWS) FedRAMP-certified cloud in the us-east region. See [ACE
 Status](https://status.acquia.com/) and [AWS status](https://health.aws.amazon.com/health/status).
 
--   **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security>
--   **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor>
--   **Acquia Availability & Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
+- **Acquia Security:** <https://docs.acquia.com/acquia-cloud/arch/security>
+- **Acquia Monitoring:** <https://docs.acquia.com/acquia-cloud/arch/security/monitor>
+- **Acquia Availability & Backups:** <https://docs.acquia.com/acquia-cloud/arch/security/availability>
 
 Acquia Cloud takes hourly snapshots of EBS volumes that are saved to Amazon S3 providing
 geographically distributed data centers.
@@ -184,8 +184,8 @@ system to a different region.
 
 This plan is most effective if all CivicActions team members know about it, remember that it exists, have the ongoing opportunity to give input based on their expertise, and keep it up to date.
 
--   The CivicActions team is responsible for maintaining this document and updating it as needed. Any change to it must be approved and peer reviewed by at least another member of the team.
-    -   All changes to the plan should be communicated to the rest of the team.
-    -   At least once a year, and after major changes to our systems, we review and update the plan.
--   How we protect this plan from unauthorized modification:
-    -   This plan is stored in the CivicActions Guidebook GitHub repository (<https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/>) with authorization to modify it limited to the Incident Response Team by GitHub access controls. CivicActions policy is that changes are proposed by making a pull request and ask another team member to review and merge the pull request.
+- The CivicActions team is responsible for maintaining this document and updating it as needed. Any change to it must be approved and peer reviewed by at least another member of the team.
+    - All changes to the plan should be communicated to the rest of the team.
+    - At least once a year, and after major changes to our systems, we review and update the plan.
+- How we protect this plan from unauthorized modification:
+    - This plan is stored in the CivicActions Guidebook GitHub repository (<https://github.com/CivicActions/guidebook/tree/master/common-practices-tools/security/>) with authorization to modify it limited to the Incident Response Team by GitHub access controls. CivicActions policy is that changes are proposed by making a pull request and ask another team member to review and merge the pull request.
