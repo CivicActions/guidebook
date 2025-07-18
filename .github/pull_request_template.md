@@ -1,5 +1,3 @@
-<!--lint disable no-undefined-references no-file-name-irregular-characters -->
-
 ## Describe your changes
 
 ## Review Steps
@@ -10,5 +8,3 @@
 
 - [ ] Reviewed [documentation](https://guidebook.civicactions.com/en/latest/about-this-guidebook/editing-the-guidebook/#step-4-make-your-pull-request-pr)
 - [ ] Confirmed all checks for this pull request are passing
-
-<!--lint enable no-undefined-references no-file-name-irregular-characters -->
