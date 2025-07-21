@@ -10,15 +10,15 @@ Most larger projects have their own Google Calendar, which is often created by t
 
 ## Calendar creation tips
 
--   Upon calendar creation, name the calendar to align with the client, unless there are concurrent projects for the client
--   Edit all events on the project calendar instead of personal calendars
--   Settings: Auto-accept invitations > Automatically add all invitations to this calendar
--   Settings: Access permissions > Make available for CivicActions > See all event details
--   Settings: Share with specific people > Invite all CivicActions project team members to the calendar
--   Direct team member should be able to > Make changes to events
--   Settings: Share with specific people > Invite delivery and Ops team members as appropriate to the calendar
--   Indirect team members should be able to > See all event details
--   It is typical that clients are invited to events on a project calendar
+- Upon calendar creation, name the calendar to align with the client, unless there are concurrent projects for the client
+- Edit all events on the project calendar instead of personal calendars
+- Settings: Auto-accept invitations > Automatically add all invitations to this calendar
+- Settings: Access permissions > Make available for CivicActions > See all event details
+- Settings: Share with specific people > Invite all CivicActions project team members to the calendar
+- Direct team member should be able to > Make changes to events
+- Settings: Share with specific people > Invite delivery and Ops team members as appropriate to the calendar
+- Indirect team members should be able to > See all event details
+- It is typical that clients are invited to events on a project calendar
 
 ## Contractual Calendar
 

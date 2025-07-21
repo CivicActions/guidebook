@@ -44,17 +44,17 @@ Employees should follow the following procedure for providing notice of, schedul
 1. Ensure that your team is reminded before your planned time off. This can happen in an email; slack message or during scrum. We want to avoid any surprises to the team even though you've planned the time off.
 1. For the dates of your time-off, please update your slack status to indicate you are out of office. You can update your slack status by clicking your icon in the top right corner of the slack window, and typing in a new status in the "update your status" box.
 1. If your time off is immediate, unplanned, and unforeseeable, the most important thing is that your team knows you are out. If you are able, please send a slack to notify the team and put the leave request in Unanet.You can use the "Additional Email Notifications" field during submission to notify your project lead or others.
-   If Unanet is not accessible for you, please send an email to [peopleops@civicactions.com](mailto:peopleops@civicactions.com) and cc anyone else who needs to know. You don't need to give specific information around why you are out, just indicate that you will be out today and when we can expect you back. If you anticipate being out more than a day or two, please let us know in your email, and we will let you know if we need you to submit a request in Unanet.
+    If Unanet is not accessible for you, please send an email to [peopleops@civicactions.com](mailto:peopleops@civicactions.com) and cc anyone else who needs to know. You don't need to give specific information around why you are out, just indicate that you will be out today and when we can expect you back. If you anticipate being out more than a day or two, please let us know in your email, and we will let you know if we need you to submit a request in Unanet.
 1. Log your time in Unanet under the category of TIMEOFF, using sick, vacation, or technical issues. Remember that doctor's appointments for you and other family members are also billed as sick time.
 1. The USER REPORTS on the Reports Dashboard shows you reports about YOURSELF and you can look at your timeoff there.
 1. Screenshots and further help documentation can be seen on Unanet here - [https://help.unanet.com/current/unanet_menu/time/leave_requests.htm](https://help.unanet.com/current/unanet_menu/time/leave_requests.htm)
 
 **Sample messages to demonstrate how to request timeoff in Unanet:**
 
--   _Hello, I am out sick today. I've let my team know via slack not to expect me today._
--   _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
--   _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
--   _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
+- _Hello, I am out sick today. I've let my team know via slack not to expect me today._
+- _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
+- _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
+- _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
 
 ## Scheduling shifts
 
@@ -81,7 +81,7 @@ When you have a technical issue with your home network, power and personal equip
 
 ### Slack channels
 
--   You can go to the following Slack channels for support: #windows #osx #gnu-linux
+- You can go to the following Slack channels for support: #windows #osx #gnu-linux
 
 ## Personal Leave of Absence
 

@@ -9,7 +9,7 @@ The following offers a brief and necessarily incomplete overview of a few FOSS t
 > This is important. If we only use encryption when we're working with important data, then encryption signals that data's importance. If only dissidents use encryption in a country, that country's authorities have an easy way of identifying them. But if everyone uses it all of the time, encryption ceases to be a signal. No one can distinguish simple chatting from deeply private conversation. The government can't tell the dissidents from the rest of the population. Every time you use encryption, you're protecting someone who needs to use it to stay alive.
 > _[Why We Encrypt](https://www.schneier.com/blog/archives/2015/06/why_we_encrypt.html)_ by Bruce Schneier
 
-For some background on how encryption can protect your privacy, see [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work), and [Surveillance Self-Defense](https://ssd.eff.org/en) tutorial, as provided by your friends at the [Electronic Frontier Foundation](https://www.eff.org/). \[[Donate!](https://supporters.eff.org/donate/)]
+For some background on how encryption can protect your privacy, see [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work), and [Surveillance Self-Defense](https://ssd.eff.org/en) tutorial, as provided by your friends at the [Electronic Frontier Foundation](https://www.eff.org/). \[[Donate!](https://supporters.eff.org/donate/)\]
 
 Finally, keep an eye out for anti-encryption bills such as [Burr-Feinstein](https://www.techdirt.com/articles/20160527/08343534565/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon.shtml) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://duckduckgo.com/?q=anti-encryption%2Bbill&ia=web)) and be prepared to take action when they resurface to protect your rights to privacy and security.
 
@@ -31,8 +31,8 @@ Documents transferred within the CivicActions.com GSuite including Gmail and Gdr
 
 We recommend using both of these browser add-ons that enhance privacy without encryption:
 
--   [Privacy Badger](https://privacybadger.org/) blocks most ads and cookie collectors. Open source and free.
--   [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
+- [Privacy Badger](https://privacybadger.org/) blocks most ads and cookie collectors. Open source and free.
+- [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
 
 These services will have little to no impact on your browsing experience and can go a long way to minimizing the data others collect about you.
 
@@ -46,10 +46,10 @@ We recommend [Signal.org](https://signal.org/), which is free (and open source).
 
 ## More resources
 
--   [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
--   [Privacy Friendly Search](https://info.ecosia.org/privacy) and more
--   [5 Quick And Easy Ways To Encrypt Your Life Safely In Less Than An Hour](https://www.lifehack.org/562648/5-quick-and-easy-way-encrypt-your-life-safely) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
--   [The ultimate guide to privacy on Android](https://www.computerworld.com/article/3545530/ultimate-guide-to-privacy-on-android.html)
--   [16 Practical Privacy Tips for Your iPhone](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)
--   [Tails - the amnesic incognito live system](https://tails.boum.org/)
--   [Hardware that respects your freedom](https://ryf.fsf.org/) (Free Software Foundation)
+- [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
+- [Privacy Friendly Search](https://info.ecosia.org/privacy) and more
+- [5 Quick And Easy Ways To Encrypt Your Life Safely In Less Than An Hour](https://www.lifehack.org/562648/5-quick-and-easy-way-encrypt-your-life-safely) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+- [The ultimate guide to privacy on Android](https://www.computerworld.com/article/3545530/ultimate-guide-to-privacy-on-android.html)
+- [16 Practical Privacy Tips for Your iPhone](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)
+- [Tails - the amnesic incognito live system](https://tails.boum.org/)
+- [Hardware that respects your freedom](https://ryf.fsf.org/) (Free Software Foundation)

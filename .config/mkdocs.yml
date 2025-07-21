@@ -175,6 +175,7 @@ site_name: CivicActions Guidebook
 repo_url: https://github.com/CivicActions/guidebook/
 site_url: https://guidebook.civicactions.com/en/latest/
 docs_dir: "../.docs"
+exclude_docs: ".*"
 edit_uri: edit/master/
 theme:
   name: material

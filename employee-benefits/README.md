@@ -44,17 +44,17 @@ Employees should follow the following procedure for providing notice of, schedul
 1. Ensure that your team is reminded before your planned time off. This can happen in an email; slack message or during scrum. We want to avoid any surprises to the team even though you've planned the time off.
 1. For the dates of your time-off, please update your slack status to indicate you are out of office. You can update your slack status by clicking your icon in the top right corner of the slack window, and typing in a new status in the "update your status" box.
 1. If your time off is immediate, unplanned, and unforeseeable, the most important thing is that your team knows you are out. If you are able, please send a slack to notify the team and put the leave request in Unanet.You can use the "Additional Email Notifications" field during submission to notify your project lead or others.
-   If Unanet is not accessible for you, please send an email to [peopleops@civicactions.com](mailto:peopleops@civicactions.com) and cc anyone else who needs to know. You don't need to give specific information around why you are out, just indicate that you will be out today and when we can expect you back. If you anticipate being out more than a day or two, please let us know in your email, and we will let you know if we need you to submit a request in Unanet.
+    If Unanet is not accessible for you, please send an email to [peopleops@civicactions.com](mailto:peopleops@civicactions.com) and cc anyone else who needs to know. You don't need to give specific information around why you are out, just indicate that you will be out today and when we can expect you back. If you anticipate being out more than a day or two, please let us know in your email, and we will let you know if we need you to submit a request in Unanet.
 1. Log your time in Unanet under the category of TIMEOFF, using sick, vacation, or technical issues. Remember that doctor's appointments for you and other family members are also billed as sick time.
 1. The USER REPORTS on the Reports Dashboard shows you reports about YOURSELF and you can look at your timeoff there.
 1. Screenshots and further help documentation can be seen on Unanet here - [https://help.unanet.com/current/unanet_menu/time/leave_requests.htm](https://help.unanet.com/current/unanet_menu/time/leave_requests.htm)
 
 **Sample messages to demonstrate how to request timeoff in Unanet:**
 
--   _Hello, I am out sick today. I've let my team know via slack not to expect me today._
--   _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
--   _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
--   _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
+- _Hello, I am out sick today. I've let my team know via slack not to expect me today._
+- _Hello, I want to take Aug 1-7 off. I have coordinated coverage with my team and remind them again prior to my time off._
+- _Hello, I am doing a prodev workshop on Feb 1. I have notified my team that I will be out that day._
+- _Hello, I need tomorrow off for a last minute doctor appointment. I have notified those who need to know not to expect me tomorrow._
 
 ## Exempt employees -- time off
 
@@ -80,16 +80,16 @@ Unused PTO is not eligible for payout at the end of a calendar year. Unless cont
 
 Eligible employees may use paid time off under this policy beginning on their 90th day of employment. It can be used for traditional vacation purposes, personal time, or sick time, including sick time under any applicable paid sick leave law. This includes to:
 
--   attend appointments or receive care for the employee's own physical or mental illness, injury, or medical condition, including conditions requiring home care, professional medical diagnosis or treatment, or preventive care; or
--   attend appointments or provide care for an eligible family member's physical or mental illness, injury, or medical condition, including conditions requiring home care, professional medical diagnosis or care, or preventive care; or
--   address the psychological, physical, or legal effects of domestic violence, harassment, sexual assault, or stalking involving an employee or an eligible family member, or where applicable, a "household member" (including stepparents and stepchildren, grandchildren, current and former spouses and domestic partners, persons who have a child in common, adult persons related by blood or marriage, adult persons who have resided or are residing together, and persons 16 years of age or older who are or were residing together and who are or were in a dating relationship); or
--   take time off when an employee's place of business or a child's school or place of care has been closed by order of a public official due to a public health emergency or for other health-related reasons; or
--   for absences from work when an employee or an eligible family member has been the victim of a family offense matter, sexual offense, stalking, or human trafficking; or
--   take time off when an employee or an eligible family member is quarantined by a public health authority or health care provider; or
--   take time off to attend a funeral, make arrangements for, or grieve following the death of an eligible family member, within 60 days of death; or
--   bond with a newborn, newly adopted or placed foster child under age 18 , or an adopted or foster child over age 18 if incapable of self-care because of a mental or physical disability, if completed within 12 months of birth or placement; or
--   take time off for bone marrow or organ donation by the employee or an eligible family member; or
--   take time off in connection with an employee's child to attend a school-related conference, meeting, or other event requested or required by a school administrator, teacher, or other professional staff member responsible for the child's education, or to attend a meeting regarding care provided to the child in connection with the child's health conditions or disability.
+- attend appointments or receive care for the employee's own physical or mental illness, injury, or medical condition, including conditions requiring home care, professional medical diagnosis or treatment, or preventive care; or
+- attend appointments or provide care for an eligible family member's physical or mental illness, injury, or medical condition, including conditions requiring home care, professional medical diagnosis or care, or preventive care; or
+- address the psychological, physical, or legal effects of domestic violence, harassment, sexual assault, or stalking involving an employee or an eligible family member, or where applicable, a "household member" (including stepparents and stepchildren, grandchildren, current and former spouses and domestic partners, persons who have a child in common, adult persons related by blood or marriage, adult persons who have resided or are residing together, and persons 16 years of age or older who are or were residing together and who are or were in a dating relationship); or
+- take time off when an employee's place of business or a child's school or place of care has been closed by order of a public official due to a public health emergency or for other health-related reasons; or
+- for absences from work when an employee or an eligible family member has been the victim of a family offense matter, sexual offense, stalking, or human trafficking; or
+- take time off when an employee or an eligible family member is quarantined by a public health authority or health care provider; or
+- take time off to attend a funeral, make arrangements for, or grieve following the death of an eligible family member, within 60 days of death; or
+- bond with a newborn, newly adopted or placed foster child under age 18 , or an adopted or foster child over age 18 if incapable of self-care because of a mental or physical disability, if completed within 12 months of birth or placement; or
+- take time off for bone marrow or organ donation by the employee or an eligible family member; or
+- take time off in connection with an employee's child to attend a school-related conference, meeting, or other event requested or required by a school administrator, teacher, or other professional staff member responsible for the child's education, or to attend a meeting regarding care provided to the child in connection with the child's health conditions or disability.
 
 ## Written documentation of time off
 
@@ -122,13 +122,13 @@ To the extent state or local laws mandate paid sick leave, this policy is intend
 
 For purposes of this paid time off policy, and where consistent with applicable law:
 
--   **"Children"** shall include biological, adopted, and foster children, stepchildren, or legal wards of an employee or an employee's spouse, or children for whom an employee or an employee's spouse stands "in loco parentis" or to whom the employee stood "in loco parentis" when the individual was a minor.
--   **"Eligible family member"** shall include an employee's: (1) spouse, (2) children, (3) parents, (4) grandparents, (5) grandchildren, (6) siblings, and, in limited jurisdictions (7) any individual related by blood or affinity whose close association with the employee is the equivalent of a family relationship.
--   **"Family offense matter"** shall include an act or threat of an act that may constitute disorderly conduct, harassment, aggravated harassment, sexual misconduct, forcible touching, sexual abuse, stalking, criminal mischief, menacing, reckless endangerment, strangulation, criminal obstruction of breathing or blood circulation, assault, attempted assault, identity theft, grand larceny, coercion under applicable law between spouses or former spouses, or between parent and child or between members of the same family or household.
--   **"Grandparents"** and **"grandchildren"** include biological, adopted, foster, and step-relationships of the employee or the employee's spouse.
--   **"Parents"** shall include biological, adopted, and foster parents or stepparents of an employee or an employee's spouse, or a legal guardian or person who stood "in loco parentis" to an employee or an employee's spouse as a minor child.
--   **"Siblings"** shall include biological, adopted, and foster siblings, step-siblings, half-siblings, and their spouses.
--   **"Spouse"** shall include domestic partners, registered domestic partners, civil union partners, life partners, or a designated person of the employee's choice.
+- **"Children"** shall include biological, adopted, and foster children, stepchildren, or legal wards of an employee or an employee's spouse, or children for whom an employee or an employee's spouse stands "in loco parentis" or to whom the employee stood "in loco parentis" when the individual was a minor.
+- **"Eligible family member"** shall include an employee's: (1) spouse, (2) children, (3) parents, (4) grandparents, (5) grandchildren, (6) siblings, and, in limited jurisdictions (7) any individual related by blood or affinity whose close association with the employee is the equivalent of a family relationship.
+- **"Family offense matter"** shall include an act or threat of an act that may constitute disorderly conduct, harassment, aggravated harassment, sexual misconduct, forcible touching, sexual abuse, stalking, criminal mischief, menacing, reckless endangerment, strangulation, criminal obstruction of breathing or blood circulation, assault, attempted assault, identity theft, grand larceny, coercion under applicable law between spouses or former spouses, or between parent and child or between members of the same family or household.
+- **"Grandparents"** and **"grandchildren"** include biological, adopted, foster, and step-relationships of the employee or the employee's spouse.
+- **"Parents"** shall include biological, adopted, and foster parents or stepparents of an employee or an employee's spouse, or a legal guardian or person who stood "in loco parentis" to an employee or an employee's spouse as a minor child.
+- **"Siblings"** shall include biological, adopted, and foster siblings, step-siblings, half-siblings, and their spouses.
+- **"Spouse"** shall include domestic partners, registered domestic partners, civil union partners, life partners, or a designated person of the employee's choice.
 
 Eligible employees should contact the PeopleOps Team with questions concerning whether any of the above definitions apply in a particular jurisdiction.
 
@@ -157,7 +157,7 @@ When you have a technical issue with your home network, power and personal equip
 
 ### Slack channels
 
--   You can go to the following Slack channels for support: #windows #osx #gnu-linux
+- You can go to the following Slack channels for support: #windows #osx #gnu-linux
 
 ## Personal Leave of Absence
 

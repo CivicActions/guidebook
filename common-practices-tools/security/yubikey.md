@@ -10,14 +10,14 @@ The YubiKey is a hardware device manufactured by Yubico that provides a hardware
 
 ### Operation
 
--   Simply plug it into an unused USB port.
--   During certain types of authentication you will be prompted on screen to press the inset copper button marked with and (often lit) "Y".
+- Simply plug it into an unused USB port.
+- During certain types of authentication you will be prompted on screen to press the inset copper button marked with and (often lit) "Y".
 
 ### Security Hints
 
--   If you trust your environment (like at home) you can keep the YubiKey near or even plugged into your computer.
--   In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse), especially if step away from your computer, even briefly. If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
--   Do not use SMS text messages for multi-factor authentication. Your MFA is only as strong as the weakest method you have configured.
+- If you trust your environment (like at home) you can keep the YubiKey near or even plugged into your computer.
+- In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse), especially if step away from your computer, even briefly. If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
+- Do not use SMS text messages for multi-factor authentication. Your MFA is only as strong as the weakest method you have configured.
 
 ## Enable YubiKey MFA for applications
 
@@ -29,63 +29,59 @@ _See also: [How to Secure Your Google, Dropbox, and GitHub Accounts With a Yubik
 
 This requires a YubiKey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
 
-<!-- prettier-ignore-start -->
-
 - My Vault -> Account Settings -> Multifactor Options
-  - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en) or [LastPass Authenticator](https://support.lastpass.com/s/document-item?language=en_US&bundleId=lastpass&topicId=LastPass/LastPass_Authenticator.html&_LANG=enus)) - this is a useful backup
-  - YubiKey (an easier option) is available when using [LastPass Premium](https://www.lastpass.com/yubico/) ($12/year)
-    - Select the YubiKey option.
-    - Insert the YubiKey device into a USB port on your computer.
-    - Focus your cursor on the "YubiKey #1" field.
-    - Press the button on the YubiKey device.
-    - A long string of dots should appear in the YubiKey #1 field.
-    - Change the "YubiKey Authentication" status to "Enabled"
-    - Set "Enabled" ==> "Yes"
-    - Set "Permit Offline Access" ==> "Disallow"
-    - Press the Update button
-    - Enter your LastPass master password and press Confirm.
-    - YubiKey is now enabled for your LastPass account.
+    - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en) or [LastPass Authenticator](https://support.lastpass.com/s/document-item?language=en_US&bundleId=lastpass&topicId=LastPass/LastPass_Authenticator.html&_LANG=enus)) - this is a useful backup
+    - YubiKey (an easier option) is available when using [LastPass Premium](https://www.lastpass.com/yubico/) ($12/year)
+        - Select the YubiKey option.
+        - Insert the YubiKey device into a USB port on your computer.
+        - Focus your cursor on the "YubiKey #1" field.
+        - Press the button on the YubiKey device.
+        - A long string of dots should appear in the YubiKey #1 field.
+        - Change the "YubiKey Authentication" status to "Enabled"
+        - Set "Enabled" ==> "Yes"
+        - Set "Permit Offline Access" ==> "Disallow"
+        - Press the Update button
+        - Enter your LastPass master password and press Confirm.
+        - YubiKey is now enabled for your LastPass account.
 - If your phone supports NFC, you can touch the more recent Yubikeys against your phone to unlock on mobile.
-
-<!-- prettier-ignore-end -->
 
 ### Google
 
 For each Google account you have:
 
--   Visit <https://accounts.google.com/b/0/SmsAuthSettings#devices>
--   Enable TFA, and complete the phone verification process (phone will act as backup TFA).
--   Click on "Security Keys" and follow instructions to add YubiKey.
--   Return to the main page and add a second phone and/or print backup codes.
--   As long as you have a backup, you can also install the YubiKey Authenticator app, and configure your account to use that for the backup TFA instead of SMS/phone - this is the same as the Google Authenticator app, except that it stores the credentials on your YubiKey instead of the phone.
--   If you have funky devices/apps that don't support TFA, you can set an application specific password using that tab. This includes sending E-mail from your personal Gmail account using your civicactions.com IMAP, for instance.
+- Visit <https://accounts.google.com/b/0/SmsAuthSettings#devices>
+- Enable TFA, and complete the phone verification process (phone will act as backup TFA).
+- Click on "Security Keys" and follow instructions to add YubiKey.
+- Return to the main page and add a second phone and/or print backup codes.
+- As long as you have a backup, you can also install the YubiKey Authenticator app, and configure your account to use that for the backup TFA instead of SMS/phone - this is the same as the Google Authenticator app, except that it stores the credentials on your YubiKey instead of the phone.
+- If you have funky devices/apps that don't support TFA, you can set an application specific password using that tab. This includes sending E-mail from your personal Gmail account using your civicactions.com IMAP, for instance.
 
 ### GitHub
 
--   Visit <https://github.com/settings/two_factor_authentication/configure>
--   Enable TFA, and complete the phone verification process (phone will act as backup TFA).
--   Then you can "Register new device" in the "Security keys" section
+- Visit <https://github.com/settings/two_factor_authentication/configure>
+- Enable TFA, and complete the phone verification process (phone will act as backup TFA).
+- Then you can "Register new device" in the "Security keys" section
 
 ### AWS Root Account
 
 For each AWS account you have:
 
--   Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#security_credential>
--   Under MFA, add a Virtual MFA device.
--   Use YubiKey Authenticator app to scan the QR code, and enter the response code, then close and reopen the app and enter the second response code.
+- Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#security_credential>
+- Under MFA, add a Virtual MFA device.
+- Use YubiKey Authenticator app to scan the QR code, and enter the response code, then close and reopen the app and enter the second response code.
 
 ### AWS IAM Account
 
 Up to 8 different MFA devices can be assigned, with a combination of Yubikeys, hardware TOTP tokens and authenticator apps.
 
--   Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#users>
--   Choose your user name
--   Select the "Security Credentials" tab
--   Under Multi-factor Authentication(MFA), select "Assign MFA device"
--   Enter a Device Name and Select "Security Key"
--   Allow your browser access to your Yubikey, if prompted
--   Enter your Yubikey's pin, if prompted
--   Touch your Yubikey when instructed
+- Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#users>
+- Choose your user name
+- Select the "Security Credentials" tab
+- Under Multi-factor Authentication(MFA), select "Assign MFA device"
+- Enter a Device Name and Select "Security Key"
+- Allow your browser access to your Yubikey, if prompted
+- Enter your Yubikey's pin, if prompted
+- Touch your Yubikey when instructed
 
 ### Linux
 
@@ -141,12 +137,12 @@ As your login user, create executable file `~/bin/ykgone`:
 #!/bin/bash
 USER=$(stat -c "%U" "$0")
 if usb-devices | fgrep Vendor=1050; then
-  echo "YubiKey present"
+    echo "YubiKey present"
 else
-  echo "YubiKey not present, locking"
-  export DISPLAY=":0"
-  export XAUTHORITY=/home/$USER/.Xauthority
-  su $USER -c "xautolock -locknow" &
+    echo "YubiKey not present, locking"
+    export DISPLAY=":0"
+    export XAUTHORITY=/home/$USER/.Xauthority
+    su $USER -c "xautolock -locknow" &
 fi
 ```
 
@@ -177,20 +173,20 @@ _Please help make this page more useful by adding links you found useful (descri
 
 _This should be straightforward, but waiting for a pull request that clearly explains how to:_
 
--   Enable `OTP`, `U2F` & `CCID`
--   Personalize **Configuration Slot 2** with options:
-    -   `chal-resp` (Set challenge-response mode)
-    -   `chal-hmac` (Generate HMAC-SHA1 challenge responses)
-    -   `hmac-lt64` (Calculate HMAC on less than 64 bytes input)
-    -   `serial-api-visible` (Allow serial number to be read using an API call)
+- Enable `OTP`, `U2F` & `CCID`
+- Personalize **Configuration Slot 2** with options:
+    - `chal-resp` (Set challenge-response mode)
+    - `chal-hmac` (Generate HMAC-SHA1 challenge responses)
+    - `hmac-lt64` (Calculate HMAC on less than 64 bytes input)
+    - `serial-api-visible` (Allow serial number to be read using an API call)
 
 #### Install apps
 
 See:
 
--   <https://support.yubico.com/hc/en-us/articles/360013790219-Getting-Started-with-the-YubiKey-on-macOS>
--   <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
--   <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
+- <https://support.yubico.com/hc/en-us/articles/360013790219-Getting-Started-with-the-YubiKey-on-macOS>
+- <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
+- <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
 
 _tbd..._
 
@@ -214,48 +210,41 @@ MOUNT="$HOME/mountain"
 # Checks if server is mounted
 if [ ! -d "$MOUNT" ]
 then
-  SERVER_IP="192.168.1.1"
-  SHARE_NAME="share"
-  USERNAME="admin"
-  PASSWORD="password"
-  FILE="home.txt"
-  mount_smbfs //$USERNAME:$PASSWORD@$SERVER_IP/$SHARE_NAME $MOUNT
+    SERVER_IP="192.168.1.1"
+    SHARE_NAME="share"
+    USERNAME="admin"
+    PASSWORD="password"
+    FILE="home.txt"
+    mount_smbfs //$USERNAME:$PASSWORD@$SERVER_IP/$SHARE_NAME $MOUNT
 fi
 contents=$(cat $MOUNT/$FILE)
 hash=`echo -n $contents | shasum -a 256`
 cuthash=`echo $hash | cut -c1-64`
 if [ "$cuthash" != "7147a8f255f49cb7693dcd19b6b46e139680d48a03e0a075ea237deb7e6bacc9" ]
 then
-  # Lock Screen
-  /System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend
+    # Lock Screen
+    /System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend
 fi
 ```
 
-<!-- prettier-ignore -->
 The "cron" or launchctl file located at $HOME/Library/LaunchAgents/com.dan.outlock.plist might look like this to run every 15 minutes:
 
 ```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>Label</key>
-  <string>com.dan.outlock</string>
-
-  <key>ProgramArguments</key>
-  <array>
-    <string>/bin/out-lock</string>
-  </array>
-
-  <key>Nice</key>
-  <integer>1</integer>
-
-  <key>StartInterval</key>
-  <integer>900</integer>
-
-  <key>RunAtLoad</key>
-  <true/>
-</dict>
+  <dict>
+    <key>Label</key>
+    <string>com.dan.outlock</string>
+    <key>ProgramArguments</key>
+    <array>
+      <string>/bin/out-lock</string>
+    </array>
+    <key>Nice</key>
+    <integer>1</integer>
+    <key>StartInterval</key>
+    <integer>900</integer>
+    <key>RunAtLoad</key>
+    <true />
+  </dict>
 </plist>
 ```
 

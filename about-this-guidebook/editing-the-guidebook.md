@@ -18,53 +18,53 @@ New employees receive an email invite to join the CivicActions account. If you m
 
 ### Editing an existing page
 
--   Go to the guidebook repository (also known as the repo): [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
--   Open one of these folders:
-    -   about-CivicActions
-    -   employee-benefits
-    -   company-policies
-    -   common-practices-tools
-    -   practice-areas
-    -   about-this-guidebook
--   Click on the page you want to edit.
--   Click the pencil icon to edit.
--   Make your changes using markdown.
--   Click the **Preview tab** to make sure everything looks right.
+- Go to the guidebook repository (also known as the repo): [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
+- Open one of these folders:
+    - about-CivicActions
+    - employee-benefits
+    - company-policies
+    - common-practices-tools
+    - practice-areas
+    - about-this-guidebook
+- Click on the page you want to edit.
+- Click the pencil icon to edit.
+- Make your changes using markdown.
+- Click the **Preview tab** to make sure everything looks right.
 
 ### Creating a new page
 
--   Go to the guidebook repository (also known as the repo): [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
--   Open one of these existing folders in the repo (do not create a new folder):
-    -   about-CivicActions
-    -   employee-benefits
-    -   company-policies
-    -   common-practices-tools
-    -   practice-areas
-    -   about-this-guidebook
--   Click Add file > Create new file.
+- Go to the guidebook repository (also known as the repo): [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
+- Open one of these existing folders in the repo (do not create a new folder):
+    - about-CivicActions
+    - employee-benefits
+    - company-policies
+    - common-practices-tools
+    - practice-areas
+    - about-this-guidebook
+- Click Add file > Create new file.
 
 ![Screenshot of GitHub directory with dropdown menu with two items: Create new file and Upload file.](../assets/images/1-Create-new-file.png)
 
--   Name your file, ending with the extension .md.
+- Name your file, ending with the extension .md.
 
 ![Screenshot of new GitHub file field where you enter the name of the new file.](../assets/images/2-Name-file.png)
 
--   Add your content.
--   Click the **Preview** tab to make sure everything looks right.
+- Add your content.
+- Click the **Preview** tab to make sure everything looks right.
 
 ## Step 3: Save your changes
 
 When you are ready to save your changes (known in Gitspeak as "make a commit"), you'll see three fields at the bottom of the editing screen. All of these fields are optional, with default values. In most cases it's fine to leave the defaults.
 
--   The commit title: By default this is something like "Update (filename)". You can leave this as is. If you want to be more precise, keep it short.
--   Extended description: Explain your changes, if you wish.
--   The branch name: By default this will be a new branch.
+- The commit title: By default this is something like "Update (filename)". You can leave this as is. If you want to be more precise, keep it short.
+- Extended description: Explain your changes, if you wish.
+- The branch name: By default this will be a new branch.
 
 After you commit, you will be asked if you want to create a new pull request with the branch you created. You'll again be presented with a few fields, which you can generally leave as is.
 
--   The PR title: By default it is the title of your last commit.
--   Extended description: This also draws from your last commit.
--   The right sidebar: You can assign your pull request to someone on the team (someone you think may want to review your edits).
+- The PR title: By default it is the title of your last commit.
+- Extended description: This also draws from your last commit.
+- The right sidebar: You can assign your pull request to someone on the team (someone you think may want to review your edits).
 
 When you save your changes, Git will create a new branch for your change using the default format (username)-patch-1. This branch is a copy of the entire guidebook. Any changes you make in this new branch do not affect the master branch for the guidebook. Your changes take effect when the branch is merged (Step 7).
 
@@ -78,9 +78,9 @@ Click **Propose changes**. You've just made a commit.
 
 After you've made your commit, Git will ask if you want to create a new pull request with the new branch you just created. **You need to create a pull request before your changes can be reviewed**. You'll again be presented with a few fields, which you can generally leave as is.
 
--   The PR title: By default it is the title of your last commit.
--   Extended description: This also draws from your last commit.
--   The right sidebar: You can assign your pull request to someone on the team (someone you think may want to review your edits). If you think that certain individuals may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section.
+- The PR title: By default it is the title of your last commit.
+- Extended description: This also draws from your last commit.
+- The right sidebar: You can assign your pull request to someone on the team (someone you think may want to review your edits). If you think that certain individuals may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section.
 
 If you are only changing **one** page, click **Create pull request**. If you are changing more than one page, don't create the PR quite yet.
 
@@ -102,15 +102,15 @@ If you need help fixing errors, message the [#docs](https://civicactions.slack.c
 
 If you are adding new content or changing the title (H1) of an existing page, you will need to update the settings file containing the navigation labels. If you are not sure where to place your content in the navigation, start a conversation in [#docs](https://civicactions.slack.com/messages/docs/) in Slack.
 
--   Go to the guidebook repo: [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
--   Click the .config folder to open.
--   Click the `mkdocs.yml` file to open.
--   Click the pencil icon to edit the file.
--   Scroll down to the navigation section ("nav:") and locate either:
-    -   the line you want to change, or
-    -   where you will insert a new line to add the navigation label for your new content.
-    -   If you are adding a new page, use the format: navigation label: file name (with .md).
--   Save your commit and create the pull request. Note the PR number of the content PR in the description field so the reviewer can see the changes in the content.
+- Go to the guidebook repo: [https://github.com/CivicActions/guidebook](https://github.com/CivicActions/guidebook).
+- Click the .config folder to open.
+- Click the `mkdocs.yml` file to open.
+- Click the pencil icon to edit the file.
+- Scroll down to the navigation section ("nav:") and locate either:
+    - the line you want to change, or
+    - where you will insert a new line to add the navigation label for your new content.
+    - If you are adding a new page, use the format: navigation label: file name (with .md).
+- Save your commit and create the pull request. Note the PR number of the content PR in the description field so the reviewer can see the changes in the content.
 
 The PR will be reviewed by a team member before being merged.
 
