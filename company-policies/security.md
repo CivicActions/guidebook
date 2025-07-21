@@ -1,5 +1,6 @@
 ---
-title: Security Policy version: 1.1.6
+title: Security Policy
+version: 1.1.6
 ---
 
 # CivicActions Information Security Policy

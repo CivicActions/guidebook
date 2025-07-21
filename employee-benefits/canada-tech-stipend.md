@@ -1,5 +1,6 @@
 ---
-title: Technology stipend (Canadian employees) updated: March 29 2021
+title: Technology stipend (Canadian employees)
+updated: March 29 2021
 ---
 
 # Technology Stipend Policy (Canadian Employees)
