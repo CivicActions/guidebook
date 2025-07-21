@@ -1,29 +1,23 @@
 # Lines starting with '#' are comments.
-
 # Each line is a file pattern followed by one or more owners.
-
 # Order is important. The last matching pattern has the most precedence.
 
 # These owners will be the default owners for everything in the repo.
-
-- @CivicActions/civicactions-team
+* @CivicActions/civicactions-team
 
 # These will automatically assign PRs that touch files in these directories to their respective teams for review.
-
-about-this-guidebook/\* @CivicActions/docs
-practice-areas/engineering/\* @CivicActions/engineering @CivicActions/docs
-practice-areas/project-management/\* @CivicActions/pm @CivicActions/docs
-SECURITY.md @CivicActions/security @CivicActions/docs
-common-practices-tools/security/\* @CivicActions/security @CivicActions/docs
+about-this-guidebook/* @CivicActions/docs
+practice-areas/engineering/* @CivicActions/engineering  @CivicActions/docs
+practice-areas/project-management/* @CivicActions/pm  @CivicActions/docs
+SECURITY.md @CivicActions/security  @CivicActions/docs
+common-practices-tools/security/* @CivicActions/security  @CivicActions/docs
 
 # Policy review is REQUIRED for all changes to these sections
-
 CODEOWNERS @CivicActions/policy
 CODE_OF_CONDUCT.md @CivicActions/policy
 LICENSE.md @CivicActions/policy
-company-policies/\* @CivicActions/policy
-employee-benefits/\* @CivicActions/policy
+company-policies/* @CivicActions/policy
+employee-benefits/* @CivicActions/policy
 
 # Changes to mkdocs configuration requires docs team review.
-
 .config/mkdocs.yml @CivicActions/docs
