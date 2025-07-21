@@ -39,7 +39,7 @@ Finally, the mkdocs command may identify broken links or other issues in the pul
 - Install python if you don't have it already: <https://www.python.org/downloads/>.
 - Install poetry: <https://python-poetry.org/docs/#installation>.
 - Open a terminal and `cd` to your Git root.
-- Run `poetry -C .config/mkdocs installroot` to install the dependencies.
+- Run `poetry -C .config/mkdocs install` to install the dependencies.
 - Run `poetry -C .config/mkdocs run format-changed` to format all changed markdown files in your git repository.
 
 ### Running the linter locally
