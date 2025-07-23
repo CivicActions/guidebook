@@ -17,12 +17,15 @@ if [[ -z ${LOCAL_MASTER} ]]; then
 fi
 # Only check markdown files changed on branch to avoid excessive output.
 REMARK_PATHS=""
-REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md' | grep -vE '^[.]')
+REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MASTER}" ':*.md' | grep -vE '^[.]' || true)
 export REMARK_PATHS
 
 # Add node_modules/.bin to PATH so we can find remark
 export PATH="${SCRIPT_DIR}/node_modules/.bin:${PATH}"
 
+if [[ -z "${REMARK_PATHS}" ]]; then
+  exit 0
+fi
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
 
