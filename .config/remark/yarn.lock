@@ -2064,22 +2064,10 @@ remark-lint-checkbox-content-indent@^5.0.1:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-code-block-style@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-code-block-style/-/remark-lint-code-block-style-3.1.2.tgz"
-  integrity sha512-3wsWmzzdyEsB9sOzBOf46TSkwwVKXN2JpTEQb6feN0Tl6Vg75F7T9MHqMz7aqk/56bOXSxUzdpXDscGBhziLRA==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-code-block-style@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-code-block-style/-/remark-lint-code-block-style-4.0.0.tgz"
-  integrity sha512-LKBKMVruEO0tzDnnnqi1TfUcnwY6Mo7cVtZM4E4pKt3KMhtvgU2wD68/MxDOEJd0pmnLrEgIadv74bY0gWhZpg==
+remark-lint-code-block-style@^4.0.0, remark-lint-code-block-style@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-code-block-style/-/remark-lint-code-block-style-4.0.1.tgz#28cdab3e687b68e5e2cc500e225ed4b75e088e0e"
+  integrity sha512-d4mHsEpv1yqXWl2dd+28tGRX0Lzk5qw7cfxAQVkOXPUONhsMFwXJEBeeqZokeG4lOKtkKdIJR7ezScDfWR0X4w==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
