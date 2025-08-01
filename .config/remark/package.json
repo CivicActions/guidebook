@@ -53,7 +53,7 @@
     "remark-lint-no-missing-blank-lines": "^4.0.1",
     "remark-lint-no-multiple-toplevel-headings": "^4.0.0",
     "remark-lint-no-shell-dollars": "^4.0.0",
-    "remark-lint-no-shortcut-reference-image": "^3.1.2",
+    "remark-lint-no-shortcut-reference-image": "^4.0.1",
     "remark-lint-no-shortcut-reference-link": "^3.1.2",
     "remark-lint-no-table-indentation": "^5.0.0",
     "remark-lint-no-tabs": "^4.0.1",
