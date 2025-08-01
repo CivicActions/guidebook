@@ -2052,10 +2052,10 @@ remark-lint-checkbox-character-style@^5.0.1:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-checkbox-content-indent@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-5.0.0.tgz"
-  integrity sha512-7L25a7TEfdogFSh4HDOnB+GTTTEiXJDMlceUPft9bzIjElI8Hm2+a2D8jUQn4ahj+j/3LmdZW4GjAeyfdPuqTA==
+remark-lint-checkbox-content-indent@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-checkbox-content-indent/-/remark-lint-checkbox-content-indent-5.0.1.tgz#e5caadfdaebf94853311f0c70463e472aaf00c30"
+  integrity sha512-R1gV4vGkgJQZQFIGve1paj4mVDUWlgX0KAHhjNpSyzuwuSIDoxWpEuSJSxcnczESgcjM4yVrZqEGMYi/fqZK0w==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
