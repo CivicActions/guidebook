@@ -1,6 +1,7 @@
 name: Checking material insiders update
 permissions:
   contents: write
+  pull-requests: write
 
 on:
   # Automatic check monthly
