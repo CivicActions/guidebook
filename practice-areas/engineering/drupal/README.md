@@ -22,7 +22,6 @@ CivicActions adopted a standard practice of setting Objectives and Key Results i
 
 We are still in the process of optimizing our OKR practices. That said, Drupal practice area participants have developed practice area OKRs that merge with CivicActions organizational objectives. OKR discussions happen frequently in practice area calls and via:
 
-- [Trello board](https://trello.com/b/MH1OIHzV/drupal-practice-area-okrs)
 - [Culture amp](https://civicactions.cultureamp.com/performance/new_goals/department)
 
 ## Skillsbase: complete a self-assessment of your Drupal skills
