@@ -12,9 +12,9 @@ To be invited to the monthly call, please post a message in the Slack channel an
 
 Drupal engineers meet each month on Zoom to discuss topics of common interest. You are encouraged to share your contributions to Drupal.org and the CivicActions Drupal practice area in the Slack channel and on the monthly call.
 
-The monthly meeting itself is normally scheduled early in the month and follows either a pre-set agenda or the Festivus Format. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
+The monthly meeting follows either a pre-set agenda and topics for breakout rooms. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
-We add agenda items and notes to this document: [2025 Drupal Practice Area Meetings and Agendas](https://docs.google.com/document/d/1vM9qUWDdSR1QBzQ__vn1z-WESRiBEYKrHuNmz4zZysg/edit) to structure our conversations.
+We add agenda items and notes under this page in our internal confluence: [Drupal Practice Area Meetings](https://civicactions.atlassian.net/wiki/spaces/DR/pages/660734452/Drupal+Practice+Area+Meetings) to structure our conversations.
 
 ## Drupal practice area OKRs
 
