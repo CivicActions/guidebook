@@ -13,7 +13,7 @@ mkdocs-git-revision-date-localized-plugin = "^1.4.7"
 pymdown-extensions = "^10.16"
 # Keep this in sync with the version in .pre-commit-config.yaml
 mdformat = "^0.7.22"
-mdformat-mkdocs = {extras = ["recommended"], version = "^4.3.0"}
+mdformat-mkdocs = {extras = ["recommended"], version = "^4.4.0"}
 
 [tool.poetry.scripts]
 format-changed = "scripts.format_changed:main"
