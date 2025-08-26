@@ -552,14 +552,14 @@ mdit-py-plugins = ">=0.2.0"
 
 [[package]]
 name = "mdformat-mkdocs"
-version = "4.4.0"
+version = "4.4.1"
 description = "An mdformat plugin for `mkdocs`."
 optional = false
 python-versions = ">=3.9.0"
 groups = ["main"]
 files = [
-    {file = "mdformat_mkdocs-4.4.0-py3-none-any.whl", hash = "sha256:03f2c40100140c3f2c11afcbcb63c4246f71f8b8ba5255dd74576649c556ee28"},
-    {file = "mdformat_mkdocs-4.4.0.tar.gz", hash = "sha256:168b97c6b500973757d36a95bc6e3c0d162a00dcc82479aa37d0e90a0a6fdfe8"},
+    {file = "mdformat_mkdocs-4.4.1-py3-none-any.whl", hash = "sha256:3d94fd1c497dff80fca02114be1fc735d9a1cb906067d1e18b6d2668692d3589"},
+    {file = "mdformat_mkdocs-4.4.1.tar.gz", hash = "sha256:10de57f7ac70ffe623022cafe6e3a182238d2c1f95de2504e095104366897240"},
 ]
 
 [package.dependencies]
@@ -1380,4 +1380,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "1c9b1e6ed63918d354faa4abb4b7111dcb7d079d3911397d9da7990d7a87be8d"
+content-hash = "fa1ce841da1f7ed28368d6fdfe16ac552e9c7fc72da89d48bfc16b44bab3d989"
