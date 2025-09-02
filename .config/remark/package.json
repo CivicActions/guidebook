@@ -65,7 +65,7 @@
     "remark-lint-strong-marker": "^4.0.1",
     "remark-lint-table-cell-padding": "^5.1.1",
     "remark-lint-table-pipe-alignment": "^4.0.0",
-    "remark-lint-table-pipes": "^4.1.2",
+    "remark-lint-table-pipes": "^5.0.1",
     "remark-lint-unordered-list-marker-style": "^4.0.1",
     "remark-message-control": "^8.0.0",
     "remark-normalize-headings": "^4.0.0",

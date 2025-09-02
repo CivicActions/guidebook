@@ -2711,21 +2711,10 @@ remark-lint-table-pipe-alignment@^4.0.0:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-table-pipes@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-table-pipes/-/remark-lint-table-pipes-4.1.2.tgz"
-  integrity sha512-Ex2cJDXA0hdD9CC5Nu0p3K5LP+AhzPvk4sIOSbevCTSRyCS/SkNk4CQ6pwWBxuPVuHQUkqXkT8lgu8wwr/9A3A==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-table-pipes@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-table-pipes/-/remark-lint-table-pipes-5.0.0.tgz"
-  integrity sha512-e7jzAScDrt5+eMomh099TZJBN2K9ldDxBu9iYhNu5C0YsdAvnckJkgilsuClxFpmx4LCVYaX0EGbt/hQ3LB3xg==
+remark-lint-table-pipes@^5.0.0, remark-lint-table-pipes@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-pipes/-/remark-lint-table-pipes-5.0.1.tgz#e3d188c8b334a3b600c395cd063835c072382b58"
+  integrity sha512-oOkRC0WRRDwvodfffGafoBFBTGwy9udQgKtxN53apmZpOmaUAxTi833ite0jMo078+LehNftO5bxrElZ9EQUlQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     "@types/unist" "^3.0.0"
