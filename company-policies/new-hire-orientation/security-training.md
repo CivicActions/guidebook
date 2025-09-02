@@ -38,7 +38,7 @@ Engineers and Project Managers and anyone directly involved in client site opera
 
 CivicActions Employees and Contractors regularly refresh their understanding of privacy regulations and security controls with the latest available information, including:
 
-- Course: [Identifying and Safeguarding Personally Identifiable Information (PII)](https://securityawareness.usalearning.gov/piiv2/index.htm)
+- Course: [Identifying and Safeguarding Personally Identifiable Information (PII)](https://securityawareness.dcsa.mil/piiv2/content/index.html)
 - Review: [CivicActions Employee/Contractor SecurityPolicy](../security.md)
 - Internal: Yearly trainings/quizzes scheduled by the CivicActions Security Team
 
