@@ -2648,10 +2648,10 @@ remark-lint-ordered-list-marker-value@^4.0.0, remark-lint-ordered-list-marker-va
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-rule-style@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-rule-style/-/remark-lint-rule-style-4.0.0.tgz"
-  integrity sha512-Kt7IHMB5IbLgRFKaFUmB895sV3PTD0MBgN9CvXKxr1wHFF43S6tabjFIBSoQqyJRlhH0S3rK6Lvopofa009gLg==
+remark-lint-rule-style@^4.0.0, remark-lint-rule-style@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-rule-style/-/remark-lint-rule-style-4.0.1.tgz#2bab10a72b8e7e63b664b41355d93d9aae7c3610"
+  integrity sha512-gl1Ft13oTS3dJUCsWZzxD/5dAwI1HON67KU7uNfODD5gXJ8Y11deOWbun190ma7XbYdD7P0l8VT2HeRtEQzrWg==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
