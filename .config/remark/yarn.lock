@@ -2832,10 +2832,10 @@ remark-preset-lint-recommended@^7.0.0:
     remark-lint-ordered-list-marker-style "^4.0.0"
     unified "^11.0.0"
 
-remark-preset-prettier@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/remark-preset-prettier/-/remark-preset-prettier-2.0.1.tgz"
-  integrity sha512-1+cZaM080zTlhQIvZDOj7SFWvW9zevfxsLjTZspLEsBYivMDwCyTodvNvaZLc9p5dUSMik/BjMFKicfhZXh7qg==
+remark-preset-prettier@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/remark-preset-prettier/-/remark-preset-prettier-2.0.2.tgz#9c63fee350ae555f356bfc336e8e42f84040a7e5"
+  integrity sha512-kTJRYWjcLBqVZZT49uEyWoZXb2DCIADITTizv7zj9SK/Msofl1syVqO7zcLlH6MCkXk3W0dyeKLcmiIyoLegkQ==
 
 remark-retext@^6.0.1:
   version "6.0.1"
