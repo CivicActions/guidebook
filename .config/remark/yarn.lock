@@ -2142,10 +2142,10 @@ remark-lint-file-extension@^3.0.0, remark-lint-file-extension@^3.0.1:
     quotation "^2.0.0"
     unified-lint-rule "^3.0.0"
 
-remark-lint-final-definition@^4.0.0, remark-lint-final-definition@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.npmjs.org/remark-lint-final-definition/-/remark-lint-final-definition-4.0.1.tgz"
-  integrity sha512-51T9oSdA7wuhjSdgGo0snO1BY39Igt9cJQi7XpgtgFsbfQk8zSSAUAc/rLabY6+YCTpcPs6qmwvLXZ4mPX6Qlg==
+remark-lint-final-definition@^4.0.0, remark-lint-final-definition@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-final-definition/-/remark-lint-final-definition-4.0.2.tgz#8d2b17dde56f86f033520b161239b364e54e649d"
+  integrity sha512-fz3UAcFQef77Zb8rz4za2R6y7pdyJot22iGtFoNIKdtbcNa8IKKEVoY3NIfrsLfhrjwzcha1Sp3fFA9NF6lc4w==
   dependencies:
     "@types/mdast" "^4.0.0"
     devlop "^1.0.0"
