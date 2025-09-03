@@ -2233,22 +2233,10 @@ remark-lint-list-item-bullet-indent@^5.0.0:
     unified-lint-rule "^3.0.0"
     unist-util-position "^5.0.0"
 
-remark-lint-list-item-content-indent@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-3.1.2.tgz"
-  integrity sha512-TB0pmrWiRaQW80Y/PILFQTnHDghRxXNzMwyawlP+DBF9gNom3pEBmb4ZlGQlN0aa3r8VWeIKdv1ylHrfXE0vqA==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    pluralize "^8.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-list-item-content-indent@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-4.0.0.tgz"
-  integrity sha512-L4GZgWQQ54qWKbnDle3dbEOtnq+qdmZJ70lpM3yMFEMHs4xejqPKsIoiYeUtIV0rYHHCWS7IlLzcgYUK9vENQw==
+remark-lint-list-item-content-indent@^4.0.0, remark-lint-list-item-content-indent@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-4.0.1.tgz#8fb2f8029940fdb42f6b8d739cd4252838a80795"
+  integrity sha512-KSopxxp64O6dLuTQ2sWaTqgjKWr1+AoB1QCTektMJ3mfHfn0QyZzC2CZbBU22KGzBhiYXv9cIxlJlxUtq2NqHg==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
