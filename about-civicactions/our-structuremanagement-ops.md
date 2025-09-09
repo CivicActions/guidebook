@@ -37,7 +37,7 @@ Management team
 | ----------------- | ------------------------------------------ |
 | David Sumner      | Associate Director DevSecOps               |
 | Sharjeel Aziz     | Associate Director DevSecOps               |
-| Dave Pickett      | Associate Director of Design               |              |
+| Dave Pickett      | Associate Director of Design               |
 | Farooq Zakhilwal  | Associate Director of DITAP                |
 | Kristian Ducharme | Associate Director of Drupal               |
 | Daniel Mundra     | Associate Director of Drupal               |
