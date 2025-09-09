@@ -28,7 +28,7 @@ Leadership team
 | Laura Lanford   | Director of Engineering                     |
 | Keith Kawasaki  | Director of Growth & Partnerships           |
 | Liz Tupper      | Director of Product                         |
-| Matt Powell     | Director of Project Management              |
+| Rey Echevarria  | Director of Project Management              |
 | Montana Singer  | Controller                                  |
 
 Management team
@@ -37,8 +37,7 @@ Management team
 | ----------------- | ------------------------------------------ |
 | David Sumner      | Associate Director DevSecOps               |
 | Sharjeel Aziz     | Associate Director DevSecOps               |
-| Kelly Smith       | Associate Director of Design               |
-| Valerie Runde     | Associate Director of Design               |
+| Dave Pickett      | Associate Director of Design               |
 | Farooq Zakhilwal  | Associate Director of DITAP                |
 | Kristian Ducharme | Associate Director of Drupal               |
 | Daniel Mundra     | Associate Director of Drupal               |
