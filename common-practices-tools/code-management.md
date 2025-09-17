@@ -20,7 +20,7 @@ CivicActions wants to track Practices (org-wide methods, standards, shared tools
 - The work touches on **governance, compliance, or accessibility** standards where CivicActions must show accountability.
 - The code is intended to be **shared widely** and is tied to our practices, projects or products.
 - Documentation, issue tracking, or contribution from other staff will be needed.
-- Build to align with our Check My Repo https://github.com/CivicActions/check-my-repo
+- Build to align with our [Check My Repo](https://github.com/CivicActions/check-my-repo)
 - Security, licensing, and support responsibilities fall to CivicActions.
 
 ### Corporate private GitLab Repository (use when…)
