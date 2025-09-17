@@ -46,7 +46,7 @@ Clients may have their own public and/or private repositories. All work that we 
 - Client repositories (which can be internal or public) should be used for all project code unless we have approval from both:
     - CivicActions legal team (once per-contract - we need to review contract terms) and
     - From the client (specific approval needed for each new project/library).
-- CivicActions requires approval from the client before before both:
+- CivicActions requires approval from the client before both:
     - hosting the code outside a client system, and;
     - open sourcing it.
 - If CivicActions' clients don't have their own repositories available to us, after obtaining permission from the client, we can use:
