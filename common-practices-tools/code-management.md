@@ -57,7 +57,7 @@ Clients may have their own public and/or private repositories. All work that we 
 
 ## 3. Attribution of CivicActions-Supported Work
 
-When staff experiment during CivicActions-paid time, they should acknowledge CivicActions' support while respecting personal repositories. Anyone at CivicActions should feel free to fork a project into the CivicActions repository if it is relevent to practices, projects or products we are working on. With personal projects of staff, it is good to reach out.
+When staff experiment during CivicActions-paid time, they should acknowledge CivicActions' support while respecting personal repositories. Anyone at CivicActions should feel free to fork a project into the CivicActions repository if it is relevant to practices, projects or products we are working on. With personal projects of staff, it is good to reach out.
 
 - Include a statement in the README of personal repos created on CivicActions time:
     > "This work was initiated with support from CivicActions."
