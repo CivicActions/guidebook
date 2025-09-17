@@ -22,7 +22,7 @@ CivicActions wants to track Practices (org-wide methods, standards, shared tools
 ### Corporate private GitLab Repository (use when…)
 
 - If we want to collaborate internally, but do not want to publish the code publicly.
-- We may wan to do this as a type of InnerSource project where we want to facilitate collaboration inside of CivicActions.
+- We may want to do this as a type of InnerSource project where we want to facilitate collaboration inside of CivicActions.
 - This is intended for use for internal projects that do not make sense to open source because they are:
     - too experimental
     - too specific to our needs or
