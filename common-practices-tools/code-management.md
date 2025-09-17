@@ -12,7 +12,7 @@ CivicActions wants to track Practices (org-wide methods, standards, shared tools
 
 - The work is **intended to be maintained** beyond the original author's involvement.
 - The project aligns with **client delivery, internal tooling, or CivicActions strategy**.
-- The code is itended to be **reused, extended, or depended on** by others in the company.
+- The code is intended to be **reused, extended, or depended on** by others in the company.
 - The work touches on **governance, compliance, or accessibility** standards where CivicActions must show accountability.
 - The code is intended to be **shared widely** and is tied to our practices, projects or products.
 - Documentation, issue tracking, or contribution from other staff will be needed.
