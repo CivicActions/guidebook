@@ -69,7 +69,7 @@ When staff experiment during CivicActions-paid time, they should acknowledge Civ
 
 ## 4. Decision Tree
 
-This is a DRAFT guidance outlines when work should go into the CivicActions corporate repositories (GitHub & GitLab), our client repositories, or a personal repository. The guidance should direct the team how to attribute CivicActions or client support behind the repositories. This is particularly important when experimenting with code on paid time. All projects should have an appropriate license. CivicActions default license should be the [AGPL v3](https://opensource.org/license/agpl-v3), but other [OSI-approved licenses](https://opensource.org/licenses) can also be appropriate.
+The following decision tree helps you determine the appropriate repository for your work—whether it belongs in a CivicActions corporate repository, a client repository, or a personal repository. Use this guide to ensure proper attribution and compliance with licensing and governance standards.
 
 ```mermaid
 flowchart TD
