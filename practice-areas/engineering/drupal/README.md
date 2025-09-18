@@ -14,7 +14,7 @@ Drupal engineers meet each month on Zoom to discuss topics of common interest. Y
 
 The monthly meeting follows either a pre-set agenda and topics for breakout rooms. In the past we have run a [Festivus](https://en.wikipedia.org/wiki/Festivus) style agenda, which is: 1. One or more Feasts (a discussion, a demo, a presentation), 2. General time of sharing our Feats of Strength, and Airing of Grievances. These formats are not set in stone, though; feel free to suggest another format entirely. Even better: volunteer to lead the next call and try something new out!
 
-We add agenda items and notes under this page in our internal confluence: [Drupal Practice Area Meetings](https://civicactions.atlassian.net/wiki/spaces/DR/pages/660734452/Drupal+Practice+Area+Meetings) to structure our conversations.
+We add agenda items and notes under this page in our internal drive: [Drupal Practice Area Meeting notes](https://drive.google.com/drive/folders/1Za5cX3Peu7fIBuU3PBKtqsM-IXwfFzr3) to structure our conversations.
 
 ## Drupal practice area OKRs
 
