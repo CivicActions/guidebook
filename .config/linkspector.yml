@@ -11,3 +11,4 @@ ignorePatterns:
   # NOTE: Unreliable sites below
   - pattern: "^https://linux.die.net/.*"
   - pattern: "^https://www.congress.gov/.*"
+  - pattern: "^https://www.gnu.org/.*"
