@@ -2166,16 +2166,15 @@ remark-lint-final-newline@^3.0.0, remark-lint-final-newline@^3.0.1:
     unified-lint-rule "^3.0.0"
     vfile-location "^5.0.0"
 
-remark-lint-first-heading-level@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-first-heading-level/-/remark-lint-first-heading-level-3.1.2.tgz"
-  integrity sha512-uSgDMAKOolDcxfJwQU+iJK2Vbz2ZIzBAjQiN0f+9O/7XwrAH5IuVQH60w7chuxVrauVHmd1rbjmvzXVq8R30VQ==
+remark-lint-first-heading-level@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-first-heading-level/-/remark-lint-first-heading-level-4.0.1.tgz#04e263580da2982a8490deb6559b5477d84944bb"
+  integrity sha512-ZqH476wQU2rk3L2X1Ef/FsdDZJsSkMqTkEjKyeac/hxnwDZ8ZLYYMmm4UKTgVZTtqFUkNYzgGEPAFXtrppHbJA==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    mdast-util-mdx "^3.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-hard-break-spaces@^4.0.0, remark-lint-hard-break-spaces@^4.1.1:
   version "4.1.1"
