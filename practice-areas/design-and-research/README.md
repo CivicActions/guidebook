@@ -3,17 +3,19 @@ title: Design and Research Practice Area
 ---
 
 # Design and research practice area
-The CivicActions Design team works across many realms of design - from content and product design to research, service, and experience design. We adapt our approach to meet each challenge and draw from different design methodologies, like human-centered design, evidence-based design, agile design, and domain-driven design. 
 
-We are strategists and storytellers, analysts and activators, dedicated to improving experiences that serve the public good. Our designers are embedded across federal agencies, driving impact across public health, public science, veteran experiences, and beyond. 
+The CivicActions Design team works across many realms of design - from content and product design to research, service, and experience design. We adapt our approach to meet each challenge and draw from different design methodologies, like human-centered design, evidence-based design, agile design, and domain-driven design.
 
-Our designers combine design excellence with cross-disciplinary certifications and skills, with many of our designers holding credentials such as the Certified Professional in Accessibility Core Competencies (CPACC) certification, the Acquia Drupal Site Builder certification, the Google Analytics Certification, and more. We are often in attendance at events and conferences such as Config, DrupalCon, DrupalCamps, DrupalGovCon, and the Information Architecture Conference. 
+We are strategists and storytellers, analysts and activators, dedicated to improving experiences that serve the public good. Our designers are embedded across federal agencies, driving impact across public health, public science, veteran experiences, and beyond.
+
+Our designers combine design excellence with cross-disciplinary certifications and skills, with many of our designers holding credentials such as the Certified Professional in Accessibility Core Competencies (CPACC) certification, the Acquia Drupal Site Builder certification, the Google Analytics Certification, and more. We are often in attendance at events and conferences such as Config, DrupalCon, DrupalCamps, DrupalGovCon, and the Information Architecture Conference.
 
 Our variety of experience and expertise allows us to truly center the humans we serve in all the work we do from strategy to iteration to final delivery.
 
 For CivicActioners, check out our [internal Design Practice Area site](https://civicactions.atlassian.net/wiki/spaces/DES/pages/30179671/Welcome+to+Design+at+CivicActions).
 
 ## What We Design
+
 - We design **systems:** the underlying architecture that powers services.
 - We design **processes:** how people and information move through a service.
 - We design **structures:** content models, data models, IA, navigation, and decision paths.
@@ -26,6 +28,7 @@ For CivicActioners, check out our [internal Design Practice Area site](https://c
 - We design **outcomes:** not just artifacts, but real-world, measurable impact for users and agencies.
 
 ## Areas of expertise and past performance
+
 - User research & discovery
 - Content design & strategy
 - Enterprise content migration
@@ -70,19 +73,22 @@ For CivicActioners, check out our [internal Design Practice Area site](https://c
 ## Design practice area touchpoints
 
 ### All Creative Calls
+
 All Creative Calls are monthly calls led by design leadership. These calls help us broaden our context, collaborate together, and align on our ways of working and what we prioritize. Sometimes we will invite special guests from other practice areas to collaborate with us. Some of our recent ACC topics were Open by Design, AI and Design, Research Ops, and How to Collaborate with the Growth Team.
 
 We add the agenda recap, slide decks, and recordings to our [ACC Notes](https://civicactions.atlassian.net/wiki/spaces/DES/pages/94044176/Meetings+Connection) after each meeting.
 
 ### Design Open Office Hours
+
 These are monthly calls hosted by design leadership that don't have an agenda and are not recorded. Any designer can bring any topic they'd like to discuss. Topics can include getting feedback on work, getting help with a problem, discussing company or practice area strategy, discussing current events, or even just sharing something you're excited about.
 
 ### Design Roundtable
+
 This monthly meeting's agenda is driven by the design team members. It is an informal touchpoint where anyone can bring a design topic to discuss. [Learn more about roundtables.](https://civicactions.atlassian.net/wiki/spaces/DES/pages/653557761/Design+Roundtables)
 
 ## Internal initiatives + side quests
 
-Our design team spends most of our time on billable projects, but from time-to-time, may need to support internal initiatives. Design leadership will facilitate assigning designers to and getting approval for internal initiatives. If you have an idea for an internal initiative or want to be involved in a prioritized internal initiative effort, talk to your manager first. 
+Our design team spends most of our time on billable projects, but from time-to-time, may need to support internal initiatives. Design leadership will facilitate assigning designers to and getting approval for internal initiatives. If you have an idea for an internal initiative or want to be involved in a prioritized internal initiative effort, talk to your manager first.
 
 ## Professional development
 
