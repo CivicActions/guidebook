@@ -2421,10 +2421,10 @@ remark-lint-no-file-name-outer-dashes@^3.0.0, remark-lint-no-file-name-outer-das
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
 
-remark-lint-no-heading-content-indent@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-heading-content-indent/-/remark-lint-no-heading-content-indent-5.0.0.tgz"
-  integrity sha512-psYSlD2BjcVkgpeXOLwPcYFBrbtJWp8E8JX1J4vSfoHPeY6aIxgYxXkf57cjGTApfRL8xawBmMDiF1FgQvpZYg==
+remark-lint-no-heading-content-indent@^5.0.0, remark-lint-no-heading-content-indent@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-content-indent/-/remark-lint-no-heading-content-indent-5.0.1.tgz#53f5ac6aea9c46a40f16b1449cdae64c73028112"
+  integrity sha512-YIWktnZo7M9aw7PGnHdshvetSH3Y0qW+Fm143R66zsk5lLzn1XA5NEd/MtDzP8tSxxV+gcv+bDd5St1QUI4oSQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
