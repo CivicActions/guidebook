@@ -2509,10 +2509,10 @@ remark-lint-no-missing-blank-lines@^4.0.1:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-multiple-toplevel-headings@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-multiple-toplevel-headings/-/remark-lint-no-multiple-toplevel-headings-4.0.0.tgz"
-  integrity sha512-JW11iYxza7asDdhQuKfr8SH1u4NBOCQ4U7Ru0HrKCPcT4y/AB1C1il5uMQzbcervgYPBq69xzyQ24+AJeL0t3A==
+remark-lint-no-multiple-toplevel-headings@^4.0.0, remark-lint-no-multiple-toplevel-headings@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-multiple-toplevel-headings/-/remark-lint-no-multiple-toplevel-headings-4.0.1.tgz#b6111067a1aa65407ac5406a10a8a5ae53c6c972"
+  integrity sha512-8sepobIOu3PlDOuMH7jtri+LH4tFNVQU+aqKSkrlNRdp831fYz9S+jA2crTVqWqxVbTwiF96uJWePv8/9qmHnA==
   dependencies:
     "@types/mdast" "^4.0.0"
     devlop "^1.0.0"
