@@ -2294,10 +2294,10 @@ remark-lint-maximum-line-length@^4.0.0, remark-lint-maximum-line-length@^4.1.1:
     unist-util-position "^5.0.0"
     unist-util-visit "^5.0.0"
 
-remark-lint-no-blockquote-without-marker@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-blockquote-without-marker/-/remark-lint-no-blockquote-without-marker-6.0.0.tgz"
-  integrity sha512-fBhoTpkWcl5tG4FdwPdJIyb8XLrdr6MdLk1+K2BQ6Rom3rRsIYvuox4ohxOunNrXuth8xyw8kC6wDmODR44oFw==
+remark-lint-no-blockquote-without-marker@^6.0.0, remark-lint-no-blockquote-without-marker@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-blockquote-without-marker/-/remark-lint-no-blockquote-without-marker-6.0.1.tgz#92da6318fa6237f8f706cfbf1c0f6ef4bb480ee3"
+  integrity sha512-b4IOkNcG7C16HYAdKUeAhO7qPt45m+v7SeYbVrqvbSFtlD3EUBL8fgHRgLK1mdujFXDP1VguOEMx+Txv8JOT4w==
   dependencies:
     "@types/mdast" "^4.0.0"
     devlop "^1.0.0"
