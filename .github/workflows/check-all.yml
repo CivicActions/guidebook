@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Run linkspector on all links
-        uses: umbrelladocs/action-linkspector@v1.3.7
+        uses: umbrelladocs/action-linkspector@v1.4.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-check
