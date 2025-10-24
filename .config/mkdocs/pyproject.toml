@@ -8,7 +8,7 @@ packages = [{include = "scripts"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.6.18-insiders-4.53.17"}
+mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.6.21-insiders-4.53.17"}
 mkdocs-git-revision-date-localized-plugin = "^1.4.7"
 pymdown-extensions = "^10.16"
 # Keep this in sync with the version in .pre-commit-config.yaml
