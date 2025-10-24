@@ -19,7 +19,7 @@ repos:
         verbose: true
   - repo: https://github.com/executablebooks/mdformat
     # Keep this in sync with the version in .config/mkdocs/pyproject.toml
-    rev: 0.7.22
+    rev: 1.0.0
     hooks:
       - id: mdformat
         additional_dependencies:
