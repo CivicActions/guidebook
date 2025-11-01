@@ -49,7 +49,7 @@
     "remark-lint-no-heading-punctuation": "^4.0.1",
     "remark-lint-no-html": "^4.0.1",
     "remark-lint-no-inline-padding": "^5.0.0",
-    "remark-lint-no-literal-urls": "^3.1.2",
+    "remark-lint-no-literal-urls": "^4.0.1",
     "remark-lint-no-missing-blank-lines": "^4.0.1",
     "remark-lint-no-multiple-toplevel-headings": "^4.0.1",
     "remark-lint-no-shell-dollars": "^4.0.0",
