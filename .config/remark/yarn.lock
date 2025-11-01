@@ -2079,10 +2079,10 @@ remark-lint-definition-case@^4.0.0, remark-lint-definition-case@^4.0.1:
     unified-lint-rule "^3.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-definition-spacing@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-definition-spacing/-/remark-lint-definition-spacing-4.0.0.tgz"
-  integrity sha512-t6nP8unz6z/DLBTWeOmDFHPFbX3E2PbNgt2fTazRbVnMC6z3o25hBzg5hI6DL0MPt2ZTRX++rJsGRjb+vgh/tQ==
+remark-lint-definition-spacing@^4.0.0, remark-lint-definition-spacing@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-4.0.1.tgz#8a34b0efe0849c3a7043c26e9648b8d6211a4a72"
+  integrity sha512-ZjShKaBUGeHrZyIZWwOZOxX3guj/P7gRR5wbDADQctL4oK+ZLQfOvJFmAsF1nD4gNr0Ficjd0AuiWxQcc1qTMA==
   dependencies:
     "@types/mdast" "^4.0.0"
     longest-streak "^3.0.0"
