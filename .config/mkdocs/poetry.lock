@@ -534,25 +534,6 @@ test = ["coverage", "pytest (>=7.3)", "pytest-cov"]
 
 [[package]]
 name = "mdformat-gfm"
-version = "0.4.1"
-description = "Mdformat plugin for GitHub Flavored Markdown compatibility"
-optional = false
-python-versions = ">=3.9"
-groups = ["main"]
-markers = "<empty>"
-files = [
-    {file = "mdformat_gfm-0.4.1-py3-none-any.whl", hash = "sha256:63c92cfa5102f55779d4e04b16a79a6a5171e658c6c479175c0955fb4ca78dde"},
-    {file = "mdformat_gfm-0.4.1.tar.gz", hash = "sha256:e189e728e50cfb15746abc6b3178ca0e2bebbb7a8d3d98fbc9e24bc1a4c65564"},
-]
-
-[package.dependencies]
-markdown-it-py = "*"
-mdformat = ">=0.7.5,<0.8.0"
-mdformat-tables = ">=0.4.0"
-mdit-py-plugins = ">=0.2.0"
-
-[[package]]
-name = "mdformat-gfm"
 version = "1.0.0"
 description = "Mdformat plugin for GitHub Flavored Markdown compatibility"
 optional = false
@@ -635,26 +616,6 @@ mdformat = ">=0.7.0,<0.8.0"
 
 [package.extras]
 dev = ["pre-commit"]
-test = ["coverage", "pytest (>=6.0,<7.0)", "pytest-cov"]
-
-[[package]]
-name = "mdformat-tables"
-version = "1.0.0"
-description = "An mdformat plugin for rendering tables."
-optional = false
-python-versions = ">=3.7.0"
-groups = ["main"]
-markers = "<empty>"
-files = [
-    {file = "mdformat_tables-1.0.0-py3-none-any.whl", hash = "sha256:94cd86126141b2adc3b04c08d1441eb1272b36c39146bab078249a41c7240a9a"},
-    {file = "mdformat_tables-1.0.0.tar.gz", hash = "sha256:a57db1ac17c4a125da794ef45539904bb8a9592e80557d525e1f169c96daa2c8"},
-]
-
-[package.dependencies]
-mdformat = ">=0.7.5,<0.8.0"
-wcwidth = ">=0.2.13"
-
-[package.extras]
 test = ["coverage", "pytest (>=6.0,<7.0)", "pytest-cov"]
 
 [[package]]
@@ -785,21 +746,21 @@ pyyaml = ">=5.1"
 
 [[package]]
 name = "mkdocs-git-revision-date-localized-plugin"
-version = "1.4.7"
+version = "1.5.0"
 description = "Mkdocs plugin that enables displaying the localized date of the last git modification of a markdown file."
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "mkdocs_git_revision_date_localized_plugin-1.4.7-py3-none-any.whl", hash = "sha256:056c0a90242409148f1dc94d5c9d2c25b5b8ddd8de45489fa38f7fa7ccad2bc4"},
-    {file = "mkdocs_git_revision_date_localized_plugin-1.4.7.tar.gz", hash = "sha256:10a49eff1e1c3cb766e054b9d8360c904ce4fe8c33ac3f6cc083ac6459c91953"},
+    {file = "mkdocs_git_revision_date_localized_plugin-1.5.0-py3-none-any.whl", hash = "sha256:933f9e35a8c135b113f21bb57610d82e9b7bcc71dd34fb06a029053c97e99656"},
+    {file = "mkdocs_git_revision_date_localized_plugin-1.5.0.tar.gz", hash = "sha256:17345ccfdf69a1905dc96fb1070dce82d03a1eb6b0d48f958081a7589ce3c248"},
 ]
 
 [package.dependencies]
 babel = ">=2.7.0"
 gitpython = ">=3.1.44"
 mkdocs = ">=1.0"
-pytz = ">=2025.1"
+tzdata = {version = ">=2023.3", markers = "sys_platform == \"win32\""}
 
 [[package]]
 name = "mkdocs-material"
@@ -1329,6 +1290,19 @@ files = [
 ]
 
 [[package]]
+name = "tzdata"
+version = "2025.2"
+description = "Provider of IANA time zone data"
+optional = false
+python-versions = ">=2"
+groups = ["main"]
+markers = "sys_platform == \"win32\""
+files = [
+    {file = "tzdata-2025.2-py2.py3-none-any.whl", hash = "sha256:1a403fada01ff9221ca8044d701868fa132215d84beb92242d9acd2147f667a8"},
+    {file = "tzdata-2025.2.tar.gz", hash = "sha256:b60a638fcc0daffadf82fe0f57e53d06bdec2f36c4df66280ae79bce6bd6f2b9"},
+]
+
+[[package]]
 name = "urllib3"
 version = "2.5.0"
 description = "HTTP library with thread-safe connection pooling, file post, and more."
@@ -1402,4 +1376,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "574ac81a6877b8ef06a77989b06ea150271309c3da7d65981756f0dc457ca0af"
+content-hash = "a5648b9cf5aa81c3bf66a2f3c0969ddf5c8111efc1d9bea140a5b469108ac520"
