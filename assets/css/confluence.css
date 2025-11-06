@@ -18,6 +18,13 @@
   min-height: 70vh; /* fallback if JS blocked */
 }
 
+/* Set explicit height via:
+ - inline style: style="--cf-embed-height: 180vh;"
+ - or data attribute: data-cf-height="180vh"
+ If provided, JS will use it and skip auto-fit. */
+
+
+
 /* Iframe fills wrapper */
 .cf-embed__iframe {
   position: absolute;
