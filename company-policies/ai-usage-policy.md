@@ -19,16 +19,19 @@ you can [open it directly in Confluence](https://civicactions.atlassian.net/wiki
 
 <figure class="cf-embed" role="group" aria-labelledby="cf-embed-title" aria-describedby="cf-embed-desc">
 
-    <div class="cf-embed__framewrap" data-cf-height="180vh">
-    <iframe
-      class="cf-embed__iframe"
-      title="AI Usage Policy (Confluence, read-only)"
-      src="https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU"
-      loading="lazy"
-      referrerpolicy="no-referrer"
-      allowfullscreen
-    ></iframe>
-  </div>
+```
+<div class="cf-embed__framewrap" data-cf-height="180vh">
+<iframe
+  class="cf-embed__iframe"
+  title="AI Usage Policy (Confluence, read-only)"
+  src="https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU"
+  loading="lazy"
+  referrerpolicy="no-referrer"
+  allowfullscreen
+></iframe>
+```
+
+</div>
 
 <figcaption class="cf-embed__caption">
     Embedded Confluence content. For edits or revision history, use the internal link above.
