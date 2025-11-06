@@ -1,6 +1,8 @@
 ---
 title: AI Usage Policy
 updated: July 14, 2025
+hide:
+  - toc
 ---
 
 This page provides a read-only view of CivicActions' AI Usage Policy as maintained in Confluence.
