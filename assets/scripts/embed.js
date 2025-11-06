@@ -1,25 +1,27 @@
+// docs/javascripts/embeds.js
 (function () {
-  function fitAll() {
-    document.querySelectorAll('.cf-embed__framewrap').forEach(fitOne);
-  }
-
-  function fitOne(wrap) {
-    // distance from top of viewport to top of wrapper
+  const fitOne = (wrap) => {
+    if (!wrap) return;
     const rect = wrap.getBoundingClientRect();
-    const viewportH = window.innerHeight || document.documentElement.clientHeight;
+    const vh = window.innerHeight || document.documentElement.clientHeight;
+    const bottomGap = 24; // px space below
+    const h = Math.max(360, Math.floor(vh - rect.top - bottomGap));
+    wrap.style.height = h + 'px';
+  };
 
-    // leave a little breathing room below
-    const bottomMargin = 24; // px
-    const height = Math.max(360, Math.floor(viewportH - rect.top - bottomMargin));
+  const fitAll = () => {
+    document.querySelectorAll('.cf-embed__framewrap').forEach(fitOne);
+  };
 
-    wrap.style.height = height + 'px';
-  }
-
-  // initial + on resize + after Material reloads content
+  // Run on load & resize
   window.addEventListener('load', fitAll, { once: true });
   window.addEventListener('resize', fitAll);
 
-  // MkDocs Material swaps content on navigation; re-fit after DOM updates
-  document.addEventListener('DOMContentLoaded', fitAll);
+  // Re-run after MkDocs Material swaps page content
   document.addEventListener('md-content-updated', fitAll);
+
+  // Extra safety: watch the main content node for changes
+  const contentRoot = document.querySelector('[data-md-component="content"]') || document.body;
+  new MutationObserver(() => requestAnimationFrame(fitAll))
+    .observe(contentRoot, { childList: true, subtree: true });
 })();

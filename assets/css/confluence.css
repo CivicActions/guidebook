@@ -1,22 +1,13 @@
-/* Container wrapper around the embed */
-.cf-embed {
-  margin: 1.5rem 0 2.5rem;
-}
+/* assets/css/confluence.css */
 
-/* Title & description */
-.cf-embed__title {
-  margin: 0 0 .35rem;
-  font-size: 1.1rem;
-  font-weight: 600;
-}
-.cf-embed__desc {
-  margin: 0 0 .75rem;
-  opacity: .85;
-  font-size: .95rem;
-}
+/* Page block */
+.cf-embed { margin: 1.5rem 0 2.5rem; }
 
-/* EMBED FRAME WRAPPER
-   JS will set height dynamically so page scrolls instead of the iframe */
+/* Title/desc */
+.cf-embed__title { margin: 0 0 .35rem; font-size: 1.1rem; font-weight: 600; }
+.cf-embed__desc  { margin: 0 0 .75rem; opacity: .85; font-size: .95rem; }
+
+/* Wrapper — JS sets the explicit height so the iframe itself has no scrollbars */
 .cf-embed__framewrap {
   position: relative;
   width: 100%;
@@ -24,12 +15,10 @@
   border-radius: .5rem;
   overflow: hidden;
   background: var(--md-default-bg-color, #fff);
-
-  /* Fallback if JS disabled */
-  min-height: 70vh;
+  min-height: 70vh; /* fallback if JS blocked */
 }
 
-/* The iframe itself (no scrollbars, fills wrapper) */
+/* Iframe fills wrapper */
 .cf-embed__iframe {
   position: absolute;
   inset: 0;
@@ -40,7 +29,7 @@
   background: #fff;
 }
 
-/* Caption below the embed */
+/* Caption */
 .cf-embed__caption {
   margin-top: .5rem;
   font-size: .85rem;
