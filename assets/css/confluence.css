@@ -44,9 +44,3 @@
   text-align: center;
 }
 
-/* Make the embed use the full content width */
-.md-typeset .cf-embed,
-.md-typeset .cf-embed__framewrap {
-  width: 100% !important;
-  max-width: none !important;
-}
