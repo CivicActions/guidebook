@@ -236,6 +236,7 @@ extra_javascript:
   # Read the Docs requires JQuery for its JavaScript code to inject the flyout
   # menu. Material for MkDocs does not come with JQuery.
   - "https://code.jquery.com/jquery-3.6.2.min.js"
+  - assets/scripts/embed.js
 extra:
   analytics:
     provider: google
