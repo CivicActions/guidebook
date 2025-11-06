@@ -7,12 +7,10 @@ hide:
 
 This page provides a read-only view of CivicActions' AI Usage Policy as maintained in Confluence.
 
-??? info "Policy Source of Truth (expand)"
+- [**Public (read-only)**](https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU)
+- [**Internal**](https://civicactions.atlassian.net/wiki/spaces/MGPOL/pages/582418435/AI+Usage+Policy)
 
-    - [**Public View (read-only)**](https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU)
-    - [**Employees**](https://civicactions.atlassian.net/wiki/spaces/MGPOL/pages/582418435/AI+Usage+Policy)
-
-    If you encounter accessibility issues, please email [support@civicactions.com](mailto:support@civicactions.com?subject=Guidebook%20Accessibility%20Issue) or open an internal support ticket if you work at CivicActions.
+If you encounter accessibility issues, please email [support@civicactions.com](mailto:support@civicactions.com?subject=Guidebook%20Accessibility%20Issue) or open an internal support ticket if you work at CivicActions.
 
 ## AI Usage Policy (Read-only)
 
