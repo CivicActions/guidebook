@@ -230,6 +230,7 @@ plugins:
   - git-revision-date-localized
 extra_css:
   - assets/css/extra.css
+  - assets/css/confluence.css
 extra_javascript:
   #- js/extra.js
   # Read the Docs requires JQuery for its JavaScript code to inject the flyout
