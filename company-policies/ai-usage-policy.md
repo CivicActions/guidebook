@@ -21,7 +21,7 @@ you can [open it directly in Confluence](https://civicactions.atlassian.net/wiki
 <div class="cf-embed__framewrap" data-cf-height="180vh">
 <iframe
   class="cf-embed__iframe"
-  title="AI Usage Policy (Confluence, read-only)"
+  title="AI Usage Policy"
   src="https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU"
   loading="lazy"
   referrerpolicy="no-referrer"
