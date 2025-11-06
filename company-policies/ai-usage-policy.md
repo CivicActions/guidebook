@@ -5,8 +5,6 @@ updated: July 14, 2025
 
 ??? info "Source of truth (click to expand)"
     This page embeds the read-only Confluence version of the AI Usage Policy.
-
-
     - **Public View (read-only):** <https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU>
     - **Employees:** <https://civicactions.atlassian.net/wiki/spaces/MGPOL/pages/582418435/AI+Usage+Policy>
 
