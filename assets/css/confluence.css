@@ -1,11 +1,22 @@
-/* Container */
-.cf-embed { margin: 1.25rem 0 2rem; }
+/* Container wrapper around the embed */
+.cf-embed {
+  margin: 1.5rem 0 2.5rem;
+}
 
-/* Title & description inherit theme fonts */
-.cf-embed__title { margin: 0 0 .25rem; font-size: 1.05rem; }
-.cf-embed__desc { margin: 0 0 .75rem; opacity: .85; }
+/* Title & description */
+.cf-embed__title {
+  margin: 0 0 .35rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.cf-embed__desc {
+  margin: 0 0 .75rem;
+  opacity: .85;
+  font-size: .95rem;
+}
 
-/* Responsive frame: aspect-ratio fallback + min-height */
+/* EMBED FRAME WRAPPER
+   JS will set height dynamically so page scrolls instead of the iframe */
 .cf-embed__framewrap {
   position: relative;
   width: 100%;
@@ -13,35 +24,26 @@
   border-radius: .5rem;
   overflow: hidden;
   background: var(--md-default-bg-color, #fff);
-  /* Default height (viewport-based so it feels roomy) */
-  min-height: 60vh;
+
+  /* Fallback if JS disabled */
+  min-height: 70vh;
 }
 
-/* If your browser supports aspect-ratio, this sets a helpful baseline  */
-@supports (aspect-ratio: 1 / 1) {
-  .cf-embed__framewrap { aspect-ratio: 16 / 10; min-height: 60vh; }
-}
-
+/* The iframe itself (no scrollbars, fills wrapper) */
 .cf-embed__iframe {
-  position: absolute; inset: 0;
-  width: 100%; height: 100%; border: 0;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
   background: #fff;
 }
 
-/* Controls */
-.cf-embed__controls { display: flex; gap: .5rem; margin-top: .75rem; flex-wrap: wrap; }
-.cf-embed__btn {
-  cursor: pointer;
-  border: 1px solid var(--md-default-fg-color--lightest, #e5e7eb);
-  background: var(--md-default-bg-color, #fff);
-  padding: .45rem .7rem; border-radius: .4rem;
-  font: inherit;
+/* Caption below the embed */
+.cf-embed__caption {
+  margin-top: .5rem;
+  font-size: .85rem;
+  opacity: .65;
+  text-align: center;
 }
-.cf-embed__btn:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
-.cf-embed__btn--secondary { opacity: .9; }
-
-/* Expanded */
-.cf-embed__framewrap[data-expanded="true"] { min-height: 85vh; }
-
-/* Caption */
-.cf-embed__caption { margin-top: .5rem; font-size: .9rem; opacity: .7; }
