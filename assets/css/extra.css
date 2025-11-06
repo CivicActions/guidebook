@@ -65,3 +65,10 @@ font-size of other elements in the theme.
 .rst-other-versions dl:nth-child(3) {
   display: none;
 }
+
+/* Iframe fills wrapper */
+.md-content iframe {
+  width: 100%;
+  height: 100vh;
+  border: 0;
+}
