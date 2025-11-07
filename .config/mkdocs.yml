@@ -176,7 +176,16 @@ site_name: CivicActions Guidebook
 repo_url: https://github.com/CivicActions/guidebook/
 site_url: https://guidebook.civicactions.com/en/latest/
 docs_dir: "../.docs"
-exclude_docs: ".*"
+exclude_docs: |
+  ".*"
+  CODE-OF-CONDUCT.md
+  CONTRIBUTING.md
+  SECURITY.md
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
 edit_uri: edit/master/
 theme:
   name: material
@@ -227,7 +236,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
-  - git-revision-date-localized
+  - git-revision-date-localized:
+      exclude:
+          - .config/*
 extra_css:
   - assets/css/extra.css
 extra_javascript:
