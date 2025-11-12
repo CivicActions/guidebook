@@ -34,10 +34,19 @@ function finish {
 }
 trap finish EXIT
 
-# Symlink all files to a .docs directory so we can build outside the root.
-# We leave the symlink in place, in case the user needs to run mkdocs again locally.
+# Make all files available in a .docs directory so we can build outside the root.
 if [ ! -e .docs ]; then
-  ln -s . .docs
+  # Check if we are running on MacOS:
+  if [[ "$(uname)" == "Darwin" ]]; then
+    # On MacOS we rsync the files in, as symlinks can cause recursion issues.
+    # if .docs exists but is a symlink, remove it first
+    if [ -L .docs ]; then
+      rm .docs
+    fi
+    rsync -avq --delete --exclude='/.docs' ./ .docs/
+  else
+    ln -s . .docs
+  fi
 fi
 
 # Install packages.
@@ -46,17 +55,10 @@ poetry -C .config/mkdocs/ --quiet --no-root install
 # Get config file path
 CONFIG=$(realpath .config/mkdocs.yml)
 
-# If a "serve" argument present then run the dev server, otherwise just do a test build.
+# If a "serve" argument present then run the dev server, otherwise just do a strict test build.
 if [[ "${1:-}" == "serve" ]]; then
   poetry -C .config/mkdocs/ run mkdocs $@ --config-file="${CONFIG}"
 else
-  # Exclude info log messages for more concise output.
-  { poetry -C .config/mkdocs/ run mkdocs build --config-file="${CONFIG}" --site-dir "${tmp_dir}" 2>&1 | grep -v '^INFO'; } || true
-  # Exclude warning for files not added to git so local pre-commit hooks don't fail.
-  warnings=$(grep -v 'has no git logs, using current timestamp' "${tmp_dir}/log.txt" | grep -c 'WARNING') || true
-  if [ "${warnings}" -gt 0 ]; then
-    echo "mkdocs build failed with ${warnings} warnings" 1>&2
-    exit 4
-  fi
+  poetry -C .config/mkdocs/ run mkdocs build --strict --config-file="${CONFIG}" --site-dir "${tmp_dir}"
   echo "mkdocs build successful" 1>&2
 fi
