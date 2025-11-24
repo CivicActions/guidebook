@@ -749,15 +749,16 @@ glob-parent@~5.1.2:
     is-glob "^4.0.1"
 
 glob@^10.0.0, glob@^10.2.2:
-  version "10.3.10"
-  resolved "https://registry.npmjs.org/glob/-/glob-10.3.10.tgz"
-  integrity sha512-fa46+tv1Ak0UPK1TOy/pZrIybNNt4HCv7SDzwyfiOZkvZLEbjsZkJBPtDHVshZjbecAoAGSC20MjLDG/qr679g==
+  version "10.5.0"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-10.5.0.tgz#8ec0355919cd3338c28428a23d4f24ecc5fe738c"
+  integrity sha512-DfXN8DfhJ7NH3Oe7cFmu3NCu1wKbkReJ8TorzSAFbSKrlNaQSKfIzqYqVY8zlbs2NLBbWpRiU52GX2PbaBVNkg==
   dependencies:
     foreground-child "^3.1.0"
-    jackspeak "^2.3.5"
-    minimatch "^9.0.1"
-    minipass "^5.0.0 || ^6.0.2 || ^7.0.0"
-    path-scurry "^1.10.1"
+    jackspeak "^3.1.2"
+    minimatch "^9.0.4"
+    minipass "^7.1.2"
+    package-json-from-dist "^1.0.0"
+    path-scurry "^1.11.1"
 
 graceful-fs@^4.1.6, graceful-fs@^4.2.0:
   version "4.2.11"
@@ -943,10 +944,10 @@ isexe@^2.0.0:
   resolved "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-jackspeak@^2.3.5:
-  version "2.3.6"
-  resolved "https://registry.npmjs.org/jackspeak/-/jackspeak-2.3.6.tgz"
-  integrity sha512-N3yCS/NegsOBokc8GAdM8UcmfsKiSS8cipheD/nivzr700H+nsMOxJjQnvwOcRYVuFkdH0wGUvW2WbXGmrZGbQ==
+jackspeak@^3.1.2:
+  version "3.4.3"
+  resolved "https://registry.yarnpkg.com/jackspeak/-/jackspeak-3.4.3.tgz#8833a9d89ab4acde6188942bd1c53b6390ed5a8a"
+  integrity sha512-OGlZQpz2yfahA/Rd1Y8Cd9SIEsqvXkLVoSw/cgwhnhFMDbsQFeZYoJJ7bIZBS9BcamUW96asq/npPWugM+RQBw==
   dependencies:
     "@isaacs/cliui" "^8.0.2"
   optionalDependencies:
@@ -1023,10 +1024,15 @@ longest-streak@^3.0.0:
   resolved "https://registry.npmjs.org/longest-streak/-/longest-streak-3.0.1.tgz"
   integrity sha512-cHlYSUpL2s7Fb3394mYxwTYj8niTaNHUCLr0qdiCXQfSjfuA7CKofpX2uSwEfFDQ0EB7JcnMnm+GjbqqoinYYg==
 
-lru-cache@^10.0.1, "lru-cache@^9.1.1 || ^10.0.0":
+lru-cache@^10.0.1:
   version "10.1.0"
   resolved "https://registry.npmjs.org/lru-cache/-/lru-cache-10.1.0.tgz"
   integrity sha512-/1clY/ui8CzjKFyjdvwPWJUYKiFVXG2I2cY0ssG7h4+hwk+XOIX7ZSG9Q7TW8TW3Kp3BUSqgFWBLgL4PJ+Blag==
+
+lru-cache@^10.2.0:
+  version "10.4.3"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.4.3.tgz#410fc8a17b70e598013df257c2446b7f3383f119"
+  integrity sha512-JNAzZcXrCt42VGLuYz0zfAzDfAvJWW6AfYlDBQyDV5DClI2m5sAmK+OIO7s59XfsRsWHp02jAJrRadPRGTt6SQ==
 
 lru-cache@^6.0.0:
   version "6.0.0"
@@ -1336,13 +1342,6 @@ mdast-util-to-nlcst@^7.0.0:
     vfile "^6.0.0"
     vfile-location "^5.0.0"
 
-mdast-util-to-string@^3.0.0:
-  version "3.2.0"
-  resolved "https://registry.npmjs.org/mdast-util-to-string/-/mdast-util-to-string-3.2.0.tgz"
-  integrity sha512-V4Zn/ncyN1QNSqSBxTrMOLpjr+IKdHl2v3KVLoWmDPscP4r9GcCi71gjgvUV1SFSKh92AjAG4peFuBl2/YgCJg==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-
 mdast-util-to-string@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/mdast-util-to-string/-/mdast-util-to-string-4.0.0.tgz"
@@ -1633,10 +1632,17 @@ micromark@^4.0.0:
     micromark-util-symbol "^2.0.0"
     micromark-util-types "^2.0.0"
 
-minimatch@^9.0.0, minimatch@^9.0.1:
+minimatch@^9.0.0:
   version "9.0.3"
   resolved "https://registry.npmjs.org/minimatch/-/minimatch-9.0.3.tgz"
   integrity sha512-RHiac9mvaRw0x3AYRgDC1CxAP7HTcNrrECeA8YYJeWnpo+2Q5CegtZjaotWTWxDG3UeGA1coE05iH1mPjT/2mg==
+  dependencies:
+    brace-expansion "^2.0.1"
+
+minimatch@^9.0.4:
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.5.tgz#d74f9dd6b57d83d8e98cfb82133b03978bc929e5"
+  integrity sha512-G6T0ZX48xgozx7587koeX9Ys2NYy6Gmv//P89sEte9V9whIapMNF4idKxnW2QtCcLiTWlb/wfCabAtAFWhhBow==
   dependencies:
     brace-expansion "^2.0.1"
 
@@ -1649,6 +1655,11 @@ minimist@^1.0.0:
   version "7.0.4"
   resolved "https://registry.npmjs.org/minipass/-/minipass-7.0.4.tgz"
   integrity sha512-jYofLM5Dam9279rdkWzqHozUo4ybjdZmCsDHePy5V/PbBcVMiSZR97gmAy45aqi8CK1lG2ECd356FU86avfwUQ==
+
+minipass@^7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/minipass/-/minipass-7.1.2.tgz#93a9626ce5e5e66bd4db86849e7515e92340a707"
+  integrity sha512-qOOzS1cBTWYF4BH8fVePDBOO9iptMnGUEZwNc/cMWnTV2nVLZ7VoNWEPHkYczZA0pdoA7dl6e7FL659nX9S2aw==
 
 ms@2.1.2:
   version "2.1.2"
@@ -1823,6 +1834,11 @@ pac-resolver@^7.0.0:
     degenerator "^5.0.0"
     netmask "^2.0.2"
 
+package-json-from-dist@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/package-json-from-dist/-/package-json-from-dist-1.0.1.tgz#4f1471a010827a86f94cfd9b0727e36d267de505"
+  integrity sha512-UEZIS3/by4OC8vL3P2dTXRETpebLI2NiI5vIrjaD/5UtrkFX/tNbwjTSRAGC/+7CAo2pIcBaRgWmcBBHcsaCIw==
+
 parse-english@^5.0.0:
   version "5.0.0"
   resolved "https://registry.npmjs.org/parse-english/-/parse-english-5.0.0.tgz"
@@ -1899,12 +1915,12 @@ path-key@^3.1.0:
   resolved "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz"
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
-path-scurry@^1.10.1:
-  version "1.10.1"
-  resolved "https://registry.npmjs.org/path-scurry/-/path-scurry-1.10.1.tgz"
-  integrity sha512-MkhCqzzBEpPvxxQ71Md0b1Kk51W01lrYvlMzSUaIzNsODdd7mqhiimSZlr+VegAz5Z6Vzt9Xg2ttE//XBhH3EQ==
+path-scurry@^1.11.1:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/path-scurry/-/path-scurry-1.11.1.tgz#7960a668888594a0720b12a911d1a742ab9f11d2"
+  integrity sha512-Xa4Nw17FS9ApQFJ9umLiJS4orGjm7ZzwUrwamcGQuHSzDyth9boKDaycYdDcZDuqYATXw4HFXgaqWTctW/v1HA==
   dependencies:
-    lru-cache "^9.1.1 || ^10.0.0"
+    lru-cache "^10.2.0"
     minipass "^5.0.0 || ^6.0.2 || ^7.0.0"
 
 picomatch@^2.0.4, picomatch@^2.2.1:
@@ -2086,10 +2102,10 @@ remark-lint-definition-case@^4.0.0, remark-lint-definition-case@^4.0.1:
     unified-lint-rule "^3.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-definition-spacing@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-definition-spacing/-/remark-lint-definition-spacing-4.0.0.tgz"
-  integrity sha512-t6nP8unz6z/DLBTWeOmDFHPFbX3E2PbNgt2fTazRbVnMC6z3o25hBzg5hI6DL0MPt2ZTRX++rJsGRjb+vgh/tQ==
+remark-lint-definition-spacing@^4.0.0, remark-lint-definition-spacing@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-4.0.1.tgz#8a34b0efe0849c3a7043c26e9648b8d6211a4a72"
+  integrity sha512-ZjShKaBUGeHrZyIZWwOZOxX3guj/P7gRR5wbDADQctL4oK+ZLQfOvJFmAsF1nD4gNr0Ficjd0AuiWxQcc1qTMA==
   dependencies:
     "@types/mdast" "^4.0.0"
     longest-streak "^3.0.0"
@@ -2335,19 +2351,18 @@ remark-lint-no-duplicate-definitions@^4.0.0, remark-lint-no-duplicate-definition
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-no-duplicate-headings-in-section@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-no-duplicate-headings-in-section/-/remark-lint-no-duplicate-headings-in-section-3.1.2.tgz"
-  integrity sha512-wzdGY3XbMeJILEgtrRsSNDvG4b+tfcYSnZW5qMeQOkh8L6tAm1s0K5frmunKriuYr7WvFcRq9YBRbQO7S02X+g==
+remark-lint-no-duplicate-headings-in-section@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-duplicate-headings-in-section/-/remark-lint-no-duplicate-headings-in-section-4.0.1.tgz#319773ba11acbee12dbcec5a4663eda0b886983a"
+  integrity sha512-gGt+tepkW/XyU1tRyYuhNKjljSnRPEoy8vM2MKRHX+l48mPm6oLPA0EA4QAfk6yKHf7rM1sfKjPQwhzEectuEA==
   dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-util-to-string "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-stringify-position "^3.0.0"
-    unist-util-visit "^4.0.0"
+    "@types/mdast" "^4.0.0"
+    devlop "^1.0.0"
+    mdast-util-mdx "^3.0.0"
+    mdast-util-to-string "^4.0.0"
+    unified-lint-rule "^3.0.0"
+    unist-util-visit-parents "^6.0.0"
+    vfile-message "^4.0.0"
 
 remark-lint-no-duplicate-headings@^4.0.0:
   version "4.0.0"
@@ -2362,10 +2377,10 @@ remark-lint-no-duplicate-headings@^4.0.0:
     unist-util-visit-parents "^6.0.0"
     vfile-message "^4.0.0"
 
-remark-lint-no-emphasis-as-heading@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-emphasis-as-heading/-/remark-lint-no-emphasis-as-heading-4.0.0.tgz"
-  integrity sha512-JViGYbuO/xzZThK+qVTNjtLM0v1xMTWFTWt2OJzAkDaGS6T9ZB5ZtRVSBFEMG0SF3dvpJwxe+3ABTsuPBdlYsA==
+remark-lint-no-emphasis-as-heading@^4.0.0, remark-lint-no-emphasis-as-heading@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-emphasis-as-heading/-/remark-lint-no-emphasis-as-heading-4.0.1.tgz#ad920e34806a202bce4a483f7fc526201e0d46c8"
+  integrity sha512-zzI/C330qdKO9FB3h6IUtOG36FSrS5nfJ7qxp0atXGYtHyg+Ag7dPC/0FzchOVsxofQm0QTstVoIARt/9TiN5g==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
@@ -2470,23 +2485,10 @@ remark-lint-no-inline-padding@^5.0.0:
   resolved "https://registry.npmjs.org/remark-lint-no-inline-padding/-/remark-lint-no-inline-padding-5.0.0.tgz"
   integrity sha512-d88MYpPv4SAWUBmB6QS6gU4vgg5y66IesjijwQT0yg4HwENcO5IbMLs3WDqo6w53DOQPqw+MmDRszP9XaEePIw==
 
-remark-lint-no-literal-urls@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-no-literal-urls/-/remark-lint-no-literal-urls-3.1.2.tgz"
-  integrity sha512-4tV9JGLKxAMFSuWDMOqLozkFJ3HyRvhzgrPrxASoziaml23m7UXAozk5dkIrFny1cN2oG988Z8tORxX2FL1Ilw==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-util-to-string "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-no-literal-urls@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-literal-urls/-/remark-lint-no-literal-urls-4.0.0.tgz"
-  integrity sha512-rl/3Ai4Ax9IH/fRpOJZuXk1HgYX6oFTauhmBOilpqbq/YT2kN3FuXaneXdRfKv1bgMdHaLKxHWxGj/mDyA2n8w==
+remark-lint-no-literal-urls@^4.0.0, remark-lint-no-literal-urls@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-literal-urls/-/remark-lint-no-literal-urls-4.0.1.tgz#e1380f203e81a371327c4f23553a2c989a71b29d"
+  integrity sha512-RhTANFkFFXE6bM+WxWcPo2TTPEfkWG3lJZU50ycW7tJJmxUzDNzRed/z80EVJIdGwFa0NntVooLUJp3xrogalQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-to-string "^4.0.0"
@@ -2748,10 +2750,10 @@ remark-parse@^11.0.0:
     micromark-util-types "^2.0.0"
     unified "^11.0.0"
 
-remark-preset-lint-markdown-style-guide@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/remark-preset-lint-markdown-style-guide/-/remark-preset-lint-markdown-style-guide-6.0.0.tgz"
-  integrity sha512-izsfNTHeqrRP64VWV6OdJnSUDwKFSthMKiiDcu14ODpPV0t7YiotCQWzgc7L4eW9Ctcp4aB4nHNLSuDmwhEWrQ==
+remark-preset-lint-markdown-style-guide@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/remark-preset-lint-markdown-style-guide/-/remark-preset-lint-markdown-style-guide-6.0.1.tgz#befa036d3a1236255fdd6b41a6a7e0d0d4da2625"
+  integrity sha512-hVCRMC8PZlI9hnXkZdrvg4n4j1aD//xHWj26Q7iFAbDB3JKtW1Ne72P7QNVyppmdrR6Gj84zhG3qphOLo8/i8A==
   dependencies:
     remark-lint "^10.0.0"
     remark-lint-blockquote-indentation "^4.0.0"
@@ -3425,13 +3427,6 @@ unist-util-modify-children@^4.0.0:
     "@types/unist" "^3.0.0"
     array-iterate "^2.0.0"
 
-unist-util-position@^4.0.0:
-  version "4.0.3"
-  resolved "https://registry.npmjs.org/unist-util-position/-/unist-util-position-4.0.3.tgz"
-  integrity sha512-p/5EMGIa1qwbXjA+QgcBXaPWjSnZfQ2Sc3yBEEfgPwsEmJd8Qh+DSk3LGnmOM4S1bY2C0AjmMnB8RuEYxpPwXQ==
-  dependencies:
-    "@types/unist" "^2.0.0"
-
 unist-util-position@^5.0.0:
   version "5.0.0"
   resolved "https://registry.npmjs.org/unist-util-position/-/unist-util-position-5.0.0.tgz"
@@ -3532,9 +3527,9 @@ util-deprecate@^1.0.1:
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
 validator@^13.11.0:
-  version "13.12.0"
-  resolved "https://registry.npmjs.org/validator/-/validator-13.12.0.tgz"
-  integrity sha512-c1Q0mCiPlgdTVVVIJIrBuxNicYE+t/7oKeI9MWLj3fh/uq2Pxh/3eeWbVZ4OcGW1TUf53At0njHw5SMdA3tmMg==
+  version "13.15.20"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.15.20.tgz#054e9238109538a1bf46ae3e1290845a64fa2186"
+  integrity sha512-KxPOq3V2LmfQPP4eqf3Mq/zrT0Dqp2Vmx2Bn285LwVahLc+CsxOM0crBHczm8ijlcjZ0Q5Xd6LW3z3odTPnlrw==
 
 vfile-location@^5.0.0:
   version "5.0.2"
