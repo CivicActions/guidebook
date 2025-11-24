@@ -91,8 +91,8 @@ Review the list of custom modules and figure out whether the changes could be ma
 Review the file composer files for patches we apply, then:
 
 - Check the issue in drupal.org to see if the patch needs to be updated either by us sharing it or we download and apply a new one.
-- Share patches we have created by creating new issues as needed.
-- When adding composer patches to project composer.json file, make sure to reference the Drupal.org issue. Example: "Fixes #3151977: Media Entity recursive rendering limit configurable": "patches/media_recursive-rendering-3151977-32.patch" If a Drupal.org issue does not exist and this is a problem that other core/contrib users would also face, make an issue and attach the patch.
+- If a corresponding Drupal.org issue does not exist and this is a non-project specific fix, make an issue and share the created patch.
+- When adding composer patches to project composer.json file, make sure to reference the Drupal.org issue. Example: "Fixes #3151977: Media Entity recursive rendering limit configurable"
 
 ### Review team member's own list of Drupal.org modules and issues
 
