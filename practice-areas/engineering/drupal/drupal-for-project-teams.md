@@ -91,8 +91,11 @@ Review the list of custom modules and figure out whether the changes could be ma
 Review the file composer files for patches we apply, then:
 
 - Check the issue in drupal.org to see if the patch needs to be updated either by us sharing it or we download and apply a new one.
-- Share patches we have created by creating new issues as needed.
+- If a corresponding Drupal.org issue does not exist and this is a non-project specific fix, make an issue and share the created patch.
+- When adding composer patches to project composer.json file, make sure to reference the Drupal.org issue. Example: "Fixes #3151977: Media Entity recursive rendering limit configurable"
 
 ### Review team member's own list of Drupal.org modules and issues
 
 Everyone who has a Drupal.org account and worked on issues is automatically following those issues. Have them share those links and then work on those issues if they are still open.
+
+Consider making shared project documentation that lists project-related Drupal issues. This ensures that the information about issues tracked by project members with their individual Drupal.org accounts remains available to the project as team members enter and leave. Include issue status and any actions the team can take to move the issue (e.g. create an MR for the patch, fix a failing automated test, etc) to encourage community contributions when time permits.

@@ -14,7 +14,7 @@ jobs:
     name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Run linkspector on all links
         uses: umbrelladocs/action-linkspector@v1.4.0
         with:
