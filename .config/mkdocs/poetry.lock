@@ -552,14 +552,14 @@ wcwidth = ">=0.2.13"
 
 [[package]]
 name = "mdformat-mkdocs"
-version = "5.0.0"
-description = "A mdformat plugin for mkdocs and mkdocs-material"
+version = "5.1.1"
+description = "An mdformat plugin for mkdocs and Material for MkDocs"
 optional = false
 python-versions = ">=3.10.0"
 groups = ["main"]
 files = [
-    {file = "mdformat_mkdocs-5.0.0-py3-none-any.whl", hash = "sha256:30f56f7f563f63ac8dc78b31317730a0b5d4ee1e233ba85766e7c4e74e9c369a"},
-    {file = "mdformat_mkdocs-5.0.0.tar.gz", hash = "sha256:243c28081c6860a422944f4ba62e79710497b2fb14f4773820e9810989804c85"},
+    {file = "mdformat_mkdocs-5.1.1-py3-none-any.whl", hash = "sha256:3638db42347ac7f40286c5ea52bf3643f3a5b519b832d7a5d2de1bbf0688c05e"},
+    {file = "mdformat_mkdocs-5.1.1.tar.gz", hash = "sha256:073020e987452e384a1ecad09c8585df17acd11ea1f647df528f3a0266a49d26"},
 ]
 
 [package.dependencies]
@@ -570,7 +570,7 @@ mdformat-footnote = {version = ">=0.1.1", optional = true, markers = "extra == \
 mdformat-front-matters = {version = ">=0.1.0", optional = true, markers = "extra == \"recommended\""}
 mdformat-gfm = [
     {version = ">=0.3.6"},
-    {version = ">=1.0.0", optional = true, markers = "python_full_version >= \"3.10.0\" and extra == \"recommended\""},
+    {version = ">=1.0.0", optional = true, markers = "extra == \"recommended\""},
 ]
 mdformat-ruff = {version = ">=0.1.3", optional = true, markers = "extra == \"recommended\""}
 mdformat-simple-breaks = {version = ">=0.0.1", optional = true, markers = "extra == \"recommended\""}
@@ -581,7 +581,8 @@ more-itertools = ">=10.5.0"
 setuptools = {version = "*", optional = true, markers = "extra == \"recommended\""}
 
 [package.extras]
-recommended = ["mdformat-beautysh (>=0.1.1)", "mdformat-config (>=0.2.1)", "mdformat-footnote (>=0.1.1)", "mdformat-front-matters (>=0.1.0)", "mdformat-gfm (>=1.0.0) ; python_full_version >= \"3.10.0\"", "mdformat-ruff (>=0.1.3)", "mdformat-simple-breaks (>=0.0.1)", "mdformat-tables (>=0.4.0) ; python_full_version < \"3.10.0\"", "mdformat-web (>=0.2.0)", "mdformat-wikilink (>=0.2.0)", "setuptools"]
+recommended = ["mdformat-beautysh (>=0.1.1)", "mdformat-config (>=0.2.1)", "mdformat-footnote (>=0.1.1)", "mdformat-front-matters (>=0.1.0)", "mdformat-gfm (>=1.0.0)", "mdformat-ruff (>=0.1.3)", "mdformat-simple-breaks (>=0.0.1)", "mdformat-web (>=0.2.0)", "mdformat-wikilink (>=0.2.0)", "setuptools"]
+recommended-mdsf = ["mdformat-footnote (>=0.1.0)", "mdformat-front-matters (>=1.0.1)", "mdformat-gfm (>=1.0.0)", "mdformat-hooks (>=0.1.0)", "mdformat-simple-breaks (>=0.0.1)", "mdformat-wikilink (>=0.2.0)"]
 test = ["beartype (>=0.21.0)", "pytest (>=9.0.1)", "pytest-beartype (>=0.2.0)", "pytest-cov (>=7.0.0)", "syrupy (>=4.9.1)"]
 
 [[package]]
@@ -1407,4 +1408,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "5029147da7b53c5746c0e9d67584ca4179a002f419552dea7747a15e366d303f"
+content-hash = "18026f60189bb48e792efdfb847d20878819f5dce29ec609db27214c3fa03a4a"
