@@ -12,7 +12,7 @@ mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.
 mkdocs-git-revision-date-localized-plugin = "^1.5.0"
 pymdown-extensions = "^10.17"
 # Keep this in sync with the version in .pre-commit-config.yaml
-mdformat = "^0.7.22"
+mdformat = "^1.0.0"
 mdformat-mkdocs = {extras = ["recommended"], version = "^5.0.0"}
 
 [tool.poetry.scripts]
