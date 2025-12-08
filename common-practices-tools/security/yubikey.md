@@ -184,9 +184,8 @@ _This should be straightforward, but waiting for a pull request that clearly exp
 
 See:
 
-- <https://support.yubico.com/hc/en-us/articles/360013790219-Getting-Started-with-the-YubiKey-on-macOS>
+- <https://support.yubico.com/s/article/Getting-started-with-your-YubiKey-on-macOS>
 - <https://www.yubico.com/works-with-yubikey/catalog/macos/>
-- <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
 
 _tbd..._
 
