@@ -10,7 +10,7 @@ packages = [{include = "scripts"}]
 python = "^3.10"
 mkdocs-material = {git = "https://github.com/squidfunk/mkdocs-material-insiders.git", rev = "9.7.0-insiders-4.53.17"}
 mkdocs-git-revision-date-localized-plugin = "^1.5.0"
-pymdown-extensions = "^10.17"
+pymdown-extensions = "^10.18"
 # Keep this in sync with the version in .pre-commit-config.yaml
 mdformat = "^1.0.0"
 mdformat-mkdocs = {extras = ["recommended"], version = "^5.1.1"}
