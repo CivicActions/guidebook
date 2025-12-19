@@ -112,6 +112,10 @@ This is our main CivicActions-owned design stack. If you need help or access to 
 
 Client projects may require you to use other design tools. Some of the other tools you may encounter on projects as a designer include Atlassian tools such as Jira and Confluence, Github, Google Analytics, Adobe Analytics, and more. We also leverage AI tools such as Gemini, ChatGPT, and more, but be sure to refer to our [AI policy](https://civicactions.atlassian.net/wiki/spaces/MGPOL/pages/582418435/AI+Usage+Policy?atlOrigin=eyJpIjoiODRmODYzNzRmZTdiNDhlMGIyN2I0ZjJiOWRhN2JjMDgiLCJwIjoiY29uZmx1ZW5jZS1jaGF0cy1pbnQifQ) before using AI tools for client work. You can request a license from IT via an [IT Support Ticket](https://guidebook.civicactions.com/en/latest/common-practices-tools/software-and-support/).
 
+## Design Amplifier Award
+
+Launched in 2025, The CivicActions Design Amplifier Award recognizes non-design team members who strengthen and elevate human-centered design through leadership, collaboration, innovation, or advocacy, helping increase the quality, visibility, and influence of design across CivicActions and its projects. Championing human-centered design and centering our focus on real people and their real, lived experiences is a shared responsibility across all practice areas that guides our work.
+
 ## Have a design request?
 
 Use the **#design-collabs** slack channel to ask for internal CivicActions design support. Please include:
