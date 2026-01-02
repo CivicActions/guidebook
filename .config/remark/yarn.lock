@@ -2397,10 +2397,10 @@ remark-lint-no-empty-url@^4.0.1:
     unified-lint-rule "^3.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-no-file-name-articles@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-file-name-articles/-/remark-lint-no-file-name-articles-3.0.0.tgz"
-  integrity sha512-il4IseupahbV2TVfFjfDVL/EQw7jBWVlMVsv4K2cgl5uPIjiCjFGQypqKnWl6pZDN0oNOs/DE8gBdyuDjldJaA==
+remark-lint-no-file-name-articles@^3.0.0, remark-lint-no-file-name-articles@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-articles/-/remark-lint-no-file-name-articles-3.0.1.tgz#b15410ab3f8c763cc244f5f50d66bea9868b4c85"
+  integrity sha512-h31ZDDJV2T6g9WLBrXg1CJ1m8M170O/tlDPAEPGCa/rxwKvMcfum4yicaot0ZKbUZ1uEPjVSUPDeo3sU0zciCQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
