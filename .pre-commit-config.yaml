@@ -29,7 +29,7 @@ repos:
           - mdformat-footnote
           - mdformat-front-matters
           - mdformat-simple-breaks
-          - mdformat-tables
+          - mdformat-gfm
           - mdformat-web
           - mdformat-wikilink
 
