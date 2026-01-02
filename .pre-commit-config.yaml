@@ -27,7 +27,7 @@ repos:
           - mdformat-black
           - mdformat-config
           - mdformat-footnote
-          - mdformat-frontmatter
+          - mdformat-front-matters
           - mdformat-simple-breaks
           - mdformat-tables
           - mdformat-web
