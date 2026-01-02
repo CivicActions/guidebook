@@ -2413,10 +2413,10 @@ remark-lint-no-file-name-consecutive-dashes@^3.0.0, remark-lint-no-file-name-con
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
 
-remark-lint-no-file-name-irregular-characters@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/remark-lint-no-file-name-irregular-characters/-/remark-lint-no-file-name-irregular-characters-3.0.0.tgz"
-  integrity sha512-DhGreliHNU7lLTARQujsaLAn8fUPY0V+H0LSmOUuowBZPtIRWeNdQhunSp96RvsuYdqAdERXe0WuH58i3pRqrg==
+remark-lint-no-file-name-irregular-characters@^3.0.0, remark-lint-no-file-name-irregular-characters@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-file-name-irregular-characters/-/remark-lint-no-file-name-irregular-characters-3.0.1.tgz#4ad4c2b753b89f0be27b2adea0eb77219fec8b8e"
+  integrity sha512-kNm16eDnPqbN05W0RLIedHi40YzHf1esPHbNKv12AljKWptdCTS72uGjAbqUSZ48dRoKtJzL0HJ0OAqXIWUyxA==
   dependencies:
     "@types/mdast" "^4.0.0"
     unified-lint-rule "^3.0.0"
