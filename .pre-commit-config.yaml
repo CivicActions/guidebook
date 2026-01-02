@@ -17,7 +17,7 @@ repos:
         always_run: true
         pass_filenames: false
         verbose: true
-  - repo: https://github.com/executablebooks/mdformat
+  - repo: https://github.com/hukkin/mdformat
     # Keep this in sync with the version in .config/mkdocs/pyproject.toml
     rev: 1.0.0
     hooks:
