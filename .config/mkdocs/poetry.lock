@@ -619,14 +619,14 @@ wcwidth = ">=0.2.13"
 
 [[package]]
 name = "mdformat-mkdocs"
-version = "5.1.1"
+version = "5.1.2"
 description = "An mdformat plugin for mkdocs and Material for MkDocs"
 optional = false
 python-versions = ">=3.10.0"
 groups = ["main"]
 files = [
-    {file = "mdformat_mkdocs-5.1.1-py3-none-any.whl", hash = "sha256:3638db42347ac7f40286c5ea52bf3643f3a5b519b832d7a5d2de1bbf0688c05e"},
-    {file = "mdformat_mkdocs-5.1.1.tar.gz", hash = "sha256:073020e987452e384a1ecad09c8585df17acd11ea1f647df528f3a0266a49d26"},
+    {file = "mdformat_mkdocs-5.1.2-py3-none-any.whl", hash = "sha256:08cdc80741fbb49215f322d65cd6d197a19212bd70712999f7c0516e3adf9ff2"},
+    {file = "mdformat_mkdocs-5.1.2.tar.gz", hash = "sha256:c67057c401a66d01f4fcd42b20ee294ca926298bd2fda7a20f87c4597ddeaf0d"},
 ]
 
 [package.dependencies]
@@ -1470,4 +1470,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "eec597f27bb1edc2164f26d32509eb241ab56ab4d379c283bb6958c322034c73"
+content-hash = "8503a7a4da74b747d93a1f1d99bad2b22c3eb2a5f63dc7ba339d1c9a94b90322"
