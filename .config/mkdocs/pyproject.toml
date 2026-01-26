@@ -9,7 +9,7 @@ packages = [{include = "scripts"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 mkdocs-material = "^9.7.1"
-mkdocs-git-revision-date-localized-plugin = "^1.5.0"
+mkdocs-git-revision-date-localized-plugin = "^1.5.1"
 pymdown-extensions = "^10.20"
 # Keep this in sync with the version in .pre-commit-config.yaml
 mdformat = "^1.0.0"
