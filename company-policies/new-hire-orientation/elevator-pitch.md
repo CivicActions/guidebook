@@ -38,6 +38,6 @@ Some points to keep in mind:
 
 Here's a presentation about making your own elevator pitch: <https://docs.google.com/presentation/d/1xOBQqEHC0o95oLo5lpul97p4gV4ZgzdRaqq03mpzTYc/edit#slide=id.g1dc5842bd_012>
 
-What's an elevator pitch anyhow? <http://speakingppt.com/3-best-elevator-pitches/>
+What's an elevator pitch anyhow? <https://speakingppt.com/3-best-elevator-pitches/>
 
 More CivicActions examples! <https://docs.google.com/a/civicactions.net/document/d/1_fkYz6Myk4ZdPcDTu8S2sJCHUVTBlifek-HdD-HMioU/edit?usp=sharing>
