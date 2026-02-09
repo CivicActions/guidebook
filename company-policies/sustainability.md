@@ -69,7 +69,6 @@ Please engage in the #sustainability Slack channel.
 
 ## Resources
 
-- [Comprehensive Guide: How to write an Effective Employee Sustainability Handbook](https://www.rostoneopex.com/resources/comprehensive-guide-how-to-write-an-effective-employee-sustainability-handbook)
 - [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
 
 ## Conclusion
