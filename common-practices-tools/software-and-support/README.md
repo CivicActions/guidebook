@@ -1,29 +1,100 @@
----
-title: Internal technical support
----
+# Internal technical support
 
-# Internal support
+Need help with CivicActions accounts, tools, or hardware? The fastest way to get help is through **Slack + Assist**.
 
-Note: this is the process for requesting internal support. We also have a [help desk practice area](../../practice-areas/help-desk/README.md) comprised of teams providing helpdesk support services on client projects.
+## To Request Support
 
-## To request support
+- [Start a new request (recommended)](#option-1-ask-in-it-support-recommended): post in **`#it-support`**. A bot will reply and help you turn your message into the right kind of request.
+- [Turn an existing Slack message into a request](#option-2-create-a-request-from-an-existing-slack-message-any-channel): use the message **… (More actions)** menu → **Assist** (works from *any* channel).
+- [Something private/sensitive](#option-3-private-request-via-the-assist-app): open the **Assist app** (under *Apps* in Slack) → **Raise a request**.
 
-- Identify the appropriate channel for your support request. This is often a practice area, department or project channel.
-    - Using the right channel is helpful for visibility as well as to enable other people to follow or participate.
-- Invite the "@Assist" bot user to this channel (`/invite @Assist`) if they are not already a member (this user is already on most channels, this step is rarely needed).
-- Write your request - it's helpful to include context as well as make your outcome/goal clear.
-- Emoji react with `:ticket:` to your message.
-    - If there is prior discussion that includes helpful context you can include those in your request by emoji reacting with `:pushpin:` to each message before creating the ticket.
-    - Alternatively you can click "..." ("More actions") on the message and select "Create a ticket with Atlassian Assist".
-    - If you are having trouble creating a ticket ping the internal support team directly using the @it-help handle on any public channel.
+> **NOTE: The `:ticket:` emoji method is being retired.** Please use one of the options below instead.
 
-The support bot @Assist will notice this and create a thread/ticket to track the request. Someone from the support team will respond in the thread.
+## Option 1: Ask in `#it-support` (recommended)
 
-Once the request is complete please close the ticket using the button in the thread then respond to the "How would you rate your support experience?" question with the thumbs up/down buttons.
+Use this for general questions, requests, or if you are not sure what you need.
 
-## Internal support scope
+Using a public channel lets others help if they have the answer, and also helps others who might have the same question later.
 
-This team is responsible for supporting:
+1. In Slack, open [#it-support](https://civicactions.slack.com/archives/C0A99058N2W).
+1. Type your message (you don't need any special format).
+1. The IT bot will reply right away:
+    - It may suggest documentation if your message looks like a question.
+    - If you're asking for help (e.g. laptop/software/access), it will suggest the right request type with a button to confirm.
+    - If the bot can't figure it out, it may ask for more details - or you can click the "Raise request" button if the bot isn't helping.
+1. If a request/ticket is created, someone from the support team will follow up in the thread on that request.
 
-- Internal systems and services (Slack, Zoom, GSuite, Gitlab, CI server etc)
-- Project sandbox/CI escalations (i.e. a team/person is blocked and the project team has been unable to resolve)
+### Video walkthrough
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew8-9KVLmQI?si=2K2ptDTEjo0HbXQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Option 2: Create a request from an existing Slack message (any channel)
+
+Use this when the context is already in Slack - maybe you're in a project channel, a department channel, or a thread where the discussion already started.
+
+1. Find the message that best describes the issue.
+1. Hover over the message and click **… (More actions)**.
+1. Under **Connect to Apps**, select **Assist**.
+    - If you don't see it, use the search box in that menu to find **Assist**.
+1. Follow the prompts to create the request.
+
+### Video walkthrough
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zol5QXwyD9E?si=EeIj54c405nLqZ1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Option 3: Private request via the Assist app
+
+Use this when your request should **not** be in a public channel (e.g. something personal or sensitive).
+
+1. In Slack's left sidebar, open [Assist](https://civicactions.slack.com/archives/D011QQRNLRY) under the **Apps** section.
+1. Click **Raise a request** - this is under the **Home** tab.
+1. Choose the request type and fill in the details.
+1. To find your tickets later, return to the **Assist** app and use the **Messages** tab.
+
+### Video walkthrough
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ij3cbJcnK_4?si=ZJgDxzwqLCjdYZ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Other scenarios
+
+### Can't access Slack
+
+You can also see your support requests and create new ones through the portal at [team.support.civicactions.com](https://team.support.civicactions.com/) - you can log in with your CivicActions Google Account.
+
+### Emergency: locked out
+
+If you are locked out of your laptop or Google Account - or need emergency help, call or text:
+
+<!-- the number below is formatted unusually to avoid bots picking it up -->
+
+**7<!-- separator to confuse bots--> 60-60-60 <!-- separator to confuse bots-->900**
+
+## Help us close the loop: mark requests as resolved
+
+When your issue is resolved, please let us know - this helps the support team confirm nothing is stuck or silently failing.
+
+You can:
+
+- Click **Change status** in the request thread (see below) and mark it **Resolved**.
+- Reply in the thread with a quick confirmation (ex: "All set, thanks!".
+
+![Change status / mark resolved](assets/images/office-hours-and-resolve.png)
+
+## Tips for faster help
+
+Including a little context up front can reduce back-and-forth:
+
+- What you were trying to do
+- What happened (and any error message)
+- Whether you are **blocked** or it's **non-urgent**
+- Device, OS, browser or other software details if relevant
+- Screenshots are helpful — avoid sharing passwords, secrets, or sensitive client data
+
+## What internal IT support covers
+
+This team generally supports:
+
+- Internal systems and services (Slack, Zoom, Chrome, Google Workspace, GitHub/GitLab, etc.)
+- Internal hardware and access (laptops, security keys, software installs)
+
+For project-specific tools or issues, please reach out to your project's technical lead or the client's IT support team as appropriate. If you aren't sure, you can always ask in `#it-support` and we can help point you in the right direction.
