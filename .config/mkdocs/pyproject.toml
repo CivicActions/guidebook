@@ -10,7 +10,7 @@ packages = [{include = "scripts"}]
 python = "^3.10"
 mkdocs-material = "^9.7.1"
 mkdocs-git-revision-date-localized-plugin = "^1.5.1"
-pymdown-extensions = "^10.20"
+pymdown-extensions = "^10.21"
 # Keep this in sync with the version in .pre-commit-config.yaml
 mdformat = "^1.0.0"
 mdformat-mkdocs = {extras = ["recommended"], version = "^5.1.4"}
