@@ -24,7 +24,7 @@ Using a public channel lets others help if they have the answer, and also helps 
     - If the bot can't figure it out, it may ask for more details - or you can click the "Raise request" button if the bot isn't helping.
 1. If a request/ticket is created, someone from the support team will follow up in the thread on that request.
 
-### Video walkthrough
+### IT Support video walkthrough
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ew8-9KVLmQI?si=2K2ptDTEjo0HbXQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@ Use this when the context is already in Slack - maybe you're in a project channe
     - If you don't see it, use the search box in that menu to find **Assist**.
 1. Follow the prompts to create the request.
 
-### Video walkthrough
+### Existing message video walkthrough
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zol5QXwyD9E?si=EeIj54c405nLqZ1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -51,7 +51,7 @@ Use this when your request should **not** be in a public channel (e.g. something
 1. Choose the request type and fill in the details.
 1. To find your tickets later, return to the **Assist** app and use the **Messages** tab.
 
-### Video walkthrough
+### Private message video walkthrough
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ij3cbJcnK_4?si=ZJgDxzwqLCjdYZ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -78,7 +78,7 @@ You can:
 - Click **Change status** in the request thread (see below) and mark it **Resolved**.
 - Reply in the thread with a quick confirmation (ex: "All set, thanks!".
 
-![Change status / mark resolved](assets/images/office-hours-and-resolve.png)
+![Change status / mark resolved](../../assets/images/resolve.png)
 
 ## Tips for faster help
 
