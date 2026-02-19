@@ -6,6 +6,7 @@ hide:
 
 <iframe
   title="AI Usage Policy (Confluence)"
+  class="full-height"
   src="https://civicactions.atlassian.net/wiki/external/NDY5NzE2OWNlMTRlNDQ4ODhkODcyZWNiODZlMWU5ZmU"
   loading="lazy"
 >
