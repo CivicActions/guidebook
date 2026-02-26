@@ -73,7 +73,7 @@
     "remark-preset-lint-recommended": "^7.0.1",
     "remark-preset-prettier": "^2.0.2",
     "remark-retext": "^6.0.1",
-    "remark-validate-links": "^13.0.2",
+    "remark-validate-links": "^13.1.0",
     "retext-contractions": "^6.0.0",
     "retext-english": "^4.1.0",
     "retext-equality": "^7.1.0",
