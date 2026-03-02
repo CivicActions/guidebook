@@ -13,3 +13,4 @@ ignorePatterns:
   - pattern: "^https://www.congress.gov/.*"
   - pattern: "^https://www.gnu.org/.*"
   - pattern: "^https://medium.com/.*"
+  - pattern: "^https://.*ecosia.org/.*"
