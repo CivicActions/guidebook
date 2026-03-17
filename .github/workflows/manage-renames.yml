@@ -32,7 +32,7 @@ jobs:
 
       - name: Add PR reminder for potential renames
         if: env.REMINDER == 'POTENTIAL_RENAME'
-        uses: mshick/add-pr-comment@v2
+        uses: mshick/add-pr-comment@v3
         with:
           message: |
             **Potential file move or rename - missing nav update / redirect**
@@ -43,7 +43,7 @@ jobs:
 
       - name: Add PR reminder for deletions
         if: env.REMINDER == 'DELETION'
-        uses: mshick/add-pr-comment@v2
+        uses: mshick/add-pr-comment@v3
         with:
           message: |
             **Potential file deletion - missing nav update / redirect**
@@ -54,7 +54,7 @@ jobs:
 
       - name: Add PR reminder for additions
         if: env.REMINDER == 'ADDITION'
-        uses: mshick/add-pr-comment@v2
+        uses: mshick/add-pr-comment@v3
         with:
           message: |
             **Potential file addition - missing nav update**
