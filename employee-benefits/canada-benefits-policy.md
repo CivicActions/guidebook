@@ -47,7 +47,7 @@ Employees should follow the following procedure for providing notice of, schedul
     If Unanet is not accessible for you, please send an email to [peopleops@civicactions.com](mailto:peopleops@civicactions.com) and cc anyone else who needs to know. You don't need to give specific information around why you are out, just indicate that you will be out today and when we can expect you back. If you anticipate being out more than a day or two, please let us know in your email, and we will let you know if we need you to submit a request in Unanet.
 1. Log your time in Unanet under the category of TIMEOFF, using sick, vacation, or technical issues. Remember that doctor's appointments for you and other family members are also billed as sick time.
 1. The USER REPORTS on the Reports Dashboard shows you reports about YOURSELF and you can look at your timeoff there.
-1. Screenshots and further help documentation can be seen on Unanet here - [https://help.unanet.com/current/unanet_menu/time/leave_requests.htm](https://help.unanet.com/current/unanet_menu/time/leave_requests.htm)
+1. Further help documentation can be accessed by [creating an account at Unanet University](https://unanet.com/learn/unanet-university/login-information) and referencing the GovCon ERP material.
 
 **Sample messages to demonstrate how to request timeoff in Unanet:**
 
