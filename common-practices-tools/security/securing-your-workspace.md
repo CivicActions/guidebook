@@ -26,7 +26,7 @@ After a period of inactivity and (for laptops) when you close the lid, the scree
 
 ##### Screen lock with xss-lock
 
-This uses [xss-lock](http://manpages.ubuntu.com/manpages/xenial/man1/xss-lock.1.html) (the brains behind the venerable xscreensaver function) and [i3lock](http://i3wm.org/i3lock/) as the screen locker, but you can substitute this with another locker such as [xsecurelock](https://github.com/google/xsecurelock). xss-lock subscribes to the systemd-events `suspend`, `hibernate`, `lock-session`, and `unlock-session` with appropriate actions (run locker and wait for user to unlock or kill locker). xss-lock also reacts to DPMS events and runs or kills the locker in response. (See also: [Power Management with xss-lock](https://wiki.archlinux.org/index.php/Power_management#xss-lock))
+This uses [xss-lock](https://man.archlinux.org/man/xss-lock.1) (the brains behind the venerable xscreensaver function) and [i3lock](https://i3wm.org/i3lock/) as the screen locker, but you can substitute this with another locker such as [xsecurelock](https://github.com/google/xsecurelock). xss-lock subscribes to the systemd-events `suspend`, `hibernate`, `lock-session`, and `unlock-session` with appropriate actions (run locker and wait for user to unlock or kill locker). xss-lock also reacts to DPMS events and runs or kills the locker in response. (See also: [Power Management with xss-lock](https://wiki.archlinux.org/index.php/Power_management#xss-lock))
 
 If your system is already set up to sleep after a timeout and suspend when you close the lid, this may be all you need.
 
