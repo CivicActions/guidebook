@@ -36,7 +36,7 @@ jobs:
         run: .config/remark/remark-all.sh
       - name: Send GitHub Action trigger data to Slack workflow
         id: slack
-        uses: slackapi/slack-github-action@v3.0.1
+        uses: slackapi/slack-github-action@v3.0.2
         if: failure()
         with:
           webhook: ${{ secrets.SLACK_WEBHOOK_URL }}
