@@ -75,7 +75,7 @@
     "remark-retext": "^6.0.1",
     "remark-validate-links": "^13.1.0",
     "retext-contractions": "^6.0.0",
-    "retext-english": "^4.1.0",
+    "retext-english": "^5.0.0",
     "retext-equality": "^7.1.0",
     "retext-indefinite-article": "^5.0.0",
     "retext-intensify": "^7.0.0",
