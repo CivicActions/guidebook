@@ -70,7 +70,7 @@ For the attribution line, we recommend choosing from the following:
 - When an employee of CA contributed the module as part of prodev, or isn't involved with maintenance, add:
     - *provided time for community contribution*
 
-### Maintainers
+### Adding maintainers
 
 Review the documentation at Drupal.org on [maintainership](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership) in particular:
 
@@ -87,7 +87,7 @@ Permissions:
 - Administer maintainers
 - Maintain issues
 
-### Documentation
+### Creating documentation
 
 Consider the following [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project) to document your project by creating pages in Drupal.org.
 
@@ -110,11 +110,11 @@ Follow [GitLab CI](https://www.drupal.org/docs/develop/git/using-gitlab-to-contr
 
 ### Tugboat
 
-Follow [Using Tugboat previews on Drupal Core and contrib merge requests](https://www.drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/using-tugboat-previews-on-drupal-core-and-contrib-merge-requests) to add tugboat to your project to create preview sites on issues so that fixes can be more easily tested by you and the community.
+Follow [Using Tugboat previews on Drupal Core and contrib merge requests](https://www.drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/using-tugboat-previews-on-drupal-core-and-contrib-merge-requests) to add tugboat to your project to create preview sites on issues so that fixes can be tested by you and the community.
 
 ### DDEV
 
-Add [DDEV](https://github.com/ddev/ddev-drupal-contrib) to your module to allow easy building of local environments for you and others to work on the module especially with plugins like [Contrib module development environment for Drupal projects on DDEV | GitHub](https://github.com/ddev/ddev-drupal-contrib).
+Add [DDEV](https://github.com/ddev/ddev-drupal-contrib) to your module to allow building of local environments for you and others to work on the module especially with plugins like [Contrib module development environment for Drupal projects on DDEV | GitHub](https://github.com/ddev/ddev-drupal-contrib).
 
 ### Contribution guidelines
 
@@ -123,7 +123,7 @@ We recommend creating a `CONTRIBUTING.md` file in your project code and also a p
 - [https://git.drupalcode.org/project/ai_migration/-/blob/1.0.x/CONTRIBUTING.md?ref_type=heads](https://git.drupalcode.org/project/ai_migration/-/blob/1.0.x/CONTRIBUTING.md?ref_type=heads)
 - [Developer Documentation | Vertex AI Search](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search/developer-documentation)
 
-### Documentation
+### Maintaining documentation
 
 Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project). We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search)
 
@@ -149,7 +149,7 @@ Your project will get automatic updates for Drupal core major versions via [Proj
 
 Add the project to client facing documentation so it is tracked and included as part of the project's maintenance burden.
 
-### Maintainers
+### Updating maintainers
 
 Review the documentation at Drupal.org on [maintainership](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership) in particular:
 
@@ -178,7 +178,7 @@ To transfer ownership follow the 'Transferring project ownership' directions at 
 
 If you do not have access change maintainers, then either ask other maintainers or follow the 'Adding new maintainers/co-maintainers' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-adding-new-maintainersco-maintainers).
 
-# Retirement of the project
+## Retirement of the project
 
 When you want to retire the project make the following changes by editing the project on Drupal.org:
 
