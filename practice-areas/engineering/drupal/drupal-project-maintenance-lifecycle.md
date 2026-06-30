@@ -64,9 +64,9 @@ Current organizations already on Drupal.org:
 For the attribution line, we recommend choosing from the following:
 
 - When CA created or helped create the module, and we want that for historical reference (this doesn't mean we're maintaining it), select CivicActions and add:
-    - \*development and ideation-
+    - *development and ideation*
 - When it's clear project work, or we're actively maintaining it, add:
-    - \*provides time and technical support-
+    - *provides time and technical support*
 - When an employee of CA contributed the module as part of prodev, or isn't involved with maintenance, add:
     - *provided time for community contribution*
 
@@ -125,8 +125,7 @@ We recommend creating a `CONTRIBUTING.md` file in your project code and also a p
 
 ### Documentation
 
-Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project)\
-We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search)
+Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project). We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search)
 
 ### Maintaining and responding to issues
 
