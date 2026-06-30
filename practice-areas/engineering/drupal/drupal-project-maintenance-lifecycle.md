@@ -6,7 +6,7 @@ title: Drupal Project Maintenance Lifecycle
 
 ## Creation of the project
 
-When you are ready to create the project refer to Drupal.org documentation [Creating a new project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project) 
+When you are ready to create the project refer to Drupal.org documentation [Creating a new project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project)
 
 For CivicActions projects we recommend the following when creating the Drupal project for specific selections
 
@@ -20,7 +20,7 @@ Review [Naming and placing your Drupal module](https://www.drupal.org/docs/devel
 
 #### Maintenance status
 
-- If the project is currently actively worked on by multiple team members for an initiative then set the status to 'Actively maintained'. The focus will be the initiative and community participation.  
+- If the project is currently actively worked on by multiple team members for an initiative then set the status to 'Actively maintained'. The focus will be the initiative and community participation.
 - If the project is maintained by few maintainers for a client, set the status to 'Minimally maintained'. The focus will be the project and less so the community.
 
 #### Development status
@@ -43,38 +43,38 @@ We recommend having the description be sync'd with the `README.md` file in the c
 
 Please add CivicActions under "Supporting organizations" if the project is for a client project, initiative, or part of your prodev.
 
-If the project is joint venture with other organizations please add those e.g. [https://www.drupal.org/fearless](https://www.drupal.org/fearless) 
+If the project is joint venture with other organizations please add those e.g. [https://www.drupal.org/fearless](https://www.drupal.org/fearless)
 
-Please add client organization for client projects. If you need to create an organization, request that someone on their side create one or create it and hand over ownership when appropriate. 
+Please add client organization for client projects. If you need to create an organization, request that someone on their side create one or create it and hand over ownership when appropriate.
 
 Current organizations already on Drupal.org:
 
-- [https://www.drupal.org/centers-for-medicare-and-medicaid-services](https://www.drupal.org/centers-for-medicare-and-medicaid-services)  
-- [https://www.drupal.org/department-of-veterans-affairs](https://www.drupal.org/department-of-veterans-affairs)  
-- [https://www.drupal.org/national-science-foundation](https://www.drupal.org/national-science-foundation)  
-- [https://www.drupal.org/usagov](https://www.drupal.org/usagov)  
-- [https://www.drupal.org/us-department-of-agriculture](https://www.drupal.org/us-department-of-agriculture)  
-- [https://www.drupal.org/lincs](https://www.drupal.org/lincs)  
-- [https://www.drupal.org/us-department-of-justice](https://www.drupal.org/us-department-of-justice)  
-- [https://www.drupal.org/us-department-of-transportation](https://www.drupal.org/us-department-of-transportation)   
+- [https://www.drupal.org/centers-for-medicare-and-medicaid-services](https://www.drupal.org/centers-for-medicare-and-medicaid-services)
+- [https://www.drupal.org/department-of-veterans-affairs](https://www.drupal.org/department-of-veterans-affairs)
+- [https://www.drupal.org/national-science-foundation](https://www.drupal.org/national-science-foundation)
+- [https://www.drupal.org/usagov](https://www.drupal.org/usagov)
+- [https://www.drupal.org/us-department-of-agriculture](https://www.drupal.org/us-department-of-agriculture)
+- [https://www.drupal.org/lincs](https://www.drupal.org/lincs)
+- [https://www.drupal.org/us-department-of-justice](https://www.drupal.org/us-department-of-justice)
+- [https://www.drupal.org/us-department-of-transportation](https://www.drupal.org/us-department-of-transportation)
 - [https://www.drupal.org/unspecified-government-agency-usa](https://www.drupal.org/unspecified-government-agency-usa) (This represents any US government agency that, for a variety of reasons, does not have an organization page on drupal.org. It allows contributors to attribute their work to a US government client without having to reveal which agency it is.)
 
 ##### How they helped
 
 For the attribution line, we recommend choosing from the following:
 
-- When CA created or helped create the module, and we want that for historical reference (this doesn't mean we're maintaining it), select CivicActions and add:   
-  - *development and ideation-  
-- When it's clear project work, or we're actively maintaining it, add:   
-  - *provides time and technical support-  
-- When an employee of CA contributed the module as part of prodev, or isn't involved with maintenance, add:  
-  - *provided time for community contribution*
+- When CA created or helped create the module, and we want that for historical reference (this doesn't mean we're maintaining it), select CivicActions and add:
+    - \*development and ideation-
+- When it's clear project work, or we're actively maintaining it, add:
+    - \*provides time and technical support-
+- When an employee of CA contributed the module as part of prodev, or isn't involved with maintenance, add:
+    - *provided time for community contribution*
 
 ### Maintainers
 
 Review the documentation at Drupal.org on [maintainership](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership) in particular:
 
-- [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers)   
+- [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers)
 - [Open Ownership Pledge (finding co-maintainers or new project owners)](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/open-ownership-pledge-finding-co-maintainers-or-new-project-owners)
 
 We ask that you add multiple CA team members who are supporting the project and willing to co-maintain the project with you. Adding non-CA maintainers is also recommended. Refer to above documentation and [Co-maintaining projects](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/co-maintaining-projects) for more details.
@@ -83,8 +83,8 @@ We also ask that you add the 'civicactions user as a maintainer with the followi
 
 Permissions:
 
-- Edit project  
-- Administer maintainers  
+- Edit project
+- Administer maintainers
 - Maintain issues
 
 ### Documentation
@@ -106,7 +106,7 @@ Review the documentation at drupal.org on [Automated testing](https://www.drupal
 
 ### GitLab CI
 
-Follow [GitLab CI](https://www.drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/gitlab-ci) to add the .gitlab-ci.yml file to your project to ensure code linting and tests are automatically executed on merge requests on the project. 
+Follow [GitLab CI](https://www.drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/gitlab-ci) to add the .gitlab-ci.yml file to your project to ensure code linting and tests are automatically executed on merge requests on the project.
 
 ### Tugboat
 
@@ -120,13 +120,13 @@ Add [DDEV](https://github.com/ddev/ddev-drupal-contrib) to your module to allow 
 
 We recommend creating a `CONTRIBUTING.md` file in your project code and also a page in documentation to provide instructions on how someone in the community can work on your project. Here are some examples of `CONTRIBUTING.md` file:
 
-- [https://git.drupalcode.org/project/ai\_migration/-/blob/1.0.x/CONTRIBUTING.md?ref\_type=heads](https://git.drupalcode.org/project/ai_migration/-/blob/1.0.x/CONTRIBUTING.md?ref_type=heads)  
+- [https://git.drupalcode.org/project/ai_migration/-/blob/1.0.x/CONTRIBUTING.md?ref_type=heads](https://git.drupalcode.org/project/ai_migration/-/blob/1.0.x/CONTRIBUTING.md?ref_type=heads)
 - [Developer Documentation | Vertex AI Search](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search/developer-documentation)
 
 ### Documentation
 
-Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project)   
-We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search) 
+Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project)\
+We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search)
 
 ### Maintaining and responding to issues
 
@@ -148,13 +148,13 @@ Your project will get automatic updates for Drupal core major versions via [Proj
 
 ### Client documentation
 
-Add the project to client facing documentation so it is tracked and included as part of the project's maintenance burden. 
+Add the project to client facing documentation so it is tracked and included as part of the project's maintenance burden.
 
 ### Maintainers
 
 Review the documentation at Drupal.org on [maintainership](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership) in particular:
 
-- [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers)   
+- [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers)
 - [Open Ownership Pledge (finding co-maintainers or new project owners)](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/open-ownership-pledge-finding-co-maintainers-or-new-project-owners)
 - [Co-maintaining projects](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/co-maintaining-projects)
 
@@ -166,9 +166,9 @@ This is assuming you are the owner or a maintainer on the project.
 
 Please ensure the following is done if you are no longer interested in owning/maintaining the project or are leaving CA
 
-- Other CA team member(s) are listed as maintainers on the project with full permissions  
-- The team member(s) are informed  
-- You have created a succession plan to hand off the project responsibilities to others  
+- Other CA team member(s) are listed as maintainers on the project with full permissions
+- The team member(s) are informed
+- You have created a succession plan to hand off the project responsibilities to others
 - The client that uses the project has been informed including details of the succession plan
 
 If you are okay with being listed as a maintainer and helping occasionally with adding/removing maintainers, handling some communications, and connecting with Drupal.org security or support then you don't need to remove yourself as a maintainer or owner of the project.
@@ -183,10 +183,10 @@ If you do not have access change maintainers, then either ask other maintainers 
 
 When you want to retire the project make the following changes by editing the project on Drupal.org:
 
-- Change 'Maintenance status' to 'Unsupported'  
-- Change 'Development status' to 'Obsolete'  
-- Change 'Security advisory coverage' to 'Not covered'  
-- If the project has a replacement, add the replacement under 'Replaced by'  
-- Optionally update the 'Description' to indicate why the project is retired  
-- Optionally update the attribution line for CivicActions to 'development and ideation'  
+- Change 'Maintenance status' to 'Unsupported'
+- Change 'Development status' to 'Obsolete'
+- Change 'Security advisory coverage' to 'Not covered'
+- If the project has a replacement, add the replacement under 'Replaced by'
+- Optionally update the 'Description' to indicate why the project is retired
+- Optionally update the attribution line for CivicActions to 'development and ideation'
 - Please leave supporting organizations and maintainers unchanged to preserve historical references. Only remove the supporting organization if there is some reason to no longer have CA's name associated with the project.
