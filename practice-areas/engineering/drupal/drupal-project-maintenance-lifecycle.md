@@ -102,7 +102,7 @@ Examples:
 
 CivicActions uses a variety of testing frameworks (e.g. PHPUnit and Cypress). For [Drupal, PHPUnit is a core testing framework](https://www.drupal.org/docs/develop/automated-testing/phpunit-in-drupal) that can also be added to custom and [contributed modules](https://www.drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module). We recommend adding testing as soon as possible so that you are ensuring the functionality is working as expected and features are stable as you add more to it.
 
-Review the documentation at drupal.org on [Automated testing](https://www.drupal.org/docs/develop/automated-testing).
+Review the documentation at drupal.org on [Automated testing](https://www.drupal.org/docs/develop/automated-testing) and also [Drupal for Drupal Engineers](drupal-for-drupal-engineers.md).
 
 ### GitLab CI
 
