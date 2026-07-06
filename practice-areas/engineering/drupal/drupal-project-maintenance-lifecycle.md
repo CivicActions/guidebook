@@ -164,6 +164,7 @@ Audit CA and non-CA maintainers and make updates like adding new members and rem
 This is assuming you are the owner or a maintainer on the project.
 
 Please ensure the following is done if you are no longer interested in owning/maintaining the project or are leaving CA:
+
 - Other CA team member(s) are listed as maintainers on the project with full permissions
 - The team member(s) are informed
 - You have created a succession plan to hand off the project responsibilities to others
