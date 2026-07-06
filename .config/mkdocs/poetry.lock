@@ -619,14 +619,14 @@ wcwidth = ">=0.2.13"
 
 [[package]]
 name = "mdformat-mkdocs"
-version = "5.1.4"
+version = "5.2.0"
 description = "An mdformat plugin for mkdocs and Material for MkDocs"
 optional = false
 python-versions = ">=3.10.0"
 groups = ["main"]
 files = [
-    {file = "mdformat_mkdocs-5.1.4-py3-none-any.whl", hash = "sha256:6ff339c1023926077c0c598533768433b38981a9eb792ebfe02d2438ba71514d"},
-    {file = "mdformat_mkdocs-5.1.4.tar.gz", hash = "sha256:d3ecf035100328c5ff2b3bd7de87a16ee0484e5c317add9c70022598d15af6a1"},
+    {file = "mdformat_mkdocs-5.2.0-py3-none-any.whl", hash = "sha256:adb73c73236ccaef5f73c2b71d86b2810c87313d78ec51cae525bd93c735df80"},
+    {file = "mdformat_mkdocs-5.2.0.tar.gz", hash = "sha256:d60bc1ecdd83322d646d1a0d6c6ed7b6e0f8beee256e32b290b9512651da2501"},
 ]
 
 [package.dependencies]
@@ -650,7 +650,7 @@ setuptools = {version = "*", optional = true, markers = "extra == \"recommended\
 [package.extras]
 recommended = ["mdformat-beautysh (>=0.1.1)", "mdformat-config (>=0.2.1)", "mdformat-footnote (>=0.1.1)", "mdformat-front-matters (>=0.1.0)", "mdformat-gfm (>=1.0.0)", "mdformat-ruff (>=0.1.3)", "mdformat-simple-breaks (>=0.0.1)", "mdformat-web (>=0.2.0)", "mdformat-wikilink (>=0.2.0)", "setuptools"]
 recommended-mdsf = ["mdformat-footnote (>=0.1.0)", "mdformat-front-matters (>=1.0.1)", "mdformat-gfm (>=1.0.0)", "mdformat-hooks (>=0.1.0)", "mdformat-simple-breaks (>=0.0.1)", "mdformat-wikilink (>=0.2.0)"]
-test = ["beartype (>=0.21.0)", "pytest (>=9.0.1)", "pytest-beartype (>=0.2.0)", "pytest-cov (>=7.0.0)", "syrupy (>=4.9.1)"]
+test = ["beartype (>=0.21.0)", "hypothesis (>=6.100.0)", "pytest (>=9.0.1)", "pytest-beartype (>=0.2.0)", "pytest-cov (>=7.0.0)", "syrupy (>=4.9.1)"]
 
 [[package]]
 name = "mdformat-ruff"
