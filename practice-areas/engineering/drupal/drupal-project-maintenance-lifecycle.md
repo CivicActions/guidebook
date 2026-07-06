@@ -16,7 +16,7 @@ These are some of the fields visible when you create or edit a project.
 
 #### Title
 
-Review [Naming and placing your Drupal module](https://www.drupal.org/docs/develop/creating-modules/naming-and-placing-your-drupal-module). We recommend choosing a meaningful search engine friendly module name. Connect with CA team members to crowd sourcing name suggestions. You can also use AI for brainstorming names as well.
+Review [Naming and placing your Drupal module](https://www.drupal.org/docs/develop/creating-modules/naming-and-placing-your-drupal-module). We recommend choosing a meaningful search engine friendly module name. Connect with CA team members to crowd source name suggestions. You can also use AI for brainstorming names as well.
 
 #### Maintenance status
 
@@ -25,15 +25,15 @@ Review [Naming and placing your Drupal module](https://www.drupal.org/docs/devel
 
 #### Development status
 
-Use the available options to communicate the status of the project
+Use the available options to communicate the status of the project.
 
 #### Security advisory coverage
 
-Review [Security Coverage](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage) and if you don't have the ability we recommend getting that access. An option is invite a CA team member who does have the ability to co-maintain the project with you and the team
+Review [Security Coverage](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage), and if you don't have the ability, we recommend getting that access. An option is to invite a CA team member who does have the ability to co-maintain the project with you and the team.
 
 #### Module categories, Ecosystem, and Images
 
-Select the appropriate values for your project
+Select the appropriate values for your project.
 
 #### Description
 
@@ -125,11 +125,11 @@ We recommend creating a `CONTRIBUTING.md` file in your project code and also a p
 
 ### Maintaining documentation
 
-Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project). We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search)
+Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project). We recommend creating documentation for your project in [Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation) e.g. [Vertex AI Search | Contributed module documentation](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/vertex-ai-search).
 
 ### Maintaining and responding to issues
 
-Review [Maintaining and responding to issues for a project](https://www.drupal.org/docs/develop/issues/issue-procedures-and-etiquette/maintaining-and-responding-to-issues-for-a). We recommend allocating time to review the issue queue and following up on items submitted by the community. For actively maintained projects, allocate more regular time at least monthly. For a minimally maintained project, shoot for quarterly review.
+Review [Maintaining and responding to issues for a project](https://www.drupal.org/docs/develop/issues/issue-procedures-and-etiquette/maintaining-and-responding-to-issues-for-a). We recommend allocating time to review the issue queue and following up on items submitted by the community. For actively maintained projects, we recommend monthly reviews. For a minimally maintained project, shoot for a quarterly review.
 
 Additional additional maintainers will help with supporting the issue queue. We recommend using a rotation or similar process to help manage the queue.
 
@@ -163,8 +163,7 @@ Audit CA and non-CA maintainers and make updates like adding new members and rem
 
 This is assuming you are the owner or a maintainer on the project.
 
-Please ensure the following is done if you are no longer interested in owning/maintaining the project or are leaving CA
-
+Please ensure the following is done if you are no longer interested in owning/maintaining the project or are leaving CA:
 - Other CA team member(s) are listed as maintainers on the project with full permissions
 - The team member(s) are informed
 - You have created a succession plan to hand off the project responsibilities to others
