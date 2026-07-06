@@ -8,7 +8,7 @@ title: Drupal Project Maintenance Lifecycle
 
 When you are ready to create the project refer to Drupal.org documentation [Creating a new project](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project)
 
-For CivicActions projects we recommend the following when creating the Drupal project for specific selections
+For CivicActions projects we recommend the following when creating the Drupal project for specific selections.
 
 ### Project fields
 
