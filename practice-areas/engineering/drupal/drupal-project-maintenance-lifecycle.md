@@ -79,7 +79,7 @@ Review the documentation at Drupal.org on [maintainership](https://www.drupal.or
 
 We ask that you add multiple CA team members who are supporting the project and willing to co-maintain the project with you. Adding non-CA maintainers is also recommended. Refer to above documentation and [Co-maintaining projects](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/co-maintaining-projects) for more details.
 
-We also ask that you add the 'civicactions user as a maintainer with the following permissions. This is so a CA team member can use that account to gain access to the project if for some reason you are not reachable or are no longer at CA. You only need to do this for projects that are for a client project or CA initiative.
+We also ask that you add the 'civicactions' user as a maintainer with the following permissions. This is so a CA team member can use that account to gain access to the project if for some reason you are not reachable or are no longer at CA. You only need to do this for projects that are for a client project or CA initiative.
 
 Permissions:
 
@@ -131,7 +131,7 @@ Review [Documenting your project](https://www.drupal.org/docs/develop/managing-a
 
 Review [Maintaining and responding to issues for a project](https://www.drupal.org/docs/develop/issues/issue-procedures-and-etiquette/maintaining-and-responding-to-issues-for-a). We recommend allocating time to review the issue queue and following up on items submitted by the community. For actively maintained projects, we recommend monthly reviews. For a minimally maintained project, shoot for a quarterly review.
 
-Additional additional maintainers will help with supporting the issue queue. We recommend using a rotation or similar process to help manage the queue.
+Adding additional maintainers will help with supporting the issue queue. We recommend using a rotation or similar process to help manage the queue.
 
 ### Security issue
 
