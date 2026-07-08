@@ -16,12 +16,12 @@ These are some of the fields visible when you create or edit a project.
 
 #### Title
 
-Review [Naming and placing your Drupal module](https://www.drupal.org/docs/develop/creating-modules/naming-and-placing-your-drupal-module). We recommend choosing a meaningful search engine friendly module name. Connect with CA team members to crowd source name suggestions. You can also use AI for brainstorming names as well.
+Review [Naming and placing your Drupal module](https://www.drupal.org/docs/develop/creating-modules/naming-and-placing-your-drupal-module). We recommend choosing a meaningful search engine friendly module name. Connect with CA team members to crowd source name suggestions. You can also use AI for brainstorming names.
 
 #### Maintenance status
 
 - If the project is currently actively worked on by multiple team members for an initiative then set the status to 'Actively maintained'. The focus will be the initiative and community participation.
-- If the project is maintained by few maintainers for a client, set the status to 'Minimally maintained'. The focus will be the project and less so the community.
+- If the project is maintained by a few maintainers for a client, set the status to 'Minimally maintained'. The focus will be the project and less so the community.
 
 #### Development status
 
@@ -37,13 +37,13 @@ Select the appropriate values for your project.
 
 #### Description
 
-We recommend having the description be sync'd with the `README.md` file in the codebase.
+We recommend having the description be sync'd with the [`README.md`](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template) file in the codebase. Note that it is a manual process to copy the contents of the `README.md` file into the project's description.
 
 #### Supporting organizations
 
 Please add CivicActions under "Supporting organizations" if the project is for a client project, initiative, or part of your prodev.
 
-If the project is joint venture with other organizations please add those e.g. [https://www.drupal.org/fearless](https://www.drupal.org/fearless)
+If the project is a joint venture with other organizations please add those e.g. [https://www.drupal.org/fearless](https://www.drupal.org/fearless)
 
 Please add client organization for client projects. If you need to create an organization, request that someone on their side create one or create it and hand over ownership when appropriate.
 
@@ -98,6 +98,10 @@ Examples:
 
 ## Maintenance of the project
 
+### Git
+
+Follow [Git for Drupal project maintainers](https://www.drupal.org/docs/develop/git/git-for-drupal-project-maintainers) to get details on committing, branches, tags, and [creating releases](https://www.drupal.org/docs/develop/git/git-for-drupal-project-maintainers/creating-a-project-release). Additionally review [Managing branches & releases](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/managing-branches-releases).
+
 ### Tests
 
 CivicActions uses a variety of testing frameworks (e.g. PHPUnit and Cypress). For [Drupal, PHPUnit is a core testing framework](https://www.drupal.org/docs/develop/automated-testing/phpunit-in-drupal) that can also be added to custom and [contributed modules](https://www.drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module). We recommend adding testing as soon as possible so that you are ensuring the functionality is working as expected and features are stable as you add more to it.
@@ -133,7 +137,7 @@ Review [Maintaining and responding to issues for a project](https://www.drupal.o
 
 Adding additional maintainers will help with supporting the issue queue. We recommend using a rotation or similar process to help manage the queue.
 
-### Security issue
+### Security issues
 
 If your project has opted into security coverage, read [Contacted by the Security Team. Now what?](https://www.drupal.org/drupal-security-team/contacted-by-the-security-team-now-what) in its entirety. We recommend paying close attention to reported security issues and prioritize responding to the reported issue and getting the project patched.
 
@@ -176,7 +180,7 @@ If you are leaving CA but are still wanting to continue to maintain and own the 
 
 To transfer ownership follow the 'Transferring project ownership' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-transferring-project-ownership).
 
-If you do not have access change maintainers, then either ask other maintainers or follow the 'Adding new maintainers/co-maintainers' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-adding-new-maintainersco-maintainers).
+If you do not have access to change maintainers, then either ask other maintainers or follow the 'Adding new maintainers/co-maintainers' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-adding-new-maintainersco-maintainers).
 
 ## Retirement of the project
 
