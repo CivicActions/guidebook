@@ -24,7 +24,7 @@ jobs:
           config_file: .config/linkspector.yml
           filter_mode: nofilter
       - name: Setup Node.js for remark
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: '24'
           cache: 'yarn'
