@@ -43,11 +43,11 @@ the SIRT should:
 
 - Identify the root cause and scope of the disruption before restoring service.
 - Restore from the most recent known-good backup or snapshot if data integrity is in doubt.
-  Confirm the restoration target's integrity before promotion to production.
+    Confirm the restoration target's integrity before promotion to production.
 - If an external dependency is involved, consult the [external dependencies](#some-external-dependencies)
-  section for fallback options and monitor the dependency's status page for recovery.
+    section for fallback options and monitor the dependency's status page for recovery.
 - Document all recovery actions taken, including timestamps, in the designated
-  [communication channel](incident-response-plan.md#communication-channels).
+    [communication channel](incident-response-plan.md#communication-channels).
 - Obtain Authorizing Official approval before re-deploying to a new region or environment.
 
 ### Reconstitution
@@ -63,8 +63,8 @@ Before declaring the system operational, the SIRT should verify:
 Once verification passes, the Incident Commander:
 
 1. Declares recovery complete and lifts any access restrictions imposed during containment.
-2. Notifies the Product Owner, CivicActions managers, and affected users that service is restored.
-3. Schedules a retrospective following the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective)..
+1. Notifies the Product Owner, CivicActions managers, and affected users that service is restored.
+1. Schedules a retrospective following the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective)..
 
 ## Some external dependencies
 
