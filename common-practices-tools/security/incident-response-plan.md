@@ -36,6 +36,7 @@ _Responders_ should acknowledge within 15 minutes.
 ### Responder
 
 A _Responder_ is generally a member of the CivicActions SIRT who investigates and remediates an event or incident.
+
 - Initially, the first _Responder_ is also the _Incident Commander_ (IC).
 - For the first 15-30 minutes, the first _Responder_ may work alone. If needed, they begin forming the _Incident Response Team_. See [Initiate](#3-initiate-the-response).
 
@@ -58,12 +59,12 @@ The _Incident Commander_ (IC) ideally remains uninvolved in remediation efforts,
     - Uses the most appropriate media/communication channels for recording actions. During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, `#fire-team`) for SIRT communications.
     - Defines and enforces work shifts if the incident lasts longer than 3 hours.
 
-2. Documentation, including all actions taken during investigation and remediation, using the following methods:
+1. Documentation, including all actions taken during investigation and remediation, using the following methods:
 
     - Designated Slack or other communications channel
     - Project JIRA ticket or Gitlab issue (if applicable)
 
-3. Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony) for those duties.
+1. Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony) for those duties.
 
 ### Communications Officer
 
@@ -87,11 +88,11 @@ The _Incident Commander_ (IC) or the _Communications Officer_ (if one exists) de
 
 Severity determines response speed, disruption authority, and sitrep frequency. Assess quickly — it can change as the incident evolves.
 
-| Severity | Criteria (brief) | Response timing | Disruption authority | Sitrep frequency |
-|---|---|---|---|---|
-| **[High](#high-severity)** | SPII/CUI breach, large-scale availability impact, or significant financial harm | Immediate, continuous | SIRT acts without permission | Hourly or more |
-| **[Medium](#medium-severity)** | PII/FCI risk, targeted attacks, or limited service degradation | Business hours | Consult leads; act after 1 hr if unreachable | Twice daily |
-| **[Low](#low-severity)** | No customer impact; restricted to non-critical systems | Business hours | Mutually agreed with leads | Daily |
+| Severity                       | Criteria (brief)                                                                | Response timing       | Disruption authority                         | Sitrep frequency |
+| ------------------------------ | ------------------------------------------------------------------------------- | --------------------- | -------------------------------------------- | ---------------- |
+| **[High](#high-severity)**     | SPII/CUI breach, large-scale availability impact, or significant financial harm | Immediate, continuous | SIRT acts without permission                 | Hourly or more   |
+| **[Medium](#medium-severity)** | PII/FCI risk, targeted attacks, or limited service degradation                  | Business hours        | Consult leads; act after 1 hr if unreachable | Twice daily      |
+| **[Low](#low-severity)**       | No customer impact; restricted to non-critical systems                          | Business hours        | Mutually agreed with leads                   | Daily            |
 
 See [Incident severities](#incident-severities) for full criteria, examples, and contingency plan guidance.
 
@@ -126,7 +127,7 @@ An incident begins when someone becomes aware of a disruption in expected normal
 
 - Issue a broadcast notification via the designated [communication channel](#communication-channels).
 
-   - An example message follows. The format is not important, but the information fields are useful.
+    - An example message follows. The format is not important, but the information fields are useful.
 
 ```
 **Description**: [Short description of the event and its impact]
@@ -138,11 +139,14 @@ An incident begins when someone becomes aware of a disruption in expected normal
 **Details**: [Extra details about the event]
 ```
 
-  - Observe the following guidelines for communications:
+- Observe the following guidelines for communications:
+
     - During this stage of incident response, the event status is "investigating".
     - An unconfirmed issue is called an _event_. A confirmed issue is called an _incident_.
-  - For an incident requiring more than 30 minutes to resolve:
-     - Recruit additional _Responders_. Use `@security` to trigger a Slack notification for the Security team.
+
+- For an incident requiring more than 30 minutes to resolve:
+
+    - Recruit additional _Responders_. Use `@security` to trigger a Slack notification for the Security team.
     - Be sure to designate an [Incident Commander (IC)](#incident-commander) and [hand off the IC duties](#explicit-handoff-ceremony).
 
 - Use the [Explicit Handoff Ceremony](#explicit-handoff-ceremony) when transferring/changing roles.
@@ -283,22 +287,25 @@ The incident report should be posted in Slack, or in the ticket/issue as a final
 Severity dictates response speed, acceptable service disruption, and communication frequency. Severity can change over the lifespan of an incident, and the SIRT should assess the initial severity quickly.
 
 ### High severity
-*   **Criteria:** Compromises Sensitive Personally Identifiable Information (SPII), impacts availability for a large number of customers, or has a significant financial impact.
-*   **Examples:** Confirmed Sensitive Personally Identifiable Information (SPII) or Controlled Unclassified Information (CUI) breach, root-level production compromise, severe Denial of Service (DoS) outages, **developer system/supply-chain attacks** (e.g., the Shai-Hulud worm), and **AI agents breaking out of sandboxed environments**.
-*   **Response Guidelines:** Take action immediately to contain the issue, even if it requires complete service degradation. The CivicActions SIRT (or Project SIRT) does not need permission to act. Remediation is continuous. 
-*   **Communication:** Share sitreps hourly (or more frequently).
+
+- **Criteria:** Compromises Sensitive Personally Identifiable Information (SPII), impacts availability for a large number of customers, or has a significant financial impact.
+- **Examples:** Confirmed Sensitive Personally Identifiable Information (SPII) or Controlled Unclassified Information (CUI) breach, root-level production compromise, severe Denial of Service (DoS) outages, **developer system/supply-chain attacks** (e.g., the Shai-Hulud worm), and **AI agents breaking out of sandboxed environments**.
+- **Response Guidelines:** Take action immediately to contain the issue, even if it requires complete service degradation. The CivicActions SIRT (or Project SIRT) does not need permission to act. Remediation is continuous.
+- **Communication:** Share sitreps hourly (or more frequently).
 
 ### Medium severity
-*   **Criteria:** Poses a potential risk to "Rolodex" Personally Identifiable Information (PII) or Federal Contract Information (FCI), involves targeted attacks, or causes limited service degradation.
-*   **Examples:** Suspected PII breach, targeted but unsuccessful attempts to compromise production, spam/phishing targeting staff, or DoS attacks with limited degradation.
-*   **Response Guidelines:** Respond during SIRT business hours. Consult Project leads (via Slack or phone) to weigh disruption vs. security. Bias toward disruption—if leads cannot be reached within an hour, the SIRT may take action.
-*   **Communication:** Share sitreps twice daily.
+
+- **Criteria:** Poses a potential risk to "Rolodex" Personally Identifiable Information (PII) or Federal Contract Information (FCI), involves targeted attacks, or causes limited service degradation.
+- **Examples:** Suspected PII breach, targeted but unsuccessful attempts to compromise production, spam/phishing targeting staff, or DoS attacks with limited degradation.
+- **Response Guidelines:** Respond during SIRT business hours. Consult Project leads (via Slack or phone) to weigh disruption vs. security. Bias toward disruption—if leads cannot be reached within an hour, the SIRT may take action.
+- **Communication:** Share sitreps twice daily.
 
 ### Low severity
-*   **Criteria:** No noticeable customer impact, or restricted to non-critical systems. *(Note: General project-level incidents default to Low severity).*
-*   **Examples:** Attempted compromise of staging/testing instances, or DoS attacks with no noticeable impact.
-*   **Response Guidelines:** Respond during business hours. Consult SIRT members and notify Project leads. Do not take action or cause service degradation until a mutually-agreed course of action is determined.
-*   **Communication:** Share sitreps daily.
+
+- **Criteria:** No noticeable customer impact, or restricted to non-critical systems. *(Note: General project-level incidents default to Low severity).*
+- **Examples:** Attempted compromise of staging/testing instances, or DoS attacks with no noticeable impact.
+- **Response Guidelines:** Respond during business hours. Consult SIRT members and notify Project leads. Do not take action or cause service degradation until a mutually-agreed course of action is determined.
+- **Communication:** Share sitreps daily.
 
 ## Explicit Handoff Ceremony
 
