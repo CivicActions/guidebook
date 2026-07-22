@@ -38,16 +38,13 @@ notifies the people authorized to make system-level recovery decisions:
 ### Recovery
 
 The SIRT works to restore the system following the [assessment](incident-response-plan.md#4-assess-the-incident)
-and [remediation](incident-response-plan.md#5-remediate) processes in the IRP. In addition,
-the SIRT should:
+and [remediation](incident-response-plan.md#5-remediate) processes in the IRP. In addition, the SIRT should:
 
 - Identify the root cause and scope of the disruption before restoring service.
 - Restore from the most recent known-good backup or snapshot if data integrity is in doubt.
-    Confirm the restoration target's integrity before promotion to production.
-- If an external dependency is involved, consult the [external dependencies](#some-external-dependencies)
-    section for fallback options and monitor the dependency's status page for recovery.
-- Document all recovery actions taken, including timestamps, in the designated
-    [communication channel](incident-response-plan.md#communication-channels).
+- Confirm the restoration target's integrity before promotion to production.
+- If an external dependency is involved, consult the [external dependencies](#external-dependencies) section for fallback options and monitor the dependency's status page for recovery.
+- Document all recovery actions taken, including timestamps, in the designated [communication channel](incident-response-plan.md#communication-channels).
 - Obtain Authorizing Official approval before re-deploying to a new region or environment.
 
 ### Reconstitution
@@ -66,7 +63,7 @@ Once verification passes, the Incident Commander:
 1. Notifies the Product Owner, CivicActions managers, and affected users that service is restored.
 1. Schedules a retrospective following the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective)..
 
-## Some external dependencies
+## External dependencies
 
 CivicActions managed systems often depend on several external services. In the event one or more of these services has a long-term disruption, the SIRT will mitigate impact by following this plan. Zero or more of the following services may be involved:
 
