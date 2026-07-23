@@ -24,7 +24,7 @@ jobs:
           config_file: .config/linkspector.yml
           filter_mode: nofilter
       - name: Setup Node.js for remark
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: '24'
           cache: 'yarn'
@@ -36,7 +36,7 @@ jobs:
         run: .config/remark/remark-all.sh
       - name: Send GitHub Action trigger data to Slack workflow
         id: slack
-        uses: slackapi/slack-github-action@v3.0.5
+        uses: slackapi/slack-github-action@v4.0.0
         if: failure()
         with:
           webhook: ${{ secrets.SLACK_WEBHOOK_URL }}
