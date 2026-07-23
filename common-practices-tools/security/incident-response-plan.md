@@ -15,7 +15,7 @@ This document describes the process that the CivicActions Security Incident Resp
 
 > _During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the SIRT to follow._
 
-#### Security incidents may contain sensitive information
+### Security incidents may contain sensitive information
 
 - Don't discuss the breach in public channels before containment
 - Don't delete logs/evidence
@@ -129,7 +129,7 @@ An incident begins when someone becomes aware of a disruption in expected normal
 
     - An example message follows. The format is not important, but the information fields are useful.
 
-```
+```markdown
 **Description**: [Short description of the event and its impact]
 **Status**: investigating
 **Severity**: unknown
@@ -157,7 +157,7 @@ An incident begins when someone becomes aware of a disruption in expected normal
 
 ### 4. Assess the incident
 
-#### Confirm the incident.
+#### Confirm the incident
 
 - Gather information, and document your findings.
 
@@ -167,7 +167,7 @@ An incident begins when someone becomes aware of a disruption in expected normal
 
 - If a false alarm, proceed to [_6. Conclude the incident_](#6-conclude-the-incident).
 
-#### Assess the severity.
+#### Assess the severity
 
 - Does it affect system or data Confidentiality, Integrity, Availability and/or Privacy?
 - Use the [rubric for determining severity](#incident-severities). Project incidents are generally "LOW severity".
@@ -181,7 +181,7 @@ An incident begins when someone becomes aware of a disruption in expected normal
 - Post an initial situation report (_sitrep_), in the appropriate [communication channels](#communication-channels) as specified by the _Incident Commander_ (IC) (or _Communications Officer_ (CO)).
     - Here is an example _sitrep_:
 
-```
+```markdown
 **Subject**: [sitrep] Chickens are escaping
 **Severity**: LOW
 **Incident Commander**: Farmer Jane
