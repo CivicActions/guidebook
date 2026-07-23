@@ -69,7 +69,7 @@ For the attribution line, we recommend choosing from the following:
     - *provides time and technical support*
 - When an employee of CA contributed the module as part of prodev, or isn't involved with maintenance, add:
     - *provided time for community contribution*
- 
+
 For the client organization's attribution line, leave blank and get guidance from the client on whether they want specific text.
 
 ### Adding maintainers
