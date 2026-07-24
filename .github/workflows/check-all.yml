@@ -14,9 +14,9 @@ jobs:
     name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Run linkspector on all links
-        uses: umbrelladocs/action-linkspector@v1.4.1
+        uses: umbrelladocs/action-linkspector@v1.5.4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-check
@@ -24,9 +24,9 @@ jobs:
           config_file: .config/linkspector.yml
           filter_mode: nofilter
       - name: Setup Node.js for remark
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'yarn'
           cache-dependency-path: '.config/remark/package.json'
       - name: Install remark dependencies
@@ -36,7 +36,7 @@ jobs:
         run: .config/remark/remark-all.sh
       - name: Send GitHub Action trigger data to Slack workflow
         id: slack
-        uses: slackapi/slack-github-action@v3.0.1
+        uses: slackapi/slack-github-action@v4.0.0
         if: failure()
         with:
           webhook: ${{ secrets.SLACK_WEBHOOK_URL }}

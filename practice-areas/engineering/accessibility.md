@@ -35,4 +35,4 @@ We implement Section 508 compliant sites and strive to meet the latest Web Conte
 
 - [CivicActions Accessibility Site](https://accessibility.civicactions.com): Please visit and bookmark, it contains a wealth of information about open source and web accessibility.
 - [Drupal's Accessibility Landing Page](https://www.drupal.org/docs/getting-started/accessibility)
-- [W3C's WCAG 2 Overview](http://www.w3.org/WAI/intro/wcag)
+- [W3C's WCAG 2 Overview](https://www.w3.org/WAI/intro/wcag)
