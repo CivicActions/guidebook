@@ -16,11 +16,11 @@ Please remember:
 
 An incident is any actual or potential threat to the Confidentiality, Integrity, or Availability (CIA) of CivicActions or client systems and data.
 
-| Pillar | Means | Examples |
-|---|---|---|
-| **Confidentiality** | Secrets are exposed | PII leak, shared passwords, elevated unknown user on a site, public Google doc that should be private |
-| **Integrity** | Data or systems are altered unexpectedly | Deleted backups, defaced web page, missing logs, unauthorized code change |
-| **Availability** | A production service is unexpectedly down or degraded | App outage, pages failing to update, service running significantly slower than expected |
+| Pillar              | Means                                                 | Examples                                                                                              |
+| ------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Confidentiality** | Secrets are exposed                                   | PII leak, shared passwords, elevated unknown user on a site, public Google doc that should be private |
+| **Integrity**       | Data or systems are altered unexpectedly              | Deleted backups, defaced web page, missing logs, unauthorized code change                             |
+| **Availability**    | A production service is unexpectedly down or degraded | App outage, pages failing to update, service running significantly slower than expected               |
 
 Not every incident is security-related; some are operational (a full disk, a crashed service). We call them security incidents because they _might_ be, and we'd rather find out.
 
@@ -37,15 +37,16 @@ Time is critical - the SIRT will initiate the [Incident Response Plan](incident-
 ### How to report
 
 1. **Post in [`#loving-security`](https://civicactions.slack.com/messages/loving-security/)** using `@security` to notify the SIRT. Include:
-   - What you observed and when
-   - What systems or data may be affected
-   - What actions you've already taken (if any)
 
-2. **Wait for acknowledgment** - a Responder should reply within 15 minutes. If the issue seems serious, stay available until someone confirms they've picked it up.
+    - What you observed and when
+    - What systems or data may be affected
+    - What actions you've already taken (if any)
 
-3. **No response after 15 minutes?** Email [security@civicactions.com](mailto:security@civicactions.com) with _Security Incident_ in the subject line.
+1. **Wait for acknowledgment** - a Responder should reply within 15 minutes. If the issue seems serious, stay available until someone confirms they've picked it up.
 
-4. **Project-specific incident?** Also post in your project Slack channel with `@security` so your Project Manager is looped in.
+1. **No response after 15 minutes?** Email [security@civicactions.com](mailto:security@civicactions.com) with _Security Incident_ in the subject line.
+
+1. **Project-specific incident?** Also post in your project Slack channel with `@security` so your Project Manager is looped in.
 
 After reporting, **follow the Responder's lead** - they may ask you to preserve evidence, provide more detail, or to stand by.
 
