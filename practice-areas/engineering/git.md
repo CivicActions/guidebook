@@ -264,6 +264,14 @@ If you don't already have an SSH key, generate one:
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
+When prompted, set a **strong passphrase** to protect your private key. To avoid re-entering the passphrase on every use, cache the key in your SSH agent:
+
+```shell
+ssh-add ~/.ssh/id_ed25519
+```
+
+On macOS, use `ssh-add --apple-use-keychain ~/.ssh/id_ed25519` to persist the key across reboots via the system Keychain.
+
 #### Add your SSH key to Github and Gitlab as a signing key
 
 SSH keys must be added **specifically as a signing key**, not just as an authentication key.
