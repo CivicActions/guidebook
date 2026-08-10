@@ -157,15 +157,19 @@ Here is a recommended Git configuration block that it is recommended to add to y
 
 ## Commit signing
 
-Commit signing allows for identification and non-repudiation of individual commits to repositories in both Github and Gitlab. It improves security of our repositories by ensuring we know who made changes. The following instructions describe how to create a new GPG keypair, associate it with your Github and Gitlab accounts, and enable commit signing by default with Git.
+Commit signing allows for identification and non-repudiation of individual commits to repositories in both Github and Gitlab. It improves security of our repositories by ensuring we know who made changes.
 
-### Creating a new GPG key
+Git supports two methods for signing commits: **GPG keys** and **SSH keys**. Either is acceptable. SSH key signing is simpler to set up if you already have an SSH key configured for authentication.
 
-Note: It is possible to use an SSH keypair to sign commits, but these instructions cover using GPG keys.
+---
+
+### Option 1: Sign commits with a GPG key
+
+#### Creating a new GPG key
 
 Follow the instructions for [setting up GnuPG](../../common-practices-tools/security/gnupg.md) to create a new GPG key.
 
-### Add your GPG key to Github and Gitlab
+#### Add your GPG key to Github and Gitlab
 
 Get the ascii version of the public key that corresponds to our secret key and paste the public key block into Github and Gitlab. Copy from the "BEGIN PGP..." header to "END PGP..." footer.
 
@@ -173,7 +177,7 @@ Add to your [Gitlab User Settings -> GPG Keys](https://git.civicactions.net/-/pr
 
 Add to your [Github Settings -> SSH and GPG Keys](https://github.com/settings/keys).
 
-### Configure Git to sign commits
+#### Configure Git to sign commits with GPG
 
 [Telling Git about your signing key - GitHub Docs](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key)
 
@@ -213,7 +217,7 @@ It will prompt for the GPG key passphrase before proceeding. The new commit on G
 A signed commit on Gitlab will look similar:
 ![Example Gitlab Signed Commit](../../assets/images/gitlab-signed-commit.png)
 
-### Configure gpg-agent to cache your private key passphrase
+#### Configure gpg-agent to cache your private key passphrase
 
 To make things easier, from the docs:
 
@@ -245,6 +249,60 @@ git commit -m 'rd-7609-stage-rsync-known-hosts-aide - test commit to show gpg si
 error: gpg failed to sign the data
 fatal: failed to write commit object
 ```
+
+---
+
+### Option 2: Sign commits with an SSH key
+
+SSH key signing requires Git 2.34 or later. It is a good choice if you already have an SSH key you use for authentication with GitHub or GitLab, since you can reuse the same key (or generate a dedicated signing key).
+
+#### Generate an SSH key (if needed)
+
+If you don't already have an SSH key, generate one:
+
+```shell
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+#### Add your SSH key to Github and Gitlab as a signing key
+
+SSH keys must be added **specifically as a signing key**, not just as an authentication key.
+
+Add to [Github Settings -> SSH and GPG Keys](https://github.com/settings/keys) — choose **"New signing key"** (not "New SSH key").
+
+Add to [Gitlab User Settings -> SSH Keys](https://git.civicactions.net/-/profile/keys) — set **Usage type** to "Signing" (or "Authentication & Signing").
+
+#### Configure Git to sign commits with SSH
+
+Tell Git to use SSH for signing:
+
+```shell
+git config --global gpg.format ssh
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
+git config --global commit.gpgsign true
+```
+
+Replace `~/.ssh/id_ed25519.pub` with the path to your public key if different.
+
+#### Create an allowed_signers file for local verification
+
+Git needs an `allowed_signers` file to verify SSH-signed commits locally:
+
+```shell
+# Create the file (add your own email and public key)
+echo "your_email@example.com $(cat ~/.ssh/id_ed25519.pub)" >> ~/.ssh/allowed_signers
+```
+
+Then point Git to it:
+
+```shell
+git config --global gpg.ssh.allowedSignersFile ~/.ssh/allowed_signers
+```
+
+#### References
+
+- [Signing commits with SSH keys - GitHub Docs](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification)
+- [Signing commits and tags with SSH keys - GitLab Docs](https://docs.gitlab.com/ee/user/project/repository/signed_commits/ssh.html)
 
 ## GitLab, GitHub, and Bitbucket
 
