@@ -57,7 +57,7 @@ _Else, if unsure this is a critical issue:_
 
 _If a critical issue or no help after 15 minutes:_
 
-4. Repost the above on [`#it-support`](https://civicactions.slack.com/messages/it-support/) and include the word “Incident” which will alert the Security Incident Response Team (SIRT).
+4. Repost the above on [`#it-support`](https://civicactions.slack.com/messages/it-support/) and include the word "Incident" which will alert the Security Incident Response Team (SIRT).
 
 _After reporting, follow the Responder's lead:_
 

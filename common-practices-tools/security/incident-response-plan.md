@@ -31,7 +31,7 @@ The person or non-human identity (NHI) that first observes what may be an incide
 
 Generally, raising the issue on the [#loving-security](https://civicactions.slack.com/messages/loving-security/) Slack channel will work. Use `@security` to trigger a Slack notification for the Security team.
 
-A critical issue can be raised on the [`#it-support`](https://civicactions.slack.com/messages/it-support/) channel by including the word “Incident”.
+A critical issue can be raised on the [`#it-support`](https://civicactions.slack.com/messages/it-support/) channel by including the word "Incident".
 
 _Responders_ should acknowledge within 15 minutes.
 
