@@ -18,7 +18,7 @@ Additionally, your laptop should lock (require a password to resume) on screen c
 
 A password manager enables you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At CivicActions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on other solutions.
 
-The password manager itself must be protected by a strong _memorized secret_ (this may be the only password you have to remember) as defined in the [Password Policy](../../company-policies/security.md#password-policy)
+The password manager itself must be protected by a strong _memorized secret_ (this may be the only password you have to remember) as defined in the [Password Policy](https://civicactions.atlassian.net/wiki/external/N2MyNWFjNGM5NGMyNDAwNDljOWQwYTljMzgyODBiOTA#Authentication-Requirements-%28MFA%29)
 
 ### LastPass
 

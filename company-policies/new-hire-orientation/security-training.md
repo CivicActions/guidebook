@@ -9,8 +9,8 @@ title: Security for everyone
 As a requirement for employment, every employee must review and acknowledge the [**CivicActions Security Policy**](../security.md) that includes:
 
 - [Acceptable Use Policy](../security.md#acceptable-use-policy)
-- [Access Policy](../security.md#access-policy)
-- [Password Policy](../security.md#password-policy)
+- [Access Policy](https://civicactions.atlassian.net/wiki/external/NWY2OTNkMTdjNWVhNDQyYWJiZTU2ZTViNThhNDIxMTE)
+- [Password Policy](https://civicactions.atlassian.net/wiki/external/N2MyNWFjNGM5NGMyNDAwNDljOWQwYTljMzgyODBiOTA#Authentication-Requirements-%28MFA%29)
 - [Server & Site Security](../../practice-areas/engineering/security-compliance.md#server-and-site-security)
 
 <!-- TODO: include link to digital document signing -->
