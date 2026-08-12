@@ -4,14 +4,15 @@ title: Incident response plan
 
 # CivicActions Security Incident Response Plan
 
-This Incident Response Plan (IRP) provides guidelines for managing an incident not covered by a client's incident response procedures and team. For most non-project-related incidents, see the [Security Incidents](incidents.md) page.
+_For how to report a non-project-related incident, see the [Security Incidents](incidents.md) page._
 
 ## Introduction
 
-This document describes the process that the CivicActions Security Incident Response Team (SIRT) follows when responding to security incidents and other disruptions that may affect the Confidentiality, Integrity, Availability (CIA) or Privacy of system resources and data. It explains:
+This Incident Response Plan (IRP) describes how the CivicActions Security Incident Response Team (SIRT) responds to security incidents and other disruptions - particularly those not covered by a client's own incident response procedures - that may affect the Confidentiality, Integrity, Availability (CIA), or Privacy of system resources and data. It explains:
 
-- roles and responsibilities during and after incidents
+- roles and responsibilities during and after incidents including handoff procedures
 - overview of the steps to follow for resolution
+- how to conduct a retrospective
 
 > _During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the SIRT to follow._
 
@@ -30,6 +31,8 @@ Individual and team roles are described below.
 The person or non-human identity (NHI) that first observes what may be an incident and reports the issue to the SIRT. The primary responsibility of the _Reporter_ is to ensure that a _Responder_ acknowledges receipt of the report.
 
 Generally, raising the issue on the [#loving-security](https://civicactions.slack.com/messages/loving-security/) Slack channel will work. Use `@security` to trigger a Slack notification for the Security team.
+
+A critical issue can be raised on the [`#it-support`](https://civicactions.slack.com/messages/it-support/) channel by including the word "Incident".
 
 _Responders_ should acknowledge within 15 minutes.
 
