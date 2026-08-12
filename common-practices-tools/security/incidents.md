@@ -53,7 +53,7 @@ _Else, if unsure this is a critical issue:_
     - What systems or data may be affected
     - What actions you've already taken (if any)
 
-     You can mention the `@security` group to explicitly notify its members.
+    You can mention the `@security` group to explicitly notify its members.
 
 _If a critical issue or no help after 15 minutes:_
 
