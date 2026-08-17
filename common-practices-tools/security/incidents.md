@@ -36,19 +36,32 @@ Time is critical - the SIRT will initiate the [Incident Response Plan](incident-
 
 ### How to report
 
-1. **Post in [`#loving-security`](https://civicactions.slack.com/messages/loving-security/)** using `@security` to notify the SIRT. Include:
+_Project-specific incident?_
 
+1. Follow project reporting guidelines and/or post in your project Slack channel or elsewhere.
+
+_Else, check if already reported:_
+
+2. Look at recent posts in [`#it-support`](https://civicactions.slack.com/messages/it-support/). If already reported and you have additional information, add it.
+
+_Else, if unsure this is a critical issue:_
+
+3. Post on [`#loving-security`](https://civicactions.slack.com/messages/loving-security/) first to obtain community-supported help. Include:
+
+    - What you did (e.g. clicked on a phishing link)
     - What you observed and when
     - What systems or data may be affected
     - What actions you've already taken (if any)
 
-1. **Wait for acknowledgment** - a Responder should reply within 15 minutes. If the issue seems serious, stay available until someone confirms they've picked it up.
+    You can mention the `@security` group to explicitly notify its members.
 
-1. **No response after 15 minutes?** Email [security@civicactions.com](mailto:security@civicactions.com) with _Security Incident_ in the subject line.
+_If a critical issue or no help after 15 minutes:_
 
-1. **Project-specific incident?** Also post in your project Slack channel with `@security` so your Project Manager is looped in.
+4. Repost the above on [`#it-support`](https://civicactions.slack.com/messages/it-support/) and include the word "Incident" which will alert the Security Incident Response Team (SIRT).
 
-After reporting, **follow the Responder's lead** - they may ask you to preserve evidence, provide more detail, or to stand by.
+_After reporting, follow the Responder's lead:_
+
+5. They may ask you to preserve evidence, provide more detail, or to stand by.
 
 ## Some common incident types
 
