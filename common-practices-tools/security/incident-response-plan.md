@@ -71,7 +71,7 @@ The _Communications Officer_ (CO) manages external communications with:
 
 - Management, developers, users, and anyone affected by the incident
 - Client or partner stakeholders (if applicable)
-   - Additional Project team members and/or the Product Owner
+    - Additional Project team members and/or the Product Owner
 - CivicActions Legal team, providing support if escalation is required to law enforcement or US-CERT
 
 ## Communication channels
@@ -79,17 +79,16 @@ The _Communications Officer_ (CO) manages external communications with:
 The _Incident Commander_ (IC) or the _Communications Officer_ (if one exists) determines the most appropriate communication channels during incident response. Any of the following may be used:
 
 - **Live text permanent recording** - necessary to document discovery, assessment, remediation as it happens
-   - Slack channel [`#loving-security`](https://civicactions.slack.com/messages/loving-security/) or a dedicated incident channel (for example, `#itsm-1604-shai-hulud-remediation`).
-   - Google Chat (link in sidebar of Gmail)
-   - Shared Google doc (link posted so all reporters/responders can view and edit)
+    - Slack channel [`#loving-security`](https://civicactions.slack.com/messages/loving-security/) or a dedicated incident channel (for example, `#itsm-1604-shai-hulud-remediation`).
+    - Google Chat (link in sidebar of Gmail)
+    - Shared Google doc (link posted so all reporters/responders can view and edit)
 - **Realtime video** - recommended for collaboration
-   - Video: Zoom (preferred), Google Meet, Slack Huddle (If possible, create a transcript or record the call for documentation purposes.)
+    - Video: Zoom (preferred), Google Meet, Slack Huddle (If possible, create a transcript or record the call for documentation purposes.)
 - **Email if all else fails**
-   - To relevant stakeholders
-   - To [security@civicactions.com](mailto:security@civicactions.com).
+    - To relevant stakeholders
+    - To [security@civicactions.com](mailto:security@civicactions.com).
 - **Final incident documentation** - includes retrospective
-   - A Jira ticket or Github/Gitlab issue for the incident (if applicable) with links to other documents as needed.
-
+    - A Jira ticket or Github/Gitlab issue for the incident (if applicable) with links to other documents as needed.
 
 ## Severity at a glance
 
