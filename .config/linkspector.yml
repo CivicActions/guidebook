@@ -8,6 +8,7 @@ ignorePatterns:
   - pattern: "^https://docs.google.com/.*"
   - pattern: "^https://app.skills-base.com/.*"
   - pattern: "^https://identity.trinet.com/.*"
+  - pattern: "^https://civicactions.slack.com"
   - pattern: "^https://civicactions.slack.com/.*"
   # NOTE: Unreliable sites below
   - pattern: "^https://linux.die.net/.*"
