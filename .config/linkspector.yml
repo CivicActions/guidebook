@@ -8,6 +8,8 @@ ignorePatterns:
   - pattern: "^https://docs.google.com/.*"
   - pattern: "^https://app.skills-base.com/.*"
   - pattern: "^https://identity.trinet.com/.*"
+  - pattern: "^https://civicactions.slack.com"
+  - pattern: "^https://civicactions.slack.com/.*"
   # NOTE: Unreliable sites below
   - pattern: "^https://linux.die.net/.*"
   - pattern: "^https://www.congress.gov/.*"
@@ -16,3 +18,4 @@ ignorePatterns:
   - pattern: "^https://.*ecosia.org/.*"
   - pattern: "^https://www.w3.org/.*"
   - pattern: "^https://explore.zoom.us/.*"
+  - pattern: "^https://github.com/.*"

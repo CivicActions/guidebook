@@ -10,7 +10,7 @@ All engineers understand and abide by the [CivicActions Information Security Pol
 
 We follow the _Principle of Least Privilege_: an entity (person or process) must be able to access only the information and resources that are necessary for its legitimate purpose.
 
-We ensure that all [confidential information](../../company-policies/security.md#confidential-information-agreement) associated with a project (such as databases, database dumps, performance work statements (PWS) and other files) are managed securely and deleted when the need to know lapses.
+We ensure that all [confidential information](https://civicactions.atlassian.net/wiki/external/NjBiYWQ4MmQ4M2Q3NGIzNTg3NTI1YTFiMGIzOThlNzg) associated with a project (such as databases, database dumps, performance work statements (PWS) and other files) are managed securely and deleted when the need to know lapses.
 
 ## Server and site security
 
@@ -75,7 +75,7 @@ Privileged account holders (Drupal, Moodle, Ilias, GNU/Linux SSH, etc.) must:
 SSH public/private key pairs are used to access CivicActions and client servers and services we use.
 
 - RSA keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
-- The private key must be protected with a passphrase that adheres to the CivicActions [Password Policy](../../company-policies/security.md#password-policy)
+- The private key must be protected with a passphrase that adheres to the CivicActions [Password Policy](https://civicactions.atlassian.net/wiki/external/N2MyNWFjNGM5NGMyNDAwNDljOWQwYTljMzgyODBiOTA#Authentication-Requirements-%28MFA%29)
 - Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
 - Private key files should be kept in as few places as possible, and never on external servers
 - If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident) immediately.
