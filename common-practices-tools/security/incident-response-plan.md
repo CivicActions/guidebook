@@ -4,14 +4,15 @@ title: Incident response plan
 
 # CivicActions Security Incident Response Plan
 
-This Incident Response Plan (IRP) provides guidelines for managing an incident not covered by a client's incident response procedures and team. For most non-project-related incidents, see the [Security Incidents](incidents.md) page.
+_For how to report a non-project-related incident, see the [Security Incidents](incidents.md) page._
 
 ## Introduction
 
-This document describes the process that the CivicActions Security Incident Response Team (SIRT) follows when responding to security incidents and other disruptions that may affect the Confidentiality, Integrity, Availability (CIA) or Privacy of system resources and data. It explains:
+This Incident Response Plan (IRP) describes how the CivicActions Security Incident Response Team (SIRT) responds to security incidents and other disruptions - particularly those not covered by a client's own incident response procedures - that may affect the Confidentiality, Integrity, Availability (CIA), or Privacy of system resources and data. It explains:
 
-- roles and responsibilities during and after incidents
+- roles and responsibilities during and after incidents including handoff procedures
 - overview of the steps to follow for resolution
+- how to conduct a retrospective
 
 > _During an incident, the [IRP checklist](incident-response-checklist.md) may be more useful as it contains bulleted, actionable items for the SIRT to follow._
 
@@ -31,6 +32,8 @@ The person or non-human identity (NHI) that first observes what may be an incide
 
 Generally, raising the issue on the [#loving-security](https://civicactions.slack.com/messages/loving-security/) Slack channel will work. Use `@security` to trigger a Slack notification for the Security team.
 
+A critical issue can be raised on the [`#it-support`](https://civicactions.slack.com/messages/it-support/) channel by including the word "Incident".
+
 _Responders_ should acknowledge within 15 minutes.
 
 ### Responder
@@ -45,7 +48,7 @@ A _Responder_ is generally a member of the CivicActions SIRT who investigates an
 During incident response, _Responders_ do the following:
 
 - Assume primary responsibility for the [Assess](#4-assess-the-incident) and [Remediate](#5-remediate) steps.
-- Document in real time the measurements, theories, and steps taken using a shared medium like Slack or a Google doc.
+- Document in real time the measurements, theories, and steps taken using a shared medium (see [Communication Channels](#communication-channels)).
 - Designate an _Incident Commander_ (IC), if the incident might require more than 15-30 minutes to resolve, and do an [explicit handoff](#explicit-handoff-ceremony).
 
 ### Incident Commander
@@ -56,13 +59,9 @@ The _Incident Commander_ (IC) ideally remains uninvolved in remediation efforts,
 
     - Includes team members who are capable of containing, investigating, and remediating the incident.
     - Remains focused on resolving the incident.
-    - Uses the most appropriate media/communication channels for recording actions. During business hours, _Incident Commander_ (IC) may create a dedicated Slack channel (for example, `#fire-team`) for SIRT communications.
     - Defines and enforces work shifts if the incident lasts longer than 3 hours.
 
-1. Documentation, including all actions taken during investigation and remediation, using the following methods:
-
-    - Designated Slack or other communications channel
-    - Project JIRA ticket or Gitlab issue (if applicable)
+1. Documentation of all actions taken during investigation and remediation, using the most appropriate [communication channels](#communication-channels) for recording actions.
 
 1. Communication, ensuring that internal and external entities stay informed. For communication duties, the _Incident Commander_ (IC) may designate a _Communications Officer_ (CO) and do an [explicit handoff](#explicit-handoff-ceremony) for those duties.
 
@@ -71,18 +70,25 @@ The _Incident Commander_ (IC) ideally remains uninvolved in remediation efforts,
 The _Communications Officer_ (CO) manages external communications with:
 
 - Management, developers, users, and anyone affected by the incident
-- Client stakeholders (if applicable)
-- Additional Project team members and/or the Product Owner (if applicable)
+- Client or partner stakeholders (if applicable)
+    - Additional Project team members and/or the Product Owner
 - CivicActions Legal team, providing support if escalation is required to law enforcement or US-CERT
 
 ## Communication channels
 
 The _Incident Commander_ (IC) or the _Communications Officer_ (if one exists) determines the most appropriate communication channels during incident response. Any of the following may be used:
 
-- Slack channel [`#loving-security`](https://civicactions.slack.com/messages/loving-security/) or a dedicated Slack channel (for example, `#fire-team`).
-- A JIRA ticket or Github/Gitlab issue for the incident (if applicable) will be the final location for all incident reporting, with links to other documents as needed.
-- Video conference: Zoom, Slack Huddle, Google Meet, etc. (Be sure to record the call for documentation purposes.)
-- Email to [security@civicactions.com](mailto:security@civicactions.com).
+- **Live text permanent recording** - necessary to document discovery, assessment, remediation as it happens
+    - Slack channel [`#loving-security`](https://civicactions.slack.com/messages/loving-security/) or a dedicated incident channel (for example, `#itsm-1604-shai-hulud-remediation`).
+    - Google Chat (link in sidebar of Gmail)
+    - Shared Google doc (link posted so all reporters/responders can view and edit)
+- **Realtime video** - recommended for collaboration
+    - Video: Zoom (preferred), Google Meet, Slack Huddle (If possible, create a transcript or record the call for documentation purposes.)
+- **Email if all else fails**
+    - To relevant stakeholders
+    - To [security@civicactions.com](mailto:security@civicactions.com).
+- **Final incident documentation** - includes retrospective
+    - A Jira ticket or Github/Gitlab issue for the incident (if applicable) with links to other documents as needed.
 
 ## Severity at a glance
 

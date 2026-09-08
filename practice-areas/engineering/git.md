@@ -53,7 +53,7 @@ _Note: your project may include other code review practices. Please review your 
 ### Git best practice resources
 
 - <https://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/>
-- <https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/>
+- <https://about.gitlab.com/blog/keeping-git-commit-history-clean/>
 
 ## Code review
 
