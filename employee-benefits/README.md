@@ -24,9 +24,8 @@ We offer comprehensive medical, dental, and vision coverage for US employees and
 - **Medical Insurance:** Choice of health plans designed to fit different needs and budgets.
 - **Dental & Vision Care:** Coverage for preventive care, basic/major services, and vision hardware.
 - **Tax-Advantaged Accounts:** Flexible Spending Accounts (FSA) and Health Savings Accounts (HSA) options depending on plan election.
-
-**Enrolling & Managing Benefits:** Manage your plan enrollments, view pay stubs, and update personal information via [Rippling](https://app.rippling.com/insurance/employee/US/overview/home).\
-**Detailed Coverage Docs & Carrier Info:** Find provider networks, plan summaries, and claims resources on the [Acrisure Benefits Portal](https://mybenefits.cc/civicactions/).
+- **Enrolling & Managing Benefits:** Manage your plan enrollments, view pay stubs, and update personal information via [Rippling](https://app.rippling.com/insurance/employee/US/overview/home).
+- **Detailed Coverage Docs & Carrier Info:** Find provider networks, plan summaries, and claims resources on the [Acrisure Benefits Portal](https://mybenefits.cc/civicactions/).
 
 ---
 
@@ -37,9 +36,8 @@ To support long-term security, CivicActions provides income protection and retir
 - **Short-Term & Long-Term Disability (STD / LTD):** Coverage providing income protection in the event of an extended illness or injury.
 - **Life & AD&D Insurance:** Company-provided life and accidental death & dismemberment coverage, with options for supplemental voluntary coverage.
 - **401(k) Retirement Plan:** Savings options to help you plan for your financial future.
-
-**View Medical Plan Documents & Beneficiary Details:** Check your enrollment status on [Rippling](https://app.rippling.com/insurance/employee/US/overview/home)).
-**View 401k Plan Documents, Funds & Beneficiary Details:** Check your enrollment status on [July Services](https://401k.julyservices.com/).
+- **View Medical Plan Documents & Beneficiary Details:** Check your enrollment status on [Rippling](https://app.rippling.com/insurance/employee/US/overview/home).
+- **View 401k Plan Documents, Funds & Beneficiary Details:** Check your enrollment status on [July Services](https://401k.julyservices.com/).
 
 ---
 
