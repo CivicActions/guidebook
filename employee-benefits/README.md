@@ -1,4 +1,3 @@
----
 # Employee Benefits (US Employees)
 
 CivicActions offers a comprehensive benefits package designed to support our team members' well-being, health, and work-life balance.
