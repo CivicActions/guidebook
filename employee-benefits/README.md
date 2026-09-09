@@ -2,7 +2,7 @@
 
 CivicActions offers a comprehensive benefits package designed to support our team members' well-being, health, and work-life balance.
 
-## For complete details, coverage specifics, and policy documents, please refer to our official policy resources linked below.
+For complete details, coverage specifics, and policy documents, please refer to our official policy resources linked below.
 
 ## Flexible Time Off & Leave Policies
 
