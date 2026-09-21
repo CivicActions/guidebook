@@ -11,7 +11,7 @@ The following offers a brief and necessarily incomplete overview of a few FOSS t
 
 For some background on how encryption can protect your privacy, see [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work), and [Surveillance Self-Defense](https://ssd.eff.org/en) tutorial, as provided by your friends at the [Electronic Frontier Foundation](https://www.eff.org/). \[[Donate!](https://supporters.eff.org/donate/)\]
 
-Finally, keep an eye out for anti-encryption bills such as [Burr-Feinstein](https://www.techdirt.com/articles/20160527/08343534565/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon.shtml) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://duckduckgo.com/?q=anti-encryption%2Bbill&ia=web)) and be prepared to take action when they resurface to protect your rights to privacy and security.
+Finally, keep an eye out for anti-encryption bills such as [Burr-Feinstein](https://www.techdirt.com/2016/05/31/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon/) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://duckduckgo.com/?q=anti-encryption%2Bbill&ia=web)) and be prepared to take action when they resurface to protect your rights to privacy and security.
 
 ## GNU Privacy Guard (GPG)
 
@@ -48,8 +48,7 @@ We recommend [Signal.org](https://signal.org/), which is free (and open source).
 
 - [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
 - [Privacy Friendly Search](https://info.ecosia.org/privacy) and more
-- [5 Quick And Easy Ways To Encrypt Your Life Safely In Less Than An Hour](https://www.lifehack.org/562648/5-quick-and-easy-way-encrypt-your-life-safely) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+- [5 Quick And Easy Ways To Encrypt Your Life Safely In Less Than An Hour](https://www.lifehack.org/562648/5-quick-and-easy-way-encrypt-your-life-safely) (includes Tor Browser and [DuckDuckGo](https://duckduckgo.com/))
 - [The ultimate guide to privacy on Android](https://www.computerworld.com/article/3545530/ultimate-guide-to-privacy-on-android.html)
 - [16 Practical Privacy Tips for Your iPhone](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)
-- [Tails - the amnesic incognito live system](https://tails.boum.org/)
 - [Hardware that respects your freedom](https://ryf.fsf.org/) (Free Software Foundation)
