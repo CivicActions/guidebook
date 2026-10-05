@@ -133,7 +133,9 @@ def update_links_between_renamed_files(renames):
             old_relative, new_relative = calculate_relative_paths(
                 old_link, new_link, old
             )
-            new_content = replace_link(content, old_relative, new_relative)
+            # Build on the running result so every rename is applied, not just
+            # the last one.
+            new_content = replace_link(new_content, old_relative, new_relative)
 
         if content != new_content:
             print(f"Updated links between renamed files in {new}")
