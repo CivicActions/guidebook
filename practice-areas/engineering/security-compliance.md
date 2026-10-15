@@ -70,15 +70,15 @@ Privileged account holders (Drupal, Moodle, Ilias, GNU/Linux SSH, etc.) must:
 - Respect the privacy of site users, avoiding accessing personal data such as private messages
 - Employ [Multi-Factor Authentication (MFA)](../../common-practices-tools/security/README.md#use-multi-factor-authentication-mfa) to ensure access is granted only to authorized personnel.
 
-### Private keys
+### Secrets management
 
-SSH public/private key pairs are used to access CivicActions and client servers and services we use.
+We make use of the MacOS secure enclave so that secrets are not available in plain text files.
 
-- RSA keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
-- The private key must be protected with a passphrase that adheres to the CivicActions [Password Policy](https://civicactions.atlassian.net/wiki/external/N2MyNWFjNGM5NGMyNDAwNDljOWQwYTljMzgyODBiOTA#Authentication-Requirements-%28MFA%29)
-- Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
-- Private key files should be kept in as few places as possible, and never on external servers
-- If you suspect a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident) immediately.
+- For SSH key server access and [commit signing](./git.md#commit-signing), use [Secretive](https://civicactions.atlassian.net/wiki/external/NTk1NjkyMjkyN2ZmNGVlZmEzMzAzNGNjNTMwNjNkNzY).
+
+- For API Tokens, .env file key-value pairs and access credentials, use [keychain-cli](https://github.com/CivicActions/keychain-cli/blob/main/README.md).
+
+If you suspect a secret such as a private key file (or its passphrase) has been compromised, [report the incident](../../common-practices-tools/security/incidents.md#reporting-an-incident) immediately.
 
 ### IT Team specifics
 
