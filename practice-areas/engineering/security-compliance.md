@@ -74,7 +74,7 @@ Privileged account holders (Drupal, Moodle, Ilias, GNU/Linux SSH, etc.) must:
 
 We make use of the MacOS secure enclave so that secrets are not available in plain text files.
 
-- For SSH key server access and [commit signing](../git/#commit-signing), use [Secretive](https://civicactions.atlassian.net/wiki/external/NTk1NjkyMjkyN2ZmNGVlZmEzMzAzNGNjNTMwNjNkNzY).
+- For SSH key server access and [commit signing](./git/#commit-signing), use [Secretive](https://civicactions.atlassian.net/wiki/external/NTk1NjkyMjkyN2ZmNGVlZmEzMzAzNGNjNTMwNjNkNzY).
 
 - For API Tokens, .env file key-value pairs and access credentials, use [keychain-cli](https://github.com/CivicActions/keychain-cli/blob/main/README.md).
 
