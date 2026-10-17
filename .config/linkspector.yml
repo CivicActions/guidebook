@@ -19,3 +19,4 @@ ignorePatterns:
   - pattern: "^https://www.w3.org/.*"
   - pattern: "^https://explore.zoom.us/.*"
   - pattern: "^https://github.com/.*"
+  - pattern: "^https://www.techdirt.com/.*"
