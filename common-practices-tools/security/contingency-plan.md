@@ -80,7 +80,7 @@ meetings and SSO
 - **Service:** <https://civicactions.slack.com/> (SSO)
 - **Status:** <https://status.slack.com/>
 
-90% of CivicActons communications are via Slack.
+90% of CivicActions communications are via Slack.
 Primary incident communications will move to Zoom or Google Meet.
 
 ### Zoom
@@ -92,45 +92,45 @@ If Zoom is unavailable, use Google Meet.
 
 ### Iru
 
-- **Service:** https://civicactions.iru.com/
-- **Status:** https://status.kandji.io/
+- **Service:** <https://civicactions.iru.com/>
+- **Status:** <https://status.kandji.io/>
 
-### Atlassian: Conflence and Jira
+### Atlassian: Confluence and Jira
 
-- **Service:** https://civicactions.atlassian.net/wiki/home (SSO)
-- **Service:** https://civicactions.atlassian.net/jira (SSO)
-- **Status:** https://status.atlassian.com/
+- **Service:** <https://civicactions.atlassian.net/wiki/home> (SSO)
+- **Service:** <https://civicactions.atlassian.net/jira> (SSO)
+- **Status:** <https://status.atlassian.com/>
 
 ### GitHub
 
-- **Service:** https://github.com
-- **Status:** https://www.githubstatus.com/
+- **Service:** <https://github.com>
+- **Status:** <https://www.githubstatus.com/>
 
 Use local clones and patch files to continue work as needed.
 
 ### GitLab - Organization-managed, hosted on Google Cloud
 
-- **Service:** https://git.civicactions.net/ (SSO)
-- **Status:** https://status.cloud.google.com/
+- **Service:** <https://git.civicactions.net/> (SSO)
+- **Status:** <https://status.cloud.google.com/>
 
 Use local clones and patch files to continue work as needed.
 
 ### Unanet
 
-- **Service:** https://civicactions.unanet.biz/ (SSO)
-- **Status:** https://cosential.status.io/
+- **Service:** <https://civicactions.unanet.biz/> (SSO)
+- **Status:** <https://cosential.status.io/>
 
 Workaround: Google forms/sheets.
 
 ### Rippling
 
-- **Service:** https://app.rippling.com/dashboard/ (SSO)
-- **Status:** https://status.rippling.com/
+- **Service:** <https://app.rippling.com/dashboard/> (SSO)
+- **Status:** <https://status.rippling.com/>
 
 ### Culture Amp
 
-- **Service:** https://civicactions.cultureamp.com/ (SSO)
-- **Status:** https://status.cultureamp.com/posts/dashboard
+- **Service:** <https://civicactions.cultureamp.com/> (SSO)
+- **Status:** <https://status.cultureamp.com/posts/dashboard>
 
 ### StatusCake
 
