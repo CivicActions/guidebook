@@ -55,13 +55,17 @@ _Else, if unsure this is a critical issue:_
 
     You can mention the `@security` group to explicitly notify its members.
 
-_If a critical issue or no help after 15 minutes:_
+_If no help after 15 minutes:_
 
-4. Repost the above on [`#it-support`](https://civicactions.slack.com/messages/it-support/) and include the word "Incident" which will alert the Security Incident Response Team (SIRT).
+4. Repost the above on [`#it-support`](https://civicactions.slack.com/messages/it-support/) and include the word "Incident"
+
+_If a critical issue:_
+
+5. Call a member of the Security Incident Response Team (SIRT), see numbers in Slack or on the [SIRT Contact List](https://docs.google.com/spreadsheets/d/1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA/edit?usp=sharing)
 
 _After reporting, follow the Responder's lead:_
 
-5. They may ask you to preserve evidence, provide more detail, or to stand by.
+6. They may ask you to preserve evidence, provide more detail, or to stand by.
 
 ## Some common incident types
 

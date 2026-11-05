@@ -6,24 +6,24 @@ title: Contingency plan
 
 ## Applicability
 
-**Note:** This Contingency Plan applies only to systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each IRCP-managed system will have a specific, tailored version of this Contingency Plan or in some cases a completely unique Contingency Plan will be developed. All CivicActions employees are aware of the procedures outlined herein.
+**Note:** This Contingency Plan applies only to internal systems created and managed by CivicActions, or external systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each external IRCP-managed system will have a specific, tailored version of this Contingency Plan or in some cases a completely unique Contingency Plan will be developed.
 
 ## Overview
 
-This Contingency Plan provides baseline guidance for the CivicActions Security Incident Response Team (SIRT) when managing the disruption, compromise, or failure of any component of a CivicActions IRCP managed system, product or service ("system"). As a general guideline, we consider "disruption" to mean unexpected downtime or significantly reduced service lasting longer than:
+This Contingency Plan provides baseline guidance for the CivicActions Security Incident Response Team (SIRT) when managing the disruption, compromise, or failure of any component of a CivicActions IRCP managed system, product or service ("system"). As a general guideline, we consider "disruption" to include system data loss, improper privilege escalation, or unexpected downtime of key services lasting longer than:
 
 - 30 minutes 0900 - 2100 Eastern Time Monday through Friday (standard U.S. business hours)
 - 90 minutes at other times
 
-Scenarios where that could happen include unexpected downtime of key services, system data loss, or improper privilege escalation. In the case of a security incident, the team uses the [Security Incident Response Plan](incident-response-plan.md) as well.
-
-Some clients will create and maintain a Contingency Plan defining procedures specific to their system. In such a case, the client-specific Contingency Plan takes precedence.
+In the case of a security incident, the team uses the [Security Incident Response Plan](incident-response-plan.md) as well.
 
 ## Recovery objective
 
 More than 3 hours of any system being offline during standard U.S. business hours (0900 - 2100 Eastern Time) is considered unacceptable. Our objective is to recover from any significant problem (disruption, compromise, or failure) within that span of time.
 
 ## Contingency plan outline
+
+See also: [Disaster Recovery Plan](https://civicactions.atlassian.net/wiki/spaces/MGPOL/pages/915963911/Disaster+Recovery+Plan)
 
 ### Activation and notification
 
@@ -67,20 +67,70 @@ Once verification passes, the Incident Commander:
 
 CivicActions managed systems often depend on several external services. In the event one or more of these services has a long-term disruption, the SIRT will mitigate impact by following this plan. Zero or more of the following services may be involved:
 
+### Google Workspace
+
+- **Service:** <https://admin.google.com/?dn=civicactions.com>
+- **Status:** <https://www.google.com/appsstatus/dashboard/>
+
+CivicActions depends upon Google Workspace for document management,
+meetings and SSO
+
+### Slack
+
+- **Service:** <https://civicactions.slack.com/> (SSO)
+- **Status:** <https://status.slack.com/>
+
+90% of CivicActions communications are via Slack.
+Primary incident communications will move to Zoom or Google Meet.
+
+### Zoom
+
+- **Service:** <https://civicactions.zoom.us/> (SSO)
+- **Status:** <https://www.zoomstatus.com/>
+
+If Zoom is unavailable, use Google Meet.
+
+### Iru
+
+- **Service:** <https://civicactions.iru.com/>
+- **Status:** <https://status.kandji.io/>
+
+### Atlassian: Confluence and Jira
+
+- **Service:** <https://civicactions.atlassian.net/wiki/home> (SSO)
+- **Service:** <https://civicactions.atlassian.net/jira> (SSO)
+- **Status:** <https://status.atlassian.com/>
+
 ### GitHub
 
 - **Service:** <https://github.com>
 - **Status:** <https://www.githubstatus.com/>
 
-If GitHub becomes unavailable, systems will continue to operate in its current state. The
-disruption would only impact the team's ability to update code on the instances.
+Use local clones and patch files to continue work as needed.
 
-### GitLab
+### GitLab - Organization-managed, hosted on Google Cloud
 
-- **Service:** <https://git.civicactions.net/>
-- **Status:** <https://app.statuscake.com/UptimeStatus.php?tid=1702974>
+- **Service:** <https://git.civicactions.net/> (SSO)
+- **Status:** <https://status.cloud.google.com/>
 
-If GitLab becomes unavailable, systems will continue to operate in their current state. The disruption would impact the team's ability to update code on the instances, which could have significant impact.
+Use local clones and patch files to continue work as needed.
+
+### Unanet
+
+- **Service:** <https://civicactions.unanet.biz/> (SSO)
+- **Status:** <https://cosential.status.io/>
+
+Workaround: Google forms/sheets.
+
+### Rippling
+
+- **Service:** <https://app.rippling.com/dashboard/> (SSO)
+- **Status:** <https://status.rippling.com/>
+
+### Culture Amp
+
+- **Service:** <https://civicactions.cultureamp.com/> (SSO)
+- **Status:** <https://status.cultureamp.com/posts/dashboard>
 
 ### StatusCake
 
@@ -94,28 +144,6 @@ If there is a disruption in the StatusCake service, the SIRT will be notified by
 - **Status:** <https://status.opsgenie.com/>
 
 If there is a disruption in the OpsGenie service, all alerts automatically get delivered to the SIRT via email.
-
-### Slack
-
-- **Service:** <https://civicactions.slack.com/>
-- **Status:** <https://status.slack.com/>
-
-There is no direct impact to the platform if a disruption occurs, thugh 90% of CivicActons communications are via Slack.
-Primary incident communications will move to Zoom or Google Meet.
-
-### Zoom
-
-- **Service:** <https://civicactions.zoom.us/>
-- **Status:** <https://www.zoomstatus.com/>
-
-There is no direct impact to the platform if a disruption occurs.
-
-### Google Workspace
-
-- **Service:** <https://admin.google.com/?dn=civicactions.com>
-- **Status:** <https://www.google.com/appsstatus/dashboard/>
-
-CivicActions depends upon Google Workspace.
 
 ### AWS
 
