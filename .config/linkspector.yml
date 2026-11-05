@@ -20,3 +20,4 @@ ignorePatterns:
   - pattern: "^https://explore.zoom.us/.*"
   - pattern: "^https://github.com/.*"
   - pattern: "^https://www.techdirt.com/.*"
+  - pattern: "^https://opensource.org/.*"
