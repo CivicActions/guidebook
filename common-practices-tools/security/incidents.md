@@ -61,8 +61,7 @@ _If no help after 15 minutes:_
 
 _If a critical issue:_
 
-5. Call a member of the Security Incident Response Team (SIRT), see
-numbers in Slack or on the [SIRT Contact List](https://docs.google.com/spreadsheets/d/1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA/edit?usp=sharing)
+5. Call a member of the Security Incident Response Team (SIRT), see numbers in Slack or on the [SIRT Contact List](https://docs.google.com/spreadsheets/d/1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA/edit?usp=sharing)
 
 _After reporting, follow the Responder's lead:_
 
