@@ -171,8 +171,8 @@ This is assuming you are the owner or a maintainer on the project.
 
 Please ensure the following is done if you are no longer interested in owning/maintaining the project or are leaving CA:
 
-- Other CA team member(s) are listed as maintainers on the project with full permissions
-- The team member(s) are informed
+- Other CA team member(s) or community member(s) are listed as maintainers on the project with full permissions
+- The maintainers are informed
 - You have created a succession plan to hand off the project responsibilities to others
 - The client that uses the project has been informed including details of the succession plan
 
@@ -183,6 +183,11 @@ If you are leaving CA but are still wanting to continue to maintain and own the 
 To transfer ownership follow the 'Transferring project ownership' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-transferring-project-ownership).
 
 If you do not have access to change maintainers, then either ask other maintainers or follow the 'Adding new maintainers/co-maintainers' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-adding-new-maintainersco-maintainers).
+
+If you are handing off a project that you have not supported or maintained in a while and has other maintainers listed, consider the following options:
+
+- If the project is active, follow the steps above to hand of the project to them explicitly if desired
+- If the project seems inactive, check-in with them if it is still active and if not active then ask them whether it can be retired (follow the retirement of the project steps in the next section)
 
 ## Retirement of the project
 
