@@ -185,6 +185,7 @@ To transfer ownership follow the 'Transferring project ownership' directions at 
 If you do not have access to change maintainers, then either ask other maintainers or follow the 'Adding new maintainers/co-maintainers' directions at [Finding a new project owner or new maintainers/co-maintainers](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers#s-adding-new-maintainersco-maintainers).
 
 If you are handing off a project that you have not supported or maintained in a while and has other maintainers listed, consider the following options:
+
 - If the project is active, follow the steps above to hand of the project to them explicitly if desired
 - If the project seems inactive, check-in with them if it is still active and if not active then ask them whether it can be retired (follow the retirement of the project steps in the next section)
 
