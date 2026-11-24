@@ -2,7 +2,7 @@ dirs:
   - .
 useGitIgnore: true
 ignorePatterns:
-  # NOTE: Sites with captcha protection below
+  # NOTE: Sites with captcha or similar protection below
   - pattern: "^https://.*drupal.org/.*"
   # NOTE: Sites with authentication below
   - pattern: "^https://docs.google.com/.*"
@@ -21,3 +21,4 @@ ignorePatterns:
   - pattern: "^https://github.com/.*"
   - pattern: "^https://www.techdirt.com/.*"
   - pattern: "^https://opensource.org/.*"
+  - pattern: "^https://leaders.centercentre.com/.*"
